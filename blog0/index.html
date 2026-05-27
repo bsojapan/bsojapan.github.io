@@ -4,8 +4,8 @@ title: 記事一覧
 <ul>
 {% for post in site.posts %}
 <li>
-<span> {{ page.date | date: "%Y-%m-%d"  }} </span> --
-  <a href="{{post.url}}" > articl: {{ page.title }} </a>
+<span> {{ post.date | date: "%Y-%m-%d"  }} </span> --
+  <a href="{{post.url}}" > articl: {{ post.title }} </a>
   (category: {{ post.category }})
 </li>
 {% endfor %}
