@@ -1,4 +1,5 @@
 YAML
-
+---
 title: webcateyes
 permalink: /blog0/:year/:month/:day/:title
+---
