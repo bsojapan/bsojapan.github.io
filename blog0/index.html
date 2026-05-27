@@ -6,7 +6,7 @@ title: 一覧
 {% for post in site.posts %}
 <li>
 <span>{{post.date |date:"%Y-%m-%d" }}</span> --
-  <a href="{{post.url}}">{{post.title}}</a>a>
+  <a href="{{post.url}}">{{post.title}}</a>
   (category: {{ post.category }})
 </li>
 {% endfor %}
