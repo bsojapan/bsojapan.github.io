@@ -4,7 +4,7 @@ title: 記事一覧
 <ul>
 {% for post in site.posts %}
 <li>
-<span> {{ post.date | date: "%Y-%m-%d"  }} </span> --
+<span> {{ page.date | date: "%Y-%m-%d"  }} </span> --
   <a href="{{post.url}}" > articl: {{ page.title }} </a>
   (category: {{ post.category }})
 </li>
