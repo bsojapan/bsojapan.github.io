@@ -3,4 +3,4 @@ title:    page title
 permalink: /blog0/:year/:month/:day/:title
 ---
 bsojapan initial page
-{blog list}(https://blog0/index.html)
+{blog list}(https://bsojapan,github.io/blog0/index.html)
