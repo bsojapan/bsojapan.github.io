@@ -1,3 +1,27 @@
 ---
 ---
 /*.  */
+/* 明朝体（高級感・和風・上品な印象） */
+.site-title {
+  font-family: "Great Vibes", "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+}
+
+/* 2. その上で、大潮流に負けない設定をここに追記します */
+body {
+  background-color: #000040 !important;
+  color: #ffffff !important;
+}
+
+.site-title {
+  color: #ffffff !important; /* 見やすい青などに */
+}
+
+/* リンクの通常時の色 */
+a {
+  color: #ccccff; /* 青色 */
+  /*text-decoration: underline; */ /* 下線を引く */
+}
+.hover {
+  color: #ffaaaa; /* オレンジや赤色など */
+  text-decoration: none; /* 下線を消す（任意） */
+}
