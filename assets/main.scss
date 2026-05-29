@@ -1,0 +1,8 @@
+---
+# 空っぽでも、この点線（Front Matter）を2行書くのがJekyllのルールです
+---
+@import "minima"; // 元々のテーマのデザインを一度全部読み込む
+
+.site-header {
+  background-color: #f0f0f0; // 👈 例：ヘッダーの背景色をグレーに書き換える！
+}
