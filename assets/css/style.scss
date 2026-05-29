@@ -4,6 +4,11 @@
 /* 1. まず、大元のテーマのデザインをマニュアル通りに吸い込みます */
 @import "{{ site.theme }}";
 
+/* 明朝体（高級感・和風・上品な印象） */
+.site-title {
+  font-family: "Great Vibes", "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+}
+
 /* 2. その上で、大潮流に負けない設定をここに追記します */
 body {
   background-color: #000040 !important;
