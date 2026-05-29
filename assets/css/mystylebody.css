@@ -15,7 +15,7 @@ body {
 
 /* リンクの通常時の色 パステルブルー */
 a {
-  color: #f0f0ff; /* 青色 */
+  color: #ffffff; /* 青色 */
   /*text-decoration: underline; */ /* 下線を引く */
 }
 .hover {
