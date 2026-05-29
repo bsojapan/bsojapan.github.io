@@ -7,7 +7,7 @@
 /* 2. その上で、大潮流に負けない設定をここに追記します */
 body {
   background-color: #000040 !important;
- /* color: #ffffff !important;*/
+  color: #ffffff !important;
 }
 
 .site-title {
@@ -17,7 +17,7 @@ body {
 /* リンクの通常時の色 */
 a {
   color: #ccccff; /* 青色 */
-  text-decoration: underline; /* 下線を引く */
+  /*text-decoration: underline; */ /* 下線を引く */
 }
 .hover {
   color: #ffaaaa; /* オレンジや赤色など */
