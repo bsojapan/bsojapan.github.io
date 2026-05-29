@@ -8,7 +8,7 @@ title: "site top index.html for Blue Sky and Oceans"
 <link href="https://googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
 
 <!-- スタイルを適用するテキスト -->
-<h1 class="script-title">Blue sky and ocean</h1>
+<h1 class="script-title">Blue sky and oceans</h1>
 
 
 {{ page.title }}
