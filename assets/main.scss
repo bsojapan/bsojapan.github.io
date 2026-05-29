@@ -1,17 +1,16 @@
 ---
-# Minimal front matter for Jekyll processing
+# Independent design stylesheet
 ---
-@import "minima";
+
+body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
 
 .site-header {
   background-color: #1a1a1a !important;
   border-top: 5px solid #0056b3 !important;
   border-bottom: 1px solid #2d2d2d !important;
-}
-
-body {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
 }
 
 .site-footer {
