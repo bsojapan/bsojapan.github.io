@@ -7,4 +7,71 @@
   background-color: #f0f0f0; // 👈 例：ヘッダーの背景色をグレーに書き換える！
 }
 
-background-color: #111188;   //
+// ==========================================
+// 1. サイト全体の背景と文字（一番大きなルール）
+// ==========================================
+body {
+  background-color: #121212 !important; // 深い黒（少し柔らかめのダークグレー）
+  color: #e0e0e0 !important;            // 完全に眩しくない落ち着いた白
+}
+
+// ==========================================
+// 2. 看板（ヘッダー・フッター）と境界線の調整
+// ==========================================
+.site-header {
+  background-color: #1a1a1a !important; // ヘッダーは少し明るめの黒にして立体感を出す
+  border-top: 5px solid #0056b3 !important; // ヘッダー最上部の細い線（お好みの色に）
+  border-bottom: 1px solid #2d2d2d !important; // ヘッダー下部の境界線
+}
+
+.site-footer {
+  background-color: #1a1a1a !important; // フッターもヘッダーと同じトーンに
+  border-top: 1px solid #2d2d2d !important; // フッター上部の境界線
+  color: #a0a0a0 !important;            // フッターの文字は少し薄めのグレーに
+}
+
+// ==========================================
+// 3. タイトルとメニューリンク
+// ==========================================
+// サイトタイトル「Blue Sky and Oceans」
+.site-title {
+  color: #ffffff !important;            // タイトルは純粋な白に
+  &:hover {
+    color: #0088ff !important;          // マウスを乗せたときは少し明るいブルーに
+    text-decoration: none;
+  }
+}
+
+// 右上のメニューリンク「blogtop」など
+.site-nav .page-link {
+  color: #e0e0e0 !important;            // メニューの文字を白っぽく
+  &:hover {
+    color: #0088ff !important;          // マウスを乗せたとき
+  }
+}
+
+// ==========================================
+// 4. 記事一覧や本文中のリンク色
+// ==========================================
+a {
+  color: #0088ff !important;            // リンクの標準色を暗い背景でも目立つ鮮やかな青に
+  &:visited {
+    color: #9060ff !important;          // 訪問済みのリンクを少し紫寄りに
+  }
+  &:hover {
+    color: #33a3ff !important;          // ホバー時はさらに明るく
+    text-decoration: underline;         // 下線を引く
+  }
+}
+
+// ==========================================
+// 5. 箇条書き（ul/li）や見出しの線
+// ==========================================
+h1, h2, h3, h4 {
+  color: #ffffff !important;            // 見出しはくっきりした白に
+  border-bottom-color: #2d2d2d !important; // 見出しの下線の色を暗めに変更
+}
+
+ul {
+  border-color: #2d2d2d !important;     // リスト全体の枠線があれば暗く
+}
