@@ -6,5 +6,5 @@ mystydir: "/assets/css/"
 @import "{{ site.theme }}";
 
 /* @import "{{ mystydir }}mystylebody.css"; */
-@import "MystyleBody.css";
-@import "MystyleTitles.css";
+@import "MystyleBody";
+@import "MystyleTitles";
