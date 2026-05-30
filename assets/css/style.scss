@@ -4,6 +4,6 @@
 /* 1. まず、大元のテーマのデザインをマニュアル通りに吸い込みます */
 @import "{{ site.theme }}";
 
-/* @import "MystyleTitles"; */
+@import "MystyleTitles"; 
 
-@import "MystyleBody";
+/* @import "MystyleBody"; */
