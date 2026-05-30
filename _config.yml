@@ -3,4 +3,9 @@ title: "Blue Sky and Oceans"
 description: "ブログ"
 url: "https://bsojapan.github.io"
 permalink: /blog0/:year/:month/:day/:title.html
+theme: jekyll-theme-cayman
+sass:
+  sass_dir: _sass
 ---
+
+
