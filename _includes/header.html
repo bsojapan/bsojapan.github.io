@@ -2,8 +2,12 @@
  <a href="{{ site.url }}"> to {{ site.title  }} Top</a>
  
 
-[{{ site.title }}]{:.script-title}
-/*  {% capture my_header %}.  {% endcapture %}. */
+{% capture my_header %}
+[{{ site.title }}]({{ '/' | relative_url }}){:.script-title}
+{% endcapture %}
+
+{{ my_header | markdownify }}
+
 
 </header>
 
