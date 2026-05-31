@@ -1,3 +1,73 @@
+<style>
+  /* --- ベースのスタイル --- */
+.hover-cascade-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hover-cascade-nav a {
+  display: block;
+  padding: 12px 20px;
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #222222; /* メニューの背景色 */
+  white-space: nowrap;
+}
+
+.hover-cascade-nav a:hover {
+  background-color: #444444; /* ホバー時の背景色 */
+}
+
+/* --- 第1階層（起点ボタン） --- */
+.parent-menu {
+  position: relative;
+  display: inline-block; /* 横並びに配置 */
+}
+
+/* --- 第2階層（縦方向プルダウン） --- */
+.dropdown-content {
+  display: none; /* 初期状態は非表示 */
+  position: absolute;
+  top: 100%; /* 親ボタンの真下に配置 */
+  left: 0;
+  z-index: 100;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+}
+
+/* メインボタンをホバーしたら、第2階層を表示 */
+.parent-menu:hover .dropdown-content {
+  display: block;
+}
+
+/* --- 第3階層（右手に開く子・孫メニュー） --- */
+.has-child {
+  position: relative;
+}
+
+.sub-dropdown {
+  display: none; /* 初期状態は非表示 */
+  position: absolute;
+  top: 0;
+  left: 100%; /* 親メニューの「右手（100%右側）」に配置 */
+  z-index: 101;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+}
+
+/* 第2階層の項目をホバーしたら、第3階層を右手に表示 */
+.has-child:hover .sub-dropdown {
+  display: block;
+}
+
+/* 矢印を右端に寄せるための調整 */
+.has-child a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 200px; /* メニューの横幅を固定 */
+}
+</style>
+
 <nav class="hover-cascade-nav">
   <ul>
     <li class="parent-menu">
