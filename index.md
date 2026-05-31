@@ -2,7 +2,7 @@
 layout: default
 title: "site top index.html for Blue Sky and Oceans"
 ---
-
+<section>
 <!-- スタイルを適用するテキスト -->
 <p style=" text-align: center; ">=====</p>
 
@@ -14,10 +14,11 @@ Convenient access from the top menu or categories
 
 1/144 またはそれよりスモールスケールの
 航空機、宇宙器、Sci-Fi 宇宙船や陸海空の乗り物系模型のこじんまりしたサイト
-
-<p>
+</section>
+<section>
+<h3>
   Why are you so obsessed with such a small model?
-</p>
+<h3>
 <p style="margin: 0em 10em 2em 5em;text-align: justify;
   word-break: normal;
   overflow-wrap: break-word; /* または single-word */">
@@ -41,7 +42,9 @@ Because it's small, you can line up many types and appreciate them. Although the
 <\p>
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
 </p>
-<p>My personal interest link</p>
+</section>
+  <nav>
+  <h3>My personal interest link</h3>
 
 <!-- marginの「:」を修正し、各行の末尾に <br> を入れて改行させています -->
 <p style="no-indent;margin: 0em 10em 2em 5em; line-height: 1.8;">
@@ -53,5 +56,5 @@ This site is not for those looking for detailed models, but please take a look a
   <a href="https://gachashokumuse.xyz/">ガチャガチャと食玩のほぼ週刊一話</a><br>
   <a href="https://warp.ndl.go.jp/info:ndljp/pid/1165896/laird.fluid.energy.osakafu-u.ac.jp/Mworld/model-frameset0.html">国立国会図書館 archive モデルランド</a>
 </p>
-
+</nav>
 <p style=" text-align: center; ">=====</p>
