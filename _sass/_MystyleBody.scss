@@ -1,3 +1,4 @@
+/*大きな、レベルが上の、ボックス関係のスタイル*/
 a {
   color: #ddddff !important;
   background-color: #101060 !important;
@@ -19,19 +20,18 @@ main {
   margin:2pt 5% 10pt 10%;
 }/*（主要コンテンツ）*/
 /* 本文レベルの同レベル要素 */
-section{}/*（セクション）*/
-article{}/*（記事）*/
+section{margin:1em 5% 0.3em 5%;}/*（セクション）*/
+article{margin:1em 5% 0.3em 5%;}/*（記事）*/
 aside{}/*（サイドバー・補足）*/
-nav{}
+nav{margin:1em 5% 0.3em 5%;}
 div{}/*（汎用的なグループ化）*/
-
-blockquote{}
+blockquote{margin:1em 5% 0.3em 10%;}
 
 /* 文構造 *//* 本文レベルの同レベル要素 */
-h{}
+h{margin:1em 0% 0.3em 0%;}
 p {
-  matgine: 10px 15% 5px 20%;
+  margine: 0.5em 0% 0.2em 0em;
   text-indent: 1em;
 }
-
+.row {matgine: 10px 15% 5px 0.5em;}
 
