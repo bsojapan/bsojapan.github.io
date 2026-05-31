@@ -23,23 +23,24 @@ Convenient access from the top menu or categories
   word-break: normal;
   overflow-wrap: break-word; /* または single-word */">
   That's an important question. Scale modelers express the details of the actual aircraft and add various expressions through coloring. It is a creative hobby that leads to that path. However, even modelers with spacious living environments will find it difficult to gather their many historical footprints in one place. In Japan, we have a cramped living environment that is not found in other countries, as symbolized by the car import and export issue that has been repeated many times by successive American presidents who have no understanding of the situation. There, there is a breeding ground for totalitarian ideology caused by small housing. In other words, since a small residence is shared with a family, personal hobbies and collections should not affect the family. As a result, collectors tend to be shunned in Japan.
-<br>
+</p>
+  <p>
 The fact that ideas such as minimalism and decluttering have a certain amount of support in Japan may also create a sense of resistance to collecting.
 While there is a value of "mottainai" in Japan, there is also a strong negative image that "hoarding = not being able to organize" and "useless things". If the idea of ​​"waste" is strong, it may be difficult to understand the significance of actively collecting and preserving relics and materials from the past.
+</p>
 <p>
-<\p>
 In particular, industrial heritage sites are considered to be simply "old" or "in the way" once they have ceased operation, and the need for preservation is difficult to recognize.
 In contrast to Western countries, where technologies and products from the Industrial Revolution onward are considered historical heritage and there is an active movement to preserve and exhibit them. The roots of "otaku culture," which has been reevaluated around the world, may be found in such a place.
+</p>
 <p>
-<\p>
 Small buildings cluster around high-rise buildings, and small houses surround them further. Roads within residential areas are distinguished and called living roads and alleys, filling the space between main roads. Even main roads are filled with lanes and are full of many cars. That's why "kei cars" and "small cars" were born in Japan. Standard Western cars would usually not be able to reach their destination in the living area. For the majority of Japanese people, it's a request that has already become tired.
-<p>
 <\p>
+<p>
 That's why it's 1/144 scale.
-<br>
+</p>
+  <p>
 Because it's small, you can line up many types and appreciate them. Although the individual models are not very well-made, they exude a powerful presence as a group. They look better in a diorama than individually. Eight of them could fit in a 1/78 scale space.
-<p>
-<\p>
+<\p><p>
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
 </p>
 </section>
