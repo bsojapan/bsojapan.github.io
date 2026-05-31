@@ -29,17 +29,17 @@ That's why it's 1/144 scale.
 Because it's small, you can line up many types and appreciate them. Although the individual models are not very well-made, they exude a powerful presence as a group. They look better in a diorama than individually. Eight of them could fit in a 1/78 scale space.
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
 </p>
-<p>
-My personal interest link
-</p>
-<p style="margin: 5em 10em 5em 10em;">
-144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS
-イッチョンチョン飛行機(1/144th Airecrafts)
-大日本帝国軍 主要兵器 (Imperial Japanese Force Main Weapons)
-ノボランド(Nobo land)  空想科学航空宇宙博物館(Science Fiction Air and Space Museum)
-マニアじゃないけどメカ好き（I’m not maniac, but I like Mech.）
-ガチャガチャと食玩のほぼ週刊一話
-国立国会図書館 archive モデルランド
+<p>My personal interest link</p>
+
+<!-- marginの「:」を修正し、各行の末尾に <br> を入れて改行させています -->
+<p style="margin: 5em 10em 5em 10em; line-height: 1.8;">
+  <a href="https://www.facebook.com/groups/1583837641674521">144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS</a><br>
+  <a href="http://144air.ifdef.jp/">イッチョンチョン飛行機(1/144th Aircrafts)</a><br>
+  <a href="http://japanese-warship.com/">大日本帝国軍 主要兵器 (Imperial Japanese Force Main Weapons)</a><br>
+  <a href="http://noboland.web.fc2.com/index.htm">ノボランド(Nobo land) 空想科学航空宇宙博物館(Science Fiction Air and Space Museum)</a><br>
+  <a href="https://www.beach.jp/circle/ac40571">マニアじゃないけどメカ好き（I’m not maniac, but I like Mech.）</a><br>
+  <a href="https://gachashokumuse.xyz/">ガチャガチャと食玩のほぼ週刊一話</a><br>
+  <a href="https://warp.ndl.go.jp/info:ndljp/pid/1165896/laird.fluid.energy.osakafu-u.ac.jp/Mworld/model-frameset0.html">国立国会図書館 archive モデルランド</a>
 </p>
 
 <p style=" text-align: center; ">=====</p>
