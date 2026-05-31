@@ -13,18 +13,24 @@ body {   /* 最大のボックス*/
   color: #ffffff !important;            /* 目に優しい明度の文字 */
  font-family: "Times New Roman", Times, serif; 
 }
+header{}
+footer{}/*（ヘッダー / フッター）*/
 main {
   margin:2pt 5% 10pt 10%;
 }/*（主要コンテンツ）*/
+/* 本文レベルの同レベル要素 */
 section{}/*（セクション）*/
 article{}/*（記事）*/
 aside{}/*（サイドバー・補足）*/
-header{}
-footer{}/*（ヘッダー / フッター）*/
 nav{}
 div{}/*（汎用的なグループ化）*/
-/* 文構造 */
+
+blockquote{}
+
+/* 文構造 *//* 本文レベルの同レベル要素 */
+h{}
 p {
   matgine: 10px 15% 5px 20%;
 }
-blockquote{}
+
+
