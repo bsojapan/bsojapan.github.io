@@ -26,6 +26,7 @@ Convenient access from the top menu or categories
 The fact that ideas such as minimalism and decluttering have a certain amount of support in Japan may also create a sense of resistance to collecting.
 While there is a value of "mottainai" in Japan, there is also a strong negative image that "hoarding = not being able to organize" and "useless things". If the idea of ​​"waste" is strong, it may be difficult to understand the significance of actively collecting and preserving relics and materials from the past.
 
+
 In particular, industrial heritage sites are considered to be simply "old" or "in the way" once they have ceased operation, and the need for preservation is difficult to recognize.
 In contrast to Western countries, where technologies and products from the Industrial Revolution onward are considered historical heritage and there is an active movement to preserve and exhibit them. The roots of "otaku culture," which has been reevaluated around the world, may be found in such a place.
 
