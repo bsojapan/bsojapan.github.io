@@ -18,7 +18,7 @@ Convenient access from the top menu or categories
 <section>
 <h3>
   Why are you so obsessed with such a small model?
-<h3>
+</h3>
 <p style="margin: 0em 10em 2em 5em;text-align: justify;
   word-break: normal;
   overflow-wrap: break-word; /* または single-word */">
