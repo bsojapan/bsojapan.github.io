@@ -57,9 +57,8 @@ Because it's small, you can line up many types and appreciate them. Although the
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
 </p>
 </section>
-  <nav>
+<nav>
   <h3>My personal interest link</h3>
-
 <!-- marginの「:」を修正し、各行の末尾に <br> を入れて改行させています -->
 <p style="no-indent;margin: 0em 10em 2em 5em; line-height: 1.8;">
   <a href="https://www.facebook.com/groups/1583837641674521">144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS</a><br>
@@ -71,4 +70,3 @@ This site is not for those looking for detailed models, but please take a look a
   <a href="https://warp.ndl.go.jp/info:ndljp/pid/1165896/laird.fluid.energy.osakafu-u.ac.jp/Mworld/model-frameset0.html">国立国会図書館 archive モデルランド</a>
 </p>
 </nav>
-<p style=" text-align: center; ">=====</p>
