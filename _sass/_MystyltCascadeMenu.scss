@@ -1,0 +1,5 @@
+/* プルダウン内の項目にマウスが乗ったとき（ホバー時）の背景色と文字色 */
+.dropdown-item.custom-item:hover {
+  background-color: #801010 !important; /* 濃い赤 */
+  color: #ffdddd !important;             /* 薄い赤（ピンク） */
+}
