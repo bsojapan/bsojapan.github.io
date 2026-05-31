@@ -18,7 +18,7 @@ Convenient access from the top menu or categories
 <p>
   Why are you so obsessed with such a small model?
 </p>
-<p style="margin: 5em 10em 5em 10em;">
+<p style="margin: 0em 10em 2em 5em;">
   leads to that path. However, even modelers with spacious living environments will find it difficult to gather their many historical footprints in one place. In Japan, we have a cramped living environment that is not found in other countries, as symbolized by the car import and export issue that has been repeated many times by successive American presidents who have no understanding of the situation. There, there is a breeding ground for totalitarian ideology caused by small housing. In other words, since a small residence is shared with a family, personal hobbies and collections should not affect the family. As a result, collectors tend to be shunned in Japan.
 The fact that ideas such as minimalism and decluttering have a certain amount of support in Japan may also create a sense of resistance to collecting.
 While there is a value of "mottainai" in Japan, there is also a strong negative image that "hoarding = not being able to organize" and "useless things". If the idea of ​​"waste" is strong, it may be difficult to understand the significance of actively collecting and preserving relics and materials from the past.
@@ -32,7 +32,7 @@ This site is not for those looking for detailed models, but please take a look a
 <p>My personal interest link</p>
 
 <!-- marginの「:」を修正し、各行の末尾に <br> を入れて改行させています -->
-<p style="margin: 5em 10em 5em 10em; line-height: 1.8;">
+<p style="margin: 0em 10em 2em 5em; line-height: 1.8;">
   <a href="https://www.facebook.com/groups/1583837641674521">144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS</a><br>
   <a href="http://144air.ifdef.jp/">イッチョンチョン飛行機(1/144th Aircrafts)</a><br>
   <a href="http://japanese-warship.com/">大日本帝国軍 主要兵器 (Imperial Japanese Force Main Weapons)</a><br>
