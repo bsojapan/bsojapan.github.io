@@ -25,23 +25,26 @@ Convenient access from the top menu or categories
 <br>
 The fact that ideas such as minimalism and decluttering have a certain amount of support in Japan may also create a sense of resistance to collecting.
 While there is a value of "mottainai" in Japan, there is also a strong negative image that "hoarding = not being able to organize" and "useless things". If the idea of ​​"waste" is strong, it may be difficult to understand the significance of actively collecting and preserving relics and materials from the past.
-<br>
-
+<p>
+<\p>
 In particular, industrial heritage sites are considered to be simply "old" or "in the way" once they have ceased operation, and the need for preservation is difficult to recognize.
 In contrast to Western countries, where technologies and products from the Industrial Revolution onward are considered historical heritage and there is an active movement to preserve and exhibit them. The roots of "otaku culture," which has been reevaluated around the world, may be found in such a place.
-<br>
+<p>
+<\p>
 Small buildings cluster around high-rise buildings, and small houses surround them further. Roads within residential areas are distinguished and called living roads and alleys, filling the space between main roads. Even main roads are filled with lanes and are full of many cars. That's why "kei cars" and "small cars" were born in Japan. Standard Western cars would usually not be able to reach their destination in the living area. For the majority of Japanese people, it's a request that has already become tired.
-<br>
+<p>
+<\p>
 That's why it's 1/144 scale.
 <br>
 Because it's small, you can line up many types and appreciate them. Although the individual models are not very well-made, they exude a powerful presence as a group. They look better in a diorama than individually. Eight of them could fit in a 1/78 scale space.
-<br>
+<p>
+<\p>
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
 </p>
 <p>My personal interest link</p>
 
 <!-- marginの「:」を修正し、各行の末尾に <br> を入れて改行させています -->
-<p style="margin: 0em 10em 2em 5em; line-height: 1.8;">
+<p style="no-indent;margin: 0em 10em 2em 5em; line-height: 1.8;">
   <a href="https://www.facebook.com/groups/1583837641674521">144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS</a><br>
   <a href="http://144air.ifdef.jp/">イッチョンチョン飛行機(1/144th Aircrafts)</a><br>
   <a href="http://japanese-warship.com/">大日本帝国軍 主要兵器 (Imperial Japanese Force Main Weapons)</a><br>
