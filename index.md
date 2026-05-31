@@ -3,9 +3,6 @@ layout: default
 title: "site top index.html for Blue Sky and Oceans"
 ---
 <section>
-<!-- スタイルを適用するテキスト -->
-<p style=" text-align: center; ">=====</p>
-
 Gallery for Japanese 1/144 scale or smaller-scales models of transportation vehicles.
 
 This is a virtual museum of transportation vehicles.
