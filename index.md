@@ -62,7 +62,7 @@ This site is not for those looking for detailed models, but please take a look a
 <nav>
   <h3>My personal interest link</h3>
 <!-- marginの「:」を修正し、各行の末尾に <br> を入れて改行させています -->
-<p style="margin: 0em 10em 2em 5em; line-height: 1.8;"> <!-- ★ 修正箇所：無効な no-indent; を削除 -->
+<p style=" text-indent: 0; margin: 0em 10em 2em 5em; line-height: 1.8;"> <!-- ★ 修正箇所：無効な no-indent; を削除 -->
   <a href="https://www.facebook.com/groups/1583837641674521">144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS</a><br>
   <a href="http://144air.ifdef.jp/">イッチョンチョン飛行機(1/144th Aircrafts)</a><br>
   <a href="http://japanese-warship.com/">大日本帝国軍 主要兵器 (Imperial Japanese Force Main Weapons)</a><br>
