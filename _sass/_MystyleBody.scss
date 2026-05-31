@@ -1,8 +1,4 @@
-/* ダークモード */
-body {
-  background-color: #000f40 !important; /* 漆黒の背景 */
-  color: #ffffff !important;            /* 目に優しい明度の文字 */
-}
+
 
 a {
   color: #ddddff !important;
@@ -13,7 +9,12 @@ a {
   background-color: #801010 !important;
 }
 /*. トップレベル構造    */
-body{} /* 最大のボックス*/
+/* ダークモード */
+body {   /* 最大のボックス*/
+  background-color: #000f40 !important; /* 漆黒の背景 */
+  color: #ffffff !important;            /* 目に優しい明度の文字 */
+ font-family: "Times New Roman", Times, serif; 
+}
 main {
   margin:2pt 5% 10pt 10%;
 }/*（主要コンテンツ）*/
