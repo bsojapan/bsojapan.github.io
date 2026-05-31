@@ -29,9 +29,10 @@ That's why it's 1/144 scale.
 Because it's small, you can line up many types and appreciate them. Although the individual models are not very well-made, they exude a powerful presence as a group. They look better in a diorama than individually. Eight of them could fit in a 1/78 scale space.
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
 </p>
-
 <p>
-  My personal interest link
+My personal interest link
+</p>
+<p style="margine; 5em 10em 5em 10em;">
 144 th scale (or almost) on Facebook by 1/144 th SCALE LOVERS
 イッチョンチョン飛行機(1/144th Airecrafts)
 大日本帝国軍 主要兵器 (Imperial Japanese Force Main Weapons)
