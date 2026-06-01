@@ -1,7 +1,7 @@
 ---
 layout: phote_page
 title: "top index"
-permalink: /static/
+permalink: /static/02_earth/
 ---
 <section>
   <h2>
