@@ -1,6 +1,7 @@
 ---
 layout: phote_page
 title: "top index"
+permalink: /static/
 ---
 <section>
   <h2>
