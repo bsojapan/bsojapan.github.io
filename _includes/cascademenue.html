@@ -1,20 +1,32 @@
-<!-- 1. 親枠 -->
-<li class="nav-item dropdown">
+<nav class="hover-cascade-nav">
+  <ul>
+    <li class="parent-menu">
+      <a href="javascript:void(0);" class="menu-trigger">m01 ▾</a>
+      
+      <ul class="dropdown-content">
+        
+        <li class="has-child">
+          <a href="javascript:void(0);">1/144 Scale Model <span>▸</span></a>
+          <ul class="sub-dropdown">
+            <li><a href="{{ site.url }}/gallery/aircraft/">M11</a></li>
+            <li><a href="{{ site.url }}/gallery/tanks/">M12</a></li>
+            <li><a href="{{ site.url }}/gallery/scifi/">M13</a></li>
+          </ul>
+        </li>
 
-  <!-- 2. クリックするボタン（文字色を薄い青に変更） -->
-  <a class="nav-link dropdown-toggle" href="#" id="customDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"
-     style="color: #ddddff !important;">
-    M01
-  </a>
+        <li class="has-child">
+          <a href="javascript:void(0);">Weblogs <span>▸</span></a>
+          <ul class="sub-dropdown">
+            <li><a href="https://bsojapan.github.io/blog0">M02</a></li>
+            <li><a href="{{ site.url }}/blog/archive/">M03</a></li>
+          </ul>
+        </li>
 
-  <!-- 3. 下に飛び出すメニュー（背景を濃い紺色に変更） -->
-  <!-- ※「dropdown-menu-dark」などの標準クラスは削除するか、独自のstyleで上書きします -->
-  <ul class="dropdown-menu" aria-labelledby="customDropdown" 
-      style="background-color: #101060 !important; border: 1px solid #202080;">
-    
-    <!-- 各メニュー項目（個別に文字色を薄い青に変更） -->
-    <li><a class="dropdown-item custom-item" href="#" style="color: #ddddff;">M11</a></li>
-    <li><a class="dropdown-item custom-item" href="#" style="color: #ddddff;">M12</a></li>
+        <li>
+          <a href="{{ site.url }}/about/">M04</a>
+        </li>
+
+      </ul>
+    </li>
   </ul>
-
-</li>
+</nav>
