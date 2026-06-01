@@ -3,7 +3,7 @@ layout: default
 title: "site top index.html for Blue Sky and Oceans"
 ---
 <section>
-  <h3>
+  <h2>
 Gallery for Japanese 1/144 scale or smaller-scales models of transportation vehicles.
 </h3>
   <p>
