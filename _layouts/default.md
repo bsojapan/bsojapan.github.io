@@ -1,6 +1,17 @@
 ---
 ---
 <head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N3V61VNGL5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N3V61VNGL5');
+</script>
+  
   <!-- 🟢 Jekyll 4推奨：relative_url フィルターを使う -->
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <!-- 事前にGoogle FontsからGreat Vibesを読み込んでおく必要があります -->
