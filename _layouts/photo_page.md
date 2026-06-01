@@ -14,13 +14,14 @@
   
   <!-- 🟢 Jekyll 4推奨：relative_url フィルターを使う -->
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<!-- 事前にGoogle FontsからGreat Vibesを読み込んでおく必要があります -->
+<!-- 事前にGoogle Fontsから読み込んでおく-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet">
-</head>
 
+</head>
 <body>
+  
 {% include header.html %} <!-- _includes/header.html を読み込む -->
 
   
