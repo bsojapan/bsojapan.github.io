@@ -5,7 +5,7 @@ title: "site top index.html for Blue Sky and Oceans"
 <section>
   <h2>
 Gallery for Japanese 1/144 scale or smaller-scales models of transportation vehicles.
-</h3>
+</h2>
   <p>
 This is a virtual museum of transportation vehicles.
 Mainly, small-scale Japanese models, some of the models of various vehicles such as Western models are displayed.There are models of old planes and modern aircraft, ships and submarines, real and fantasy spaceships. 
