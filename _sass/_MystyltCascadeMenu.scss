@@ -21,10 +21,10 @@
   color: #ffdddd !important;
 }
 
-/* --- ③ 最初は非表示にする（親メニュー） --- */
-.parent-menu {
+/* メインのメニューバーに並ぶ項目（li）はすべて横並びのボタンにする */
+.hover-cascade-nav > ul > li {
   position: relative;
-  display: inline-block;
+  display: inline-block; /* 👈 これで全員が同じボタンの形になります */
 }
 
 .dropdown-content {
