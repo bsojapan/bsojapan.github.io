@@ -1,5 +1,5 @@
 ---
-layout: phote_page
+layout: photo_page
 title: "top index"
 permalink: /static/05_ships/
 ---
