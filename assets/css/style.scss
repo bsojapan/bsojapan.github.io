@@ -4,8 +4,8 @@
 /* 1. まず、大元のテーマのデザインをマニュアル通りに吸い込みます */
 @import "{{ site.theme }}";
 
-@import "MystyleBody"; 
-@import "MystyleTitles";
-@import "MystyleHeader" ;
+@import "mystyle_body"; 
+@import "mystyle_titles";
+@import "mystyle_header" ;
 
-@import "MystyltCascadeMenu";
+@import "mystyle_cascade_menu";
