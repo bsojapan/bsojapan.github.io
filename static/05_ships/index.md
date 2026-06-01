@@ -2,6 +2,7 @@
 layout: photo_page
 title: "top index"
 permalink: /static/05_ships/
+image_back: "{{ site.url }}/assets/images/p_wall_ship.jpg"
 ---
 <section>
   <h2>
