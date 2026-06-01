@@ -2,6 +2,7 @@
 layout: photo_page
 title: "top index"
 permalink: /static/02_earth/
+image_back: "{{ site_url }}/assets/images/p_wall_earth.jpg"
 ---
 <section>
   <h2>
