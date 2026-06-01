@@ -2,6 +2,7 @@
 layout: photo_page
 title: "top index"
 permalink: /static/
+image_back: "{{ site_url }}/assets/images/p_wall.jpg"
 ---
 <section>
   <h2>
