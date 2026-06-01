@@ -1,34 +1,68 @@
-/* --- ① 1階層目のメニューバー（li）はすべて横並びにする（前回の対策） --- */
+/* --- ① リストの点々や余白を消してスッキリさせる --- */
+.hover-cascade-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* --- ② メニュー全体の文字や背景の基本設定 --- */
+.hover-cascade-nav a {
+  display: block;
+  padding: 10px 18px;
+  color: #ffffff; /* 通常の文字色は白 */
+  text-decoration: none;
+  background-color: #222222; /* 通常の背景色は黒系 */
+  white-space: nowrap;
+}
+
+/* 【重要】マウスが乗ったとき（ホバー時）は濃い赤、文字を薄いピンクにする */
+.hover-cascade-nav a:hover {
+  background-color: #801010 !important;
+  color: #ffdddd !important;
+}
+
+/* メインのメニューバーに並ぶ項目（li）はすべて横並びのボタンにする */
 .hover-cascade-nav > ul > li {
   position: relative;
-  display: inline-block;
+  display: inline-block; /* 👈 これで全員が同じボタンの形になります */
 }
 
-/* --- ② [超重要] ホバーした時の表示ルールを「直系の子だけ」に限定する --- */
-/* 「>」を使うことで、今ホバーしているliの『すぐ下にあるulだけ』を表示し、孫のulは隠したままにします */
-.parent-menu:hover > .dropdown-content {
-  display: block;
-}
-
-.has-child:hover > .sub-dropdown {
-  display: block;
-}
-
-/* --- ③ 初期状態の非表示設定（再確認） --- */
-.dropdown-content, .sub-dropdown {
-  display: none; /* 最初は全員隠す */
+.dropdown-content {
+  display: none; /* 👈 これで最初は隠れます */
   position: absolute;
+  top: 100%;
+  left: 0;
   z-index: 100;
 }
 
-/* --- ④ 配置の基準点 --- */
-.dropdown-content {
-  top: 100%;
-  left: 0;
+/* 「m01」にマウスが乗ったら、親メニューを表示する */
+.parent-menu:hover .dropdown-content {
+  display: block;
 }
 
-/* 子・孫メニューは、それぞれの親の「真右（left: 100%）」にピッタリ重ねる */
+/* --- ④ 最初は非表示にする（子メニュー・右手に開く） --- */
+.has-child {
+  position: relative;
+}
+
 .sub-dropdown {
+  display: none; /* 👈 これで最初は隠れます */
+  position: absolute;
   top: 0;
-  left: 100%;
+  left: 100%; /* 親メニューの右側にピッタリ配置 */
+  z-index: 101;
+}
+
+/* 「1/144 Scale Model」や「Weblogs」にマウスが乗ったら、右手に子メニューを表示する */
+.has-child:hover .sub-dropdown {
+  display: block;
+}
+
+/* 矢印 ▸ を右端に綺麗に寄せるための調整 */
+.has-child a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 180px; /* メニューの横幅を統一 */
 }
