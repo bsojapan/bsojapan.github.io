@@ -4,7 +4,7 @@ title: "top index"
 ---
 <section>
   <h2>
-Gallery for Japanese 1/144 scale or smaller-scales models of transportation vehicles.
+Model photo of vehicles
 </h2>
 </section>
 
