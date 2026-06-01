@@ -28,38 +28,42 @@
   display: inline-block; /* 👈 これで全員が同じボタンの形になります */
 }
 
-.dropdown-content {
+/* --- ③ 最初は非表示にする（親・子・孫メニュー共通の基本定義） --- */
+.dropdown-content,
+.sub-dropdown {
   display: none; /* 👈 これで最初は隠れます */
   position: absolute;
-  top: 100%;
-  left: 0;
   z-index: 100;
 }
 
-/* 「m01」にマウスが乗ったら、親メニューを表示する */
-.parent-menu:hover .dropdown-content {
+/* プルダウン（第2階層）の配置位置 */
+.dropdown-content {
+  top: 100%;
+  left: 0;
+}
+
+/* 右手に開くメニュー（第3・第4階層）の配置位置 */
+.sub-dropdown {
+  top: 0;
+  left: 100%; /* 親メニューの右側にピッタリ配置 */
+}
+
+/* --- ④ 【修正ポイント】ホバー時に「直近の下層だけ」を開く指示（> を追加） --- */
+/* 「Categories」にマウスが乗ったら、その直下の親メニューだけを表示する */
+.parent-menu:hover > .dropdown-content {
   display: block;
 }
 
-/* --- ④ 最初は非表示にする（子メニュー・右手に開く） --- */
+/* 「on the water」や「misc」にマウスが乗ったら、その直下の子・孫メニューだけを右手に表示する */
+.has-child:hover > .sub-dropdown {
+  display: block;
+}
+
+/* --- ⑤ 矢印 ▸ を右端に綺麗に寄せるための調整 --- */
 .has-child {
   position: relative;
 }
 
-.sub-dropdown {
-  display: none; /* 👈 これで最初は隠れます */
-  position: absolute;
-  top: 0;
-  left: 100%; /* 親メニューの右側にピッタリ配置 */
-  z-index: 101;
-}
-
-/* 「1/144 Scale Model」や「Weblogs」にマウスが乗ったら、右手に子メニューを表示する */
-.has-child:hover .sub-dropdown {
-  display: block;
-}
-
-/* 矢印 ▸ を右端に綺麗に寄せるための調整 */
 .has-child a {
   display: flex;
   justify-content: space-between;
