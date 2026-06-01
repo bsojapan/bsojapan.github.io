@@ -2,7 +2,9 @@
 title: "Blue Sky and Oceans"
 url: "https://bsojapan.github.io"
 permalink: /blog0/:year/:month/:day/:title.html
----
-plugins: 
+
+# plugins: の代わりに、古い互換性を持たせる書き方にしてみる
+gems:
   - jekyll-sitemap
+---
 
