@@ -1,5 +1,67 @@
-/* プルダウン内の項目にマウスが乗ったとき（ホバー時）の背景色と文字色 */
-.dropdown-item.custom-item:hover {
-  background-color: #801010 !important; /* 濃い赤 */
-  color: #ffdddd !important;             /* 薄い赤（ピンク） */
+/* --- ① リストの点々や余白を消してスッキリさせる --- */
+.hover-cascade-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- ② メニュー全体の文字や背景の基本設定 --- */
+.hover-cascade-nav a {
+  display: block;
+  padding: 10px 18px;
+  color: #ffffff; /* 通常の文字色は白 */
+  text-decoration: none;
+  background-color: #222222; /* 通常の背景色は黒系 */
+  white-space: nowrap;
+}
+
+/* 【重要】マウスが乗ったとき（ホバー時）は濃い赤、文字を薄いピンクにする */
+.hover-cascade-nav a:hover {
+  background-color: #801010 !important;
+  color: #ffdddd !important;
+}
+
+/* --- ③ 最初は非表示にする（親メニュー） --- */
+.parent-menu {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none; /* 👈 これで最初は隠れます */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 100;
+}
+
+/* 「m01」にマウスが乗ったら、親メニューを表示する */
+.parent-menu:hover .dropdown-content {
+  display: block;
+}
+
+/* --- ④ 最初は非表示にする（子メニュー・右手に開く） --- */
+.has-child {
+  position: relative;
+}
+
+.sub-dropdown {
+  display: none; /* 👈 これで最初は隠れます */
+  position: absolute;
+  top: 0;
+  left: 100%; /* 親メニューの右側にピッタリ配置 */
+  z-index: 101;
+}
+
+/* 「1/144 Scale Model」や「Weblogs」にマウスが乗ったら、右手に子メニューを表示する */
+.has-child:hover .sub-dropdown {
+  display: block;
+}
+
+/* 矢印 ▸ を右端に綺麗に寄せるための調整 */
+.has-child a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 180px; /* メニューの横幅を統一 */
 }
