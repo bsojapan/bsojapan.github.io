@@ -4,6 +4,9 @@
 /* 1. まず、大元のテーマのデザインをマニュアル通りに吸い込みます */
 @import "{{ site.theme }}";
 
+/* 子ファイルで使用する変数を親で定義しておく */
+$bkimage: {{ page.image_back }};
+
 @import "mystyle_body"; 
 @import "mystyle_titles";
 
