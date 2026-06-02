@@ -5,7 +5,8 @@
 /*  background-image: url("{{ image_back }}"); ○ */ 
 /*  background-image: url("htts://bsojapan.github.io/{{ image_back }}"); ✕ */
 /* background-image: url("https://bsojapan.github.io/{{ image_back }}"); */
-background-image: url("https://bsojapan.github.io/assets/images/p_wall_sky.jpg"); 
+/* background-image: url("https://bsojapan.github.io/assets/images/p_wall_sky.jpg"); 　OK */
+ background-image: url("https://bsojapan.github.io/{{ image_back }}"); 
 
   background-position: center;
   background-repeat: no-repeat;
