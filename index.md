@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "site top index.html for Blue Sky and Oceans"
-image_back: "/assets/images/p_wall_sky.jpg"
+image_back: "{{ site.url }}/assets/images/p_wall_sky.jpg"
 ---
 <section>
   <h2>
