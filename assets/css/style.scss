@@ -5,8 +5,8 @@
 @import "{{ site.theme }}";
 
 :root {
-  /* 💡 ここで「url("画像パス")」の形を丸ごと変数にしまっています */
-  --bkimage: url("{{ page.image_back | default: '/assets/images/p_wall_sky.jpg' }}");
+  /* 💡 page. を削除し、単なる image_back に変更します */
+  --bkimage: url("{{ image_back | default: '/assets/images/p_wall_sky.jpg' }}");
 }
 
 @import "mystyle_body"; 
