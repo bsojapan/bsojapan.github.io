@@ -1,15 +1,1 @@
-.header-style {
-/* 💡 記号をすべて取り除き、var(--bkimage) をそのまま裸で置きます */
-  background-image: var(--bkimage);/* background-image: url("/assets/images/p_wall_sky.jpg"); OK */
-/* background-image: url("https://bsojapan.github.io/assets/images/p_wall_sky.jpg"); 　OK */
-/*  background-image: url("{{ image_back }}");   false  */
-/*  background-image: url("/{{ image_back }}");  false  */  
-/*  background-image: url("htts://bsojapan.github.io/{{ image_back }}"); ✕ */
-/* background-image: url("https://bsojapan.github.io/{{ image_back }}"); */
-/* background-image: url("https://bsojapan.github.io/{{ image_back }}"); out */
- /* background-image: url("/{{ page.image_back }}");*/
-  
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
