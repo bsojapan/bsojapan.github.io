@@ -1,6 +1,8 @@
 .header-style {
 /*  background-image: url("{{ site.url }}/assets/images/p_wall_sky.jpg");*/
-  background-image: url("/assets/images/p_wall_sky.jpg");
+/*  background-image: url("/assets/images/p_wall_sky.jpg"); */
+  background-image: url("{{ image_back }}"); 
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
