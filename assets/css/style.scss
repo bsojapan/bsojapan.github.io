@@ -4,9 +4,8 @@
 /* 1. まず、大元のテーマのデザインをマニュアル通りに吸い込みます */
 @import "{{ site.theme }}";
 
-/* 子ファイルで使用する変数を親で定義しておく */
-/* ⭕ Sassの変数ではなく、CSSのグローバル変数（root）として定義する */
 :root {
+  /* 💡 ここで「url("画像パス")」の形を丸ごと変数にしまっています */
   --bkimage: url("{{ page.image_back | default: '/assets/images/p_wall_sky.jpg' }}");
 }
 
