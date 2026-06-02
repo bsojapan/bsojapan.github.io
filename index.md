@@ -74,4 +74,4 @@ This site is not for those looking for detailed models, but please take a look a
   <a href="https://warp.ndl.go.jp/info:ndljp/pid/1165896/laird.fluid.energy.osakafu-u.ac.jp/Mworld/model-frameset0.html" target=blank>国立国会図書館 archive モデルランド</a>
 </p>
   
-{% include _includes/link.html %}
+{% include /_includes/link.html %}
