@@ -5,7 +5,10 @@
 @import "{{ site.theme }}";
 
 /* 子ファイルで使用する変数を親で定義しておく */
-$bkimage: {{ page.image_back | default: "/assets/images/p_wall_sky.jpg" }};
+/* ⭕ Sassの変数ではなく、CSSのグローバル変数（root）として定義する */
+:root {
+  --bkimage: url("{{ page.image_back | default: '/assets/images/p_wall_sky.jpg' }}");
+}
 
 @import "mystyle_body"; 
 @import "mystyle_titles";
