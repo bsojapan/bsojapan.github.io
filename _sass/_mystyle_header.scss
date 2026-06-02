@@ -1,7 +1,6 @@
 .header-style {
-   background-image: url("$var(--bkimage);");  
-/* background-image: url("{{ sitevar(--bkimage);.url }}/assets/images/p_wall_sky.jpg");  fals  */
-/* background-image: url("/assets/images/p_wall_sky.jpg"); OK */
+/* 💡 記号をすべて取り除き、var(--bkimage) をそのまま裸で置きます */
+  background-image: var(--bkimage);/* background-image: url("/assets/images/p_wall_sky.jpg"); OK */
 /* background-image: url("https://bsojapan.github.io/assets/images/p_wall_sky.jpg"); 　OK */
 /*  background-image: url("{{ image_back }}");   false  */
 /*  background-image: url("/{{ image_back }}");  false  */  
