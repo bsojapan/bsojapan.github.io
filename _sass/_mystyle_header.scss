@@ -8,7 +8,7 @@
 /*  background-image: url("htts://bsojapan.github.io/{{ image_back }}"); ✕ */
 /* background-image: url("https://bsojapan.github.io/{{ image_back }}"); */
 /* background-image: url("https://bsojapan.github.io/{{ image_back }}"); out */
-background-image: url( {{ page.image_back | sbsolute_url }} );
+background-image: url( {{ page.image_back | absolute_url }} );
   
   background-position: center;
   background-repeat: no-repeat;
