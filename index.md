@@ -75,4 +75,4 @@ This site is not for those looking for detailed models, but please take a look a
 </p>
 </nav>
 
-include="{{ site.url }}/_imclude.link.html"
+{% include {{ site.url }}/_include/link.html %}
