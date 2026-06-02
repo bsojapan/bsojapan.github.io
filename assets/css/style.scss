@@ -8,7 +8,7 @@
 @import "mystyle_titles";
 
 .header-style {
-  background-image: "{{ site.url }}{{ page.image_back }}";
+  background-image: url("{{ site.url }}{{ page.image_back }}");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
