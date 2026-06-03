@@ -4,12 +4,9 @@ title: "around the Earth"
 permalink: /static/04_land/
 image_back: "/assets/images/p_wall_sky.jpg"
 ---
-@impot "header.html"
-
 <section>
   <h2>
 Model photo of vehicles
 </h2>
 </section>
 
-@impot "footer.html"
