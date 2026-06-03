@@ -1,6 +1,6 @@
 ---
 layout: contents
-title: "starwars"
+title: "STAR WARS"
 permalink: /static/01_univers/starwars.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
