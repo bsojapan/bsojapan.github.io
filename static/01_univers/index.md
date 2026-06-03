@@ -5,5 +5,3 @@ permalink: /static/01_univers/   # 完成フォルダ「https://.../about/」URL
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
-@impot "header.html"
-@impot "footer.html"
