@@ -18,6 +18,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet">
 
+<title>{{ title }}</title> | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models 
 </head>
 <body>
 　{% include header.html %} <!-- _includes/header.html を読み込む -->
