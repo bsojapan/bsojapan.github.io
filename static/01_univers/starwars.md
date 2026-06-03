@@ -1,7 +1,7 @@
 ---
 layout: contents
 title: "starwars"
-permalink: /static/01_univers/starward.html
+permalink: /static/01_univers/starwars.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 <section>
