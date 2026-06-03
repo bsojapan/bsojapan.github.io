@@ -28,10 +28,12 @@
   
 {% include header.html %} <!-- _includes/header.html を読み込む -->
 
-<h2>{{ page.title }} abc {{ site.contents_subtitle }}</h2>  
   <main>
 {{ content }}
   </main>
+  <section>
+  <h2>{{ page.title }}  {{ site.contents_subtitle }}</h2>  
+  </section>
 
   {% include footer.html %} <!-- _includes/footer.html を読み込む -->
 
