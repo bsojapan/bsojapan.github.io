@@ -28,7 +28,7 @@
   
 {% include header.html %} <!-- _includes/header.html を読み込む -->
 
-<h2>{{ page.title }}{{ contents.subtitle }}</h2>  
+<h2>{{ page.title }} abc {{ contents.subtitle }}</h2>  
   <main>
 {{ content }}
   </main>
