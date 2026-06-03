@@ -6,5 +6,6 @@ permalink: /blog0/:year/:month/:day/:title.html
 # plugins: の代わりに、古い互換性を持たせる書き方にしてみる
 gems:
   - jekyll-sitemap
+contennts.subtitle: " -- Vehicle Overview"
 ---
 
