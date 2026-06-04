@@ -20,7 +20,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 </section>
 
 <section>
-  <h2>Over View</h2>
+  <h2>Overview</h2>
   <p>While Star Trek is highly recognized in the United States, it's said that only about 10% of people in Japan know the general storyline. Star Trek's TV drama series alone comprises dozens of seasons and nearly 900 episodes. Watching it requires patience, but it's one of the most representative works of sci-fi.
 
 In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sakusen). Set against the backdrop of the Cold War, it carried a strong naval atmosphere. Star Trek: The Next Generation, which resumed 20 years later, shifted to a worldview that strongly emphasized peace and negotiation. While the seasons overlapped until Voyager, there was a 12-year gap after Enterprise, which predates the core series. Star Trek: Discovery and later series feature prequels, spin-offs, stories set far in the future, parodies, and boy's adventures.</p>
@@ -28,7 +28,7 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 
 <section>
   <h2>vehicle types</h2>
-  <h3>Enterprise siries</h3>
+  <h3>NCC-1701 Enterprise siries</h3>
     {% capture my_tiles %}
   - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
     url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
