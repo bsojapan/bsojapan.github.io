@@ -24,7 +24,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
   <p>overview</p>
   <p>While Star Trek is highly recognized in the United States, it's said that only about 10% of people in Japan know the general storyline. Star Trek's TV drama series alone comprises over 10 seasons and 850 episodes. Watching it requires patience, but it's one of the most representative works of sci-fi.
 
-In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Saksen), set against the backdrop of the Cold War, with a strong naval atmosphere. Star Trek: The Next Generation, which resumed 20 years later, shifted to a world view that strongly emphasized peace and negotiation. While the seasons overlapped until Voyager, there was a 12-year gap after Enterprise, which predates the core series. Discovery features prequels, spin-offs, stories set far in the future, parodies, and boy adventures.</p>
+In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Saksen), set against the backdrop of the Cold War, with a strong naval atmosphere. Star Trek: The Next Generation, which resumed 20 years later, shifted to a world view that strongly emphasized peace and negotiation. While the seasons overlapped until Voyager, there was a 12-year gap after Enterprise, which predates the core series. Ster Trek: Discovery features prequels, spin-offs, stories set far in the future, parodies, and boy adventures.</p>
 </section>
 
 <section>
