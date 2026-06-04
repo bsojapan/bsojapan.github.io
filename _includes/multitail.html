@@ -1,15 +1,14 @@
 {% comment %}
   引数:
   - data: Markdown側のテキストデータ
-  - size: 画像の最大横幅（例: 250px、あるいは数字の 250 でも可）
+  - size: 画像の最大横幅（デフォルト: 200px）
 {% endcomment %}
 
-{% comment %} 入力されたサイズから余計な空白を消去し、未指定なら200pxにする {% endcomment %}
+{% comment %} サイズのクリーニング処理 {% endcomment %}
 {% assign raw_size = include.size | strip | strip_newlines %}
 {% if raw_size == "" or raw_size == nil %}
   {% assign tile_size = "200px" %}
 {% else %}
-  {% comment %} 数字だけが指定された場合のために px を補完（すでに px があればそのまま） {% endcomment %}
   {% if raw_size contains "px" or raw_size contains "%" or raw_size contains "em" %}
     {% assign tile_size = raw_size %}
   {% else %}
@@ -17,29 +16,79 @@
   {% endif %}
 {% endif %}
 
+{% comment %} 
+  テーマ側のCSS干渉を完全に防ぐため、
+  このコンポーネント専用のCSSをここに直接埋め込み（強制適用）します。
+{% endcomment %}
+<style>
+  .custom-tile-wrapper {
+    display: block !important;
+    width: 100% !important;
+    clear: both !important;
+    margin: 20px 0 !important;
+  }
+  .custom-tile-container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+    gap: 15px !important; /* タイル同士の隙間 */
+    width: 100% !important;
+    box-sizing: border-box !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    list-style: none !important;
+  }
+  .custom-tile-item {
+    display: block !important;
+    flex: 0 0 {{ tile_size }} !important;
+    max-width: {{ tile_size }} !important;
+    width: {{ tile_size }} !important;
+    box-sizing: border-box !important;
+    text-decoration: none !important;
+    transition: transform 0.2s ease !important;
+  }
+  .custom-tile-item:hover {
+    transform: translateY(-3px) !important;
+  }
+  .custom-tile-item img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: cover !important;
+    display: block !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+</style>
+
 {% if include.data %}
   {% assign raw_items = include.data | markdownify | split: '<li>' %}
   
-  <div class="image-tile-container">
-    {% for raw_item in raw_items %}
-      {% if forloop.first %}{% continue %}{% endif %}
-      {% assign item_content = raw_item | remove: '</li>' | remove: '</ul>' | remove: '</ol>' | strip %}
-      
-      {% assign lines = item_content | split: '<br />' %}
-      {% assign img_url = "" %}
-      {% assign link_url = "" %}
-      
-      {% for line in lines %}
-        {% if line contains 'img:' %}{% assign img_url = line | split: 'img:' | last | strip | strip_html %}{% endif %}
-        {% if line contains 'url:' %}{% assign link_url = line | split: 'url:' | last | strip | strip_html %}{% endif %}
-      {% endfor %}
+  <div class="custom-tile-wrapper">
+    <div class="custom-tile-container">
+      {% for raw_item in raw_items %}
+        {% if forloop.first %}{% continue %}{% endif %}
+        {% assign item_content = raw_item | remove: '</li>' | remove: '</ul>' | remove: '</ol>' | strip %}
+        
+        {% assign lines = item_content | split: '<br />' %}
+        {% assign img_url = "" %}
+        {% assign link_url = "" %}
+        
+        {% for line in lines %}
+          {% if line contains 'img:' %}{% assign img_url = line | split: 'img:' | last | strip | strip_html %}{% endif %}
+          {% if line contains 'url:' %}{% assign link_url = line | split: 'url:' | last | strip | strip_html %}{% endif %}
+        {% endfor %}
 
-      {% if img_url != "" %}
-        {% comment %} CSSの優先度を上げるため、style属性で直接幅を固定します {% endcomment %}
-        <a href="{{ link_url | default: '#' }}" class="image-tile-item" target="_blank" rel="noopener noreferrer" style="flex: 0 0 {{ tile_size }} !important; max-width: {{ tile_size }} !important; width: {{ tile_size }} !important;">
-          <img src="{{ img_url }}" alt="Tile Image" loading="lazy" style="width: 100%; height: auto;">
-        </a>
-      {% endif %}
-    {% endfor %}
+        {% if img_url != "" %}
+          <a href="{{ link_url | default: '#' }}" class="custom-tile-item" target="_blank" rel="noopener noreferrer">
+            <img src="{{ img_url }}" alt="Tile Image" loading="lazy">
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 {% endif %}
