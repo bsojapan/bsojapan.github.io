@@ -8,7 +8,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
   <h2>images</h2>
 
   {% capture my_tiles %}
-  - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+  - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
     url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
   - img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
     url: https://example.com/mountain
