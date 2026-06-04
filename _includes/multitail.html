@@ -1,15 +1,36 @@
 {% comment %}
   引数:
-  - data: Markdown側で定義した配列データ
+  - data: Markdown側（または下部）で定義したテキストデータ
   - size: 画像の最大横幅（デフォルト: 200px）
 {% endcomment %}
 
 {% assign tile_size = include.size | default: "200px" %}
 
-<div class="image-tile-container">
-  {% for item in include.data %}
-    <a href="{{ item.link }}" class="image-tile-item" target="_blank" rel="noopener noreferrer" style="flex-basis: {{ tile_size }}; max-width: {{ tile_size }};">
-      <img src="{{ item.image }}" alt="{{ item.alt | default: 'Tile Image' }}" loading="lazy">
-    </a>
-  {% endfor %}
-</div>
+{% if include.data %}
+  {% comment %} 箇条書きテキストをHTML（リスト）に変換し、不要なタグを除去して配列化します {% endcomment %}
+  {% assign raw_items = include.data | markdownify | split: '<li>' %}
+  
+  <div class="image-tile-container">
+    {% for raw_item in raw_items %}
+      {% if forloop.first %}{% continue %}{% endif %}
+      {% comment %} 箇条書き内のテキストを分解 {% endcomment %}
+      {% assign item_content = raw_item | remove: '</li>' | remove: '</ul>' | remove: '</ol>' | strip %}
+      
+      {% comment %} 行ごとに分解して画像とリンクを抽出 {% endcomment %}
+      {% assign lines = item_content | split: '<br />' %}
+      {% assign img_url = "" %}
+      {% assign link_url = "" %}
+      
+      {% for line in lines %}
+        {% if line contains 'img:' %}{% assign img_url = line | split: 'img:' | last | strip | strip_html %}{% endif %}
+        {% if line contains 'url:' %}{% assign link_url = line | split: 'url:' | last | strip | strip_html %}{% endif %}
+      {% endfor %}
+
+      {% if img_url != "" %}
+        <a href="{{ link_url | default: '#' }}" class="image-tile-item" target="_blank" rel="noopener noreferrer" style="flex-basis: {{ tile_size }}; max-width: {{ tile_size }};">
+          <img src="{{ img_url }}" alt="Tile Image" loading="lazy">
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
