@@ -1,0 +1,15 @@
+{% comment %}
+  引数:
+  - data: Markdown側で定義した配列データ
+  - size: 画像の最大横幅（デフォルト: 200px）
+{% endcomment %}
+
+{% assign tile_size = include.size | default: "200px" %}
+
+<div class="image-tile-container">
+  {% for item in include.data %}
+    <a href="{{ item.link }}" class="image-tile-item" target="_blank" rel="noopener noreferrer" style="flex-basis: {{ tile_size }}; max-width: {{ tile_size }};">
+      <img src="{{ item.image }}" alt="{{ item.alt | default: 'Tile Image' }}" loading="lazy">
+    </a>
+  {% endfor %}
+</div>
