@@ -15,8 +15,8 @@ image_back: "/assets/images/p_wall_univers.jpg"
   - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
     url: https://example.com/forest
   {% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
 
-  {% include multitail.html data=my_tiles %}
 </section>
 
 <section>
