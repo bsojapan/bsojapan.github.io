@@ -1,22 +1,30 @@
 {% comment %}
   引数:
-  - data: Markdown側（または下部）で定義したテキストデータ
-  - size: 画像の最大横幅（デフォルト: 200px）
+  - data: Markdown側のテキストデータ
+  - size: 画像の最大横幅（例: 250px、あるいは数字の 250 でも可）
 {% endcomment %}
 
-{% assign tile_size = include.size | default: "200px" %}
+{% comment %} 入力されたサイズから余計な空白を消去し、未指定なら200pxにする {% endcomment %}
+{% assign raw_size = include.size | strip | strip_newlines %}
+{% if raw_size == "" or raw_size == nil %}
+  {% assign tile_size = "200px" %}
+{% else %}
+  {% comment %} 数字だけが指定された場合のために px を補完（すでに px があればそのまま） {% endcomment %}
+  {% if raw_size contains "px" or raw_size contains "%" or raw_size contains "em" %}
+    {% assign tile_size = raw_size %}
+  {% else %}
+    {% assign tile_size = raw_size | append: "px" %}
+  {% endif %}
+{% endif %}
 
 {% if include.data %}
-  {% comment %} 箇条書きテキストをHTML（リスト）に変換し、不要なタグを除去して配列化します {% endcomment %}
   {% assign raw_items = include.data | markdownify | split: '<li>' %}
   
   <div class="image-tile-container">
     {% for raw_item in raw_items %}
       {% if forloop.first %}{% continue %}{% endif %}
-      {% comment %} 箇条書き内のテキストを分解 {% endcomment %}
       {% assign item_content = raw_item | remove: '</li>' | remove: '</ul>' | remove: '</ol>' | strip %}
       
-      {% comment %} 行ごとに分解して画像とリンクを抽出 {% endcomment %}
       {% assign lines = item_content | split: '<br />' %}
       {% assign img_url = "" %}
       {% assign link_url = "" %}
@@ -27,8 +35,9 @@
       {% endfor %}
 
       {% if img_url != "" %}
-        <a href="{{ link_url | default: '#' }}" class="image-tile-item" target="_blank" rel="noopener noreferrer" style="flex-basis: {{ tile_size }}; max-width: {{ tile_size }};">
-          <img src="{{ img_url }}" alt="Tile Image" loading="lazy">
+        {% comment %} CSSの優先度を上げるため、style属性で直接幅を固定します {% endcomment %}
+        <a href="{{ link_url | default: '#' }}" class="image-tile-item" target="_blank" rel="noopener noreferrer" style="flex: 0 0 {{ tile_size }} !important; max-width: {{ tile_size }} !important; width: {{ tile_size }} !important;">
+          <img src="{{ img_url }}" alt="Tile Image" loading="lazy" style="width: 100%; height: auto;">
         </a>
       {% endif %}
     {% endfor %}
