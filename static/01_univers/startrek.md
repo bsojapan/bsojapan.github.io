@@ -29,9 +29,8 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 
 <section>
   <h2>vehicle types</h2>
-  <h3>type1</h3>
-  
-  {% capture my_tiles %}
+  <h3>Enterprise siries</h3>
+    {% capture my_tiles %}
   - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
     url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
   - img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
@@ -41,7 +40,7 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
   {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-  <p>111</p>
+  <p>The Enterprise is </p>
   <h3>type2</h3>
 
   {% capture my_tiles %}
