@@ -26,7 +26,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 ]
 {% endparsejson %}
 
-{% include multitile.html data=group1 %}
+{% include multitail.html data=group1 %}
 </section>
 <section>
   <h2>Over View</h2>
