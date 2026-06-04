@@ -9,7 +9,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
   {% parsejson group1 %}
 [
   {
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "link": "https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share",
     "alt": "testページへ"
   },
