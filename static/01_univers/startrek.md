@@ -5,6 +5,7 @@ permalink: /static/01_univers/startrek.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 <section>
+  
   <h2>images</h2>
 
   {% capture my_tiles %}
@@ -18,14 +19,14 @@ image_back: "/assets/images/p_wall_univers.jpg"
 {% include multitail.html data=my_tiles size="150" %}
 
 </section>
-
 <section>
+  
   <h2>Overview</h2>
-  <p>While Star Trek is highly recognized in the United States, it's said that only about 10% of people in Japan know the general storyline. Star Trek's TV drama series alone comprises dozens of seasons and nearly 900 episodes. Watching it requires patience, but it's one of the most representative works of sci-fi.
+  While Star Trek is highly recognized in the United States, it's said that only about 10% of people in Japan know the general storyline. Star Trek's TV drama series alone comprises dozens of seasons and nearly 900 episodes. Watching it requires patience, but it's one of the most representative works of sci-fi.
 
-In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sakusen). Set against the backdrop of the Cold War, it carried a strong naval atmosphere. Star Trek: The Next Generation, which resumed 20 years later, shifted to a worldview that strongly emphasized peace and negotiation. While the seasons overlapped until Voyager, there was a 12-year gap after Enterprise, which predates the core series. Star Trek: Discovery and later series feature prequels, spin-offs, stories set far in the future, parodies, and boy's adventures.</p>
+In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sakusen). Set against the backdrop of the Cold War, it carried a strong naval atmosphere. Star Trek: The Next Generation, which resumed 20 years later, shifted to a worldview that strongly emphasized peace and negotiation. While the seasons overlapped until Voyager, there was a 12-year gap after Enterprise, which predates the core series. Star Trek: Discovery and later series feature prequels, spin-offs, stories set far in the future, parodies, and boy's adventures.
+
 </section>
-
 <section>
 
   <h2>vehicle types</h2>
