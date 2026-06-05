@@ -1,5 +1,5 @@
 ---
-layout: photo_page
+layout: index
 title: "around the Earth"
 permalink: /static/02_earth/
 image_back: "/assets/images/p_wall_earth.jpg"
