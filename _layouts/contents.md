@@ -21,6 +21,7 @@
   </section>
 
 {{ content }}
+
   </main>
 
   {% include footer.html %} <!-- _includes/footer.html を読み込む -->
