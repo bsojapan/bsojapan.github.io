@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "around the Earth"
+title: "on the Ground"
 permalink: /static/04_land/
 image_back: "/assets/images/p_wall_ground.jpg"
 ---
