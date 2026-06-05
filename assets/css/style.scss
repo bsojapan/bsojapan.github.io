@@ -6,13 +6,13 @@
 
 @import "mystyle_body"; 
 @import "mystyle_titles";
+@import "mystyle_cascade_menu";
+@import "mystyle_titledecorations";
+@import "mystyle_md_indent";
 
+/* 普通のCSSルールは、すべての@importが完全に終わった一番下に書く */
 .header-style {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-@import "mystyle_cascade_menu";
-@import "mystyle_titledecorations";
-@import "mystyle_md_indent";
