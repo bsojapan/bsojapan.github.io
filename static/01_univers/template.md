@@ -57,6 +57,10 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
   - **list 2**: aaaaaafffgghhjjkkloii
 - list 1
 
+- 車両タイプ
+  - エンタープライズ系
+    - NCC-1701（初代）
+    - NCC-1701-D（新
 
 ### type2
 
