@@ -4,9 +4,8 @@ title: "コンテンツ　テンプレート"
 permalink: /static/01_univers/template.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
-#テンプレート
 
-## images
+## images(level 2)
 
 {% capture my_tiles %}
 - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
@@ -19,7 +18,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 {% include multitail.html data=my_tiles size="150" %}
 
 
-## Overview
+## Overview(level 2)
 
 While Star Trek is highly recognized in the United States, 
 rama series alone comprises dozens of seasons and nearly 900 episodes. 
@@ -28,9 +27,9 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage
 to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sakusen). Set against 
 
 
-## vehicle types
+## vehicle types(level 2)
 
-### NCC-1701 Enterprise siries
+### NCC-1701 Enterprise siries(level 3)
 
 {% capture my_tiles %}
 - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
@@ -46,13 +45,16 @@ The USS Enterprise is the quintessential ship of this series, and its influence 
 
 In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appears. Later in the film, the Galaxy-class NCC-1701-D is heavily damaged; however, it is later restored in Star Trek: Picard. Ambassador class USS-1701-C apear in TV sereis Star Trek: The Next Generation. In films 8-10 (STVIII-STX), the Sovereign-class NCC-1701-E plays a prominent role. Later models included the Odyssey-class 1701-F, the Neo-Constitution class (Constitution III) 1701-G, and the ultra-large Universe-class NCC-1701-J. The chronological original was the NX-class NX-01 from Star Trek: Enterprise.
 
-### NX class 
+### NX class (level 3)
   
-### constitution class 
+### constitution class (level 3)
 
-## constitution class 
+## constitution class (level 2)
 
-
+- list 1
+ - list 2: aaaassssdddddffff
+ - *list 2*: aaaaaafffgghhjjkkloii
+- list 1
 
 
 ### type2
