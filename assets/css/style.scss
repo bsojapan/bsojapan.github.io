@@ -2,7 +2,7 @@
 ---
 /* mystydir: /assets/css/ */
 
-@import {{ site.theme }};
+@import "minima";
 
 @import "mystyle_body"; 
 @import "mystyle_titles";
