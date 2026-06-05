@@ -1,5 +1,5 @@
 ---
-layout: photo_page
+layout: index
 title: "in the Sky"
 permalink: /static/03_sky/
 image_back: "/assets/images/p_wall_sky.jpg"
