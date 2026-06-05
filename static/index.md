@@ -8,4 +8,3 @@ image_back: "/assets/images/p_wall_sky.jpg"
   <h2>
   </h2>
 </section>
-
