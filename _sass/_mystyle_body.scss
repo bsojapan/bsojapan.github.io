@@ -1,4 +1,6 @@
-/* 大きな、レベルが上の、ボックス関係のスタイル */
+@charset "UTF-8";
+
+/* Global Styles */
 a {
   color: #ddddff !important;
   background-color: #101060 !important;
@@ -9,37 +11,36 @@ a {
   background-color: #801010 !important;
 }
 
-/* トップレベル構造 */
-/* ダークモード */
-body {   /* 最大のボックス */
-  background-color: #000f40 !important; /* 漆黒の背景 */
-  color: #ffffff !important;            /* 目に優しい明度の文字 */
-  font-family: "Times New Roman", Times, serif; 
+/* Layout Structure */
+body {
+  background-color: #000f40 !important;
+  color: #ffffff !important;
+  font-family: "Times New Roman", Times, serif;
 }
 
-header {}
-footer {} /*（ヘッダー / フッター）*/
+header { }
+footer { }
 
 main {
   margin: 2pt 5% 10pt 10%;
-} /*（主要コンテンツ）*/
+}
 
-/* 本文レベルの同レベル要素 */
-section { margin: 1em 5% 0.3em 5%; } /*（セクション）*/
-article { margin: 1em 5% 0.3em 5%; } /*（記事）*/
-aside {} /*（サイドバー・補足）*/
+/* Section Elements */
+section { margin: 1em 5% 0.3em 5%; }
+article { margin: 1em 5% 0.3em 5%; }
+aside { }
 nav { margin: 1em 5% 0.3em 5%; }
-div {} /*（汎用的なグループ化）*/
+div { }
 blockquote { margin: 1em 5% 0.3em 10%; }
 
-/* 文構造 */
-/* 全ての見出し（h1〜h6）に一括適用 */
+/* Text Headings (h1 - h6) */
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0% 0.3em 0%;
 }
 
+/* Paragraphs */
 p {
-  margin: 0.5em 0% 0.2em 0em; /* margine のスペルを修正 */
+  margin: 0.5em 0% 0.2em 0em;
   text-indent: 1em;
   text-align: justify;
   word-break: normal;
@@ -47,6 +48,6 @@ p {
 }
 
 .row {
-  margin: 0.5em 0% 0.2em 0em; /* margine のスペルを修正 */
+  margin: 0.5em 0% 0.2em 0em;
   text-indent: 1em;
 }
