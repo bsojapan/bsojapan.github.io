@@ -27,6 +27,7 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 </section>
 
 <section>
+
   <h2>vehicle types</h2>
   <h3>NCC-1701 Enterprise siries</h3>
     {% capture my_tiles %}
@@ -50,8 +51,11 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
 ## constitution class 
 
 ## constitution class 
+
 ## constitution class 
+
 ## constitution class 
+
 ## constitution class 
 
   <h3>type2</h3>
