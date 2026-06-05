@@ -42,6 +42,18 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
   <p>The USS Enterprise is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
 
 In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appears. Later in the film, the Galaxy-class NCC-1701-D is heavily damaged; however, it is later restored in Star Trek: Picard. Ambassador　class USS-1701-C apear in TV sereis Star Trek: The Next Generation. In films 8-10 (STVIII-STX), the Sovereign-class NCC-1701-E plays a prominent role. Later models included the Odyssey-class 1701-F, the Neo-Constitution class (Constitution III) 1701-G, and the ultra-large Universe-class NCC-1701-J. The chronological original was the NX-class NX-01 from Star Trek: Enterprise.</p>
+
+### NX class 
+<d>
+
+  
+### constitution class 
+
+### constitution class 
+### constitution class 
+### constitution class 
+### constitution class 
+
   <h3>type2</h3>
 
   {% capture my_tiles %}
