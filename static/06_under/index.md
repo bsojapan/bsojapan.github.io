@@ -1,5 +1,5 @@
 ---
-layout: photo_page
+layout: index
 title: "under the Watersurface"
 permalink: /static/06_under/
 image_back: "/assets/images/p_wall_under.jpg"
