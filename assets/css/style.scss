@@ -4,11 +4,11 @@
 
 @import "minima";
 
-@import "mystyle_body"; 
-@import "mystyle_titles";
-@import "mystyle_cascade_menu";
-@import "mystyle_titledecorations";
-@import "mystyle_md_indent";
+@import "../../_sass/mystyle_body"; 
+@import "../../_sass/mystyle_titles";
+@import "../../_sass/mystyle_cascade_menu";
+@import "../../_sass/mystyle_titledecorations";
+@import "../../_sass/mystyle_md_indent";
 
 /* Custom Styles */
 .header-style {
