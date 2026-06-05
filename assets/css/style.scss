@@ -1,7 +1,7 @@
 ---
 ---
 /* mystydir: /assets/css/ */
-/* 1. まず、大元のテーマのデザインをマニュアル通りに吸い込みます */
+
 @import "{{ site.theme }}";
 
 @import "mystyle_body"; 
@@ -10,7 +10,7 @@
 @import "mystyle_titledecorations";
 @import "mystyle_md_indent";
 
-/* 普通のCSSルールは、すべての@importが完全に終わった一番下に書く */
+/* Custom Styles */
 .header-style {
   background-position: center;
   background-repeat: no-repeat;
