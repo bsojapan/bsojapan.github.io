@@ -1,5 +1,6 @@
 ---
 ---
+<!DOCTYPE html>
 <head>
 
 <!-- Google tag (gtag.js) -->
