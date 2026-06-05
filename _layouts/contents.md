@@ -1,5 +1,6 @@
 ---
 ---
+<!DOCTYPE html>
 <head>
   {% include googletag.html %} <!-- _includes/footer.html を読み込む -->
   {% include googlefont.html %} <!-- _includes/footer.html を読み込む -->
