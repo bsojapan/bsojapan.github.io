@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: "site top index.html for Blue Sky and Oceans"
 image_back: "http;//bsojapan.github.io/assets/images/p_wall_sky.jpg"
 ---
