@@ -7,6 +7,6 @@ permalink: /blog0/:year/:month/:day/:title.html
 gems:
   - jekyll-sitemap
 contents_subtitle_i: " -- Index"
-contents_subtitle_c: " -- Vehicle Overview"
+contents_subtitle_c: " -- Vehicles Overview"
 ---
 
