@@ -12,7 +12,7 @@ This is a virtual museum of transportation vehicles.
 Mainly, small-scale Japanese models, some of the models of various vehicles such as Western models are displayed.There are models of old planes and modern aircraft, ships and submarines, real and fantasy spaceships. 
   </p>
   <p>
-Convenient access from the top menu or categories
+Convenient access from the categories with pull down menu.
 </p><p>
 1/144 またはそれよりスモールスケールの
 航空機、宇宙器、Sci-Fi 宇宙船や陸海空の乗り物系模型のこじんまりしたサイト
