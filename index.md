@@ -3,30 +3,29 @@ layout: index
 title: "Site top for Blue Sky and Oceans"
 image_back: "http://bsojapan.github.io/assets/images/p_wall_sky.jpg"
 ---
-<section>
-  <h2>
-Gallery for Japanese 1/144 scale or smaller-scales models of transportation vehicles.
-</h2>
-  <p>
+
+
+## Gallery for Japanese 1/144 scale or smaller-scales models of transportation vehicles.
+
+
 This is a virtual museum of transportation vehicles.
 Mainly, small-scale Japanese models, some of the models of various vehicles such as Western models are displayed.There are models of old planes and modern aircraft, ships and submarines, real and fantasy spaceships. 
-  </p>
-  <p>
-Convenient access from the categories with pull down menu.
-</p><p>
-1/144 またはそれよりスモールスケールの
-航空機、宇宙器、Sci-Fi 宇宙船や陸海空の乗り物系模型のこじんまりしたサイト
-</p></section>
 
-<section>
-<h3>
-  Why are you so obsessed with such a small model?
-</h3>
+This site is an entry point for beginners to develop an interest in vehicles, the works in which they appear, and their roles in the world.
+
+Convenient access from the categories with pull down menu.
+
+1/144 またはそれよりスモールスケールの
+航空機、宇宙器、Sci-Fi 宇宙船や陸海空の乗り物系模型のこじんまりしたサイト。
+
+###  Why are you so obsessed with such a small model?
+
 <p style="text-align: justify;
   word-break: normal;
   overflow-wrap: break-word; /* または single-word */">
   That's an important question. Scale modelers express the details of the actual aircraft and add various expressions through coloring. It is a creative hobby that leads to that path. However, even modelers with spacious living environments will find it difficult to gather their many historical footprints in one place. In Japan, we have a cramped living environment that is not found in other countries, as symbolized by the car import and export issue that has been repeated many times by successive American presidents who have no understanding of the situation. There, there is a breeding ground for totalitarian ideology caused by small housing. In other words, since a small residence is shared with a family, personal hobbies and collections should not affect the family. As a result, collectors tend to be shunned in Japan.
 </p>
+
 <p style=": 0em 10em 1em 5em;text-align: justify;
   word-break: normal;
   overflow-wrap: break-word; /* または single-word */">
