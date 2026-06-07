@@ -34,6 +34,7 @@
   display: none; /* 👈 これで最初は隠れます */
   position: absolute;
   z-index: 100;
+  width: 140px;
 }
 
 /* プルダウン（第2階層）の配置位置 */
@@ -68,5 +69,5 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-width: 180px; /* メニューの横幅を統一 */
+  min-width: 140px; /* メニューの横幅を統一 */
 }
