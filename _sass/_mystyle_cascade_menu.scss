@@ -9,64 +9,67 @@
 /* --- ② メニュー全体の文字や背景の基本設定 --- */
 .hover-cascade-nav a {
   display: block;
-  padding: 10px 18px;
-  color: #ffffff; /* 通常の文字色は白 */
+  padding: 10px 15px; /* 左右の余白を少し調整 */
+  color: #ffffff;
   text-decoration: none;
-  background-color: #222222; /* 通常の背景色は黒系 */
+  background-color: #222222;
   white-space: nowrap;
 }
 
-/* 【重要】マウスが乗ったとき（ホバー時）は濃い赤、文字を薄いピンクにする */
+/* ホバー時の色変更 */
 .hover-cascade-nav a:hover {
   background-color: #801010 !important;
   color: #ffdddd !important;
 }
 
-/* メインのメニューバーに並ぶ項目（li）はすべて横並びのボタンにする */
+/* メインのメニューバー（第1階層）の横並び設定 */
 .hover-cascade-nav > ul > li {
   position: relative;
-  display: inline-block; /* 👈 これで全員が同じボタンの形になります */
+  display: inline-block;
 }
 
-/* --- ③ 最初は非表示にする（親・子・孫メニュー共通の基本定義） --- */
+/* 💡【重要：ここを追加】 */
+/* プルダウンの中にある「すべてのリスト項目（li）」にも基準点を設定する */
+/* これがないと、3層目・4層目が左側にズレて重なります */
+.hover-cascade-nav ul ul li {
+  position: relative;
+}
+
+/* --- ③ 最初は非表示にする＆【幅をここで強制固定】 --- */
+/* --- ③ 最初は非表示にする＆【幅をここで強制固定】 --- */
 .dropdown-content,
 .sub-dropdown {
-  display: none; /* 👈 これで最初は隠れます */
+  display: none;
   position: absolute;
   z-index: 100;
 }
 
-/* プルダウン（第2階層）の配置位置 */
+/* 🟢 第2階層（最初のプルダウン）の幅と配置 */
 .dropdown-content {
+  width: 150px; /* 2層目は少しゆったりめの幅 */
   top: 100%;
   left: 0;
 }
 
-/* 右手に開くメニュー（第3・第4階層）の配置位置 */
+/* 🔵 第3・第4階層（右に開くメニュー）の幅と配置 */
 .sub-dropdown {
+  width: 120px;  /* 👈 ここ！3層目・4層目だけをさらに狭く設定 */
   top: 0;
-  left: 100%; /* 親メニューの右側にピッタリ配置 */
+  left: 100%;    /* 親（2層目）の幅が150pxなら150px分、3層目が120pxなら120px分、自動で右にピッタリずれます */
 }
 
-/* --- ④ 【修正ポイント】ホバー時に「直近の下層だけ」を開く指示（> を追加） --- */
-/* 「Categories」にマウスが乗ったら、その直下の親メニューだけを表示する */
+/* --- ④ ホバー時に直近の下層だけを開く --- */
 .parent-menu:hover > .dropdown-content {
   display: block;
 }
 
-/* 「on the water」や「misc」にマウスが乗ったら、その直下の子・孫メニューだけを右手に表示する */
 .has-child:hover > .sub-dropdown {
   display: block;
 }
 
 /* --- ⑤ 矢印 ▸ を右端に綺麗に寄せるための調整 --- */
-.has-child {
-  position: relative;
-}
-
-.has-child a {
+.has-child > a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-width: 180px; /* メニューの横幅を統一 */
 }
