@@ -34,17 +34,10 @@ Small buildings cluster around high-rise buildings, and small houses surround th
 
 That's why it's 1/144 scale.
 
- <p style="text-align: justify;
-  word-break: normal;
-  overflow-wrap: break-word; /* または single-word */">
 Because it's small, you can line up many types and appreciate them. Although the individual models are not very well-made, they exude a powerful presence as a group. They look better in a diorama than individually. Eight of them could fit in a 1/78 scale space.
-</p> <!-- ★ 修正箇所： <\p> から </p> へ -->
-  <p style="text-align: justify;
-  word-break: normal;
-  overflow-wrap: break-word; /* または single-word */">
+
 This site is not for those looking for detailed models, but please take a look at the atmosphere described above.
-</p>
-</section>
+
 
   
 {% include link.html %}
