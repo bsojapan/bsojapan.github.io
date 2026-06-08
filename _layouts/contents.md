@@ -1,19 +1,19 @@
 ---
+# 1. Jekyllへの命令（フロントマター）はここで完全に独立させる
 ---
+
 <!DOCTYPE html>
+<html lang="ja">
 <head>  
-  <!-- 🟢 Jekyll 4推奨：relative_url フィルターを使う -->
-<link rel="stylesheet" href="{{ '/assets/css/style_contents.css' | relative_url }}">
+  <meta charset="UTF-8">
 
-  {% include googletag.html %} <!-- _includes/footer.html を読み込む -->
-  {% include googlefont.html %} <!-- _includes/footer.html を読み込む -->
-  
+  <title>{{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models</title>
 
-<title>
-  {{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models 
-</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style_contents.css' | relative_url }}">
+
+  {% include googlefont.html %}
+  {% include googletag.html %}
 </head>
-
 <body>
   
 {% include header.html %} <!-- _includes/header.html を読み込む -->
