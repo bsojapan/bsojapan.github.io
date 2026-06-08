@@ -64,6 +64,7 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
 ##### aaa
 ### the Prequel Trilogy
 #### Episode I - The Phantom Menace
+"The Phantom Menace" tells the story of the Skywalker family and lineage, and it seems to hold secrets about the Force. The episode follows two Jedi envoys sent by the Senate as they save Naboo from a crisis caused by the Trade Federation, which has secret ties to the Sith Lord. After rescuing Queen Amidala from captivity, Obi-Wan Kenobi and other Jedi stop at the planet Tatooine to repair the hyperdrive of a Naboo starship. There, they win a pod race bet against Anakin Skywalker, Luke's future father, and the story unfolds as they avert the invasion of Naboo.Queen Amidala shows respect to the Naboo natives, who had been at odds with each other but did not interfere with one another, and together they protect Naboo from crisis and maintain peace.
 #### Episode II - Attack of the Clones
 #### Episode III - Revenge of the Sith
 ### the Sequel Trilogy
