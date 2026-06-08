@@ -14,7 +14,7 @@ h2 {
 }
 h2::before {
   counter-increment: h2-count;
-  content: counter(h2-count) ". ";
+  content: counter(h2-count) ".   ";
 }
 
 /* 4. h3 (###) の処理 ➔ 「1.1 」「1.2 」 */
@@ -23,7 +23,7 @@ h3 {
 }
 h3::before {
   counter-increment: h3-count;
-  content: counter(h2-count) "." counter(h3-count) " ";
+  content: counter(h2-count) "." counter(h3-count) "   ";
 }
 
 /* 5. h4 (####) の処理 ➔ 「1.1.1 」 */
@@ -32,11 +32,11 @@ h4 {
 }
 h4::before {
   counter-increment: h4-count;
-  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count) " ";
+  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count) "   ";
 }
 
 /* 6. h5 (#####) の処理 ➔ アルファベット小文字「a. 」「b. 」（不可能ではなく、簡単に実現できます！） */
 h5::before {
   counter-increment: h5-count;
-  content: counter(h5-count, lower-alpha) ". "; /* lower-alpha を指定することで a, b, c になります */
+  content: counter(h5-count, lower-alpha) ".   "; /* lower-alpha を指定することで a, b, c になります */
 }
