@@ -21,7 +21,7 @@ You will interest in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)"
 
 ## Overview
 
-George Lucas's envisioned Star Wars narative was about unifying the world peacefully through the history and ethics of the Skywalker family, while revealing the true nature of the magical force. However, although the concept for the final reveal was passed on to Disney, it seems that the narative was never told.
+George Lucas's envisioned Star Wars narative was about unifying the world peacefully through the history and ethics of the Skywalker family, while revealing the true nature of the magical "Force". However, although the concept for the final reveal was passed on to Disney, it seems that the narative was never told.
 
 A defining characteristic of the vehicles in the Star Wars series is the richly defined world setting, where many manufacturers representing major planets in the galaxy are responsible for everything from massive military aircraft to small civilian planes, transport planes, and vehicles adapted to different environments, as well as the engines, weapons, and escape pods equipped on them.
 
