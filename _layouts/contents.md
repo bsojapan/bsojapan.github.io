@@ -8,9 +8,9 @@
 
   <title>{{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models</title>
 
+  {% include googlefont.html %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-  {% include googlefont.html %}
   {% include googletag.html %}
 </head>
 <body>
