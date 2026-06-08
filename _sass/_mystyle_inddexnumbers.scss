@@ -1,0 +1,28 @@
+/* 見出し全体のカウンターをリセット */
+body {
+  counter-reset: h2-count;
+}
+
+/* h1（#）の処理 */
+h2 {
+  counter-reset: h3-count; /* 下位のカウンターをリセット */
+}
+h1::before {
+  counter-increment: h2-count;
+  content: counter(h2-count) ". "; /* 1. 2. と表示 */
+}
+
+/* h2（##）の処理 */
+h3 {
+  counter-reset: h4-count;
+}
+h3::before {
+  counter-increment: h3-count;
+  content: counter(h2-count) "." counter(h3-count) " "; /* 1.1 1.2 と表示 */
+}
+
+/* h3（###）の処理 */
+h4 {
+  counter-increment: h4-count;
+  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count) " "; /* 1.1.1 と表示 */
+}
