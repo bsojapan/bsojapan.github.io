@@ -73,14 +73,11 @@ Initially designed as a long-range bomber, it pivoted to a fighter-bomber role b
 1. BTL-B Y-wing
    The very first mass-produced model, adopted by the Galactic Republic during the early Clone Wars. It featured a two-seat cockpit for a pilot and a dedicated gunner. While packed with heavy armor and strong shields, it was notoriously high-maintenance. It saw plenty of action taking down Separatist cruisers.
 
-1. BTL-S3 Y-wing
-Carrying over the design principles of the BTL-B, this two-seat (pilot and gunner) strike fighter was heavily used by the Rebel Alliance.
+1. BTL-S3 Y-wingv:  Carrying over the design principles of the BTL-B, this two-seat (pilot and gunner) strike fighter was heavily used by the Rebel Alliance.
 
-1. BTL-A4 Y-wing
-The most famous variant, this single-seat (one-pilot) model served as the backbone of the Rebel fleet. To make repairs easier and improve reliability, Rebel mechanics stripped away the heavy hull plating and engine nacelle covers. This mod job left the skeletal frame exposed, giving it that iconic, bare-bones "Y" silhouette (earning it the nickname "Wishbone").
+1. BTL-A4 Y-wing :  The most famous variant, this single-seat (one-pilot) model served as the backbone of the Rebel fleet. To make repairs easier and improve reliability, Rebel mechanics stripped away the heavy hull plating and engine nacelle covers. This mod job left the skeletal frame exposed, giving it that iconic, bare-bones "Y" silhouette (earning it the nickname "Wishbone").
 
-1. BTA-NR2 Y-wing
-A modernized variant that popped up during the New Republic and Resistance eras. While it kept the classic look, its core specs received a major upgrade under the hood.
+1. BTA-NR2 Y-wing :  A modernized variant that popped up during the New Republic and Resistance eras. While it kept the classic look, its core specs received a major upgrade under the hood.
 
 - Iconic Battles
 
