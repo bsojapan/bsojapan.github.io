@@ -5,7 +5,7 @@ permalink: /static/01_univers/starwars.html
 image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad8666520db225d-b7/s1280x1920/04d41bd1ea5d1db8d42353fc02eb80a936eedce1.jpg"
 ---
 
-You will interest in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
+You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
 
 ## images
 
@@ -55,7 +55,7 @@ Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium 
 ##### Corellian Engineering Corporation CR90 Corvette "Tantive IV"
 A Corellian Engineering CR90 corvette, also known as the Corellian corvette or Blockade runner, operated by the Organa royal family of the planet Alderaan as a Senate diplomatic vessel. Due to its modular design, it was easy to modify various parts for different purposes. Equipped with 11 Koniex F-31 sublight engines, two medium turbolasers, and four light turbolasers as standard, it was a small, high-speed light capital ship, making it widely used by both military and civilian forces. Although it blended in with many similar ships, the Empire marked it as being used by the Rebel Alliance.
 
-Princess Leia Organa's support for the Rebel Alliance was an open secret and was monitored by Lord Vader. The Tantive IV, having sustained damage (including hyperdrive damage) during another mission, was to be repaired aboard the Profundity and then attempt to request Obi-Wan's assistance. However, while being repaired in the Profundity's dock, it traveled with them to Battle of Scarif . Just before escaping from the Profundity, they received the Death Star data disc and narrowly escaped to the Tatooine region. However, the Tantive IV was ultimately captured by the Devastator over Tatooine. Thanks to Leia's quick thinking, the message and blueprints were entrusted to R2-D2 and C-3PO, delivered to Tatooine, and marked the beginning of Luke Skywalker's story.
+Princess Leia Organa's support for the Rebel Alliance was an open secret and was monitored by Lord Vader. The Tantive IV, having sustained damage (including hyperdrive damage) during another mission, was to be repaired aboard the Profundity and then attempt to request Obi-Wan's assistance. However, while being repaired in the Profundity's dock, it traveled with them to the Battle of Scarif . Just before escaping from the Profundity, they received the Death Star data disc and narrowly escaped to the Tatooine region. However, the Tantive IV was ultimately captured by the Devastator over Tatooine. Thanks to Leia's quick thinking, the message and blueprints were entrusted to R2-D2 and C-3PO, delivered to Tatooine, and marked the beginning of Luke Skywalker's story.
 
 After being captured near Tatooine, the Tantive IV was disguised by the Empire as a meteorite impact accident and hidden along with information about any survivors. Later (before Star Wars: The Rise of Skywalker), it was rediscovered, restored, and secretly returned to Leia. After serving as a Resistance communications base and power generator, it participated in the Battle of Exegol, but was rendered uncontrollable by Palpatine's powerful Force lightning and crashed to the surface, ending its history.
 
