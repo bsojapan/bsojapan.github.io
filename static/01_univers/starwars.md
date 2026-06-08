@@ -23,7 +23,9 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 A defining characteristic of the vehicles in the Star Wars series is the richly defined world setting, where many manufacturers representing major planets in the galaxy are responsible for everything from massive military aircraft to small civilian planes, transport planes, and vehicles adapted to different environments, as well as the engines, weapons, and escape pods equipped on them.
 
 
-## vehicle types(level 2)
+## Skywalker Saga and vehicle types(level 2)
+
+Star Wars is composed of three trilogies. In order of release, they are the Original Trilogy (Classic Trilogy), the Prequel Trilogy, and the Sequel Trilogy.
 
 ### NCC-1701 Enterprise siries(level 3)
 
