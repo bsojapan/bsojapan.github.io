@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <head>  
   <!-- 🟢 Jekyll 4推奨：relative_url フィルターを使う -->
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style_contents.css' | relative_url }}">
 
   {% include googletag.html %} <!-- _includes/footer.html を読み込む -->
   {% include googlefont.html %} <!-- _includes/footer.html を読み込む -->
