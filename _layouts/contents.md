@@ -1,5 +1,5 @@
 ---
-# 1. Jekyllへの命令（フロントマター）はここで完全に独立させる
+# dummy
 ---
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@
 
   <title>{{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models</title>
 
-  <link rel="stylesheet" href="{{ '/assets/css/style_contents.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   {% include googlefont.html %}
   {% include googletag.html %}
