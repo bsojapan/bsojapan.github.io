@@ -1,58 +1,61 @@
-/* 1. サイト全体のベースとなるカウンターを一括リセット */
+/* ==========================================
+   章節番号（カウンター）の完全リセットと連動
+   ========================================== */
+
+/* 1. ページ全体の初期化（念のための大元リセット） */
 body {
+  counter-reset: h2-count 0 h3-count 0 h4-count 0 h5-count 0;
+}
+
+/* 2. h1（#）
+   ➔ 番号は表示しない。
+   ➔ h1が来たら、下位のh2〜h5のカウンターをすべて「0」に完全リセットする */
+h1 {
   counter-reset: h2-count h3-count h4-count h5-count;
 }
 
-/* 2. h1 (#) の処理 ➔ 番号は表示せず、下位(h2)のカウンターだけをリセット */
-h1 {
-  counter-reset: h2-count;
-}
-
-/* 3. h2 (##) の処理 ➔ 「1.」「2.」 */
+/* 3. h2（##）➔ 「1. 」「2. 」
+   ➔ h2が来たら、自分（h2）を1進め、同時に下位（h3〜h5）をすべてリセット */
 h2 {
-  counter-reset: h3-count; /* 下位(h3)のカウンターを初期化 */
+  counter-increment: h2-count;
+  counter-reset: h3-count h4-count h5-count; /* 👈 漏れを修正：下位をすべて連動リセット */
 }
 h2::before {
-  counter-increment: h2-count;
   content: counter(h2-count) ".";
-  /* 右側に 12px（あるいは 0.8em など）の余白を強制的に作る */
-  margin-right: 18px;   
-  /* おまけ：番号だけ少し太らせたり色を変えたりも自由にできます */
-  font-weight: bold;
+  margin-right: 28px; /* ➔ 番号の後ろに12pxの綺麗な空白を作る */
 }
 
-/* 4. h3 (###) の処理 ➔ 「1.1 」「1.2 」 */
+/* 4. h3（###）➔ 「1.1 」「1.2 」
+   ➔ h3が来たら、自分（h3）を1進め、同時に下位（h4〜h5）をすべてリセット */
 h3 {
-  counter-reset: h4-count; /* 下位(h4)のカウンターを初期化 */
+  counter-increment: h3-count;
+  counter-reset: h4-count h5-count; /* 👈 ご指摘の箇所：ここでh4とh5を確実にゼロに戻す */
 }
 h3::before {
-  counter-increment: h3-count;
-  content: counter(h2-count) "." counter(h3-count) ".";
-  /* 右側に 12px（あるいは 0.8em など）の余白を強制的に作る */
-  margin-right: 28px; 
-    /* おまけ：番号だけ少し太らせたり色を変えたりも自由にできます */
-  font-weight: bold;
+  content: counter(h2-count) "." counter(h3-count);
+  margin-right: 24px; /* ➔ 番号の後ろに12pxの綺麗な空白を作る */
+font-weight: bold;
 }
 
-/* 5. h4 (####) の処理 ➔ 「1.1.1 」 */
+/* 5. h4（####）➔ 「1.1.1 」
+   ➔ h4が来たら、自分（h4）を1進め、同時に下位（h5）をリセット */
 h4 {
-  counter-reset: h5-count; /* 下位(h5)のカウンターを初期化 */
+  counter-increment: h4-count;
+  counter-reset: h5-count; /* 👈 漏れを修正：h5を確実にゼロに戻す */
 }
 h4::before {
-  counter-increment: h4-count;
-  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count) ".";
-  /* 右側に 12px（あるいは 0.8em など）の余白を強制的に作る */
-  margin-right: 24px; 
-    /* おまけ：番号だけ少し太らせたり色を変えたりも自由にできます */
-  font-weight: bold;
+  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count);
+  margin-right: 22px; /* ➔ 番号の後ろに12pxの綺麗な空白を作る */
+font-weight: bold;
 }
 
-/* 6. h5 (#####) の処理 ➔ アルファベット小文字「a. 」「b. 」（不可能ではなく、簡単に実現できます！） */
-h5::before {
+/* 6. h5（#####）➔ 「a. 」「b. 」
+   ➔ 最下位なのでリセットは不要。自分（h5）を1進めるだけ */
+h5 {
   counter-increment: h5-count;
-  content: counter(h5-count, lower-alpha) "."; /* lower-alpha を指定することで a, b, c になります */
-/* 右側に 12px（あるいは 0.8em など）の余白を強制的に作る */
-  margin-right: 18px; 
-  /* おまけ：番号だけ少し太らせたり色を変えたりも自由にできます */
-  font-weight: bold;
+}
+h5::before {
+  content: counter(h5-count, lower-alpha) ".";
+  margin-right: 22px; /* ➔ 番号の後ろに12pxの綺麗な空白を作る */
+font-weight: bold;
 }
