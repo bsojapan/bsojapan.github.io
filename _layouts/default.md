@@ -2,6 +2,9 @@
 ---
 <!DOCTYPE html>
 <head>
+    <!-- 🟢 Jekyll 4推奨：relative_url フィルターを使う -->
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 　{% include googletag.html %} 
 　{% include googlefont.html %} 
 
