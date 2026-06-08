@@ -32,9 +32,16 @@ Star Wars is composed of three trilogies. In order of release, they are the Orig
 
 ### the Original Trilogy
 
+
+Although the timeline is somewhat out of order, the iconic starship that kicked off George Lucas's STAR WARS (Episode IV: A New Hope) is as follows:
 #### Episode IV: Star Wars: Episode IV - A New Hope
+Episode IV is the historic first installment in the Star Wars series. It tells the story of Luke Skywalker, who, through a twist of fate, blossoms into a Jedi, and together with companions drawn to him by destiny, destroys the Empire's weapons of mass destruction. The fate that pulled the strings behind the scenes will be revealed in subsequent stories.
 #### Episode V: Star Wars: Episode V - The Empire Strikes Back
+Episode 5 tells the story of Luke learning about his true family, a story he hadn't been told in detail. He learns about his parents and siblings, and the beginnings of his sisterly love are also depicted.
+
+The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of Hoth (the Echo Base evacuation). Princess Leia explains that the Rebel Alliance used the V-150 Planet Defender ion cannons installed at Echo Base to temporarily disable the Galactic Empire's Imperial-class Star Destroyers. The overconfidence against the weak Rebel forces led to the loss of the Death Star and key officers, and the Rebels were scattered when the Empire launched a full-scale offensive.
 #### Episode VI: Star Wars: Episode VI - Return of the Jedi
+Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
 
 {% capture my_tiles %}
 - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
