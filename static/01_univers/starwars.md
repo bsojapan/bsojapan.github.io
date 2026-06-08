@@ -83,16 +83,16 @@ A modernized variant that popped up during the New Republic and Resistance eras.
 
 - Iconic Battles
 
--- Battle of Yavin (Episode IV: A New Hope)
+ - **Battle of Yavin** (Episode IV: A New Hope)
 This is where the Y-wing made its cinematic debut and left its biggest mark. Flying under the call sign "Gold Squadron", they took part in the assault on the first Death Star. While the faster X-wings kept the Empire's TIE fighters busy, the heavily armored, high-yield Y-wings made the treacherous first run down the Death Star’s trench to hit the thermal exhaust port.
 
--- Battle of Scarif (Rogue One: A Star Wars Story)
+ - **Battle of Scarif** (Rogue One: A Star Wars Story)
 Set just before the events of "Episode IV", this battle showed off the ship's tactical utility. Y-wings from Gold Squadron dropped "ion torpedoes" to disable an Imperial Star Destroyer. This perfectly set the stage for a Rebel Hammerhead Corvette to ram the disabled ship into another Destroyer, bringing down the planetary shield gate.
 
--- Battle of Endor (Episode VI: Return of the Jedi)
+ - **Battle of Endor** (Episode VI: Return of the Jedi)
 During the massive fleet battle over the Second Death Star, Y-wings flew as "Gray Squadron". Alongside the Millennium Falcon and X-wings, they dove straight into the superstructure of the Death Star once its shields fell, helping to blow the main reactor to pieces.
 
--- Battle of Exegol (Episode IX: The Rise of Skywalker)
+ - **Battle of Exegol** (Episode IX: The Rise of Skywalker)
 In the final showdown of the saga, the Y-wing made a triumphant return. Among the massive civilian armada, you could spot fully-armored models reminiscent of the old Republic days (BTL-B), alongside upgraded modern variants, all dropping payloads onto the Sith Eternal’s shieldless Star Destroyers.
 
 ##### Incom T-65 X-wing Starfighter sereis
