@@ -1,28 +1,42 @@
-/* 見出し全体のカウンターをリセット */
+/* 1. サイト全体のベースとなるカウンターを一括リセット */
 body {
+  counter-reset: h2-count h3-count h4-count h5-count;
+}
+
+/* 2. h1 (#) の処理 ➔ 番号は表示せず、下位(h2)のカウンターだけをリセット */
+h1 {
   counter-reset: h2-count;
 }
 
-/* h1（#）の処理 */
+/* 3. h2 (##) の処理 ➔ 「1.」「2.」 */
 h2 {
-  counter-reset: h3-count; /* 下位のカウンターをリセット */
+  counter-reset: h3-count; /* 下位(h3)のカウンターを初期化 */
 }
-h1::before {
+h2::before {
   counter-increment: h2-count;
-  content: counter(h2-count) ". "; /* 1. 2. と表示 */
+  content: counter(h2-count) ". ";
 }
 
-/* h2（##）の処理 */
+/* 4. h3 (###) の処理 ➔ 「1.1 」「1.2 」 */
 h3 {
-  counter-reset: h4-count;
+  counter-reset: h4-count; /* 下位(h4)のカウンターを初期化 */
 }
 h3::before {
   counter-increment: h3-count;
-  content: counter(h2-count) "." counter(h3-count) " "; /* 1.1 1.2 と表示 */
+  content: counter(h2-count) "." counter(h3-count) " ";
 }
 
-/* h3（###）の処理 */
+/* 5. h4 (####) の処理 ➔ 「1.1.1 」 */
 h4 {
+  counter-reset: h5-count; /* 下位(h5)のカウンターを初期化 */
+}
+h4::before {
   counter-increment: h4-count;
-  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count) " "; /* 1.1.1 と表示 */
+  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count) " ";
+}
+
+/* 6. h5 (#####) の処理 ➔ アルファベット小文字「a. 」「b. 」（不可能ではなく、簡単に実現できます！） */
+h5::before {
+  counter-increment: h5-count;
+  content: counter(h5-count, lower-alpha) ". "; /* lower-alpha を指定することで a, b, c になります */
 }
