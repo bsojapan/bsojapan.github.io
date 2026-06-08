@@ -2,7 +2,6 @@
 ---
 <!DOCTYPE html>
 <head>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N3V61VNGL5"></script>
 <script>
