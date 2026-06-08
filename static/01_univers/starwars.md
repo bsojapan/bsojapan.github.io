@@ -29,6 +29,10 @@ Star Wars is composed of three trilogies. In order of release, they are the Orig
 
 ### the Original Trilogy
 
+#### Episode IV: Star Wars: Episode IV - A New Hope
+#### Episode V: Star Wars: Episode V - The Empire Strikes Back
+#### Episode VI: Star Wars: Episode VI - Return of the Jedi
+
 {% capture my_tiles %}
 - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
   url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
