@@ -22,7 +22,7 @@ You will interest in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)"
 
 ## Overview
 
-George Lucas's envisioned Star Wars narative was about unifying the world peacefully through the history and ethics of the Skywalker family, while revealing the true nature of the magical "Force". However, although the concept for the final reveal was passed on to Disney, it seems that the narative was never told.
+George Lucas's envisioned Star Wars narrative was about unifying the world peacefully through the history and ethics of the Skywalker family, while revealing the true nature of the magical "Force". However, although the concept for the final reveal was passed on to Disney, it seems that the narrative was never told.
 
 A defining characteristic of the vehicles in the Star Wars series is the richly defined world setting, where many manufacturers representing major planets in the galaxy are responsible for everything from massive military aircraft to small civilian planes, transport planes, and vehicles adapted to different environments, as well as the engines, weapons, and escape pods equipped on them.
 
@@ -46,7 +46,7 @@ Episode IV is the historic first installment in the Star Wars series. It tells t
 
 The colossal battleship that graced the opening scene. The flagship of the 501st Legion, directly under Supreme Commander Darth Vader, it measured 1600 meters in length. The Devastator was one of the last and most advanced Imperial I-class battleships, boasting cutting-edge improvements to its special weapons systems, giving it performance equal to, or even exceeding, that of other battleships of the time (Imperial II-class). Equipped with 60 turbolaser cannons and tractor beam generators, it carried tens of thousands of assault stormtroopers and numerous TIE fighters. It demonstrated incredible power in planetary conquest and maintaining order.
 
-The Devastator arrived at the end of the Battle of Scarif, attempting to neutralize the Rebel flagship, the Profantiti, and prevent the leak of design data. However, by a narrow margin, Princess Leia's Tantive IV, along with the Profundity's recently received blueprints, escaped via hyperspace. Lord Vader quickly returned to his ship, and the Devastator pursued.
+The Devastator arrived at the end of the Battle of Scarif, attempting to neutralize the Rebel flagship, the Profundity, and prevent the leak of design data. However, by a narrow margin, Princess Leia's Tantive IV, along with the Profundity's recently received blueprints, escaped via hyperspace. Lord Vader quickly returned to his ship, and the Devastator pursued.
 
 In the opening scene of the first Star Wars film, it completely swallowed and captured the Tantive IV beneath its hull.
 
