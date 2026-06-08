@@ -1,5 +1,4 @@
 ---
-# dummy
 ---
 
 <!DOCTYPE html>
