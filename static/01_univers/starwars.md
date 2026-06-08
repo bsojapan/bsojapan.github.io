@@ -105,23 +105,19 @@ The X-wing has a design philosophy that is the polar opposite of the TIE series:
 Around 2 BBY, the pro-Rebel Incom Corporation evacuated the X-wings to the Rebel Alliance in response to the Empire's seizure actions. As a result, the Rebel Alliance obtained the "state-of-the-art starfighter" for free, and operated this series for a long time thereafter.
 
 1. T-65B X-wing [1st Generation] (Galactic Civil War Period: EP4–EP6)
-
 The original legendary starfighter flown by Luke and Wedge. The four engines are each independent and cylindrical.
 
 1. T-70 X-wing [2nd Generation] (New Republic / Early Resistance: EP7–EP8)
-
 Developed by Incom-FreiTek. The engine intakes became "semi-circular," designing them to form a single circle when the wings are closed. Famous as Poe Dameron's personal starfighter (the black "Black One"). Weapon swappability speed and electronic warfare capabilities were significantly improved.
 
 1. T-85 X-wing [3rd Generation] (New Republic Military / End Period: EP7)
-
 The highest-tier, state-of-the-art heavy starfighter that was deployed exclusively for the defense of the New Republic Military's capital star system under strict military regulations. Due to the strike from the First Order's "Starkiller Base," most of them instantly perished along with the capital star system and the main fleet of the Republic.
 
-- Battle of Scarif (0 BBY / "Rogue One")
+  - Battle of Scarif (0 BBY / "Rogue One")
 
 Said to be the first combat deployment of the X-wing. The X-wings of "Blue Squadron" scrambled.
 
-- Battle of Yavin (0 BBY / "Episode IV")
-
+  - Battle of Yavin (0 BBY / "Episode IV")
 The historic first victory of destroying the Death Star. The X-wings of "Red Squadron" scrambled.
 
 
@@ -136,21 +132,13 @@ The Rebel Alliance's hit-and-run tactics using high-performance, small fighters 
 
 - Positioning of Major Variations
 
--- TIE Advanced x1 (Early Prototype)
+  - TIE Advanced x1 (Early Prototype):  Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
 
-Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
+  - TIE Interceptor (Interceptor):  A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
 
--- TIE Interceptor (Interceptor)
+  - TIE Bomber (Bomber):  An anti-ship and ground attack aircraft. While it existed before the Battle of Yavin, its deployment on the front lines became more prominent after Yavin, primarily to strike Rebel strongholds and large cruisers. Its distinctive twin-fuselage design features the pilot on one side and a large number of torpedoes and bombs on the other.
 
-A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
-
--- TIE Bomber (Bomber)
-
-An anti-ship and ground attack aircraft. While it existed before the Battle of Yavin, its deployment on the front lines became more prominent after Yavin, primarily to strike Rebel strongholds and large cruisers. Its distinctive twin-fuselage design features the pilot on one side and a large number of torpedoes and bombs on the other.
-
--- TIE Defender
-
-The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
+  - TIE Defender :  The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
 
 {% capture my_tiles %}
 - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
