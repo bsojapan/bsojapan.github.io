@@ -14,7 +14,7 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 [Ep03](#star-wars-episode-iii---revenge-of-the-sith) / 
 [Ep04](#star-wars-episode-iv---a-new-hope) / 
 [Ep05](#star-wars-episode-v---the-empire-strikes-back) /
-[Ep06](#star-wars-episode-vi---a-new-hope) / 
+[Ep06](#star-wars-episode-vi---return-of-the-jedi) / 
 [Ep07](#star-wars-episode-vii---the-force-awakens) / 
 [Ep08](#star-wars-episode-viii---the-last-jedi) / 
 [Ep09](#star-wars-episode-ix---the-rise-of-skywalker) 
