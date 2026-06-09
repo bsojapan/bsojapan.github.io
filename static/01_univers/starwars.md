@@ -9,7 +9,7 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 
 [Tr1](#the-original-trilogy) / [Tr2](#the-prequel-trilogy) / [Tr3](#the-sequel-trilogy) 
 
-[Ep01](#star-wars-episode-i---a-new-hope) / 
+[Ep01](#star-wars-episode-i---the-phantom-menace) / 
 [Ep02](#star-wars-episode-ii---attack-of-the-clones) / 
 [Ep03](#star-wars-episode-iii---revenge-of-the-sith) / 
 [Ep04](#star-wars-episode-iv---a-new-hope) / 
