@@ -61,11 +61,8 @@ Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium 
 
 ##### Corellian Engineering Corporation CR90 Corvette "Tantive IV"
 {% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817129955198681088?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
