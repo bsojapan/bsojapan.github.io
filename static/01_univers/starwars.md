@@ -244,7 +244,7 @@ Jango Fett, a bounty hunter clad in anti-Force capabilities Mandalorian armor, a
 Another bounty hunter, Koshka Frost, and a corrupt merchant from the Outer Rim during the Clone Wars also personally piloted Firespray 31.
 
 
-#### Episode VI: Star Wars: Episode VI - Return of the Jedi
+#### Star Wars: Episode VI - Return of the Jedi
 
 Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
 
