@@ -7,7 +7,7 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
 
-[Ep1](#the-Original-Trilogy)
+[Ep1](#the-original-trilogy)
 
 ## images
 
@@ -33,7 +33,7 @@ A defining characteristic of the vehicles in the Star Wars series is the richly 
 
 Star Wars is composed of three trilogies. In order of release, they are the Original Trilogy (Classic Trilogy), the Prequel Trilogy, and the Sequel Trilogy.
 
-### the Original Trilogy
+### The Original Trilogy
 
 Although the timeline is somewhat out of order, the iconic starship that kicked off George Lucas's STAR WARS (Episode IV: A New Hope) is as follows:
 
