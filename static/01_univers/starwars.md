@@ -125,12 +125,8 @@ In the final showdown of the saga, the Y-wing made a triumphant return. Among th
 
 ##### Incom T-65 X-wing Starfighter sereis
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
+- img: https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817281492696842240
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
