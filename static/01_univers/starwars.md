@@ -153,12 +153,12 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
 
 ##### TIE fighter series
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
+- img: https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
+- img: https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
+- img: https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
