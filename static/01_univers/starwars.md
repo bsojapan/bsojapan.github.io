@@ -7,7 +7,7 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
 
-[Tr1](#the-original-trilogy) / [Tr2](%the-prequel-trilogy) / [Tr3](#the-sequel-trilogy) 
+[Tr1](#the-original-trilogy) / [Tr2](%the-prequel-trilogy) / [Tr3](#the-tsequel-trilogy) 
 
 [Ep01](#star-wars-episode-iv---a-new-hope) / 
 [Ep02](#star-wars:-episode-iv---a-new-hope) / 
@@ -230,6 +230,7 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 - Suns’ Orchard
 - Duty Free
 
+[return](#overview)
 ##### The Quat Systems Engineering Firespray-31 class patrol attack craft
 {% capture my_tiles %}
 - img: https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
@@ -319,6 +320,8 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 #### Star Wars Episode II - Attack of the Clones
 #### Star Wars Episode III - Revenge of the Sith
+
+[return](#overview)
 ### The Sequel Trilogy
 #### Star Wars Episode VII - The Force Awakens
 #### Star Wars Episode VIII - The Last Jedi
