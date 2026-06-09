@@ -9,16 +9,15 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 
 [Tr1](#the-original-trilogy) / [Tr2](#the-prequel-trilogy) / [Tr3](#the-sequel-trilogy) 
 
-[Ep01](#star-wars-episode-iv---a-new-hope) / 
-[Ep02](#star-wars:-episode-iv---a-new-hope) / 
-[Ep03](#star-wars:-episode-iv---a-new-hope) / 
+[Ep01](#star-wars-episode-i---a-new-hope) / 
+[Ep02](#star-wars-episode-ii---attack-of-the-clones) / 
+[Ep03](#star-wars-episode-iii---revenge-of-the-sith) / 
 [Ep04](#star-wars-episode-iv---a-new-hope) / 
-[Ep05](star-wars-episode-iv---a-new-hope) / 
-[Ep06](#star-wars:-episode-iv---a-new-hope) / 
-[Ep07](#star-wars:-episode-iv---a-new-hope) / 
-[Ep08](#star-wars:-episode-iv---a-new-hope) / 
-[Ep09](#star-wars:-episode-iv---a-new-hope) 
-
+[Ep05](#star-wars-episode-v---a-new-hope) / 
+[Ep06](#star-wars-episode-vi---a-new-hope) / 
+[Ep07](#star-wars-episode-vii---the-force-awakens) / 
+[Ep08](#star-wars-episode-viii---the-last-jedi) / 
+[Ep09](#star-wars-episode-ix---the-rise-of-skywalker) 
 
 ## Overview
 
