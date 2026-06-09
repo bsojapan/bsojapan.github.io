@@ -256,6 +256,42 @@ The skiff, capable of carrying approximately 100 tons of cargo, was equipped wit
 ### the Prequel Trilogy
 #### Star Wars Episode I - The Phantom Menace
 "The Phantom Menace" tells the story of the Skywalker family and lineage, and it seems to hold secrets about the Force. The episode follows two Jedi envoys sent by the Senate as they save Naboo from a crisis caused by the Trade Federation, which has secret ties to the Sith Lord. After rescuing Queen Amidala from captivity, Obi-Wan Kenobi and other Jedi stop at the planet Tatooine to repair the hyperdrive of a Naboo starship. There, they win a pod race bet against Anakin Skywalker, Luke's future father, and the story unfolds as they avert the invasion of Naboo.Queen Amidala shows respect to the Naboo natives, who had been at odds with each other but did not interfere with one another, and together they protect Naboo from crisis and maintain peace.
+
+##### The Lucrehulk-class LH-3210 cargo freighter
+
+
+The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
+
+The basic specifications of the Lucréhulk-class were a length of 3,356.9 meters, a width of 3,009 meters, and a height of 1,030 meters, making it the largest ship of its time, far exceeding the size of later Star Destroyer-type battleships. By regulation, it was only permitted to be equipped with 42 quadruple turbolasers for self-defense. Despite its size, the crew was highly automated and droid-based, consisting of 25 biological crew members and 150 droid crew members for ship operation. As a commercial transport ship, it had a particularly enormous internal volume, with a cargo capacity of 5 million tons (equivalent to more than 10 supertankers).
+
+Noticing their unique characteristics, it appears that 10-30% of the thousands to tens of thousands of Lucrehulk-class battleships were secretly armed and converted into warships. Due to their immense size, they were equipped with over 700 turrets and operated as "mobile super-bases," capable of transporting millions of droid armies and massive amounts of military supplies at once.
+
+When the Trade Federation launched the Naboo blockade and the Clone Wars, these ships were illegally modified and repurposed for military use, concealing hundreds of laser cannons beneath their surface armor, transforming them into impregnable fortresses equipped with powerful shields.
+
+By the time of the Clone Wars, these ships had been in service for decades. They were used in the Clone Wars, including the blockade and invasion of Naboo, the First Battle of Geonosis, and the Battle of Coruscant.
+
+##### J-327 Nubian ship（Modified）　Naboo Royal starship
+
+The Royal Naboo Starship embodies the craftsmanship and industrial design that symbolizes the Republic's peaceful era. This beautifully polished, streamlined vessel lacks offensive weaponry but boasts powerful shields and a high-performance hyperdrive.
+
+During the Trade Federation's invasion of Naboo, Queen Amidala and her entourage traveled to the Naboo Starship to present their case to the Council. The T-14 hyperdrive generator was replaced on Tatooine due to damage during their escape. It was during this time that Anakin Skywalker met the Royal Amidala and traveled to the Council aboard the ship.
+
+It also participated in the surprise attack during the recapture of Naboo. After the Clone Wars, it was used for the Queen's and Senator Padmé's travel and diplomatic missions. After a period of retirement, it came into the possession of the Imperial Sith Lord Darth Vader (Anakin Skywalker) and was kept as part of his personal collection.
+
+##### Naboo N-1 starfighter
+##### The Baktoid Armor Workshop's Armored Assault Tank (AAT)
+
+The Baktoid Armor Workshop's Armored Assault Tank (AAT) was a hover vehicle utilizing repulsorlift technology, piloted by B1 battle droids used by the Trade Federation since the invasion of Naboo.
+
+Heavily armored and highly firepowered, it featured a rotating long-range laser cannon mounted on the upper central section, two pylon-mounted auxiliary laser cannons on the sides, and a short-range blaster cannon on the front. It also had six energy projectile launchers on its underside, capable of firing high-velocity, high-penetration projectiles shielded by plasma, special armor-piercing rounds, and high-explosive rounds.
+
+The crew consisted of six droids (one commander, one pilot, and two gunners). OOM command battle droids sometimes also piloted AATs.
+
+During the Battle of Naboo, it fought alongside large troop transports and single trooper aerial platforms against the Naboo/Gungan coalition forces.
+
+During the Separatist movement led by Lord Sidious, Chairman of the High Council Palpatine, the Federation joined the Confederacy of Independent Systems, and as a result, armored assault tanks were also used as part of the Separatist droid army's forces.
+
+
 #### Star Wars Episode II - Attack of the Clones
 #### Star Wars Episode III - Revenge of the Sith
 ### the Sequel Trilogy
