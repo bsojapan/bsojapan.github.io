@@ -196,6 +196,19 @@ The Rebel Alliance's hit-and-run tactics using high-performance, small fighters 
 #### Episode V: Star Wars: Episode V - The Empire Strikes Back
 Episode 5 tells the story of Luke learning about his true family, a story he hadn't been told in detail. He learns about his parents and siblings, and the beginnings of his sisterly love are also depicted.
 
+The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of Hoth (the Echo Base evacuation). Princess Leia explains that the Rebel Alliance used the V-150 Planet Defender ion cannons installed at Echo Base to temporarily disable the Galactic Empire's Imperial-class Star Destroyers. The overconfidence against the weak Rebel forces led to the loss of the Death Star and key officers, and the Rebels were scattered when the Empire launched a full-scale offensive.
+
+##### AT-ST (All Terain Scout Transporter)
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817213628178644992
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
+The AT-ST is an all-terrain scout transporter. Its prototype appeared during the Clone Wars and it is one of the Empire's main ground combat weapons. It is bipedal and capable of traveling at 100 km/h. It has a crew of two: a pilot and a gunner. It is equipped with a medium-sized twin blaster, light blasters in the left and right pods, and concussion grenade launchers.
+
+During the Battle of Hoth, it guarded the legs of the large ground combat weapon, the AT-AT. During the Battle of Endor, it guarded the entrance to the second Death Star's shield generator with overwhelming firepower. However, it was thrown into disarray by a log attack by the native Ewoks, who opened the hatch and hijacked it.
+
 #### Episode VI: Star Wars: Episode VI - Return of the Jedi
 Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
 
