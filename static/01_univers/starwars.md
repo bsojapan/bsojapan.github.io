@@ -47,8 +47,7 @@ Episode IV is the historic first installment in the Star Wars series. It tells t
 - img: https://64.media.tumblr.com/94fe070652cf7f87e1c568bb53f7a0ab/1578e484ced63a62-3f/s2048x3072/497b61fd22832daf495dd27465f079c8f5b65b8e.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817130064833576960?source=share
   - img: https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400
-- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+    url: https://www.tumblr.com/webcateyes/817129955198681088?source=share
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
