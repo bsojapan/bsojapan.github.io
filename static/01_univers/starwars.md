@@ -42,7 +42,16 @@ The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of H
 Episode IV is the historic first installment in the Star Wars series. It tells the story of Luke Skywalker, who, through a twist of fate, blossoms into a Jedi, and together with companions drawn to him by destiny, destroys the Empire's weapons of mass destruction. The fate that pulled the strings behind the scenes will be revealed in subsequent stories.
 
 
-##### Imperial-class Star Destroyer "Devastator"
+##### Imperial-class Star Destroyer "the Devastator"
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
 
 The colossal battleship that graced the opening scene. The flagship of the 501st Legion, directly under Supreme Commander Darth Vader, it measured 1600 meters in length. The Devastator was one of the last and most advanced Imperial I-class battleships, boasting cutting-edge improvements to its special weapons systems, giving it performance equal to, or even exceeding, that of other battleships of the time (Imperial II-class). Equipped with 60 turbolaser cannons and tractor beam generators, it carried tens of thousands of assault stormtroopers and numerous TIE fighters. It demonstrated incredible power in planetary conquest and maintaining order.
 
@@ -53,6 +62,16 @@ In the opening scene of the first Star Wars film, it completely swallowed and ca
 Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium Falcon, and numerous other battles, but was shot down and severely damaged under heavy fire during the Battle of Endor.
 
 ##### Corellian Engineering Corporation CR90 Corvette "Tantive IV"
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
 A Corellian Engineering CR90 corvette, also known as the Corellian corvette or Blockade runner, operated by the Organa royal family of the planet Alderaan as a Senate diplomatic vessel. Due to its modular design, it was easy to modify various parts for different purposes. Equipped with 11 Koniex F-31 sublight engines, two medium turbolasers, and four light turbolasers as standard, it was a small, high-speed light capital ship, making it widely used by both military and civilian forces. Although it blended in with many similar ships, the Empire marked it as being used by the Rebel Alliance.
 
 Princess Leia Organa's support for the Rebel Alliance was an open secret and was monitored by Lord Vader. The Tantive IV, having sustained damage (including hyperdrive damage) during another mission, was to be repaired aboard the Profundity and then attempt to request Obi-Wan's assistance. However, while being repaired in the Profundity's dock, it traveled with them to the Battle of Scarif. Just before escaping from the Profundity, they received the Death Star data disc and narrowly escaped to the Tatooine region. However, the Tantive IV was ultimately captured by the Devastator over Tatooine. Thanks to Leia's quick thinking, the message and blueprints were entrusted to R2-D2 and C-3PO, delivered to Tatooine, and marked the beginning of Luke Skywalker's story.
@@ -60,8 +79,38 @@ Princess Leia Organa's support for the Rebel Alliance was an open secret and was
 After being captured near Tatooine, the Tantive IV was disguised by the Empire as a meteorite impact accident and hidden along with information about any survivors. Later (before Star Wars: The Rise of Skywalker), it was rediscovered, restored, and secretly returned to Leia. After serving as a Resistance communications base and power generator, it participated in the Battle of Exegol, but was rendered uncontrollable by Palpatine's powerful Force lightning and crashed to the surface, ending its history.
 
 ##### Sand Crawler
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
 ##### Corellian Engineering Corporation YT-1300  cargo ship "Millennium Falcon"
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
 ##### The Y-Wing Starfighter
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
 The Y-wing starfighter is a versatile, multi-role starfighter built on Koensayr Manufacturing’s BTL series. From its early days with the Galactic Republic during the Clone Wars, to its iconic service with the Rebel Alliance, and all the way into the Sequel Trilogy era, this reliable ship has seen an incredibly long service life.
 
 Initially designed as a long-range bomber, it pivoted to a fighter-bomber role by the time the Rebel Alliance got hold of it. While it lacks the top speed and agility of sleek dogfighters like the X-wing, it more than makes up for it with sheer power, heavy armor, and a massive payload (including proton torpedoes and ion cannons). This made it a heavyweight champ in anti-capital ship missions, including the legendary assaults on the Death Stars.
@@ -93,6 +142,15 @@ During the massive fleet battle over the Second Death Star, Y-wings flew as "Gra
 In the final showdown of the saga, the Y-wing made a triumphant return. Among the massive civilian armada, you could spot fully-armored models reminiscent of the old Republic days (BTL-B), alongside upgraded modern variants, all dropping payloads onto the Sith Eternal’s shieldless Star Destroyers.
 
 ##### Incom T-65 X-wing Starfighter sereis
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
 
 The Incom Corporation T-65 X-wing is a highly functional multi-role starfighter that determined the victory of the Rebel Alliance and the New Republic. Incom Corporation developed the X-wing in secrecy as a private venture for an Empire procurement bid, fusing the technologies of the Z-95 Headhunter, a single-wing bestselling light starfighter, and the ARC-170 starfighter, a heavy starfighter for the Republic during the Clone Wars jointly developed by Incom/Subpro.
 
@@ -116,6 +174,16 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
 
 
 ##### TIE fighter series
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817126283415781376?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
 For the first decade or so of the Galactic Empire, the TIE/ln (TIE Line Starfighter) was by far the Empire's primary starfighter. However, around the time of the Battle of Yavin (Episode IV), the variety of TIE-series  starfighters increased dramatically in just a few years. This rapid change was due to the devastating defeat at the Battle of Yavin (the destruction of the Death Star) and the shift in tactics of the Rebel Alliance.
 
 Up until then, the Empire relied on "rule by terror" (the Tarkin Doctrine) through overwhelming numbers and massive weapons (Star Destroyers and the Death Star), and this was sufficient.
