@@ -182,15 +182,6 @@ The Rebel Alliance's hit-and-run tactics using high-performance, small fighters 
 
   - TIE Defender :  The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
 
-{% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
-  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
-{% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
 
 
 #### Episode V: Star Wars: Episode V - The Empire Strikes Back
@@ -246,3 +237,12 @@ Episode VI tells the story of Luke overcoming a brutal reality to fight the Empi
 {% include multitail.html data=my_tiles size="150" %}
 
 222
+{% capture my_tiles %}
+- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
+  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
+- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
+  url: https://example.com/mountain
+- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
+  url: https://example.com/forest
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
