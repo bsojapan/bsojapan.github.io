@@ -159,6 +159,8 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
   url: https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
 - img: https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
+- img: https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
