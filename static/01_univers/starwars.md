@@ -277,6 +277,11 @@ When the Trade Federation launched the Naboo blockade and the Clone Wars, these 
 By the time of the Clone Wars, these ships had been in service for decades. They were used in the Clone Wars, including the blockade and invasion of Naboo, the First Battle of Geonosis, and the Battle of Coruscant.
 
 ##### J-327 Nubian ship（Modified）　Naboo Royal starship
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/9d4678714fb777459e46142834d24fec/b12ce46fef14fdeb-8b/s2048x3072/3556d34c3a7bd26852544d64d2e546ed72addec1.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817365224204206080
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
 
 The Royal Naboo Starship embodies the craftsmanship and industrial design that symbolizes the Republic's peaceful era. This beautifully polished, streamlined vessel lacks offensive weaponry but boasts powerful shields and a high-performance hyperdrive.
 
@@ -286,6 +291,11 @@ It also participated in the surprise attack during the recapture of Naboo. After
 
 ##### Naboo N-1 starfighter
 ##### The Baktoid Armor Workshop's Armored Assault Tank (AAT)
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817329563773321216
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
 
 The Baktoid Armor Workshop's Armored Assault Tank (AAT) was a hover vehicle utilizing repulsorlift technology, piloted by B1 battle droids used by the Trade Federation since the invasion of Naboo.
 
