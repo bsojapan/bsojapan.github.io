@@ -72,12 +72,10 @@ Princess Leia Organa's support for the Rebel Alliance was an open secret and was
 
 After being captured near Tatooine, the Tantive IV was disguised by the Empire as a meteorite impact accident and hidden along with information about any survivors. Later (before Star Wars: The Rise of Skywalker), it was rediscovered, restored, and secretly returned to Leia. After serving as a Resistance communications base and power generator, it participated in the Battle of Exegol, but was rendered uncontrollable by Palpatine's powerful Force lightning and crashed to the surface, ending its history.
 
-##### Sand Crawler
+##### Sandcrawler
 {% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
+- img: https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
