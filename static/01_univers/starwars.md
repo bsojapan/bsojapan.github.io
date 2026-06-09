@@ -202,8 +202,8 @@ During the Battle of Hoth, it guarded the legs of the large ground combat weapon
 
 ##### Gallofrey Yards GR-75 Medium Transport Ship
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817213628178644992
+- img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 Meanwhile, the Gallofrey Yards GR-75 medium transport ship (commonly known as the "Tuna Ship") was used to evacuate the base personnel.
