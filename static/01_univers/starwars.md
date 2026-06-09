@@ -200,6 +200,28 @@ The AT-ST is an all-terrain scout transporter. Its prototype appeared during the
 
 During the Battle of Hoth, it guarded the legs of the large ground combat weapon, the AT-AT. During the Battle of Endor, it guarded the entrance to the second Death Star's shield generator with overwhelming firepower. However, it was thrown into disarray by a log attack by the native Ewoks, who opened the hatch and hijacked it.
 
+##### Gallofrey Yards GR-75 Medium Transport Ship
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817213628178644992
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+Meanwhile, the Gallofrey Yards GR-75 medium transport ship (commonly known as the "Tuna Ship") was used to evacuate the base personnel.
+
+Length: 90 meter
+
+A military-modified version of the civilian transport GR-45.
+
+The Rebel Alliance mass-produced these ships cheaply, prioritizing cargo space, and armament consisting only of twin laser cannons and deflector shields. The thick, protective clamshell-type hull panels were entirely dedicated to cargo pods. While the GR-75 medium transport ship was inexpensive to produce, meticulous maintenance was required.
+
+During the Battle of Hoth, two ships operated in pairs to attempt an evacuation. Several ship names have been identified.
+
+- Quantum Storm: One of the first transport ships.
+- Bright Hope: The last transport ship to depart from Echo Base
+- Suns’ Orchard
+- Duty Free
+
+
 #### Episode VI: Star Wars: Episode VI - Return of the Jedi
 Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
 
