@@ -198,7 +198,7 @@ Episode 5 tells the story of Luke learning about his true family, a story he had
 
 The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of Hoth (the Echo Base evacuation). Princess Leia explains that the Rebel Alliance used the V-150 Planet Defender ion cannons installed at Echo Base to temporarily disable the Galactic Empire's Imperial-class Star Destroyers. The overconfidence against the weak Rebel forces led to the loss of the Death Star and key officers, and the Rebels were scattered when the Empire launched a full-scale offensive.
 
-##### AT-ST (All Terain Scout Transporter)
+##### AT-ST
 {% capture my_tiles %}
 - img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817213628178644992
