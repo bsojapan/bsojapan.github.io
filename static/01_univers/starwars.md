@@ -7,7 +7,8 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
 
-[Ep1](#the-original-trilogy)
+[Tr1](#the-original-trilogy) / [Tr2](%the-prequel-trilogy) / [Tr3](#the-sequel-trilogy) 
+
 
 ## images
 
@@ -255,7 +256,9 @@ It had a single open deck with a simple cockpit near the rear, making it easy to
 An anti-gravity engine mounted beneath the deck allowed it to levitate up to 50 meters above the ground, and a rear thrust nozzle enabled it to move forward at a maximum speed of 250 kilometers per hour. It had a pair of rear steering fins, but these were unstable when restrained. Being non-combatant, it was easily disabled by attack.
 
 The skiff, capable of carrying approximately 100 tons of cargo, was equipped with a retractable magnetic lifter and loading ramp for loading onto the deck. The deck could be modified to accommodate a cabin with up to 16 seats and the addition of defensive armor.
-### the Prequel Trilogy
+
+### The Prequel Trilogy
+
 #### Star Wars Episode I - The Phantom Menace
 "The Phantom Menace" tells the story of the Skywalker family and lineage, and it seems to hold secrets about the Force. The episode follows two Jedi envoys sent by the Senate as they save Naboo from a crisis caused by the Trade Federation, which has secret ties to the Sith Lord. After rescuing Queen Amidala from captivity, Obi-Wan Kenobi and other Jedi stop at the planet Tatooine to repair the hyperdrive of a Naboo starship. There, they win a pod race bet against Anakin Skywalker, Luke's future father, and the story unfolds as they avert the invasion of Naboo.Queen Amidala shows respect to the Naboo natives, who had been at odds with each other but did not interfere with one another, and together they protect Naboo from crisis and maintain peace.
 
@@ -265,8 +268,6 @@ The skiff, capable of carrying approximately 100 tons of cargo, was equipped wit
   url: https://www.tumblr.com/webcateyes/817329251736027136
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
-
-
 
 The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
 
@@ -312,7 +313,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 #### Star Wars Episode II - Attack of the Clones
 #### Star Wars Episode III - Revenge of the Sith
-### the Sequel Trilogy
+### The Sequel Trilogy
 #### Star Wars Episode VII - The Force Awakens
 #### Star Wars Episode VIII - The Last Jedi
 #### Star Wars: Episode IX - The Rise of Skywalker
