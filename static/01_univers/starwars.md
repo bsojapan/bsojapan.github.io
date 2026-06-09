@@ -236,8 +236,23 @@ Another bounty hunter, Koshka Frost, and a corrupt merchant from the Outer Rim d
 
 
 #### Episode VI: Star Wars: Episode VI - Return of the Jedi
+
 Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
 
+##### The Bantha-II skiff
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817304133218582528
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
+The Bantha II cargo skiff, manufactured by Ubrikkian Industries, was an anti-gravity general-purpose vehicle.
+
+It had a single open deck with a simple cockpit near the rear, making it easy to operate.
+
+An anti-gravity engine mounted beneath the deck allowed it to levitate up to 50 meters above the ground, and a rear thrust nozzle enabled it to move forward at a maximum speed of 250 kilometers per hour. It had a pair of rear steering fins, but these were unstable when restrained. Being non-combatant, it was easily disabled by attack.
+
+The skiff, capable of carrying approximately 100 tons of cargo, was equipped with a retractable magnetic lifter and loading ramp for loading onto the deck. The deck could be modified to accommodate a cabin with up to 16 seats and the addition of defensive armor.
 ### the Prequel Trilogy
 #### Star Wars Episode I - The Phantom Menace
 "The Phantom Menace" tells the story of the Skywalker family and lineage, and it seems to hold secrets about the Force. The episode follows two Jedi envoys sent by the Senate as they save Naboo from a crisis caused by the Trade Federation, which has secret ties to the Sith Lord. After rescuing Queen Amidala from captivity, Obi-Wan Kenobi and other Jedi stop at the planet Tatooine to repair the hyperdrive of a Naboo starship. There, they win a pod race bet against Anakin Skywalker, Luke's future father, and the story unfolds as they avert the invasion of Naboo.Queen Amidala shows respect to the Naboo natives, who had been at odds with each other but did not interfere with one another, and together they protect Naboo from crisis and maintain peace.
