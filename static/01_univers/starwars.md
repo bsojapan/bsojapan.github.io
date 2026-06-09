@@ -9,6 +9,15 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 
 [Tr1](#the-original-trilogy) / [Tr2](%the-prequel-trilogy) / [Tr3](#the-sequel-trilogy) 
 
+[Ep01](#star-wars:-episode-iv---a-new-hope) / 
+[Ep02](#star-wars:-episode-iv---a-new-hope) / 
+[Ep03](#star-wars:-episode-iv---a-new-hope) / 
+[Ep04](#star-wars:-episode-iv---a-new-hope) / 
+[Ep05](#star-wars:-episode-iv---a-new-hope) / 
+[Ep06](#star-wars:-episode-iv---a-new-hope) / 
+[Ep07](#star-wars:-episode-iv---a-new-hope) / 
+[Ep08](#star-wars:-episode-iv---a-new-hope) / 
+[Ep09](#star-wars:-episode-iv---a-new-hope) 
 
 ## Overview
 
