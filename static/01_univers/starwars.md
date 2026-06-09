@@ -7,7 +7,7 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
 
-[Tr1](#the-original-trilogy) / [Tr2](%the-prequel-trilogy) / [Tr3](#the-tsequel-trilogy) 
+[Tr1](#the-original-trilogy) / [Tr2](#the-prequel-trilogy) / [Tr3](#the-tsequel-trilogy) 
 
 [Ep01](#star-wars-episode-iv---a-new-hope) / 
 [Ep02](#star-wars:-episode-iv---a-new-hope) / 
