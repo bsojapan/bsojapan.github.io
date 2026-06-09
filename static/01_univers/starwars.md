@@ -38,7 +38,7 @@ Although the timeline is somewhat out of order, the iconic starship that kicked 
 
 The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of Hoth (the Echo Base evacuation). Princess Leia explains that the Rebel Alliance used the V-150 Planet Defender ion cannons installed at Echo Base to temporarily disable the Galactic Empire's Imperial-class Star Destroyers. The overconfidence against the weak Rebel forces led to the loss of the Death Star and key officers, and the Rebels were scattered when the Empire launched a full-scale offensive.
 
-#### Episode IV: Star Wars: Episode IV - A New Hope
+#### Star Wars: Episode IV - A New Hope
 Episode IV is the historic first installment in the Star Wars series. It tells the story of Luke Skywalker, who, through a twist of fate, blossoms into a Jedi, and together with companions drawn to him by destiny, destroys the Empire's weapons of mass destruction. The fate that pulled the strings behind the scenes will be revealed in subsequent stories.
 
 
@@ -184,7 +184,7 @@ The Rebel Alliance's hit-and-run tactics using high-performance, small fighters 
 
 
 
-#### Episode V: Star Wars: Episode V - The Empire Strikes Back
+#### Star Wars: Episode V - The Empire Strikes Back
 Episode 5 tells the story of Luke learning about his true family, a story he hadn't been told in detail. He learns about his parents and siblings, and the beginnings of his sisterly love are also depicted.
 
 The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of Hoth (the Echo Base evacuation). Princess Leia explains that the Rebel Alliance used the V-150 Planet Defender ion cannons installed at Echo Base to temporarily disable the Galactic Empire's Imperial-class Star Destroyers. The overconfidence against the weak Rebel forces led to the loss of the Death Star and key officers, and the Rebels were scattered when the Empire launched a full-scale offensive.
@@ -226,13 +226,13 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
 
 ### the Prequel Trilogy
-#### Episode I - The Phantom Menace
+#### Star Wars Episode I - The Phantom Menace
 "The Phantom Menace" tells the story of the Skywalker family and lineage, and it seems to hold secrets about the Force. The episode follows two Jedi envoys sent by the Senate as they save Naboo from a crisis caused by the Trade Federation, which has secret ties to the Sith Lord. After rescuing Queen Amidala from captivity, Obi-Wan Kenobi and other Jedi stop at the planet Tatooine to repair the hyperdrive of a Naboo starship. There, they win a pod race bet against Anakin Skywalker, Luke's future father, and the story unfolds as they avert the invasion of Naboo.Queen Amidala shows respect to the Naboo natives, who had been at odds with each other but did not interfere with one another, and together they protect Naboo from crisis and maintain peace.
-#### Episode II - Attack of the Clones
-#### Episode III - Revenge of the Sith
+#### Star Wars Episode II - Attack of the Clones
+#### Star Wars Episode III - Revenge of the Sith
 ### the Sequel Trilogy
-#### Episode VII - The Force Awakens
-#### Episode VIII - The Last Jedi
+#### Star Wars Episode VII - The Force Awakens
+#### Star Wars Episode VIII - The Last Jedi
 #### Star Wars: Episode IX - The Rise of Skywalker
 
 - list 1
