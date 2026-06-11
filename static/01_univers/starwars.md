@@ -33,7 +33,7 @@ A defining characteristic of the vehicles in the Star Wars series is the richly 
 <a href="https://64.media.tumblr.com/017e15d6c3a3b5971625a3ce5b8b3bca/2500a2af89d56293-3b/s1280x1920/c1f4bf4050762599819f38cb5a706251e0ab656d.pnj?W=400"> 
 <img src="https://64.media.tumblr.com/017e15d6c3a3b5971625a3ce5b8b3bca/2500a2af89d56293-3b/s1280x1920/c1f4bf4050762599819f38cb5a706251e0ab656d.pnj?w=400" width="400"></a>
 <a href="https://64.media.tumblr.com/65567b76cb311d52d604771ed6381aa8/2500a2af89d56293-02/s2048x3072/6cea619a3aaba5604bd8d64e94274851ba56ef85.pnj" >
-<img src="https://64.media.tumblr.com/65567b76cb311d52d604771ed6381aa8/2500a2af89d56293-02/s2048x3072/6cea619a3aaba5604bd8d64e94274851ba56ef85.pnj" width=280?
+<img src="https://64.media.tumblr.com/65567b76cb311d52d604771ed6381aa8/2500a2af89d56293-02/s2048x3072/6cea619a3aaba5604bd8d64e94274851ba56ef85.pnj" width=280?>
 </a>
 
 Star Wars is composed of three trilogies. In order of release, they are the Original Trilogy (Classic Trilogy), the Prequel Trilogy, and the Sequel Trilogy.
