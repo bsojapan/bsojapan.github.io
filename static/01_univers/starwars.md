@@ -81,7 +81,7 @@ Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium 
 
 A Corellian Engineering CR90 corvette, also known as the Corellian corvette or Blockade runner, operated by the Organa royal family of the planet Alderaan as a Senate diplomatic vessel. Due to its modular design, it was easy to modify various parts for different purposes. Equipped with 11 Koniex F-31 sublight engines, two medium turbolasers, and four light turbolasers as standard, it was a small, high-speed light capital ship, making it widely used by both military and civilian forces. Although it blended in with many similar ships, the Empire marked it as being used by the Rebel Alliance.
 
-A corvette moves away over a brown planet, firing backwards. The first spaceship in the opening sequence.
+A corvette  flies away over a brown planet, firing backwards. The first spaceship in the opening sequence.
 
 Princess Leia Organa's support for the Rebel Alliance was an open secret and was monitored by Lord Vader. The Tantive IV, having sustained damage (including hyperdrive damage) during another mission, was to be repaired aboard the Profundity and then attempt to request Obi-Wan's assistance. However, while being repaired in the Profundity's dock, it traveled with them to the Battle of Scarif. Just before escaping from the Profundity, they received the Death Star data disc and narrowly escaped to the Tatooine region. However, the Tantive IV was ultimately captured by the Devastator over Tatooine. Thanks to Leia's quick thinking, the message and blueprints were entrusted to R2-D2 and C-3PO, delivered to Tatooine, and marked the beginning of Luke Skywalker's story.
 
