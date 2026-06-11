@@ -95,6 +95,8 @@ The Tantive IV, captured near Tatooine, was reported by the Empire as a meteorit
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
+The Sandcrowler was a digercrowler brought to the sandy planet Tatooine for the purpose of mining and transporting minerals. It was 40m long and 20m tall. Later, it was discovered that there were no mineral resources, and the digercrowler was discarded. The Jawa people reused them, using them as a scrap collection and recycling workshop, a mobile shop, and a dwelling. The Jawa people also use them on Arvala-7, which has a similar environment.
+
 [return](#index)
 ##### Corellian Engineering Corporation YT-1300  cargo ship "Millennium Falcon"
 {% capture my_tiles %}
