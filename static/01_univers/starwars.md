@@ -224,7 +224,14 @@ The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of H
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-The AT-AT is
+The AT-AT (All Terrain Armored Transport) was developed by Kuat Drive Yards (KDY) under Imperial orders, with its origins tracing back to the late stages of the Clone Wars. 
+The early prototype (AT-AT/P) was remarkably massive, measuring over 31 meters in height, but the modernized mass-production models deployed during the Galactic Civil War were scaled down to a more practical height of 22.5 meters. 
+During the First Order era, the military legacy evolved into a heavily augmented successor known as the AT-M6.
+
+These formidable walkers are typically transported by capital ships such as Imperial-class Star Destroyers, which can carry a complement of up to 20 units to be deployed to planetary surfaces in an upright position using dedicated dropships like the Y-85 Titan. 
+The cockpit (head) houses two pilots and a combat commander; it is equipped with two chin-mounted heavy laser cannons and two temple-mounted repeating blasters, while the early prototype also featured a rear-facing laser turret on its chassis. 
+The main troop compartment (torso) carries speeder bikes and a platoon of ground forces. Its long, massive legs function as psychological and physical weapons, heavily armored to withstand standard infantry fire, starfighter blaster cannons, and solid projectiles. 
+While its heavy plating makes it nearly impervious to conventional weapons, the movable leg mechanisms are vulnerable to being tripped by tow cables, and the flexible neck remains a primary structural weak point. However, due to their terrifying battlefield presence, operations utilizing AT-ATs are usually deemed highly successful even if tactical losses are incurred.
 
 [return](#index)
 ##### AT-ST
