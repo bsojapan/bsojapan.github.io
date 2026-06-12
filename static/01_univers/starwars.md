@@ -191,16 +191,13 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-For the first decade or so of the Galactic Empire, the TIE/ln (TIE Line Starfighter) was by far the Empire's primary starfighter. However, around the time of the Battle of Yavin (Episode IV), the variety of TIE-series  starfighters increased dramatically in just a few years. This rapid change was due to the devastating defeat at the Battle of Yavin (the destruction of the Death Star) and the shift in tactics of the Rebel Alliance.
+The design of the Eta-2 Actis-class light interceptor, manufactured by Kuat Systems Engineering and used during the Clone Wars, influenced Sienar Fleet Systems and became the technological basis for the TIE series. For the first decade or so after the founding of the Galactic Empire, the TIE/ln starfighter served as the primary backbone of the Imperial fleet. However, following the devastating defeat at the Battle of Yavin—which resulted in the destruction of the first Death Star—and a shift in the Rebel Alliance's effective hit-and-run tactics, the variety of the TIE series expanded dramatically within just a few years.
+Until that pivotal defeat, the Empire had relied on a "reign of terror" (the Tarkin Doctrine) driven by overwhelming force and massive capital weaponry, such as Star Destroyers and the Death Star, concentrating its immense funding there. For their starfighter doctrine, the TIE/ln was mass-produced as a cost-effective, carrier-based fighter where swarming mass production was the top priority. Consequently, TIE/ln fighters were always deployed in overwhelming numbers.
+The Rebel Alliance's success with high-performance, small fighters equipped with deflector shields and hyperdrives (such as the X-wing) forced a strategic shift in Imperial starfighter development.
 
-Up until then, the Empire relied on "rule by terror" (the Tarkin Doctrine) through overwhelming numbers and massive weapons (Star Destroyers and the Death Star), and this was sufficient.
-
-The TIE/ln, a carrier-based starfighter, was mass-produced as a "cheap, disposable aircraft where quantity was paramount." To cut costs, it lacked shields and hyperdrives.
-
-The Rebel Alliance's hit-and-run tactics using high-performance, small fighters equipped with shields and hyperdrives (such as X-wings), and their subsequent victory over the Death Star, led the Empire to change its strategy.
 
 - Positioning of Major Variations
-
+  - The TIE/ln itself is a space superiority starfighter. The "ln" designation stands for "line," indicating it was the standard mass-production model equipped with high-performance Twin Ion Engines manufactured by Sienar Fleet Systems. To maximize mass production and agility, essential features from the prototype were drastically stripped down, resulting in an extremely lightweight design that completely omitted defensive systems such as shields, life-support equipment, and hyperdrives.
   - TIE Advanced x1 (Early Prototype):  Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
 
   - TIE Interceptor (Interceptor):  A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
