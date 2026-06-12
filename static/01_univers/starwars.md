@@ -49,6 +49,7 @@ Star Wars Episode V: The Empire Strikes Back begins with the Battle of Hoth (the
 
 In Star Wars Episode VI: Return of the Jedi, following his defeat at Cloud City, Luke heads to Tatooine to rescue Han Solo and his friends, before returning to Dagobah to receive his final training from Yoda. Meanwhile, the Empire was constructing an even more powerful Death Star II in orbit around the forest moon of the giant gas planet Endor. The Rebels attempt to destroy the Death Star II before its completion based on stolen data; however, this is a trap set by the Emperor. While the battle station was indeed unfinished, its primary weapon, the superlaser, was already fully operational.With the help of Solo and the native Ewoks, they destroy the shield generator on the forest moon. Around that time, Luke and Vader were locked in a fierce lightsaber duel on the Death Star. Upon seeing the Sith Lord trying to lure Luke to the dark side of the Force, Darth Vader has a change of heart. Redeemed as Anakin Skywalker, he throws the Emperor down the reactor shaft to save Luke, and the Dark Lord's physical body is annihilated by the surging energy.
 
+#### Star Wars Episode IV: - A New Hope
 [return](#index)
 
 ##### Imperial-class Star Destroyer "the Devastator"
