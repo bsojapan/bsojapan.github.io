@@ -237,12 +237,26 @@ The AT-ST is an all-terrain scout transporter. Its prototype appeared during the
 During the Battle of Hoth, it guarded the legs of the large ground combat weapon, the AT-AT. During the Battle of Endor, it guarded the entrance to the second Death Star's shield generator with overwhelming firepower. However, it was thrown into disarray by a log attack by the native Ewoks, who opened the hatch and hijacked it.
 
 [return](#index)
+##### Snowspeeder
+
+{% capture my_tiles %}
+- img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
+  url: https://www.tumblr.com/webcateyes/817196079655321600
+{% endcapture %}
+{% include multitail.html data=my_tiles size="150" %}
+
+The Incom Corporation's T-47 Airspeeder is a low-altitude speeder that levitates using a repulsor coil, an anti-gravity device that depends on its distance from the ground. Its high-power generator and high-thrust ion thrusters allowed for user modifications through its modular design.
+
+The Rebel Alliance's Snowspeeder was based on the T-47, adapted for the cold climate of their base at Hoth, and featured two laser cannons mounted on each shoulder, utilizing its abundant power. It also included a fire control system and added armor, but lacked shields. The use of cargo handling cables as a countermeasure against AT-ATs was also used in subsequent battles.
+
+[return](#index)
 ##### Gallofrey Yards GR-75 Medium Transport Ship
 {% capture my_tiles %}
 - img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
+
 Meanwhile, the Gallofrey Yards GR-75 medium transport ship (commonly known as the "Tuna Ship") was used to evacuate the base personnel.
 
 Length: 90 meter
