@@ -197,7 +197,9 @@ The Rebel Alliance's success with high-performance, small fighters equipped with
 
 
 - Positioning of Major Variations
+
   - The TIE/ln itself is a space superiority starfighter. The "ln" designation stands for "line," indicating it was the standard mass-production model equipped with high-performance Twin Ion Engines manufactured by Sienar Fleet Systems. To maximize mass production and agility, essential features from the prototype were drastically stripped down, resulting in an extremely lightweight design that completely omitted defensive systems such as shields, life-support equipment, and hyperdrives.
+
   - TIE Advanced x1 (Early Prototype):  Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
 
   - TIE Interceptor (Interceptor):  A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
