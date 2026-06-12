@@ -191,7 +191,7 @@ For the first decade or so of the Galactic Empire, the TIE/ln (TIE Line Starfigh
 
 Up until then, the Empire relied on "rule by terror" (the Tarkin Doctrine) through overwhelming numbers and massive weapons (Star Destroyers and the Death Star), and this was sufficient.
 
-The TIE/ln, a carrier-based aircraft, was mass-produced as a "cheap, disposable aircraft where quantity was paramount." To cut costs, it lacked shields and hyperdrives.
+The TIE/ln, a carrier-based starfighter, was mass-produced as a "cheap, disposable aircraft where quantity was paramount." To cut costs, it lacked shields and hyperdrives.
 
 The Rebel Alliance's hit-and-run tactics using high-performance, small fighters equipped with shields and hyperdrives (such as X-wings), and their subsequent victory over the Death Star, led the Empire to change its strategy.
 
