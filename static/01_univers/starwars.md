@@ -25,7 +25,7 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 A long time ago in a galaxy far, far away....
 
 The Star Wars narrative envisioned by **George Lucas** was about unifying the world peacefully through the history and ethics of the Skywalker family, while revealing the true nature of the magical "Force". However, although the concept for the final reveal was passed on to Disney, it seems that the narrative was never told.
-This contains exaggerations and cues designed to pique curiosity, so please view the content and verify the information on specialized websites for accuracy.
+This contains exaggerations and cues designed to pique curiosity, so please view the content and verify the information on specialized websites for accuracy. Accurate information about Star Wars is being compiled on Canon. The vast amount of information from Lucas's era was compiled as "Legends." There are discrepancies and omissions in these, but Canon should ultimately become the most comprehensive resource.
 
 A defining characteristic of the vehicles in the Star Wars series is the richly defined world setting, where many manufacturers representing major planets in the galaxy are responsible for everything from massive military ships to small civilian vehicles, transporters, and vehicles adapted to different environments, as well as the engines, weapons, and escape pods equipped on them.
 
