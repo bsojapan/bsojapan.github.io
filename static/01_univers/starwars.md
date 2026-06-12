@@ -296,7 +296,7 @@ The skiff, capable of carrying approximately 100 tons of cargo, was equipped wit
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
+The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a super massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
 
 The basic specifications of the Lucréhulk-class were a length of 3,356.9 meters, a width of 3,009 meters, and a height of 1,030 meters, making it the largest ship of its time, far exceeding the size of later Star Destroyer-type battleships. By regulation, it was only permitted to be equipped with 42 quadruple turbolasers for self-defense. Despite its size, the crew was highly automated and droid-based, consisting of 25 biological crew members and 150 droid crew members for ship operation. As a commercial transport ship, it had a particularly enormous internal volume, with a cargo capacity of 5 million tons (equivalent to more than 10 supertankers).
 
