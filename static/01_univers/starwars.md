@@ -28,7 +28,7 @@ The Star Wars narrative envisioned by **George Lucas** was about unifying the wo
 This contains exaggerations and cues designed to pique curiosity, so please view the content and verify the information on specialized websites for accuracy. Accurate information about Star Wars is being compiled on Canon. The vast amount of information from Lucas's era was compiled as "Legends." There are discrepancies and omissions in these, but Canon should ultimately become the most comprehensive resource.
 
 A defining characteristic of the vehicles in the Star Wars series is the richly defined world setting, where many manufacturers representing major planets in the galaxy are responsible for everything from massive military ships to small civilian vehicles, transporters, and vehicles adapted to different environments, as well as the engines, weapons, and escape pods equipped on them.
-
+Generally speaking, the exterior design of the vehicles changes across the two older trilogies. Also, in the final trilogy, while the internals are modernized, many of the vehicles appear to have almost the same exterior. As a fan, there is a nostalgic and welcome feeling to these changes, but the lack of tangible, rational evolution over more than 30 years leaves a sad impression, as it implies a limit has been placed on the enjoyment of the narrative.
 
 
 ## Skywalker Saga and vehicle types 
