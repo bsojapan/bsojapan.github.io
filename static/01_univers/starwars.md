@@ -20,7 +20,8 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 [Ep08](#star-wars-episode-viii---the-last-jedi) / 
 [Ep09](#star-wars-episode-ix---the-rise-of-skywalker) 
 
-[StarShipBuilders](#about_starship_builders_in_star_wars_world)
+[StarShipBuilders](#about-starship-builders-in-star-wars-world)
+About starship builders in Star Wars world
 
 ## Overview
 
