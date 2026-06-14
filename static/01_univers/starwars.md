@@ -20,7 +20,7 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 [Ep08](#star-wars-episode-viii---the-last-jedi) / 
 [Ep09](#star-wars-episode-ix---the-rise-of-skywalker) 
 
-[StarSipBuilders](#about_starship_bilders_in_star_wars_world)
+[StarShipBuilders](#about_starship_builders_in_star_wars_world)
 
 ## Overview
 
@@ -387,7 +387,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 #### Star Wars: Episode IX - The Rise of Skywalker
 
 
-## About starship bilders in Star Wars world
+## About starship builders in Star Wars world
 
 
 - list 1
