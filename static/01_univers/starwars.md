@@ -394,10 +394,13 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 #### Star Wars Episode VIII - The Last Jedi
 #### Star Wars: Episode IX - The Rise of Skywalker
 
+[return](#index)
 
 ## About starship builders in Star Wars world
+[return](#index)
 
 ## About Planets in Star Wars world
+[return](#index)
 
 ## The Midi-chlorians in Star Wars world
 
