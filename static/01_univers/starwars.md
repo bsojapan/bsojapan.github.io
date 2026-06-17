@@ -399,7 +399,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 ## About Planets in Star Wars world
 
-## The Midi-ceorians in Star Wars world
+## The Midi-crorians in Star Wars world
 
 - list 1
   - list 2: aaaassssdddddffff
