@@ -26,8 +26,8 @@ About starship builders in Star Wars world
 [The Planets](#about-planets-in-star-wars-world)
 About Planets in Star Wars world
 
-[Midi-chlorians](#the-about-midi-crorians-in-star-wars-world)
-Thw Midi-ceorians in Star Wars world
+[Midi-chlorians](#the-midi-crorians-in-star-wars-world)
+The Midi-ceorians in Star Wars world
 
 
 ## Overview
