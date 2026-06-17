@@ -26,8 +26,8 @@ About starship builders in Star Wars world
 [The Planets](#about-planets-in-star-wars-world)
 About Planets in Star Wars world
 
-[Midi-chlorians](#the-midi-crorians-in-star-wars-world)
-The Midi-ceorians in Star Wars world
+[Midi-chlorians](#the-midi-chlorians-in-star-wars-world)
+The Midi-chlorians in Star Wars world
 
 
 ## Overview
@@ -399,7 +399,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 ## About Planets in Star Wars world
 
-## The Midi-crorians in Star Wars world
+## The Midi-chlorians in Star Wars world
 
 - list 1
   - list 2: aaaassssdddddffff
