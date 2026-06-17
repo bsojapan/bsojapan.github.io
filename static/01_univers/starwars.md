@@ -23,6 +23,13 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 [StarShipBuilders](#about-starship-builders-in-star-wars-world)
 About starship builders in Star Wars world
 
+[The Planets](#about-planets-in-star-wars-world)
+About Planets in Star Wars world
+
+[Midi-chlorians](#the-about-midi-crorians-in-star-wars-world)
+Thw Midi-ceorians in Star Wars world
+
+
 ## Overview
 
 A long time ago in a galaxy far, far away....
@@ -390,6 +397,9 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 ## About starship builders in Star Wars world
 
+## About Planets in Star Wars world
+
+## The Midi-ceorians in Star Wars world
 
 - list 1
   - list 2: aaaassssdddddffff
