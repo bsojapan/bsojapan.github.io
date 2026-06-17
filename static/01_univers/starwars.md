@@ -401,6 +401,34 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 ## The Midi-chlorians in Star Wars world
 
+Midi-chlorians—they’re those microscopic life-forms that act as a link between living beings and the Force.
+While their introduction stirred up quite a debate among fans, they made their official, canonical debut right there in the dialogue of Episode I.
+If we take a closer look at how they fit into the lore, it actually opens up a whole new way to enjoy the history of the Star Wars galaxy!
+
+### The Celestials
+Around 1,000,000 BBY, the Celestials ruled the galaxy as "the Architects." Word is, they kept the galaxy in balance by controlling both the Light and Dark sides of the Force through midi-chlorians, managing it as a cosmic Force.
+We can still find traces of them today—like the creation of the Corellian system, the Centerpoint Station (a massive planetary transport device left behind there), and even projections of their descendants.
+To build the galaxy, they reportedly placed five lush planets right in the habitable zone of the Corellian system to serve as a stable breeding ground and buffer zone for this cosmic Force.
+
+Eventually, the rising Rakata Empire stripped the Celestials of their technology. Being a peaceful species that avoided conflict, the Celestials shed their physical forms to become non-corporeal Force spirits. A select few retreated to Mortis, a planet hidden within a spatial anomaly in the Deep Core. During the Clone Wars, they were discovered as a trio known as "The Ones," where they influenced Anakin and Ahsoka before ultimately fading away.
+
+### The Rakata and the Infinite Empire
+Around 35,000 BBY, the Rakata—a species deeply attuned to the Force—rose to power. Their entire race was strong in the Force, and they weren't afraid to tap into its powerful Dark Side.
+They began dominating the galaxy using hyperdrives powered entirely by the Force. However, these drives drained the crew's Force energy and could only jump to areas where the Force was exceptionally strong.
+This led them straight to worlds like Coruscant, Dxun, and Kashyyyk, and eventually guided them to the Corellian system.
+Wherever they conquered, they enslaved the locals and literally extracted their midi-chlorians to fuel their tech and expansion. Because their technology relied so heavily on midi-chlorians, the Corellian system became a crucial hub for their starship manufacturing.
+
+But around 25,200 BBY, everything changed for the Rakata. They suffered a sudden, severe drop in their midi-chlorian counts, losing their connection to the Force and shattering their symbiotic relationship with it. Some say this was the midi-chlorians' rebellion against the Rakata's heavy abuse of the Dark Side; others think it was the work of the Celestials.
+As a result, the Rakata lost their Force-driven technology almost overnight. Between hyperdrive accidents and massive slave revolts, they were pushed to the brink of extinction and their civilization collapsed. The few survivors retreated to their homeworld, Lehon.
+
+Driven by their aggressive nature, they fell into endless civil wars, forgot their own science, and culturally regressed. Due to genetic decay from a shrinking population, even the elite groups hiding in underground cities degenerated, leading to their total extinction around 0 ABY.
+
+### The Je'daii of Planet Tython
+Around 25,000 BBY, in a galaxy free from the Rakata, individuals guided by the Force gathered on the planet Tython. They formed the Je'daii, the ancestors of the Jedi we know today.
+Their early philosophers began listening to the cosmic will of the "Living Force," forming a philosophy of living in harmony with it. They believed that Tython’s two moons, Ashla and Bogan, triggered storms and earthquakes whenever the midi-chlorians reacted to the emotional states of the inhabitants.
+
+Later on, they moved from the chaotic Deep Core to the stable Outer Rim world of Ossus. There, they built the Great Library and aligned themselves with the Galactic Republic's vision of peace and freedom.
+
 - list 1
   - list 2: aaaassssdddddffff
   - *list 2*: aaaaaafffgghhjjkkloii
