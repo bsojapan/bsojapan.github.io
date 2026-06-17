@@ -408,9 +408,9 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 - list 1
 
 - 車両タイプ
-  - エンタープライズ系
-    - NCC-1701（初代）
-    - NCC-1701-D（新
+  - エン系
+    - NCC
+    - NC
 
 ### type2
 
