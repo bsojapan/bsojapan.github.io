@@ -402,15 +402,13 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 ## About Planets in Star Wars world
 
 {% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
+- img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg
   url: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
 - img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
   url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
-https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
+
 [return](#index)
 
 ## The Midi-chlorians in Star Wars world
