@@ -401,6 +401,8 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 ## About Planets in Star Wars world
 
+[Online Map](http://www.swgalaxymap.com/)
+
 {% capture my_tiles %}
 - img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
   url: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
