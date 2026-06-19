@@ -408,7 +408,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 {% capture my_tiles %}
 - img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
   url: https://www.starwars.com/star-wars-galaxy-map
-- img: https://64.media.tumblr.com/9b9e6acbccb9cf32a4cc8fe99e7de8a3/2500a2af89d56293-67/s400x600/7c9591fb6509272d15535fc76d0c1e618a93180f.pnj
+- img: https://github.com/bsojapan/bsojapan.github.io/blob/main/assets/images/thumbsx200/p_StarWarsGalaxy_rAs200.png
   url: https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
