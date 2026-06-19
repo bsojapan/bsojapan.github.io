@@ -413,8 +413,6 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-https://64.media.tumblr.com/9b9e6acbccb9cf32a4cc8fe99e7de8a3/2500a2af89d56293-67/s400x600/7c9591fb6509272d15535fc76d0c1e618a93180f.pnj
-
 [return](#index)
 
 ## The Midi-chlorians in Star Wars world
