@@ -473,29 +473,29 @@ Almost simultaneously, tragedy struck Corellia StarDrive. A shuttle carrying the
 
 Failing to compete with KDY’s industrial scale and CEC’s modernized modular ships, Hoersch-Kessel Drive (HKD) collapsed out of the Core markets. Stranded and financially desperate, they fell entirely under the control of the Trade Federation. Their massive bulk-carrier technology was repurposed to covertly mass-produce the Separatist fleet for the upcoming Clone Wars, transforming the old corporation into a dark, secretive armory.
 
-### Other Legendary Shipwrights of the Era
+#### Other Legendary Shipwrights of the Era
 
-#### 1. Rendili StarDrive
+#####  Rendili StarDrive
 
 Based in the Core Worlds, Rendili was one of the Republic’s oldest shipbuilders. Before KDY's rise, Rendili held the lion's share of the Republic Navy's capital ship contracts, famously designing the *Hammerhead*-class cruisers.
 
 * **Technological Legacy:** Rendili was the true pioneer of the wedge-shaped (dagger-like) hull design that would eventually become the ultimate symbol of Imperial terror. Their finest masterpieces included the *Dreadnought*-class heavy cruiser and the *Victory*-class Star Destroyer used during the Clone Wars.
 * **The Kuat Rivalry:** Once a tier above KDY, Rendili was slowly choked out of its prime Navy contracts by KDY’s aggressive lobbying and backroom political deals. By the time of the Clone Wars, KDY had aggressively headhunted Rendili’s top engineers, relegating the ancient firm to KDY’s shadow by the rise of the Empire.
 
-#### 2. Incom Corporation
+##### Incom Corporation
 
 Located near the Core Worlds close to Coruscant, Incom was based on the planet Fresia in the Cal-Seti system. They were the undisputed kings of starfighter development, splitting the starfighter market down the middle with Sienar from the Mid-Republic through the Galactic Civil War.
 
 * **Technological Legacy:** During the Clone Wars, Incom engineered the ARC-170 starfighter and the Z-95 Headhunter for the Republic. Later, they designed the most iconic starfighter in galactic history: the T-65 X-wing, as well as the UT-60D U-wing.
 * **The Dramatic Defection:** Following the rise of the Empire, the Imperial regime attempted to forcefully nationalize Incom. In a daring, cinematic act of defiance, Incom's top designers and engineers defected to the Rebel Alliance, taking the secret prototypes and blueprints for the X-wing with them, handing the Rebellion its greatest weapon.
 
-#### 3. Mon Calamari Orbital Shipyards
+##### Mon Calamari Orbital Shipyards
 
 Located at the terminus of the Perlemian Trade Route on the aquatic world of Dac (Mon Cala), these shipyards boast a rich history dating back to 4,000 BBY, built as a joint venture between the planet's two native species, the Mon Calamari and the Quarren. Their ships were the polar opposite of Kuat’s rigid, industrial products; each vessel was built with unique, flowing curves, treated more like an organic piece of art than a machine. Originally, they built peaceful oceanic explorers, passenger liners, and deep-space cruise ships, which were bought by hundreds of Outer Rim systems for defensive purposes. The Republic didn't even know these shipyards existed until 4,166 BBY. Unfortunately, the worlds fractured internally during the Clone Wars.
 
 * **The Shield of the Rebellion:** When the Empire brutally occupied and enslaved their homeworld, the Mon Calamari revolted. They took their massive luxury liners and retrofitted them with heavy armor, turbo-lasers, and incredibly powerful redundant shield generators. These converted civilian ships became the *Mon Calamari Star Cruisers* (such as the MC80), providing the Rebel Alliance with the only capital ships capable of trading direct fire with an Imperial Star Destroyer.
 
-#### 4. The Techno Union Conglomerate
+##### The Techno Union Conglomerate
 
 A massive corporate cartel that served as the industrial and technological backbone for the Confederacy of Independent Systems (CIS) during the Clone Wars.
 
