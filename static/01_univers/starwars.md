@@ -20,7 +20,7 @@ You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.
 [Ep08](#star-wars-episode-viii---the-last-jedi) / 
 [Ep09](#star-wars-episode-ix---the-rise-of-skywalker) 
 
-[StarShipBuilders](#about-starship-builders-in-star-wars-world)
+[StarShipBuilders](#about-starship-manufacturing-in-star-wars-world)
 About starship builders in Star Wars world
 
 [The Planets](#about-planets-in-star-wars-world)
@@ -396,7 +396,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 [return](#index)
 
-## About Starship Manufacturing in Star Wars
+## About Starship Manufacturing in Star Wars World
 
 
 While the "Legends" continuity is now classified as non-canon, its sheer volume of information as of 2025 still vastly outpaces the current Disney "Canon." Of course, as Disney continues to pump out new spin-offs, Canon is expanding rapidly, inevitably leading to contradictions between the two timelines. But honestly, just like in the real world, history is often rewritten depending on who is in power, their perspective, or the oral traditions passed down. This is, after all, a story from a long time ago in a galaxy far, far away.
@@ -459,7 +459,7 @@ Around 500 BBY, the thousands-of-years-old status quo was shattered in a ruthles
 
 ```
 [Before 500 BBY: The Old Triumvirate]
-1. Core Galaxy Systems ────(Driven to Bankruptcy & Absorbed)──┐
+1. Core Galaxy Systems ────(Driven to Bankruptcy & Absorbed)─┐
 2. Corellia StarDrive ─────(Tragic Accident & Absorbed)──────┼─→ [The New Triumvirate]
 3. Hoersch-Kessel Drive ───(Financial Decline to the Rim)────┘   1. Kuat Drive Yards (KDY)
                                                                  2. Corellian Engineering (CEC)
