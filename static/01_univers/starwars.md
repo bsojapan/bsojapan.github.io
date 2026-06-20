@@ -396,13 +396,10 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 [return](#index)
 
-## About starship builders in Star Wars world
+## About Starship Manufacturing in Star Wars
 
 Here is the English translation of your comprehensive look into the galaxy's shipbuilding industry. All Star Wars proper nouns, planetary names, and corporate titles have been verified and corrected to align with standard lore while preserving the engaging, accessible tone of your original text.
 
----
-
-# Starship Manufacturing in Star Wars
 
 While the "Legends" continuity is now classified as non-canon, its sheer volume of information as of 2025 still vastly outpaces the current Disney "Canon." Of course, as Disney continues to pump out new spin-offs, Canon is expanding rapidly, inevitably leading to contradictions between the two timelines. But honestly, just like in the real world, history is often rewritten depending on who is in power, their perspective, or the oral traditions passed down. This is, after all, a story from a long time ago in a galaxy far, far away.
 
