@@ -558,8 +558,10 @@ Here is the verified and polished English translation for your virtual galaxy tr
 
 * **Tatooine**
 A harsh desert planet baking under the glare of twin suns, located in the Outer Rim Sieges where the Triellus Trade Route intersects with the 5709-DC Shipping Lane (just past the Corellian Run). As a lawless hub under the absolute control of the Hutt clans, it maintains direct, illicit smuggling pipelines close to Kessel. Though a dusty backwater on the galactic fringe, it is the crucial starting point for the entire saga—the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
+
 * **Naboo**
 A peaceful Mid Rim world blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padmé Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma—a vital starship fuel resource—making it the prime target of the Trade Federation’s illegal blockade.
+
 * **Coruscant**
 Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis—a planet entirely encased in a sprawling, multi-leveled metropolis. Home to both the Galactic Senate and the Jedi Temple, it serves as the beating heart of galactic politics and Jedi operations. It is the grand stage where Senator Palpatine of Naboo orchestrates his rise to Supreme Chancellor, eventually forging his Galactic Empire from its towering spires.
 
