@@ -526,7 +526,7 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 
 - Online map
   - [starwars.com (Official) ](https://www.starwars.com/star-wars-galaxy-map)
-  - [swgalaxymap.com](http://www.swgalaxymap.com/)
+  - [swgalaxymap.com （Scalable vector map）](http://www.swgalaxymap.com/)
 
 {% capture my_tiles %}
 - img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
