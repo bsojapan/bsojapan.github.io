@@ -536,7 +536,143 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
+Here is the verified and polished English translation for your virtual galaxy trip. The text balances technical authenticity with an engaging, smooth, and accessible tone while fixing minor typos and correcting geographical lore inaccuracies to perfectly align with the standard Star Wars galactic map.
 
+---
+
+# Virtual Galactic Tour
+
+---
+
+## The Prequel Trilogy (Episodes I–III)
+
+### Episode I: The Phantom Menace
+
+* **Tatooine**
+A harsh desert planet baking under the glare of twin suns, located in the Outer Rim Sieges where the Triellus Trade Route intersects with the 5709-DC Shipping Lane (just past the Corellian Run). As a lawless hub under the absolute control of the Hutt clans, it maintains direct, illicit smuggling pipelines close to Kessel. Though a dusty backwater on the galactic fringe, it is the crucial starting point for the entire saga—the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
+* **Naboo**
+A peaceful Mid Rim world blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padmé Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma—a vital starship fuel resource—making it the prime target of the Trade Federation’s illegal blockade.
+* **Coruscant**
+Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis—a planet entirely encased in a sprawling, multi-leveled metropolis. Home to both the Galactic Senate and the Jedi Temple, it serves as the beating heart of galactic politics and Jedi operations. It is the grand stage where Senator Palpatine of Naboo orchestrates his rise to Supreme Chancellor, eventually forging his Galactic Empire from its towering spires.
+
+### Episode II: Attack of the Clones
+
+* **Kamino**
+While technically resting on the outer grid coordinates of the Outer Rim, this world is widely considered "extragalactic" because it sits well below the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
+* **Geonosis**
+A harsh, reddish desert world of rocky mesas and canyon networks located in the Outer Rim, right in Tatooine's cosmic backyard. Inhabited by the insectoid Geonosians, the planet housed massive, hidden droid foundries for the Separatist alliance. It earned its place in history as the flashpoint for the Clone Wars during the explosive Battle of Geonosis.
+
+### Episode III: Revenge of the Sith
+
+* **Utapau**
+Tucked away deep in the Outer Rim along the Rimma Trade Route, this unique planet features a wind-blasted surface pockmarked by countless massive sinkholes. The planet's civilizations built their stunning, vertical cities directly into the limestone walls of these chasms. It was here that Obi-Wan Kenobi tracked down General Grievous, engaging the cyborg commander in a fierce, fateful duel.
+* **Kashyyyk**
+A magnificent Mid Rim world blanketed by colossal wroshyr forests and vast, untamed ecosystems, located at the terminus of the Randon Run branching off the Perlemian Trade Route. It is the proud homeworld of the fiercely loyal and powerful Wookiees. Grand Master Yoda personally arrived to command the beachfront defenses here, only for the tragedy of Order 66 to strike mid-battle, turning a triumph into a Jedi massacre.
+* **Mustafar**
+A brutal, hellish volcanic planet in the Outer Rim, situated along the Hydian Way. It is a fractured world where rivers of molten lava carve through black obsidian landscapes. This desolate world served as the backdrop for the tragic, emotional duel between Obi-Wan Kenobi and his fallen apprentice, Darth Vader, permanently severing their bond.
+
+---
+
+## The Original Trilogy (Episodes IV–VI)
+
+### Episode IV: A New Hope
+
+* **Alderaan**
+A breathtaking Core World located along the Commenor Run, internationally renowned for its vibrant culture, peaceful philosophy, and stunning alpine landscapes. It was the adoptive homeworld of Princess Leia Organa. After her consular ship was captured above Tatooine while fleeing the archives of Scarif, Alderaan was utterly obliterated by the Death Star’s superlaser on the orders of Grand Moff Tarkin, serving as a horrific demonstration of Imperial terror right before Leia’s eyes.
+* **Yavin 4 (The Fourth Moon of Yavin)**
+A lush, jungle-covered moon orbiting the red gas giant Yavin, located in the Outer Rim just off the Hydian Way. Hidden within ancient, overgrown stone temples, the Rebel Alliance established its primary secret headquarters. It became the legendary staging ground for the Battle of Yavin, where Rebel pilots made their desperate, triumphant stand to destroy the first Death Star.
+
+### Episode V: The Empire Strikes Back
+
+* **Hoth**
+A remote, unforgiving ice world locked in a perpetual blizzard, situated near the entry points of the Corellian Trade Spine in the Outer Rim. Despite its isolation, it is surrounded by several adjacent star systems. Following their evacuation from Yavin, the Rebellion established the hidden Echo Base within its sub-zero caverns, only to be forced into a chaotic retreat after a devastating ground assault by Imperial AT-AT walkers.
+* **Dagobah**
+A forgotten, unmapped world shrouded in thick fog, dark swamplands, and petrified forests deep within the Outer Rim. Free from industrialized life, the planet acts as a natural locus for the Force. It became the sanctuary for Grand Master Yoda during his long exile, and the proving ground where Luke Skywalker underwent his grueling Jedi training.
+* **Bespin**
+A massive, majestic gas giant located in the Outer Rim near the Corellian Trade Spine, sharing cosmic proximity with systems like Hoth. High within its habitable atmospheric layer floated Cloud City, a luxurious tibanna gas mining metropolis managed by Lando Calrissian. Darth Vader ruthlessly used the city as a trap, capturing Han Solo and Princess Leia to lure Luke into a confrontation.
+
+### Episode VI: Return of the Jedi
+
+* **Endor (The Forest Moon of Endor)**
+A sanctuary moon dominated by towering, ancient trees, orbiting the gas giant Endor. Located along the Cerean Reach past Cerea (branching off the Corellian Trade Spine), this heavily forested world was chosen by the Empire to house the shield generator protecting the incomplete Second Death Star. In a brilliant twist of fate, the Rebel strike team allied with the moon's primitive, resourceful natives—the Ewoks—to overthrew the Imperial garrison, leading directly to the collapse of the Empire.
+
+---
+
+## The Sequel Trilogy (Episodes VII–IX)
+
+### Episode VII: The Force Awakens
+
+* **Jakku**
+An isolated, endless desert world located on the western fringes of the Inner Rim. In 5 ABY, it served as the graveyard for the Galactic Civil War during the pivotal Battle of Jakku. Decades later, the desert remains littered with the rusted hulks of crashed Star Destroyers, where a young scavenger named Rey eked out a living. It is also where the defecting First Order stormtrooper FN-2187 (Finn) crossed paths with Poe Dameron and Rey during a daring escape.
+* **Takodana**
+A picturesque Mid Rim world nestled among pristine lakes and deep, ancient forests, situated closer to the Core side of the Cerean Reach. For centuries, it housed the lakeside castle of the ancient pirate queen Maz Kanata. It was in the castle’s forgotten basement vaults that Rey experienced her fateful, terrifying vision upon touching the long-lost lightsaber of Luke Skywalker.
+* **D'Qar**
+A quiet, heavily vegetated Outer Rim world located on the far side of Naboo, roughly bridging the distant gap between Tatooine and Hoth. The planet served as the secluded headquarters for General Leia Organa’s Resistance, acting as the command center from which the daring starfighter assault against Starkiller Base was launched.
+* **Hosnian Prime**
+A sophisticated, cosmopolitan ecumenopolis in the Core Worlds that served as the rotating capital of the New Republic. As the seat of the Galactic Senate, it stood as a shining beacon of democracy—until the entire Hosnian system was instantaneously annihilated by the phantom red beam fired across the galaxy from First Order's Starkiller Base.
+
+### Episode VIII: The Jedi Last
+
+* **Ahch-To**
+A pristine, deep-space world hidden within the Unknown Regions, its surface almost entirely covered by a vast blue ocean dotted with craggy, rocky islands. It is the sacred birthplace of the Jedi Order, home to the very first Jedi Temple. Seeking clarity away from the galaxy, a disillusioned Luke Skywalker chose this isolated sanctuary for his final exile.
+* **Crait**
+A desolate, mineral-rich Outer Rim planet located along the routes heading toward Naboo off the Hydian Way. The planet features an ethereal, blindingly white landscape covered entirely in salt flats. Beneath the crust lies a vibrant red mineral layer; when the ground is torn up by heavy skimming speeders or artillery fire, the battlefield bleeds a brilliant crimson. It became the site of the Resistance’s desperate final stand against the First Order.
+* **Cantonica**
+A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is famous for the glitzy casino city of Canto Bight—an opulent oasis where wealthy war profiteers, high-rolling gamblers, and galactic arms dealers indulged in lavish nightlife, blissfully detached from the galaxy's conflicts.
+
+### Episode IX: The Rise of Skywalker
+
+* **Exegol**
+A barren, jagged world of dark stone hidden deep within the labyrinthine anomalies of the Unknown Regions, far beyond the galactic disk. Locked in a permanent shroud of dry electrical storms and ambient dark side energy, this ancient Sith redoubt served as the secret stronghold where a resurrected Emperor Palpatine spent decades constructing his armada, the Final Order.
+* **Kijimi**
+A frigid, snow-swept mountain world located in the Mid Rim, positioned just off the Perlemian Trade Route toward Hutt Space. The ancient, winding alleyways of Kijimi City served as a notorious haven for spice runners, thieves, and scoundrels, providing a cold sanctuary for Zorii Bliss and her crew—associates from Poe Dameron’s checkered past.
+* **Ilum**
+An ancient ice world located in the Unknown Regions close to Exegol, historically revered by the Jedi Order as a sacred pilgrimage site for harvesting kyber crystals to power their lightsabers. Tragically, the planet was occupied by the Empire and later hollowed out by the First Order, engineered directly into the core of the catastrophic planet-killing superweapon known as Starkiller Base.
+
+---
+
+## The Star Wars Stories (Spin-offs)
+
+### Rogue One: A Star Wars Story
+
+* **Jedha**
+A cold, desert moon located in the Mid Rim toward the Unknown Regions, defined by its weathered, ancient landscapes. As a holy site for early Force-worshipping faiths and a natural source of rare kyber crystals, it was heavily occupied and strip-mined by the Empire. The holy city met a cataclysmic end when Grand Moff Tarkin ordered a single-reactor test fire of the Death Star’s superlaser, wiping the city off the map.
+* **Scarif**
+A paradise-like Outer Rim world situated near the Triellus Trade Route past Bothan Space, characterized by shimmering tropical oceans, pristine sandbanks, and clusters of palm trees. Beneath its tranquil surface, however, laid the heavily fortified Imperial Security Complex. It became the stage for the most crucial land and orbital battle of the Galactic Civil War, where a band of Rebel volunteers sacrificed everything to steal the Death Star schematics.
+
+### Solo: A Star Wars Story
+
+* **Corellia**
+An industrial powerhouse located in the Core Worlds, famed across the galaxy for its colossal orbital shipyards and unparalleled aerospace engineering. As the rough-and-tumble birthplace of Han Solo and Qi'ra, its shipyards manufactured some of the galaxy's most iconic vessels, including the rugged freighters that would become the foundations for the Millennium Falcon.
+* **Kessel**
+A distorted, low-gravity asteroid world shrouded in a dense, glowing cloud of cosmic gas within the Outer Rim. Controlled by ruthless criminal syndicates running brutal underground spice mines, it became immortalized when a young Han Solo piloted the Millennium Falcon through the treacherous maelstrom, setting the legendary record of completing the Kessel Run in less than 12 parsecs.
+
+---
+
+## Additional Canon Worlds (Animation, Live-Action Series, and Theme Parks)
+
+* **Mandalore**
+A planet located in the Outer Rim, bordering the Mid Rim just off the Hydian Way. It is the ancestral home of the Mandalorians, a legendary and proud warrior culture. After centuries of devastating cataclysmic warfare scorched the planet's surface into an inhospitable white desert, the surviving population adapted by living inside massive, pressurized biocube dome cities.
+* **Batuu**
+A remote frontier planet located on the outermost edge of the Outer Rim, sitting directly on the border of the Unknown Regions. Before the advent of advanced, direct hyperspace lanes, it was a bustling, prosperous trade hub. Today, it serves as a forgotten crossroad for smugglers, rogue traders, and those wishing to stay out of the sight of the authorities at the infamous Black Spire Outpost.
+* **Tython**
+A mysterious planet hidden deep within the volatile, star-dense Deep Core, possessing an incredibly powerful natural resonance with the Force. Revered as one of the oldest cradles of the ancient Jedi Order, its mountain peaks hold the ancient Seeing Stone, where Force-sensitives can sit and project their presence across the cosmic currents of the galaxy.
+* **Sullust**
+A volatile Outer Rim world located near the junction of the Rimma Trade Route and the Hydian Way, its jagged surface defined by relentless volcanic activity, rivers of lava, and toxic atmosphere. The highly intelligent Sullustans adapted by engineering highly sophisticated, comfortable underground cities. During the Galactic Civil War, the planet housed massive Imperial orbital shipyards and manufacturing plants.
+* **Duro**
+A legendary Core World and the proud homeworld of the blue-skinned Duros, one of the galaxy's most naturally gifted spacefaring species. As one of the earliest civilizations to master the mechanical hyperdrive, they charted the galaxy's oldest hyperspace highways. However, intense, unregulated industrialization eventually ruined the planet’s atmosphere, forcing the Duros to abandon the surface and live inside massive, interconnected orbital canopy cities.
+* **Kuat**
+A highly influential Core World that serves as the corporate home to Kuat Drive Yards (KDY), the premier military shipbuilder in galactic history. The planet is completely encircled by a massive, artificial ring of orbital drydocks. This orbital shipyard manufactured the ultimate symbols of Imperial enforcement, mass-producing the legendary *Imperial*-class Star Destroyers.
+* **Cato Neimoidia**
+A wealthy Colony world located near Kuat. It serves as one of the premier "Purse Worlds" for the high-ranking Neimoidian executives of the Trade Federation (ranking highest among its sister worlds, Deko Neimoidia and Koru Neimoidia). The planet is famous for its stunning, opulent cities built on massive suspension bridges spanning misty mountain chasms, where the elite locked away their vast fortunes.
+* **Rakata Prime (Lehon)**
+A breathtaking tropical world of pristine oceans and scattered islands tucked away in the Unknown Regions. Tens of thousands of years ago, it served as the capital of the Infinite Empire—a cruel, dominant civilization ruled by the Rakata species. The planet once orbited the Star Forge, an ancient, dark side-fueled automated shipyard capable of forging entire fleets.
+* **Ruusan**
+A legendary Mid Rim world situated near the borders of Hutt Space. In 1032 BBY, it became the battlefield for the final, apocalyptic war between the old Jedi Order and the Army of Light against the Sith Brotherhood of Darkness. Following the perceived extinction of the Sith (save for Darth Bane, who survived to create the Rule of Two), the valley where the final thought bomb detonated became a sacred, haunted landmark known as the Valley of the Jedi.
+* **Cerea**
+A peaceful Mid Rim world located at the terminus of the Great Grain Run, and the homeworld of the highly intelligent, binary-brained Cerean species (such as Jedi Master Ki-Adi-Mundi). The Cereans strictly regulate the importation of modern technology, choosing instead to live in a harmonious, utopian society deeply attuned to their planet's natural ecosystems.
+* **Kinyen**
+A vibrant agricultural planet located in the Expansion Region along the Corellian Trade Spine. It is the homeworld of the gentle, three-eyed Gran species. Blessed with endless, rolling prairies and fertile farmlands, Kinyen acts as a major breadbasket for the galaxy. During the Imperial era, its peaceful population suffered a horrific massacre when the Empire brutally cracked down on localized resistance.
 [return](#index)
 
 ## The Midi-chlorians in Star Wars world
