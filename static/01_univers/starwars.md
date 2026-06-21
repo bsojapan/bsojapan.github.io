@@ -486,6 +486,7 @@ Based in the Core Worlds, Rendili was one of the Republic’s oldest shipbuilder
 
 * **Technological Legacy:**
 Rendili was the true pioneer of the wedge-shaped (dagger-like) hull design that would eventually become the ultimate symbol of Imperial terror. Their finest masterpieces included the *Dreadnought*-class heavy cruiser and the *Victory*-class Star Destroyer used during the Clone Wars.
+
 * **The Kuat Rivalry:**
 Once a tier above KDY, Rendili was slowly choked out of its prime Navy contracts by KDY’s aggressive lobbying and backroom political deals. By the time of the Clone Wars, KDY had aggressively headhunted Rendili’s top engineers, relegating the ancient firm to KDY’s shadow by the rise of the Empire.
 
@@ -495,6 +496,7 @@ Located near the Core Worlds close to Coruscant, Incom was based on the planet F
 
 * **Technological Legacy:**
 During the Clone Wars, Incom engineered the ARC-170 starfighter and the Z-95 Headhunter for the Republic. Later, they designed the most iconic starfighter in galactic history: the T-65 X-wing, as well as the UT-60D U-wing.
+
 * **The Dramatic Defection:**
 Following the rise of the Empire, the Imperial regime attempted to forcefully nationalize Incom. In a daring, cinematic act of defiance, Incom's top designers and engineers defected to the Rebel Alliance, taking the secret prototypes and blueprints for the X-wing with them, handing the Rebellion its greatest weapon.
 
@@ -576,6 +578,7 @@ Located at the literal heart of the galaxy in the Core Worlds, this legendary ca
 
 * **Kamino**
 While technically resting on the outer grid coordinates of the Outer Rim, this world is widely considered "extragalactic" because it sits well below the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
+
 * **Geonosis**
 A harsh, reddish desert world of rocky mesas and canyon networks located in the Outer Rim, right in Tatooine's cosmic backyard. Inhabited by the insectoid Geonosians, the planet housed massive, hidden droid foundries for the Separatist alliance. It earned its place in history as the flashpoint for the Clone Wars during the explosive Battle of Geonosis.
 
@@ -597,6 +600,7 @@ A brutal, hellish volcanic planet in the Outer Rim, situated along the Hydian Wa
 
 * **Alderaan**
 A breathtaking Core World located along the Commenor Run, internationally renowned for its vibrant culture, peaceful philosophy, and stunning alpine landscapes. It was the adoptive homeworld of Princess Leia Organa. After her consular ship was captured above Tatooine while fleeing the archives of Scarif, Alderaan was utterly obliterated by the Death Star’s superlaser on the orders of Grand Moff Tarkin, serving as a horrific demonstration of Imperial terror right before Leia’s eyes.
+
 * **Yavin 4 (The Fourth Moon of Yavin)**
 A lush, jungle-covered moon orbiting the red gas giant Yavin, located in the Outer Rim just off the Hydian Way. Hidden within ancient, overgrown stone temples, the Rebel Alliance established its primary secret headquarters. It became the legendary staging ground for the Battle of Yavin, where Rebel pilots made their desperate, triumphant stand to destroy the first Death Star.
 
@@ -604,8 +608,10 @@ A lush, jungle-covered moon orbiting the red gas giant Yavin, located in the Out
 
 * **Hoth**
 A remote, unforgiving ice world locked in a perpetual blizzard, situated near the entry points of the Corellian Trade Spine in the Outer Rim. Despite its isolation, it is surrounded by several adjacent star systems. Following their evacuation from Yavin, the Rebellion established the hidden Echo Base within its sub-zero caverns, only to be forced into a chaotic retreat after a devastating ground assault by Imperial AT-AT walkers.
+
 * **Dagobah**
 A forgotten, unmapped world shrouded in thick fog, dark swamplands, and petrified forests deep within the Outer Rim. Free from industrialized life, the planet acts as a natural locus for the Force. It became the sanctuary for Grand Master Yoda during his long exile, and the proving ground where Luke Skywalker underwent his grueling Jedi training.
+
 * **Bespin**
 A massive, majestic gas giant located in the Outer Rim near the Corellian Trade Spine, sharing cosmic proximity with systems like Hoth. High within its habitable atmospheric layer floated Cloud City, a luxurious tibanna gas mining metropolis managed by Lando Calrissian. Darth Vader ruthlessly used the city as a trap, capturing Han Solo and Princess Leia to lure Luke into a confrontation.
 
@@ -620,10 +626,13 @@ A sanctuary moon dominated by towering, ancient trees, orbiting the gas giant En
 
 * **Jakku**
 An isolated, endless desert world located on the western fringes of the Inner Rim. In 5 ABY, it served as the graveyard for the Galactic Civil War during the pivotal Battle of Jakku. Decades later, the desert remains littered with the rusted hulks of crashed Star Destroyers, where a young scavenger named Rey eked out a living. It is also where the defecting First Order stormtrooper FN-2187 (Finn) crossed paths with Poe Dameron and Rey during a daring escape.
+
 * **Takodana**
 A picturesque Mid Rim world nestled among pristine lakes and deep, ancient forests, situated closer to the Core side of the Cerean Reach. For centuries, it housed the lakeside castle of the ancient pirate queen Maz Kanata. It was in the castle’s forgotten basement vaults that Rey experienced her fateful, terrifying vision upon touching the long-lost lightsaber of Luke Skywalker.
+
 * **D'Qar**
 A quiet, heavily vegetated Outer Rim world located on the far side of Naboo, roughly bridging the distant gap between Tatooine and Hoth. The planet served as the secluded headquarters for General Leia Organa’s Resistance, acting as the command center from which the daring starfighter assault against Starkiller Base was launched.
+
 * **Hosnian Prime**
 A sophisticated, cosmopolitan ecumenopolis in the Core Worlds that served as the rotating capital of the New Republic. As the seat of the Galactic Senate, it stood as a shining beacon of democracy—until the entire Hosnian system was instantaneously annihilated by the phantom red beam fired across the galaxy from First Order's Starkiller Base.
 
@@ -631,8 +640,10 @@ A sophisticated, cosmopolitan ecumenopolis in the Core Worlds that served as the
 
 * **Ahch-To**
 A pristine, deep-space world hidden within the Unknown Regions, its surface almost entirely covered by a vast blue ocean dotted with craggy, rocky islands. It is the sacred birthplace of the Jedi Order, home to the very first Jedi Temple. Seeking clarity away from the galaxy, a disillusioned Luke Skywalker chose this isolated sanctuary for his final exile.
+
 * **Crait**
 A desolate, mineral-rich Outer Rim planet located along the routes heading toward Naboo off the Hydian Way. The planet features an ethereal, blindingly white landscape covered entirely in salt flats. Beneath the crust lies a vibrant red mineral layer; when the ground is torn up by heavy skimming speeders or artillery fire, the battlefield bleeds a brilliant crimson. It became the site of the Resistance’s desperate final stand against the First Order.
+
 * **Cantonica**
 A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is famous for the glitzy casino city of Canto Bight—an opulent oasis where wealthy war profiteers, high-rolling gamblers, and galactic arms dealers indulged in lavish nightlife, blissfully detached from the galaxy's conflicts.
 
@@ -640,8 +651,10 @@ A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is
 
 * **Exegol**
 A barren, jagged world of dark stone hidden deep within the labyrinthine anomalies of the Unknown Regions, far beyond the galactic disk. Locked in a permanent shroud of dry electrical storms and ambient dark side energy, this ancient Sith redoubt served as the secret stronghold where a resurrected Emperor Palpatine spent decades constructing his armada, the Final Order.
+
 * **Kijimi**
 A frigid, snow-swept mountain world located in the Mid Rim, positioned just off the Perlemian Trade Route toward Hutt Space. The ancient, winding alleyways of Kijimi City served as a notorious haven for spice runners, thieves, and scoundrels, providing a cold sanctuary for Zorii Bliss and her crew—associates from Poe Dameron’s checkered past.
+
 * **Ilum**
 An ancient ice world located in the Unknown Regions close to Exegol, historically revered by the Jedi Order as a sacred pilgrimage site for harvesting kyber crystals to power their lightsabers. Tragically, the planet was occupied by the Empire and later hollowed out by the First Order, engineered directly into the core of the catastrophic planet-killing superweapon known as Starkiller Base.
 
