@@ -396,6 +396,7 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 [return](#index)
 
+---
 ## About Starship Manufacturing in Star Wars World
 
 While the "Legends" continuity is now classified as non-canon, its sheer volume of information as of 2025 still vastly outpaces the current Disney "Canon." Of course, as Disney continues to pump out new spin-offs, Canon is expanding rapidly, inevitably leading to contradictions between the two timelines. But honestly, just like in the real world, history is often rewritten depending on who is in power, their perspective, or the oral traditions passed down. This is, after all, a story from a long time ago in a galaxy far, far away.
@@ -446,8 +447,10 @@ For millennia leading up to 500 BBY, the galactic shipbuilding industry and econ
 
 1. **Corellia StarDrive:**
 Founded around 5,000 BBY, this original Corellian mega-corporation completely dominated the military market (supplying the Republic Navy's capital ships) and high-end luxury transport sector. They famously manufactured the *Thranta*-class corvettes used during the Old Sith Wars. For a long time, they outmaneuvered CEC and amassed enough wealth to single-handedly bankroll entire planetary alliances.
+
 1. **Hoersch-Kessel Drive (HKD):**
 Founded prior to 4,000 BBY by Neimoidians of Duros descent, HKD held the largest market share in the Outer Rim, keeping the fringes of the galaxy supplied with massive cargo haulers and bulk carriers. While their designs were notoriously slow and bulky, they boasted unparalleled cargo capacity and heavy armor plating, making them indispensable to galactic infrastructure. Unlike DSM, HKD secretly became a subsidiary of the Trade Federation, covertly building massive warships like the 3-kilometer-wide *Lucrehulk*-class battleship. After the Trade Federation's defeat at the Battle of Naboo, the company was sold to Duros investors, and eventually passed to Nimbanese financiers by the end of the Clone Wars. Aggressive corporate streamlining caused their top engineers to leave, weakening the company permanently. Despite trying to return to their commercial roots, they were never able to recover.
+
 1. **Core Galaxy Systems:**
 Founded around 20,000 BBY as a pioneer shipwright, this corporate giant maintained an unshakeable stronghold in the Core Worlds, mass-producing standard starship models for both civilian and military use. They reigned at the top of the Old Triumvirate for thousands of years, manufacturing the Republic’s *Dreadnought*-class heavy cruisers and various frigates, while their subsidiaries pumped out light freighters.
 
@@ -508,6 +511,7 @@ A massive corporate cartel that served as the industrial and technological backb
 
 * **Baktoid Armor Workshops:**
 The industrial powerhouse responsible for mass-producing millions of B1 and B2 battle droids, as well as the Trade Federation's armored vehicles like the AAT and MTT.
+
 * **Phlac-Arphocc Automata:**
 The brilliant but cold minds behind autonomous starfighters like the *Vulture*-class droid fighter and the Tri-fighter. By entirely removing life-support systems, they minimized costs and maximized maneuvering tolerances, establishing a terrifying new market for completely unmanned warfare.
 
@@ -517,8 +521,10 @@ The "KDY-CEC-Sienar" triad, solidified during the 500 BBY reshuffle, reached its
 
 * **Kuat Drive Yards (KDY):**
 Monopolized the construction of the Empire's ultimate symbols of power, including the *Imperial*-class Star Destroyer. KDY sat comfortably at the absolute peak of military manufacturing, having integrated closely with the Santhe Corporation around 100 BBY.
+
 * **Sienar Fleet Systems (SFS):**
 Evolving from Sienar Engineering and officially merging with the Santhe family around 100 BBY, SFS utilized CEO Raith Sienar's direct political pipeline to Emperor Palpatine to secure the exclusive, endless production contract for the TIE fighter line. Furthermore, they maintained a brilliant corporate symbiosis with their rival, KDY—every single Imperial Star Destroyer built by KDY was powered by massive, Sienar-manufactured solar ionization reactors.
+
 * **Corellian Engineering Corporation (CEC):**
 While they conceded the frontline military contracts to KDY and Sienar, CEC retained an absolute monopoly over the galaxy's civilian and logistics markets. They specialized in rugged, cheap, highly modular freighters (like the YT-1300) that owners could easily modify with legal or illegal upgrades. Characters like Han Solo utilized these Corellian hulls, and they quickly became the backbone of the galactic underworld and the Rebel Alliance fleet.
 
@@ -534,6 +540,7 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 
 [return](#index)
 
+---
 ## About Planets in Star Wars world
 
 - Online map
@@ -576,12 +583,13 @@ A harsh, reddish desert world of rocky mesas and canyon networks located in the 
 
 * **Utapau**
 Tucked away deep in the Outer Rim along the Rimma Trade Route, this unique planet features a wind-blasted surface pockmarked by countless massive sinkholes. The planet's civilizations built their stunning, vertical cities directly into the limestone walls of these chasms. It was here that Obi-Wan Kenobi tracked down General Grievous, engaging the cyborg commander in a fierce, fateful duel.
+
 * **Kashyyyk**
 A magnificent Mid Rim world blanketed by colossal wroshyr forests and vast, untamed ecosystems, located at the terminus of the Randon Run branching off the Perlemian Trade Route. It is the proud homeworld of the fiercely loyal and powerful Wookiees. Grand Master Yoda personally arrived to command the beachfront defenses here, only for the tragedy of Order 66 to strike mid-battle, turning a triumph into a Jedi massacre.
+
 * **Mustafar**
 A brutal, hellish volcanic planet in the Outer Rim, situated along the Hydian Way. It is a fractured world where rivers of molten lava carve through black obsidian landscapes. This desolate world served as the backdrop for the tragic, emotional duel between Obi-Wan Kenobi and his fallen apprentice, Darth Vader, permanently severing their bond.
 
----
 
 ### The Original Trilogy (Episodes IV–VI)
 
@@ -605,8 +613,6 @@ A massive, majestic gas giant located in the Outer Rim near the Corellian Trade 
 
 * **Endor (The Forest Moon of Endor)**
 A sanctuary moon dominated by towering, ancient trees, orbiting the gas giant Endor. Located along the Cerean Reach past Cerea (branching off the Corellian Trade Spine), this heavily forested world was chosen by the Empire to house the shield generator protecting the incomplete Second Death Star. In a brilliant twist of fate, the Rebel strike team allied with the moon's primitive, resourceful natives—the Ewoks—to overthrew the Imperial garrison, leading directly to the collapse of the Empire.
-
----
 
 ### The Sequel Trilogy (Episodes VII–IX)
 
@@ -639,14 +645,13 @@ A frigid, snow-swept mountain world located in the Mid Rim, positioned just off 
 * **Ilum**
 An ancient ice world located in the Unknown Regions close to Exegol, historically revered by the Jedi Order as a sacred pilgrimage site for harvesting kyber crystals to power their lightsabers. Tragically, the planet was occupied by the Empire and later hollowed out by the First Order, engineered directly into the core of the catastrophic planet-killing superweapon known as Starkiller Base.
 
----
-
 ### The Star Wars Stories (Spin-offs)
 
 #### Rogue One: A Star Wars Story
 
 * **Jedha**
 A cold, desert moon located in the Mid Rim toward the Unknown Regions, defined by its weathered, ancient landscapes. As a holy site for early Force-worshipping faiths and a natural source of rare kyber crystals, it was heavily occupied and strip-mined by the Empire. The holy city met a cataclysmic end when Grand Moff Tarkin ordered a single-reactor test fire of the Death Star’s superlaser, wiping the city off the map.
+
 * **Scarif**
 A paradise-like Outer Rim world situated near the Triellus Trade Route past Bothan Space, characterized by shimmering tropical oceans, pristine sandbanks, and clusters of palm trees. Beneath its tranquil surface, however, laid the heavily fortified Imperial Security Complex. It became the stage for the most crucial land and orbital battle of the Galactic Civil War, where a band of Rebel volunteers sacrificed everything to steal the Death Star schematics.
 
@@ -654,37 +659,47 @@ A paradise-like Outer Rim world situated near the Triellus Trade Route past Both
 
 * **Corellia**
 An industrial powerhouse located in the Core Worlds, famed across the galaxy for its colossal orbital shipyards and unparalleled aerospace engineering. As the rough-and-tumble birthplace of Han Solo and Qi'ra, its shipyards manufactured some of the galaxy's most iconic vessels, including the rugged freighters that would become the foundations for the Millennium Falcon.
+
 * **Kessel**
 A distorted, low-gravity asteroid world shrouded in a dense, glowing cloud of cosmic gas within the Outer Rim. Controlled by ruthless criminal syndicates running brutal underground spice mines, it became immortalized when a young Han Solo piloted the Millennium Falcon through the treacherous maelstrom, setting the legendary record of completing the Kessel Run in less than 12 parsecs.
-
----
 
 ### Additional Canon Worlds (Animation, Live-Action Series, and Theme Parks)
 
 * **Mandalore**
 A planet located in the Outer Rim, bordering the Mid Rim just off the Hydian Way. It is the ancestral home of the Mandalorians, a legendary and proud warrior culture. After centuries of devastating cataclysmic warfare scorched the planet's surface into an inhospitable white desert, the surviving population adapted by living inside massive, pressurized biocube dome cities.
+
 * **Batuu**
 A remote frontier planet located on the outermost edge of the Outer Rim, sitting directly on the border of the Unknown Regions. Before the advent of advanced, direct hyperspace lanes, it was a bustling, prosperous trade hub. Today, it serves as a forgotten crossroad for smugglers, rogue traders, and those wishing to stay out of the sight of the authorities at the infamous Black Spire Outpost.
+
 * **Tython**
 A mysterious planet hidden deep within the volatile, star-dense Deep Core, possessing an incredibly powerful natural resonance with the Force. Revered as one of the oldest cradles of the ancient Jedi Order, its mountain peaks hold the ancient Seeing Stone, where Force-sensitives can sit and project their presence across the cosmic currents of the galaxy.
+
 * **Sullust**
 A volatile Outer Rim world located near the junction of the Rimma Trade Route and the Hydian Way, its jagged surface defined by relentless volcanic activity, rivers of lava, and toxic atmosphere. The highly intelligent Sullustans adapted by engineering highly sophisticated, comfortable underground cities. During the Galactic Civil War, the planet housed massive Imperial orbital shipyards and manufacturing plants.
+
 * **Duro**
 A legendary Core World and the proud homeworld of the blue-skinned Duros, one of the galaxy's most naturally gifted spacefaring species. As one of the earliest civilizations to master the mechanical hyperdrive, they charted the galaxy's oldest hyperspace highways. However, intense, unregulated industrialization eventually ruined the planet’s atmosphere, forcing the Duros to abandon the surface and live inside massive, interconnected orbital canopy cities.
+
 * **Kuat**
 A highly influential Core World that serves as the corporate home to Kuat Drive Yards (KDY), the premier military shipbuilder in galactic history. The planet is completely encircled by a massive, artificial ring of orbital drydocks. This orbital shipyard manufactured the ultimate symbols of Imperial enforcement, mass-producing the legendary *Imperial*-class Star Destroyers.
+
 * **Cato Neimoidia**
 A wealthy Colony world located near Kuat. It serves as one of the premier "Purse Worlds" for the high-ranking Neimoidian executives of the Trade Federation (ranking highest among its sister worlds, Deko Neimoidia and Koru Neimoidia). The planet is famous for its stunning, opulent cities built on massive suspension bridges spanning misty mountain chasms, where the elite locked away their vast fortunes.
+
 * **Rakata Prime (Lehon)**
 A breathtaking tropical world of pristine oceans and scattered islands tucked away in the Unknown Regions. Tens of thousands of years ago, it served as the capital of the Infinite Empire—a cruel, dominant civilization ruled by the Rakata species. The planet once orbited the Star Forge, an ancient, dark side-fueled automated shipyard capable of forging entire fleets.
+
 * **Ruusan**
 A legendary Mid Rim world situated near the borders of Hutt Space. In 1032 BBY, it became the battlefield for the final, apocalyptic war between the old Jedi Order and the Army of Light against the Sith Brotherhood of Darkness. Following the perceived extinction of the Sith (save for Darth Bane, who survived to create the Rule of Two), the valley where the final thought bomb detonated became a sacred, haunted landmark known as the Valley of the Jedi.
+
 * **Cerea**
 A peaceful Mid Rim world located at the terminus of the Great Grain Run, and the homeworld of the highly intelligent, binary-brained Cerean species (such as Jedi Master Ki-Adi-Mundi). The Cereans strictly regulate the importation of modern technology, choosing instead to live in a harmonious, utopian society deeply attuned to their planet's natural ecosystems.
+
 * **Kinyen**
 A vibrant agricultural planet located in the Expansion Region along the Corellian Trade Spine. It is the homeworld of the gentle, three-eyed Gran species. Blessed with endless, rolling prairies and fertile farmlands, Kinyen acts as a major breadbasket for the galaxy. During the Imperial era, its peaceful population suffered a horrific massacre when the Empire brutally cracked down on localized resistance.
 [return](#index)
 
+---
 ## The Midi-chlorians in Star Wars world
 
 Midi-chlorians—they’re those microscopic life-forms that act as a link between living beings and the Force.
