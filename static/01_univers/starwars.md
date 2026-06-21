@@ -398,7 +398,6 @@ During the Separatist movement led by Lord Sidious, Chairman of the High Council
 
 ## About Starship Manufacturing in Star Wars World
 
-
 While the "Legends" continuity is now classified as non-canon, its sheer volume of information as of 2025 still vastly outpaces the current Disney "Canon." Of course, as Disney continues to pump out new spin-offs, Canon is expanding rapidly, inevitably leading to contradictions between the two timelines. But honestly, just like in the real world, history is often rewritten depending on who is in power, their perspective, or the oral traditions passed down. This is, after all, a story from a long time ago in a galaxy far, far away.
 
 Here, we’ve woven both threads together to give you a grand overview. Hopefully, the charm of this corporate narrative sparks your curiosity!
@@ -445,9 +444,12 @@ This era saw the golden age of the "Old Triumvirate" (the original Big Three), w
 
 For millennia leading up to 500 BBY, the galactic shipbuilding industry and economy were dominated by three titans:
 
-1. **Corellia StarDrive:** Founded around 5,000 BBY, this original Corellian mega-corporation completely dominated the military market (supplying the Republic Navy's capital ships) and high-end luxury transport sector. They famously manufactured the *Thranta*-class corvettes used during the Old Sith Wars. For a long time, they outmaneuvered CEC and amassed enough wealth to single-handedly bankroll entire planetary alliances.
-2. **Hoersch-Kessel Drive (HKD):** Founded prior to 4,000 BBY by Neimoidians of Duros descent, HKD held the largest market share in the Outer Rim, keeping the fringes of the galaxy supplied with massive cargo haulers and bulk carriers. While their designs were notoriously slow and bulky, they boasted unparalleled cargo capacity and heavy armor plating, making them indispensable to galactic infrastructure. Unlike DSM, HKD secretly became a subsidiary of the Trade Federation, covertly building massive warships like the 3-kilometer-wide *Lucrehulk*-class battleship. After the Trade Federation's defeat at the Battle of Naboo, the company was sold to Duros investors, and eventually passed to Nimbanese financiers by the end of the Clone Wars. Aggressive corporate streamlining caused their top engineers to leave, weakening the company permanently. Despite trying to return to their commercial roots, they were never able to recover.
-3. **Core Galaxy Systems:** Founded around 20,000 BBY as a pioneer shipwright, this corporate giant maintained an unshakeable stronghold in the Core Worlds, mass-producing standard starship models for both civilian and military use. They reigned at the top of the Old Triumvirate for thousands of years, manufacturing the Republic’s *Dreadnought*-class heavy cruisers and various frigates, while their subsidiaries pumped out light freighters.
+1. **Corellia StarDrive:**
+Founded around 5,000 BBY, this original Corellian mega-corporation completely dominated the military market (supplying the Republic Navy's capital ships) and high-end luxury transport sector. They famously manufactured the *Thranta*-class corvettes used during the Old Sith Wars. For a long time, they outmaneuvered CEC and amassed enough wealth to single-handedly bankroll entire planetary alliances.
+1. **Hoersch-Kessel Drive (HKD):**
+Founded prior to 4,000 BBY by Neimoidians of Duros descent, HKD held the largest market share in the Outer Rim, keeping the fringes of the galaxy supplied with massive cargo haulers and bulk carriers. While their designs were notoriously slow and bulky, they boasted unparalleled cargo capacity and heavy armor plating, making them indispensable to galactic infrastructure. Unlike DSM, HKD secretly became a subsidiary of the Trade Federation, covertly building massive warships like the 3-kilometer-wide *Lucrehulk*-class battleship. After the Trade Federation's defeat at the Battle of Naboo, the company was sold to Duros investors, and eventually passed to Nimbanese financiers by the end of the Clone Wars. Aggressive corporate streamlining caused their top engineers to leave, weakening the company permanently. Despite trying to return to their commercial roots, they were never able to recover.
+1. **Core Galaxy Systems:**
+Founded around 20,000 BBY as a pioneer shipwright, this corporate giant maintained an unshakeable stronghold in the Core Worlds, mass-producing standard starship models for both civilian and military use. They reigned at the top of the Old Triumvirate for thousands of years, manufacturing the Republic’s *Dreadnought*-class heavy cruisers and various frigates, while their subsidiaries pumped out light freighters.
 
 Meanwhile, Sienar Engineering—the prestigious company that would later birth the TIE fighter—didn’t even rank in the top three for finished starship sales. However, Sienar possessed the finest technical R&D in the galaxy, owning the rights to the "beating hearts" of starships: hyperdrive cores, advanced avionics, and massive ion reactors. Instead of building hulls themselves, they operated as a high-end systems and component supplier, licensing their cutting-edge power plants to the Triumvirate (especially Core Galaxy Systems), quietly amassing a staggering fortune.
 
@@ -479,36 +481,46 @@ Failing to compete with KDY’s industrial scale and CEC’s modernized modular 
 
 Based in the Core Worlds, Rendili was one of the Republic’s oldest shipbuilders. Before KDY's rise, Rendili held the lion's share of the Republic Navy's capital ship contracts, famously designing the *Hammerhead*-class cruisers.
 
-* **Technological Legacy:** Rendili was the true pioneer of the wedge-shaped (dagger-like) hull design that would eventually become the ultimate symbol of Imperial terror. Their finest masterpieces included the *Dreadnought*-class heavy cruiser and the *Victory*-class Star Destroyer used during the Clone Wars.
-* **The Kuat Rivalry:** Once a tier above KDY, Rendili was slowly choked out of its prime Navy contracts by KDY’s aggressive lobbying and backroom political deals. By the time of the Clone Wars, KDY had aggressively headhunted Rendili’s top engineers, relegating the ancient firm to KDY’s shadow by the rise of the Empire.
+* **Technological Legacy:**
+Rendili was the true pioneer of the wedge-shaped (dagger-like) hull design that would eventually become the ultimate symbol of Imperial terror. Their finest masterpieces included the *Dreadnought*-class heavy cruiser and the *Victory*-class Star Destroyer used during the Clone Wars.
+* **The Kuat Rivalry:**
+Once a tier above KDY, Rendili was slowly choked out of its prime Navy contracts by KDY’s aggressive lobbying and backroom political deals. By the time of the Clone Wars, KDY had aggressively headhunted Rendili’s top engineers, relegating the ancient firm to KDY’s shadow by the rise of the Empire.
 
 ##### Incom Corporation
 
 Located near the Core Worlds close to Coruscant, Incom was based on the planet Fresia in the Cal-Seti system. They were the undisputed kings of starfighter development, splitting the starfighter market down the middle with Sienar from the Mid-Republic through the Galactic Civil War.
 
-* **Technological Legacy:** During the Clone Wars, Incom engineered the ARC-170 starfighter and the Z-95 Headhunter for the Republic. Later, they designed the most iconic starfighter in galactic history: the T-65 X-wing, as well as the UT-60D U-wing.
-* **The Dramatic Defection:** Following the rise of the Empire, the Imperial regime attempted to forcefully nationalize Incom. In a daring, cinematic act of defiance, Incom's top designers and engineers defected to the Rebel Alliance, taking the secret prototypes and blueprints for the X-wing with them, handing the Rebellion its greatest weapon.
+* **Technological Legacy:**
+During the Clone Wars, Incom engineered the ARC-170 starfighter and the Z-95 Headhunter for the Republic. Later, they designed the most iconic starfighter in galactic history: the T-65 X-wing, as well as the UT-60D U-wing.
+* **The Dramatic Defection:**
+Following the rise of the Empire, the Imperial regime attempted to forcefully nationalize Incom. In a daring, cinematic act of defiance, Incom's top designers and engineers defected to the Rebel Alliance, taking the secret prototypes and blueprints for the X-wing with them, handing the Rebellion its greatest weapon.
 
 ##### Mon Calamari Orbital Shipyards
 
 Located at the terminus of the Perlemian Trade Route on the aquatic world of Dac (Mon Cala), these shipyards boast a rich history dating back to 4,000 BBY, built as a joint venture between the planet's two native species, the Mon Calamari and the Quarren. Their ships were the polar opposite of Kuat’s rigid, industrial products; each vessel was built with unique, flowing curves, treated more like an organic piece of art than a machine. Originally, they built peaceful oceanic explorers, passenger liners, and deep-space cruise ships, which were bought by hundreds of Outer Rim systems for defensive purposes. The Republic didn't even know these shipyards existed until 4,166 BBY. Unfortunately, the worlds fractured internally during the Clone Wars.
 
-* **The Shield of the Rebellion:** When the Empire brutally occupied and enslaved their homeworld, the Mon Calamari revolted. They took their massive luxury liners and retrofitted them with heavy armor, turbo-lasers, and incredibly powerful redundant shield generators. These converted civilian ships became the *Mon Calamari Star Cruisers* (such as the MC80), providing the Rebel Alliance with the only capital ships capable of trading direct fire with an Imperial Star Destroyer.
+* **The Shield of the Rebellion:**
+When the Empire brutally occupied and enslaved their homeworld, the Mon Calamari revolted. They took their massive luxury liners and retrofitted them with heavy armor, turbo-lasers, and incredibly powerful redundant shield generators. These converted civilian ships became the *Mon Calamari Star Cruisers* (such as the MC80), providing the Rebel Alliance with the only capital ships capable of trading direct fire with an Imperial Star Destroyer.
 
 ##### The Techno Union Conglomerate
 
 A massive corporate cartel that served as the industrial and technological backbone for the Confederacy of Independent Systems (CIS) during the Clone Wars.
 
-* **Baktoid Armor Workshops:** The industrial powerhouse responsible for mass-producing millions of B1 and B2 battle droids, as well as the Trade Federation's armored vehicles like the AAT and MTT.
-* **Phlac-Arphocc Automata:** The brilliant but cold minds behind autonomous starfighters like the *Vulture*-class droid fighter and the Tri-fighter. By entirely removing life-support systems, they minimized costs and maximized maneuvering tolerances, establishing a terrifying new market for completely unmanned warfare.
+* **Baktoid Armor Workshops:**
+The industrial powerhouse responsible for mass-producing millions of B1 and B2 battle droids, as well as the Trade Federation's armored vehicles like the AAT and MTT.
+* **Phlac-Arphocc Automata:**
+The brilliant but cold minds behind autonomous starfighters like the *Vulture*-class droid fighter and the Tri-fighter. By entirely removing life-support systems, they minimized costs and maximized maneuvering tolerances, establishing a terrifying new market for completely unmanned warfare.
 
 ### The Imperial Era: Nationalization and the Big Three
 
 The "KDY-CEC-Sienar" triad, solidified during the 500 BBY reshuffle, reached its terrifying peak under the Galactic Empire.
 
-* **Kuat Drive Yards (KDY):** Monopolized the construction of the Empire's ultimate symbols of power, including the *Imperial*-class Star Destroyer. KDY sat comfortably at the absolute peak of military manufacturing, having integrated closely with the Santhe Corporation around 100 BBY.
-* **Sienar Fleet Systems (SFS):** Evolving from Sienar Engineering and officially merging with the Santhe family around 100 BBY, SFS utilized CEO Raith Sienar's direct political pipeline to Emperor Palpatine to secure the exclusive, endless production contract for the TIE fighter line. Furthermore, they maintained a brilliant corporate symbiosis with their rival, KDY—every single Imperial Star Destroyer built by KDY was powered by massive, Sienar-manufactured solar ionization reactors.
-* **Corellian Engineering Corporation (CEC):** While they conceded the frontline military contracts to KDY and Sienar, CEC retained an absolute monopoly over the galaxy's civilian and logistics markets. They specialized in rugged, cheap, highly modular freighters (like the YT-1300) that owners could easily modify with legal or illegal upgrades. Characters like Han Solo utilized these Corellian hulls, and they quickly became the backbone of the galactic underworld and the Rebel Alliance fleet.
+* **Kuat Drive Yards (KDY):**
+Monopolized the construction of the Empire's ultimate symbols of power, including the *Imperial*-class Star Destroyer. KDY sat comfortably at the absolute peak of military manufacturing, having integrated closely with the Santhe Corporation around 100 BBY.
+* **Sienar Fleet Systems (SFS):**
+Evolving from Sienar Engineering and officially merging with the Santhe family around 100 BBY, SFS utilized CEO Raith Sienar's direct political pipeline to Emperor Palpatine to secure the exclusive, endless production contract for the TIE fighter line. Furthermore, they maintained a brilliant corporate symbiosis with their rival, KDY—every single Imperial Star Destroyer built by KDY was powered by massive, Sienar-manufactured solar ionization reactors.
+* **Corellian Engineering Corporation (CEC):**
+While they conceded the frontline military contracts to KDY and Sienar, CEC retained an absolute monopoly over the galaxy's civilian and logistics markets. They specialized in rugged, cheap, highly modular freighters (like the YT-1300) that owners could easily modify with legal or illegal upgrades. Characters like Han Solo utilized these Corellian hulls, and they quickly became the backbone of the galactic underworld and the Rebel Alliance fleet.
 
 Tragically, the Duros system—the ancient pioneer of hyperlane travel—suffered the worst fate under the Empire. Driven by Emperor Palpatine’s fierce "High Human Culture" (anti-alien) policy, the Imperial military forcefully seized and nationalized Duro's orbital canopies and shipyards.
 
