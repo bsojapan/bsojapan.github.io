@@ -568,18 +568,19 @@ Let's Virtual Galactic Tour.
 #### Episode I: The Phantom Menace
 
 * **Tatooine**
-A harsh desert planet baking under the glare of twin suns, located in the Outer Rim Sieges where the Triellus Trade Route intersects with the 5709-DC Shipping Lane (just past the Corellian Run). As a lawless hub under the absolute control of the Hutt clans, it maintains direct, illicit smuggling pipelines close to Kessel. Though a dusty backwater on the galactic fringe, it is the crucial starting point for the entire saga—the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
+A harsh desert planet baking under the glare of twin suns, located in the Outer Rim where the Triellus Trade Route intersects with the Corellian Run. As a lawless hub under the absolute control of the Hutt clans and it path direct root close to Kessel where illicit spice smuggling. Though a dusty planet on the galactic fringe, it is the crucial starting point for the entire saga—the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
 
 * **Naboo**
-A peaceful Mid Rim world blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padmé Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma—a vital starship fuel resource—making it the prime target of the Trade Federation’s illegal blockade.
+A peaceful Mid Rim world offset from Hydian Way blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padmé Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma—a vital starship fuel resource—making it the prime target of the Trade Federation’s illegal blockade.
 
 * **Coruscant**
-Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis—a planet entirely encased in a sprawling, multi-leveled metropolis. Home to both the Galactic Senate and the Jedi Temple, it serves as the beating heart of galactic politics and Jedi operations. It is the grand stage where Senator Palpatine of Naboo orchestrates his rise to Supreme Chancellor, eventually forging his Galactic Empire from its towering spires.
+Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis—a planet entirely encased in a sprawling, multi-leveled metropolis. 
+It is home to the Galactic Senate House and the Jedi Temple, serving as the center of all political and Jedi activities. It is also the stage where Palpatine, a native of Naboo, who aspires to the position of Chairman of the Council, establishes the Empire.
 
 #### Episode II: Attack of the Clones
 
 * **Kamino**
-While technically resting on the outer grid coordinates of the Outer Rim, this world is widely considered "extragalactic" because it sits well below the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
+While resting on the outer grid coordinates of the Outer Rim near Scrif, this world is widely considered "extragalactic" because it sits well below the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
 
 * **Geonosis**
 A harsh, reddish desert world of rocky mesas and canyon networks located in the Outer Rim, right in Tatooine's cosmic backyard. Inhabited by the insectoid Geonosians, the planet housed massive, hidden droid foundries for the Separatist alliance. It earned its place in history as the flashpoint for the Clone Wars during the explosive Battle of Geonosis.
