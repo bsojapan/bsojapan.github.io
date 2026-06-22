@@ -634,7 +634,7 @@ An isolated, endless desert world located on the western fringes of the Inner Ri
 A picturesque Mid Rim world nestled among pristine lakes and deep, ancient forests, situated closer to the Core side of the Cerean Reach. For centuries, it housed the lakeside castle of the ancient pirate queen Maz Kanata. It was in the castle’s forgotten basement vaults that Rey experienced her fateful, terrifying vision upon touching the long-lost lightsaber of Luke Skywalker.
 
 * **D'Qar**
-A quiet, heavily vegetated Outer Rim world located on the far side of Naboo, roughly bridging the distant gap between Tatooine and Hoth. The planet served as the secluded headquarters for General Leia Organa’s Resistance, acting as the command center from which the daring starfighter assault against Starkiller Base was launched.
+A quiet, heavily vegetated Outer Rim world located on the far side of Naboo, halfway between Tatooine and Hoth. The planet served as the secluded headquarters for General Leia Organa’s Resistance, acting as the command center from which the daring starfighter assault against Starkiller Base was launched.
 
 * **Hosnian Prime**
 A sophisticated, cosmopolitan ecumenopolis in the Core Worlds that served as the rotating capital of the New Republic. As the seat of the Galactic Senate, it stood as a shining beacon of democracy—until the entire Hosnian system was instantaneously annihilated by the phantom red beam fired across the galaxy from First Order's Starkiller Base.
