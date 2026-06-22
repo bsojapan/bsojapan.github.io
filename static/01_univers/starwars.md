@@ -637,12 +637,12 @@ A picturesque Mid Rim world nestled among pristine lakes and deep, ancient fores
 A quiet, heavily vegetated Outer Rim world located on the far side of Naboo, halfway between Tatooine and Hoth. The planet served as the secluded headquarters for General Leia Organa’s Resistance, acting as the command center from which the daring starfighter assault against Starkiller Base was launched.
 
 * **Hosnian Prime**
-A sophisticated, cosmopolitan ecumenopolis in the Core Worlds that served as the rotating capital of the New Republic. As the seat of the Galactic Senate, it stood as a shining beacon of democracy—until the entire Hosnian system was instantaneously annihilated by the phantom red beam fired across the galaxy from First Order's Starkiller Base.
+A sophisticated, cosmopolitan ecumenopolis on the Corellian Trade Spine in the Core Worlds that served as the rotating capital of the New Republic. As the seat of the Galactic Senate, it stood as a shining beacon of democracy—until the entire Hosnian system was instantaneously annihilated by the phantom red beam fired across the galaxy from First Order's Starkiller Base.
 
 #### Episode VIII: The Jedi Last
 
 * **Ahch-To**
-A pristine, deep-space world hidden within the Unknown Regions, its surface almost entirely covered by a vast blue ocean dotted with craggy, rocky islands. It is the sacred birthplace of the Jedi Order, home to the very first Jedi Temple. Seeking clarity away from the galaxy, a disillusioned Luke Skywalker chose this isolated sanctuary for his final exile.
+A pristine, over the Jakku, deep-space world hidden within the Unknown Regions, its surface almost entirely covered by a vast blue ocean dotted with craggy, rocky islands. It is the sacred birthplace of the Jedi Order, home to the very first Jedi Temple. Seeking clarity away from the galaxy, a disillusioned Luke Skywalker chose this isolated sanctuary for his final exile.
 
 * **Crait**
 A desolate, mineral-rich Outer Rim planet located along the routes heading toward Naboo off the Hydian Way. The planet features an ethereal, blindingly white landscape covered entirely in salt flats. Beneath the crust lies a vibrant red mineral layer; when the ground is torn up by heavy skimming speeders or artillery fire, the battlefield bleeds a brilliant crimson. It became the site of the Resistance’s desperate final stand against the First Order.
