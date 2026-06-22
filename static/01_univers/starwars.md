@@ -291,7 +291,9 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 - Duty Free
 
 [return](#index)
+
 ##### The Quat Systems Engineering Firespray-31 class patrol attack craft
+
 {% capture my_tiles %}
 - img: https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817289911924310016
@@ -559,7 +561,7 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 
 Here is the verified and polished English translation for your virtual galaxy trip. The text balances technical authenticity with an engaging, smooth, and accessible tone while fixing minor typos and correcting geographical lore inaccuracies to perfectly align with the standard Star Wars galactic map.
 
- Let's Virtual Galactic Tour.
+Let's Virtual Galactic Tour.
 
 ### The Prequel Trilogy (Episodes I–III)
 
@@ -710,6 +712,7 @@ A peaceful Mid Rim world located at the terminus of the Great Grain Run, and the
 
 * **Kinyen**
 A vibrant agricultural planet located in the Expansion Region along the Corellian Trade Spine. It is the homeworld of the gentle, three-eyed Gran species. Blessed with endless, rolling prairies and fertile farmlands, Kinyen acts as a major breadbasket for the galaxy. During the Imperial era, its peaceful population suffered a horrific massacre when the Empire brutally cracked down on localized resistance.
+
 [return](#index)
 
 ---
