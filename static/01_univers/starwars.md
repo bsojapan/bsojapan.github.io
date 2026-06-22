@@ -580,7 +580,7 @@ It is home to the Galactic Senate House and the Jedi Temple, serving as the cent
 #### Episode II: Attack of the Clones
 
 * **Kamino**
-While resting on the outer grid coordinates of the Outer Rim near Scrif, this world is widely considered "extragalactic" because it sits well below the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
+While resting of the Outer Rim entrance near Scrif, this world is widely considered "extragalactic" because it sits well aside the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
 
 * **Geonosis**
 A harsh, reddish desert world of rocky mesas and canyon networks located in the Outer Rim, right in Tatooine's cosmic backyard. Inhabited by the insectoid Geonosians, the planet housed massive, hidden droid foundries for the Separatist alliance. It earned its place in history as the flashpoint for the Clone Wars during the explosive Battle of Geonosis.
