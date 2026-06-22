@@ -559,7 +559,6 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-Here is the verified and polished English translation for your virtual galaxy trip. The text balances technical authenticity with an engaging, smooth, and accessible tone while fixing minor typos and correcting geographical lore inaccuracies to perfectly align with the standard Star Wars galactic map.
 
 Let's Virtual Galactic Tour.
 
