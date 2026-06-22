@@ -610,10 +610,10 @@ A lush, jungle-covered moon orbiting the red gas giant Yavin, located in the Out
 #### Episode V: The Empire Strikes Back
 
 * **Hoth**
-A remote, unforgiving ice world locked in a perpetual blizzard, situated near the entry points of the Corellian Trade Spine in the Outer Rim. Despite its isolation, it is surrounded by several adjacent star systems. Following their evacuation from Yavin, the Rebellion established the hidden Echo Base within its sub-zero caverns, only to be forced into a chaotic retreat after a devastating ground assault by Imperial AT-AT walkers.
+A remote, unforgiving ice world locked in a perpetual blizzard, situated on the Corellian Trade Spine near the entry points of the Outer Rim. Despite its isolation, it is surrounded by several adjacent star systems. Following their evacuation from Yavin, the Rebellion established the hidden Echo Base within its sub-zero caverns, only to be forced into a chaotic retreat after a devastating ground assault by Imperial AT-AT walkers.
 
 * **Dagobah**
-A forgotten, unmapped world shrouded in thick fog, dark swamplands, and petrified forests deep within the Outer Rim. Free from industrialized life, the planet acts as a natural locus for the Force. It became the sanctuary for Grand Master Yoda during his long exile, and the proving ground where Luke Skywalker underwent his grueling Jedi training.
+A forgotten, unmapped world shrouded in thick fog, dark swamplands, and petrified forests deep near Rimma Trade Route within the Outer Rim. Free from industrialized life, the planet acts as a natural locus for the Force. It became the sanctuary for Grand Master Yoda during his long exile, and the proving ground where Luke Skywalker underwent his grueling Jedi training.
 
 * **Bespin**
 A massive, majestic gas giant located in the Outer Rim near the Corellian Trade Spine, sharing cosmic proximity with systems like Hoth. High within its habitable atmospheric layer floated Cloud City, a luxurious tibanna gas mining metropolis managed by Lando Calrissian. Darth Vader ruthlessly used the city as a trap, capturing Han Solo and Princess Leia to lure Luke into a confrontation.
