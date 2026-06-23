@@ -29,8 +29,9 @@
       {% for raw_item in raw_items %}
         {% if forloop.first %}{% continue %}{% endif %}
         {% assign item_content = raw_item | remove: '</li>' | remove: '</ul>' | remove: '</ol>' | strip %}
-        
-        {% assign lines = item_content | split: '<br />' %}
+
+      
+        {% for item in include.data %}
         {% assign img_url = "" %}
         {% assign link_url = "" %}
         
