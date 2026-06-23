@@ -20,50 +20,6 @@
   テーマ側のCSS干渉を完全に防ぐため、
   このコンポーネント専用のCSSをここに直接埋め込み（強制適用）します。
 {% endcomment %}
-<style>
-  .custom-tile-wrapper {
-    display: block !important;
-    width: 100% !important;
-    clear: both !important;
-    margin: 20px 0 !important;
-  }
-  .custom-tile-container {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    flex-direction: row !important;
-    justify-content: flex-start !important;
-    align-items: flex-start !important;
-    gap: 15px !important; /* タイル同士の隙間 */
-    width: 100% !important;
-    box-sizing: border-box !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    list-style: none !important;
-  }
-  .custom-tile-item {
-    display: block !important;
-    flex: 0 0 {{ tile_size }} !important;
-    max-width: {{ tile_size }} !important;
-    width: {{ tile_size }} !important;
-    box-sizing: border-box !important;
-    text-decoration: none !important;
-    transition: transform 0.2s ease !important;
-  }
-  .custom-tile-item:hover {
-    transform: translateY(-3px) !important;
-  }
-  .custom-tile-item img {
-    width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
-    object-fit: cover !important;
-    display: block !important;
-    border-radius: 4px !important;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15) !important;
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-</style>
 
 {% if include.data %}
   {% assign raw_items = include.data | markdownify | split: '<li>' %}
