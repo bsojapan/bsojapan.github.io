@@ -1528,8 +1528,6 @@ Later on, they moved from the chaotic Deep Core to the stable Outer Rim world of
 
 ### type2
 
-{% include multitail.html data=my_tiles size="150" %}
-
 222
 {% capture my_tiles %}
 - img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
