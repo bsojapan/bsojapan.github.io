@@ -679,7 +679,7 @@ An industrial powerhouse located in the Core Worlds, famed across the galaxy for
 * **Kessel**
 A distorted, low-gravity asteroid world shrouded in a dense, glowing cloud of cosmic gas within the Outer Rim. Controlled by ruthless criminal syndicates running brutal underground spice mines, it became immortalized when a young Han Solo piloted the Millennium Falcon through the treacherous maelstrom, setting the legendary record of completing the Kessel Run in less than 12 parsecs.
 
-### Additional Canon Worlds (Animation, Live-Action Series, and Theme Parks)
+### Additional interest planets (Shipyard, Animation, Live-Action Series, and Theme Parks)
 
 * **Mandalore**
 A planet located in the Outer Rim, bordering the Mid Rim just off the Hydian Way. It is the ancestral home of the Mandalorians, a legendary and proud warrior culture. After centuries of devastating cataclysmic warfare scorched the planet's surface into an inhospitable white desert, the surviving population adapted by living inside massive, pressurized biocube dome cities.
