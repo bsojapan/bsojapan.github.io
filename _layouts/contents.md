@@ -15,7 +15,7 @@
 
 <main>
   <section>
-    <h1>{{ page.title }} {{ site.contents_subtitle_c }}</h1>
+    {{ page.title }} {{ site.contents_subtitle_c }}
   </section>
 
   {{ content }}
