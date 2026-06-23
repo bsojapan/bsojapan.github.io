@@ -3,49 +3,72 @@
   - data: Markdown側のテキストデータ
   - size: 画像の最大横幅（デフォルト: 200px）
 {% endcomment %}
+{% comment %}
+  data format
 
-{% comment %} サイズのクリーニング処理 {% endcomment %}
-{% assign raw_size = include.size | strip | strip_newlines %}
-{% if raw_size == "" or raw_size == nil %}
-  {% assign tile_size = "200px" %}
-{% else %}
-  {% if raw_size contains "px" or raw_size contains "%" or raw_size contains "em" %}
-    {% assign tile_size = raw_size %}
-  {% else %}
-    {% assign tile_size = raw_size | append: "px" %}
-  {% endif %}
-{% endif %}
+  image-url
+  page-url
 
-{% comment %} 
-  テーマ側のCSS干渉を完全に防ぐため、
-  このコンポーネント専用のCSSをここに直接埋め込み（強制適用）します。
+  image-url
+  page-url
+
+  image-url
+  page-url
+
+  size:
+    150
+    200
+    300
 {% endcomment %}
 
-{% if include.data %}
-  {% assign raw_items = include.data | markdownify | split: '<li>' %}
-  
-  <div class="custom-tile-wrapper">
-    <div class="custom-tile-container">
-      {% for raw_item in raw_items %}
-        {% if forloop.first %}{% continue %}{% endif %}
-        {% assign item_content = raw_item | remove: '</li>' | remove: '</ul>' | remove: '</ol>' | strip %}
+{% assign raw_size = include.size | default: "200" | strip %}
 
-      
-        {% for item in include.data %}
-        {% assign img_url = "" %}
-        {% assign link_url = "" %}
-        
-        {% for line in lines %}
-          {% if line contains 'img:' %}{% assign img_url = line | split: 'img:' | last | strip | strip_html %}{% endif %}
-          {% if line contains 'url:' %}{% assign link_url = line | split: 'url:' | last | strip | strip_html %}{% endif %}
-        {% endfor %}
+{% unless raw_size contains "px" %}
+  {% assign tile_size = raw_size | append: "px" %}
+{% else %}
+  {% assign tile_size = raw_size %}
+{% endunless %}
 
-        {% if img_url != "" %}
-          <a href="{{ link_url | default: '#' }}" class="custom-tile-item" target="_blank" rel="noopener noreferrer">
-            <img src="{{ img_url }}" alt="Tile Image" loading="lazy">
-          </a>
-        {% endif %}
-      {% endfor %}
-    </div>
+{% assign normalized = include.data
+  | replace: '\r\n', '\n'
+  | replace: '\r', '\n'
+  | strip
+%}
+
+{% assign blocks = normalized | split: '\n\n' %}
+
+<div class="multitile-wrapper">
+
+  <div
+    class="multitile-container"
+    style="--multitile-size: {{ tile_size }};">
+
+    {% for block in blocks %}
+
+      {% assign rows = block | strip | split: '\n' %}
+
+      {% assign img_url = rows[0] | strip %}
+      {% assign link_url = rows[1] | strip %}
+
+      {% if img_url != "" %}
+
+      <a
+        class="multitile-item"
+        href="{{ link_url | default: '#' }}"
+        target="_blank"
+        rel="noopener noreferrer">
+
+        <img
+          src="{{ img_url }}"
+          alt=""
+          loading="lazy">
+
+      </a>
+
+      {% endif %}
+
+    {% endfor %}
+
   </div>
-{% endif %}
+
+</div>
