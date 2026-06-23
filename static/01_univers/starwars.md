@@ -116,7 +116,7 @@ The Sandcrowler was a digercrowler built as massive mobile mining and smelting f
 - img: https://64.media.tumblr.com/0ea066f495e609530ccdcb4e5ecded74/9d2b855d852680e6-f7/s2048x3072/624d807c08832bb0a2f34cf43981a0217825e46e.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817291902808375296
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The YT series consisted of light freighters manufactured by the Corellian Engineering Corporation and came in many variations. The Corellian YT-1300 was one of them, equipped with a high-performance power unit, a near-light-speed sublight engine, a hyperdrive, and an advanced control and navigation computer. There were three configurations, distinguished by the designations p, f, and fp: passenger, cargo, and cargo-passenger. The f and fp types featured reinforced frames and repulsorlifts for cargo handling, along with a five-legged landing gear configuration. Options included heavy armor for navigating hostile territory and equipment to double its cargo capacity. Thanks to its modular design, it allowed for a wide variety of combinations of cockpit positions and engines, making it a favorite for frequent customization. It was also capable of pushing external freight containers mounted on the bow.
 
