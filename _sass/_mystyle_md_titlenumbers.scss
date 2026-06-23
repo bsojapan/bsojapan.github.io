@@ -16,27 +16,27 @@ h1 {
    各見出しの「数字の更新」と「下位のリセット」
    ========================================== */
 
-/* 3. h2（##） */
-h2 {
-  counter-increment: h2-count;
-  counter-reset: h3-count; /* ➔ 次の階層(h3)の部屋を空にする */
+main {
+    counter-reset: h2-count 0;
 }
 
-/* 4. h3（###） */
-h3 {
-  counter-increment: h3-count;
-  counter-reset: h4-count; /* ➔ 次の階層(h4)の部屋を空にする */
+main h2 {
+    counter-increment: h2-count;
+    counter-reset: h3-count 0;
 }
 
-/* 5. h4（####） */
-h4 {
-  counter-increment: h4-count;
-  counter-reset: h5-count; /* 👈 ここでh5のアルファベットを確実に「0」へリセットします */
+main h3 {
+    counter-increment: h3-count;
+    counter-reset: h4-count 0;
 }
 
-/* 6. h5（#####） */
-h5 {
-  counter-increment: h5-count; /* ➔ 自分のカウントを進めるだけ（下位がないのでリセットは不要） */
+main h4 {
+    counter-increment: h4-count;
+    counter-reset: h5-count 0;
+}
+
+main h5 {
+    counter-increment: h5-count;
 }
 
 
