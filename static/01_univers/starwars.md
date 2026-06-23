@@ -73,7 +73,7 @@ The story follows Luke Skywalker as he becomes embroiled in a war against the Em
   - img: https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400
     url: https://www.tumblr.com/webcateyes/817129955198681088?source=share
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The colossal battleship that graced the opening scene. The flagship of the 501st Legion, directly under Supreme Commander Darth Vader, it measured 1600 meters in length. The Devastator was one of the last and most advanced Imperial I-class battleships, boasting cutting-edge improvements to its special weapons systems, giving it performance equal to, or even exceeding, that of other battleships of the time (Imperial II-class). Equipped with 60 turbolaser cannons and tractor beam generators, it carried tens of thousands of assault stormtroopers and numerous TIE fighters. It demonstrated incredible power in planetary conquest and maintaining order.
 
@@ -90,7 +90,7 @@ Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium 
 - img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817126283415781376
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 A Corellian Engineering CR90 corvette, also known as the Corellian corvette or Blockade runner, operated by the Organa royal family of the planet Alderaan as a Senate diplomatic vessel. Due to its modular design, it was easy to modify various parts for different purposes. Equipped with 11 Koniex F-31 sublight engines, two medium turbolasers, and four light turbolasers as standard, it was a small, high-speed light capital ship, making it widely used by both military and civilian forces. Although it blended in with many similar ships, the Empire marked it as being used by the Rebel Alliance.
 
@@ -106,7 +106,7 @@ The Tantive IV, captured near Tatooine, was reported by the Empire as a meteorit
 - img: https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Sandcrowler was a digercrowler built as massive mobile mining and smelting facilities brought to the sandy planet Tatooine by the Corellia Mining Corporation. It was 40m long and 20m tall. This is twice the length of the Imperial AT-AT and almost the same height. Later, it was discovered that there were no mineral resources underground but on the surface, and the digercrowler was discarded. The Java people reused them, using them as a scrap collection and recycling workshop, a mobile shop, and a dwelling. The Java people also use them on Arvala-7, which has a similar environment. The interior is divided into several layers (5-6 layers), and opening the front door creates a huge ramp, allowing a view of the interior. It is equipped with eight tracks. Powered by a robust fusion reactor, it was capable of reliable operation. It was also equipped with a magnetic suction tube for scrap collection.
 
@@ -128,7 +128,7 @@ The Millennium Falcon was a heavily modified vessel based on the YT-1300f—an o
 - img: https://64.media.tumblr.com/941f4917318ce2ee0ac6092db8f01be0/54c5087b9a75c181-29/s2048x3072/e08ebf295b9199a4aa1e09da853b71613c34846f.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817220932401856512
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Y-wing starfighter is a versatile, multi-role starfighter built on Koensayr Manufacturing’s BTL series. From its early days with the Galactic Republic during the Clone Wars, to its iconic service with the Rebel Alliance, and all the way into the Sequel Trilogy era, this reliable ship has seen an incredibly long service life.
 
@@ -166,7 +166,7 @@ In the final showdown of the saga, the Y-wing made a triumphant return. Among th
 - img: https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817281492696842240
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Incom Corporation T-65 X-wing is a highly functional multi-role starfighter that determined the victory of the Rebel Alliance and the New Republic. Incom Corporation developed the X-wing in secrecy as a private venture for an Empire procurement bid, fusing the technologies of the Z-95 Headhunter, a single-wing bestselling light starfighter, and the ARC-170 starfighter, a heavy starfighter for the Republic during the Clone Wars jointly developed by Incom/Subpro.
 
@@ -200,7 +200,7 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
 - img: https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The design of the Eta-2 Actis-class light interceptor, manufactured by Kuat Systems Engineering and used during the Clone Wars, influenced Sienar Fleet Systems and became the technological basis for the TIE series. For the first decade or so after the founding of the Galactic Empire, the TIE/ln starfighter served as the primary backbone of the Imperial fleet. However, following the devastating defeat at the Battle of Yavin—which resulted in the destruction of the first Death Star—and a shift in the Rebel Alliance's effective hit-and-run tactics, the variety of the TIE series expanded dramatically within just a few years.
 Until that pivotal defeat, the Empire had relied on a "reign of terror" (the Tarkin Doctrine) driven by overwhelming force and massive capital weaponry, such as Star Destroyers and the Death Star, concentrating its immense funding there. For their starfighter doctrine, the TIE/ln was mass-produced as a cost-effective, carrier-based fighter where swarming mass production was the top priority. Consequently, TIE/ln fighters were always deployed in overwhelming numbers.
@@ -232,7 +232,7 @@ The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of H
 - img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817213628178644992
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The AT-AT (All Terrain Armored Transport) was developed by Kuat Drive Yards (KDY) under Imperial orders, with its origins tracing back to the late stages of the Clone Wars. 
 The early prototype (AT-AT/P) was remarkably massive, measuring over 31 meters in height, but the modernized mass-production models deployed during the Galactic Civil War were scaled down to a more practical height of 22.5 meters. 
@@ -249,7 +249,7 @@ While its heavy plating makes it nearly impervious to conventional weapons, the 
 - img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817213628178644992
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The AT-ST is an all-terrain scout transporter. Its prototype appeared during the Clone Wars and it is one of the Empire's main ground combat weapons. It is bipedal and capable of traveling at 100 km/h. It has a crew of two: a pilot and a gunner. It is equipped with a medium-sized twin blaster, light blasters in the left and right pods, and concussion grenade launchers.
 
@@ -262,7 +262,7 @@ During the Battle of Hoth, it guarded the legs of the large ground combat weapon
 - img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Incom Corporation's T-47 Airspeeder is a low-altitude speeder that levitates using a repulsor coil, an anti-gravity device that depends on its distance from the ground. Its high-power generator and high-thrust ion thrusters allowed for user modifications through its modular design.
 
@@ -274,7 +274,7 @@ The Rebel Alliance's Snowspeeder was based on the T-47, adapted for the cold cli
 - img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 Meanwhile, the Gallofrey Yards GR-75 medium transport ship (commonly known as the "Tuna Ship") was used to evacuate the base personnel.
 
@@ -299,7 +299,7 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 - img: https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817289911924310016
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Kuat Systems Engineering Firespray-31 class patrol attack craft (Firespray-class interceptor and Firespray gunship) was used for security and patrol of the prison moon Ovo 4. The Firespray has a flat rear end that faces downwards when landing. While in flight, it rotates its attitude by 90 degrees, and the design intent for this increased target area is unclear. Fett's Slave was heavily armed, including proton bombs, through modifications.
 
@@ -318,7 +318,7 @@ Episode VI tells the story of Luke overcoming a brutal reality to fight the Empi
 - img: https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817304133218582528
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Bantha II cargo skiff, manufactured by Ubrikkian Industries, was an anti-gravity general-purpose vehicle.
 
@@ -339,7 +339,7 @@ The skiff, capable of carrying approximately 100 tons of cargo, was equipped wit
 - img: https://64.media.tumblr.com/6cbd9e2e42b102ef6cb90efdb4f8b3ce/b12ce46fef14fdeb-39/s2048x3072/51e3448936f7939a32dd5289d51237f42ae3b7c2.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817329251736027136
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a super massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
 
@@ -357,7 +357,7 @@ By the time of the Clone Wars, these ships had been in service for decades. They
 - img: https://64.media.tumblr.com/d0a26508928f7daf7802c7559880602f/f0dcde259d2ccfe1-9c/s2048x3072/a070ae13b7de84355a9a345f115a2c8435943724.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817365224204206080
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Royal Naboo Starship embodies the craftsmanship and industrial design that symbolizes the Republic's peaceful era. This beautifully polished, streamlined vessel lacks offensive weaponry but boasts powerful shields and a high-performance hyperdrive.
 
@@ -373,7 +373,7 @@ It also participated in the surprise attack during the recapture of Naboo. After
 - img: https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400
   url: https://www.tumblr.com/webcateyes/817329563773321216
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The Baktoid Armor Workshop's Armored Assault Tank (AAT) was a hover vehicle utilizing repulsorlift technology, piloted by B1 battle droids used by the Trade Federation since the invasion of Naboo.
 
@@ -558,7 +558,7 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 - img: https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400
   url: https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 
 Let's Virtual Galactic Tour.
@@ -774,4 +774,4 @@ Later on, they moved from the chaotic Deep Core to the stable Outer Rim world of
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
