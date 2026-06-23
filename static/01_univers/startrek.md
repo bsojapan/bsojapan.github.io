@@ -16,7 +16,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 </section>
 
 <section markdown="1">
@@ -42,7 +42,7 @@ A defining characteristic of the vehicles in the Star Trek series is that almost
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The USS Enterprise is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
 
@@ -76,7 +76,7 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 222
 </section>
