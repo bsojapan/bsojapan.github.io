@@ -293,7 +293,7 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 
 [return](#index)
 
-##### The Quat Systems Engineering Firespray-31 class patrol attack craft
+##### The Kuat Systems Engineering Firespray-31 class patrol attack craft
 
 {% capture my_tiles %}
 - img: https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
@@ -301,7 +301,7 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
-The Quat Systems Engineering Firespray-31 class patrol attack craft (Firespray-class interceptor and Firespray gunship) was used for security and patrol of the prison moon Ovo 4. The Firespray has a flat rear end that faces downwards when landing. While in flight, it rotates its attitude by 90 degrees, and the design intent for this increased target area is unclear. Fett's Slave was heavily armed, including proton bombs, through modifications.
+The Kuat Systems Engineering Firespray-31 class patrol attack craft (Firespray-class interceptor and Firespray gunship) was used for security and patrol of the prison moon Ovo 4. The Firespray has a flat rear end that faces downwards when landing. While in flight, it rotates its attitude by 90 degrees, and the design intent for this increased target area is unclear. Fett's Slave was heavily armed, including proton bombs, through modifications.
 
 Jango Fett, a bounty hunter clad in anti-Force capabilities Mandalorian armor, also known as a DNA donor for clone troopers, stole a Firespray-class vessel used it for two generations of his family. Jango named the ship Slave I as a lesson learned from his capture. Boba Fett (his clone son) used it throughout his career, and later named his vessels Slave as well. Fett's fire spray, under Darth Vader's orders, transported Solo, who had been carbon-frozen in Cloud City on the planet Bespin where he and Leia had taken refuge, to Jabba the Hutt on Tatooine.
 
