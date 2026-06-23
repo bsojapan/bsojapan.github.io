@@ -15,7 +15,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 
 ## Overview(level 2)
@@ -39,7 +39,7 @@ to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sa
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 The USS Enterprise is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. 
 
@@ -72,6 +72,6 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
 - img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
   url: https://example.com/forest
 {% endcapture %}
-{% include multitail.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="150" %}
 
 222
