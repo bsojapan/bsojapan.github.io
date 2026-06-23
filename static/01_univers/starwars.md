@@ -556,7 +556,7 @@ With their freedom restored, they immediately revived the legendary "Duros Space
 - img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
   url: https://www.starwars.com/star-wars-galaxy-map
 - img: https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400
-  url: https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj
+  url: https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
 {% endcapture %}
 {% include multitail.html data=my_tiles size="150" %}
 
