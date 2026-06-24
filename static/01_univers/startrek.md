@@ -32,8 +32,8 @@ A defining characteristic of the vehicles in the Star Trek series is that almost
 
 ```
 
-STAR TREK (1966)                       ◼︎◼︎◼︎◼︎◼︎
-STAR TREK :The Next Generations     ↼━⇀
+STAR TREK (1966)                    ↼━⇀
+STAR TREK :Generations                   ↼━⇀
 
 
 ```
