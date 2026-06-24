@@ -6,14 +6,9 @@
 {% comment %}
   data format How to use in liqud
 
-  image-url
-  page-url
-
-  image-url
-  page-url
-
-  image-url
-  page-url
+  image-url|page-url
+  image-url|page-url
+  image-url|page-url
 
   size:
     150
@@ -29,14 +24,7 @@
   {% assign tile_size = raw_size %}
 {% endunless %}
 
-{% assign normalized = include.data
-  | newline_to_br
-%}
-
-{% assign blocks = normalized | split: '<br /><br />' %}
-{% comment %}
-{% assign blocks = include.data | split: '===' %}
-{% endcomment %}
+{% assign rows = include.data | strip | newline_to_br | split: '<br />' %}
 
 <div class="multitile-wrapper">
 
@@ -44,32 +32,29 @@
     class="multitile-container"
     style="--multitile-size: {{ tile_size }};">
 
-    {% for block in blocks %}
+    {% for row in rows %}
 
-    {% assign rows = block | strip | split: '<br />' %}
-    
-      {% assign img_url = rows[0] | strip %}
-      {% assign link_url = rows[1] | strip %}
+      {% assign row = row | strip %}
 
-      {% if img_url != "" %}
+      {% if row != "" %}
 
-      <a
-        class="multitile-item"
-        href="{{ link_url | default: '#' }}"
-        target="_blank"
-        rel="noopener noreferrer">
+        {% assign cols = row | split: "|" %}
 
-        <img
-          src="{{ img_url }}"
-          alt=""
-          loading="lazy">
+        {% assign img_url = cols[0] | strip %}
+        {% assign link_url = cols[1] | strip %}
 
-      </a>
-
+        <a
+          class="multitile-item"
+          href="{{ link_url }}"
+          target="_blank"
+          rel="noopener noreferrer">
+          <img
+            src="{{ img_url }}"
+            alt=""
+            loading="lazy">
+        </a>
       {% endif %}
-
     {% endfor %}
-
   </div>
-
 </div>
+
