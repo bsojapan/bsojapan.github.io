@@ -35,7 +35,9 @@ https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://examp
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
-### United Federation of Planets 
+### the United Federation of Planets
+
+United Federation of Planets, 
 The USS Enterprise series is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
 
 In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appears. Later in the film, the Galaxy-class NCC-1701-D is heavily damaged; however, it is later restored in Star Trek: Picard. Ambassador class USS-1701-C apear in TV sereis Star Trek: The Next Generation. In films 8-10 (STVIII-STX), the Sovereign-class NCC-1701-E plays a prominent role. Later models included the Odyssey-class 1701-F, the Neo-Constitution class (Constitution III) 1701-G, and the ultra-large Universe-class NCC-1701-J. The chronological original was the NX-class NX-01 from Star Trek: Enterprise.
@@ -108,12 +110,13 @@ Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 ---
 
 The Star Trek universe features a vast array of major homeworlds, colonies, and independent planets, each governed by its own unique political system.The primary planets in Star Trek and their respective governments or ruling bodies include:
+
 🏛️ Founding Federation Worlds
 These planets are the core members of the United Federation of Planets (a representative interstellar democracy). They have local governing bodies but answer to the Federation Council.
 
 Earth (Capital of the Federation)Government: United Earth Government (a global parliamentary democracy).
 
-VulcanGovernment: Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
+Vulcan Government: Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
 
 Andoria (or Andoria's moon)Government: Andorian Empire (a constitutional monarchy with a parliament and an Emperor).
 
