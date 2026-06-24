@@ -68,11 +68,8 @@ The story follows Luke Skywalker as he becomes embroiled in a war against the Em
 
 ##### Imperial-class Star Destroyer "the Devastator"
 {% capture my_tiles %}
-https://64.media.tumblr.com/94fe070652cf7f87e1c568bb53f7a0ab/1578e484ced63a62-3f/s2048x3072/497b61fd22832daf495dd27465f079c8f5b65b8e.jpg?w=400
-https://www.tumblr.com/webcateyes/817130064833576960?source=share
-
-https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400
-https://www.tumblr.com/webcateyes/817129955198681088?source=share
+https://64.media.tumblr.com/94fe070652cf7f87e1c568bb53f7a0ab/1578e484ced63a62-3f/s2048x3072/497b61fd22832daf495dd27465f079c8f5b65b8e.jpg?w=400｜https://www.tumblr.com/webcateyes/817130064833576960?source=share
+https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400｜https://www.tumblr.com/webcateyes/817129955198681088?source=share
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -87,9 +84,7 @@ Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium 
 [return](#index)
 
 ##### Corellian Engineering Corporation CR90 Corvette "Tantive IV"
-{% capture my_tiles %}
-https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
-https://www.tumblr.com/webcateyes/817126283415781376
+{% capture my_tiles %}https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400|https://www.tumblr.com/webcateyes/817126283415781376
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -104,8 +99,7 @@ The Tantive IV, captured near Tatooine, was reported by the Empire as a meteorit
 [return](#index)
 ##### Sandcrawler
 {% capture my_tiles %}
-https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400
-https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
+https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400|https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -114,8 +108,7 @@ The Sandcrowler was a digercrowler built as massive mobile mining and smelting f
 [return](#index)
 ##### Corellian Engineering Corporation YT-1300  cargo ship "Millennium Falcon"
 {% capture my_tiles %}
-https://64.media.tumblr.com/0ea066f495e609530ccdcb4e5ecded74/9d2b855d852680e6-f7/s2048x3072/624d807c08832bb0a2f34cf43981a0217825e46e.jpg?w=400
-https://www.tumblr.com/webcateyes/817291902808375296
+https://64.media.tumblr.com/0ea066f495e609530ccdcb4e5ecded74/9d2b855d852680e6-f7/s2048x3072/624d807c08832bb0a2f34cf43981a0217825e46e.jpg?w=400|https://www.tumblr.com/webcateyes/817291902808375296
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -126,8 +119,7 @@ The Millennium Falcon was a heavily modified vessel based on the YT-1300f?an old
 [return](#index)
 ##### The Y-Wing Starfighter
 {% capture my_tiles %}
-https://64.media.tumblr.com/941f4917318ce2ee0ac6092db8f01be0/54c5087b9a75c181-29/s2048x3072/e08ebf295b9199a4aa1e09da853b71613c34846f.jpg?w=400
-https://www.tumblr.com/webcateyes/817220932401856512
+https://64.media.tumblr.com/941f4917318ce2ee0ac6092db8f01be0/54c5087b9a75c181-29/s2048x3072/e08ebf295b9199a4aa1e09da853b71613c34846f.jpg?w=400|https://www.tumblr.com/webcateyes/817220932401856512
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -164,8 +156,7 @@ In the final showdown of the saga, the Y-wing made a triumphant return. Among th
 [return](#index)
 ##### Incom T-65 X-wing Starfighter sereis
 {% capture my_tiles %}
-https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400
-https://www.tumblr.com/webcateyes/817281492696842240
+https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400|https://www.tumblr.com/webcateyes/817281492696842240
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -192,17 +183,10 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
 [return](#index)
 ##### TIE fighter series
 {% capture my_tiles %}
-https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400
-https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
-
-https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
-https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
-
-https://64.media.tumblr.com/d41001d348d731d4e1d68b464ff96e42/5d591de4dc2a98f2-1b/s2048x3072/dc98f19792c6019e27de80b7c7e1d5cf8990a075.jpg?w=400
-https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
-
-https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400
-https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
+https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400|https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
+https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400|https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
+https://64.media.tumblr.com/d41001d348d731d4e1d68b464ff96e42/5d591de4dc2a98f2-1b/s2048x3072/dc98f19792c6019e27de80b7c7e1d5cf8990a075.jpg?w=400|https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
+https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400|https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -233,8 +217,7 @@ The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of H
 [return](#index)
 ##### AT-AT
 {% capture my_tiles %}
-https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-https://www.tumblr.com/webcateyes/817213628178644992
+https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400|https://www.tumblr.com/webcateyes/817213628178644992
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -250,8 +233,7 @@ While its heavy plating makes it nearly impervious to conventional weapons, the 
 [return](#index)
 ##### AT-ST
 {% capture my_tiles %}
-https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-https://www.tumblr.com/webcateyes/817213628178644992
+https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400|https://www.tumblr.com/webcateyes/817213628178644992
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -263,8 +245,7 @@ During the Battle of Hoth, it guarded the legs of the large ground combat weapon
 ##### Snowspeeder
 
 {% capture my_tiles %}
-https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
-https://www.tumblr.com/webcateyes/817196079655321600
+https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400|https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -275,8 +256,7 @@ The Rebel Alliance's Snowspeeder was based on the T-47, adapted for the cold cli
 [return](#index)
 ##### Gallofrey Yards GR-75 Medium Transport Ship
 {% capture my_tiles %}
-https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
-https://www.tumblr.com/webcateyes/817196079655321600
+https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400|https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -300,8 +280,7 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 ##### The Kuat Systems Engineering Firespray-31 class patrol attack craft
 
 {% capture my_tiles %}
-https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
-https://www.tumblr.com/webcateyes/817289911924310016
+https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400|https://www.tumblr.com/webcateyes/817289911924310016
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -319,8 +298,7 @@ Episode VI tells the story of Luke overcoming a brutal reality to fight the Empi
 [return](#index)
 ##### The Bantha-II skiff
 {% capture my_tiles %}
-https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400
-https://www.tumblr.com/webcateyes/817304133218582528
+https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400|https://www.tumblr.com/webcateyes/817304133218582528
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -358,8 +336,7 @@ By the time of the Clone Wars, these ships had been in service for decades. They
 [return](#index)
 ##### J-327 Nubian ship（Modified）　Naboo Royal starship
 {% capture my_tiles %}
-https://64.media.tumblr.com/d0a26508928f7daf7802c7559880602f/f0dcde259d2ccfe1-9c/s2048x3072/a070ae13b7de84355a9a345f115a2c8435943724.jpg?w=400
-https://www.tumblr.com/webcateyes/817365224204206080
+https://64.media.tumblr.com/d0a26508928f7daf7802c7559880602f/f0dcde259d2ccfe1-9c/s2048x3072/a070ae13b7de84355a9a345f115a2c8435943724.jpg?w=400|https://www.tumblr.com/webcateyes/817365224204206080
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -374,8 +351,7 @@ It also participated in the surprise attack during the recapture of Naboo. After
 [return](#index)
 ##### The Baktoid Armor Workshop's Armored Assault Tank (AAT)
 {% capture my_tiles %}
-https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400
-https://www.tumblr.com/webcateyes/817329563773321216
+https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400|https://www.tumblr.com/webcateyes/817329563773321216
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -557,11 +533,8 @@ With their freedom restored, they immediately revived the legendary "Duros Space
   - [swgalaxymap.com （Scalable vector map）](http://www.swgalaxymap.com/)
 
 {% capture my_tiles %}
-https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
-https://www.starwars.com/star-wars-galaxy-map
-
-https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400
-https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
+https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000|https://www.starwars.com/star-wars-galaxy-map
+https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400|https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
