@@ -30,6 +30,26 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 A defining characteristic of the vehicles in the Star Trek series is that almost all of the ships featured are military vessels belonging to planetary nations. Smaller shuttles and other vessels appear in the background, but they are rarely mentioned. While smaller ships like those of the Resistance also appear, the main focus is on the warships.
 </section>
 
+''''
+Star Trek(1966)
+
+gantt
+    title プロジェクト進行スケジュール
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%d
+
+    section 企画・設計
+    要件定義         :active,  a1, 2026-07-01, 5d
+    画面設計         :         a2, after a1,  7d
+
+    section 開発
+    フロント実装     :         b1, 2026-07-10, 10d
+    バックエンド実装 :         b2, 2026-07-12, 12d
+
+    section テスト・リリース
+    結合テスト       :active,  c1, after b2,  5d
+    リリース作業     :crit,    c2, after c1,  2d
+''''
 
 ## The planet gervaments and vehicle classes
 {% capture my_tiles %}
