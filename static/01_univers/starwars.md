@@ -540,36 +540,36 @@ https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f
 {% include multitile.html data=my_tiles size="150" %}
 
 
-Let's Virtual Galactic Tour.
+Now, Let's go for Virtual Galactic Drive.
 
 ### The Prequel Trilogy (Episodes I?III)
 
 #### Episode I: The Phantom Menace
 
-* **Tatooine**
+* **Tatooine** : 
 A harsh desert planet baking under the glare of twin suns, located in the Outer Rim where the Triellus Trade Route intersects with the Corellian Run. As a lawless hub under the absolute control of the Hutt clans and it path direct root close to Kessel where illicit spice smuggling. Though a dusty planet on the galactic fringe, it is the crucial starting point for the entire saga?the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
 
-* **Naboo**
+* **Naboo** : 
 A peaceful Mid Rim world offset from Hydian Way blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padme Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma?a vital starship fuel resource?making it the prime target of the Trade Federation’s illegal blockade.
 
-* **Coruscant**
+* **Coruscant** : 
 Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis?a planet entirely encased in a sprawling, multi-leveled metropolis. 
 It is home to the Galactic Senate House and the Jedi Temple, serving as the center of all political and Jedi activities. It is also the stage where Palpatine, a native of Naboo, who aspires to the position of Chairman of the Council, establishes the Empire.
 
 #### Episode II: Attack of the Clones
 
-* **Kamino**
+* **Kamino** : 
 While resting of the Outer Rim entrance near Scrif, this world is widely considered "extragalactic" because it sits well aside the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
 
-* **Geonosis**
+* **Geonosis** : 
 A harsh, reddish desert world of rocky mesas and canyon networks located in the Outer Rim, right in Tatooine's cosmic backyard. Inhabited by the insectoid Geonosians, the planet housed massive, hidden droid foundries for the Separatist alliance. It earned its place in history as the flashpoint for the Clone Wars during the explosive Battle of Geonosis.
 
 #### Episode III: Revenge of the Sith
 
-* **Utapau**
+* **Utapau** : 
 Tucked away deep in the Outer Rim along the Rimma Trade Route, this unique planet features a wind-blasted surface pockmarked by countless massive sinkholes. The planet's civilizations built their stunning, vertical cities directly into the limestone walls of these chasms. It was here that Obi-Wan Kenobi tracked down General Grievous, engaging the cyborg commander in a fierce, fateful duel.
 
-* **Kashyyyk**
+* **Kashyyyk** : 
 A magnificent Mid Rim world blanketed by colossal wroshyr forests and vast, untamed ecosystems, located at the terminus of the Randon Run branching off the Perlemian Trade Route. It is the proud homeworld of the fiercely loyal and powerful Wookiees. Grand Master Yoda personally arrived to command the beachfront defenses here, only for the tragedy of Order 66 to strike mid-battle, turning a triumph into a Jedi massacre.
 
 * **Mustafar**
