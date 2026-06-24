@@ -3,66 +3,8 @@
    ========================================== */
 
 /* 1. ページ全体の初期化 */
-body {
-  counter-reset: h2-count h3-count h4-count h5-count;
-}
 
-/* 2. h1（#）➔ 番号は非表示、h2以下をすべて完全リセット */
-h1 {
-  counter-reset: h2-count h3-count h4-count h5-count;
-}
-
-/* ==========================================
-   各見出しの「数字の更新」と「下位のリセット」
-   ========================================== */
-
-main {
-    counter-reset: h2-count 0;
-}
-
-main h2 {
-    counter-increment: h2-count;
-    counter-reset: h3-count 0;
-}
-
-main h3 {
-    counter-increment: h3-count;
-    counter-reset: h4-count 0;
-}
-
-main h4 {
-    counter-increment: h4-count;
-    counter-reset: h5-count 0;
-}
-
-main h5 {
-    counter-increment: h5-count;
-}
-
-
-/* ==========================================
-   画面への「文字・余白」の出力処理（親譲りのフォント設定等）
-   ========================================== */
-
-h2::before {
-  content: counter(h2-count) ".";
-  margin-right: 28px;
-}
-
-h3::before {
-  content: counter(h2-count) "." counter(h3-count);
-  margin-right: 24px;
-  font-weight: bold;
-}
-
-h4::before {
-  content: counter(h2-count) "." counter(h3-count) "." counter(h4-count);
-  margin-right: 22px;
-  font-weight: bold;
-}
-
-h5::before {
-  content: counter(h5-count, lower-alpha) "."; /* ➔ リセットされた0から進むので、必ず「a.」から始まります */
-  margin-right: 22px;
-  font-weight: bold;
+.secno {
+    font-weight: bold;
+    margin-right: 0.5em;
 }
