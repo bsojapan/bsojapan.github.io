@@ -320,8 +320,7 @@ The skiff, capable of carrying approximately 100 tons of cargo, was equipped wit
 [return](#index)
 ##### The Lucrehulk-class LH-3210 cargo freighter
 {% capture my_tiles %}
-https://64.media.tumblr.com/6cbd9e2e42b102ef6cb90efdb4f8b3ce/b12ce46fef14fdeb-39/s2048x3072/51e3448936f7939a32dd5289d51237f42ae3b7c2.jpg?w=400
-https://www.tumblr.com/webcateyes/817329251736027136
+https://64.media.tumblr.com/6cbd9e2e42b102ef6cb90efdb4f8b3ce/b12ce46fef14fdeb-39/s2048x3072/51e3448936f7939a32dd5289d51237f42ae3b7c2.jpg?w=400|https://www.tumblr.com/webcateyes/817329251736027136
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
