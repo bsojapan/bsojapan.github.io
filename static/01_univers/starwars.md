@@ -175,9 +175,9 @@ Developed by Incom-FreiTek. The engine intakes became "semi-circular," designing
 1. T-85 X-wing [3rd Generation] (New Republic Military / End Period: EP7)
 The highest-tier, state-of-the-art heavy starfighter that was deployed exclusively for the defense of the New Republic Military's capital star system under strict military regulations. Due to the strike from the First Order's "Starkiller Base," most of them instantly perished along with the capital star system and the main fleet of the Republic.
 - Iconic Battles
-  - Battle of Scarif (0 BBY / "Rogue One"):  Said to be the first combat deployment of the X-wing. The X-wings of "Blue Squadron" scrambled.
+   - Battle of Scarif (0 BBY / "Rogue One"):  Said to be the first combat deployment of the X-wing. The X-wings of "Blue Squadron" scrambled.
 
-  - Battle of Yavin (0 BBY / "Episode IV")
+   - Battle of Yavin (0 BBY / "Episode IV")
 The historic first victory of destroying the Death Star. The X-wings of "Red Squadron" scrambled.
 
 [return](#index)
