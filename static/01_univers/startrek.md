@@ -70,6 +70,7 @@ The lineage of Federation flagships and their respective classes include:
 
 #### Universe Class
 
+---
 Enterprise NX-01
 Class: NX Class 
 Series: Star Trek: Enterprise
