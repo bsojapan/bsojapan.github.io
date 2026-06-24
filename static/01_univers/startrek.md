@@ -19,6 +19,10 @@ https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://examp
 
 ## Overview
 
+> Space: the final frontier.
+> These are the voyages of the starship Enterprise.
+> Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.
+
 While Star Trek is highly recognized in the United States, it's said that only about 10% of people in Japan know the general storyline. Star Trek's TV drama series alone comprises dozens of seasons and nearly 900 episodes. Watching it requires patience, but it's one of the most representative works of sci-fi.
 
 In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sakusen). Set against the backdrop of the Cold War, it carried a strong naval atmosphere. Star Trek: The Next Generation, which resumed 20 years later, shifted to a worldview that strongly emphasized peace and negotiation. While the seasons overlapped until Voyager, there was a 12-year gap after Enterprise, which predates the core series. Star Trek: Discovery and later series feature prequels, spin-offs, stories set far in the future, parodies, and boy's adventures.
