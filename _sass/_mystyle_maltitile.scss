@@ -1,0 +1,54 @@
+<style>
+ /* =====================================================
+   Multi Tile Component
+   ===================================================== */
+
+.multitile-wrapper {
+  display: block;
+  width: 100%;
+  clear: both;
+  margin: 20px 0;
+}
+
+.multitile-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.multitile-item {
+  display: block;
+  flex: 0 0 var(--multitile-size);
+  width: var(--multitile-size);
+  max-width: var(--multitile-size);
+
+  text-decoration: none;
+
+  transition: transform 0.2s ease;
+}
+
+.multitile-item:hover {
+  transform: translateY(-3px);
+}
+
+.multitile-item img {
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  margin: 0;
+  padding: 0;
+
+  border-radius: 4px;
+
+  object-fit: cover;
+
+  box-shadow:
+    0 2px 5px rgba(0, 0, 0, 0.15);
+}
+</style>
