@@ -22,6 +22,6 @@
 </main>
 
 {% include footer.html %}
-
+<script src="{{ '/assets/js/section-number.js' | relative_url }}"></script>
 </body>
 </html>
