@@ -182,7 +182,7 @@ The highest-tier, state-of-the-art heavy starfighter that was deployed exclusive
 The historic first victory of destroying the Death Star. The X-wings of "Red Squadron" scrambled.
 
 [return](#index)
-##### TIE fighter series
+##### Sienar Fleet Systems TIE fighter series
 {% capture my_tiles %}
 https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400|https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
 https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400|https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
@@ -206,7 +206,7 @@ The Rebel Alliance's success with high-performance, small fighters equipped with
 
    - TIE Bomber (Bomber):  An anti-ship and ground attack aircraft. While it existed before the Battle of Yavin, its deployment on the front lines became more prominent after Yavin, primarily to strike Rebel strongholds and large cruisers. Its distinctive twin-fuselage design features the pilot on one side and a large number of torpedoes and bombs on the other.
 
-  - TIE Defender :  The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
+   - TIE Defender :  The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
 
 
 
