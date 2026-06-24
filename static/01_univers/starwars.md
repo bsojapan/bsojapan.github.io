@@ -68,10 +68,11 @@ The story follows Luke Skywalker as he becomes embroiled in a war against the Em
 
 ##### Imperial-class Star Destroyer "the Devastator"
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/94fe070652cf7f87e1c568bb53f7a0ab/1578e484ced63a62-3f/s2048x3072/497b61fd22832daf495dd27465f079c8f5b65b8e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817130064833576960?source=share
-  - img: https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400
-    url: https://www.tumblr.com/webcateyes/817129955198681088?source=share
+https://64.media.tumblr.com/94fe070652cf7f87e1c568bb53f7a0ab/1578e484ced63a62-3f/s2048x3072/497b61fd22832daf495dd27465f079c8f5b65b8e.jpg?w=400
+https://www.tumblr.com/webcateyes/817130064833576960?source=share
+
+https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400
+https://www.tumblr.com/webcateyes/817129955198681088?source=share
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -87,8 +88,8 @@ Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium 
 
 ##### Corellian Engineering Corporation CR90 Corvette "Tantive IV"
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817126283415781376
+https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
+https://www.tumblr.com/webcateyes/817126283415781376
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -103,8 +104,8 @@ The Tantive IV, captured near Tatooine, was reported by the Empire as a meteorit
 [return](#index)
 ##### Sandcrawler
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
+https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400
+https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -113,20 +114,20 @@ The Sandcrowler was a digercrowler built as massive mobile mining and smelting f
 [return](#index)
 ##### Corellian Engineering Corporation YT-1300  cargo ship "Millennium Falcon"
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/0ea066f495e609530ccdcb4e5ecded74/9d2b855d852680e6-f7/s2048x3072/624d807c08832bb0a2f34cf43981a0217825e46e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817291902808375296
+https://64.media.tumblr.com/0ea066f495e609530ccdcb4e5ecded74/9d2b855d852680e6-f7/s2048x3072/624d807c08832bb0a2f34cf43981a0217825e46e.jpg?w=400
+https://www.tumblr.com/webcateyes/817291902808375296
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
 The YT series consisted of light freighters manufactured by the Corellian Engineering Corporation and came in many variations. The Corellian YT-1300 was one of them, equipped with a high-performance power unit, a near-light-speed sublight engine, a hyperdrive, and an advanced control and navigation computer. There were three configurations, distinguished by the designations p, f, and fp: passenger, cargo, and cargo-passenger. The f and fp types featured reinforced frames and repulsorlifts for cargo handling, along with a five-legged landing gear configuration. Options included heavy armor for navigating hostile territory and equipment to double its cargo capacity. Thanks to its modular design, it allowed for a wide variety of combinations of cockpit positions and engines, making it a favorite for frequent customization. It was also capable of pushing external freight containers mounted on the bow.
 
-The Millennium Falcon was a heavily modified vessel based on the YT-1300f—an older model manufactured around 60 BBY. The Falcon was registered under various aliases as a smuggling vessel. During a heist while the ship was still owned by Lando Calrissian, Han Solo famously set the record for the shortest distance traveled through the Kessel Run, a dangerous route passing through a black hole cluster. Shortly after, Han won the Millennium Falcon from Lando in a card game. Han and Chewbacca's private upgrades to its armament, engines, and hyperdrive ultimately earned the ship its famous nickname, "the fastest hunk of junk in the galaxy." Later, after being forced to dump a shipment of spice, Han owed a massive debt to Jabba the Hutt. To pay it off, he and Obi-Wan Kenobi agreed on a transport job on Tatooine. Ultimately, moved by his feelings for Princess Leia and his bond with Luke, Han joined the Rebel Alliance. Decades later, after Han was killed by his son Ben, Rey teamed up with Chewbacca. The Millennium Falcon, by then nearly a century old, eventually became the property of Rey Skywalker.
+The Millennium Falcon was a heavily modified vessel based on the YT-1300f?an older model manufactured around 60 BBY. The Falcon was registered under various aliases as a smuggling vessel. During a heist while the ship was still owned by Lando Calrissian, Han Solo famously set the record for the shortest distance traveled through the Kessel Run, a dangerous route passing through a black hole cluster. Shortly after, Han won the Millennium Falcon from Lando in a card game. Han and Chewbacca's private upgrades to its armament, engines, and hyperdrive ultimately earned the ship its famous nickname, "the fastest hunk of junk in the galaxy." Later, after being forced to dump a shipment of spice, Han owed a massive debt to Jabba the Hutt. To pay it off, he and Obi-Wan Kenobi agreed on a transport job on Tatooine. Ultimately, moved by his feelings for Princess Leia and his bond with Luke, Han joined the Rebel Alliance. Decades later, after Han was killed by his son Ben, Rey teamed up with Chewbacca. The Millennium Falcon, by then nearly a century old, eventually became the property of Rey Skywalker.
 
 [return](#index)
 ##### The Y-Wing Starfighter
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/941f4917318ce2ee0ac6092db8f01be0/54c5087b9a75c181-29/s2048x3072/e08ebf295b9199a4aa1e09da853b71613c34846f.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817220932401856512
+https://64.media.tumblr.com/941f4917318ce2ee0ac6092db8f01be0/54c5087b9a75c181-29/s2048x3072/e08ebf295b9199a4aa1e09da853b71613c34846f.jpg?w=400
+https://www.tumblr.com/webcateyes/817220932401856512
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -163,8 +164,8 @@ In the final showdown of the saga, the Y-wing made a triumphant return. Among th
 [return](#index)
 ##### Incom T-65 X-wing Starfighter sereis
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817281492696842240
+https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400
+https://www.tumblr.com/webcateyes/817281492696842240
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -174,10 +175,10 @@ The X-wing has a design philosophy that is the polar opposite of the TIE series:
 
 Around 2 BBY, the pro-Rebel Incom Corporation evacuated the X-wings to the Rebel Alliance in response to the Empire's seizure actions. As a result, the Rebel Alliance obtained the "state-of-the-art starfighter" for free, and operated this series for a long time thereafter.
 
-1. T-65B X-wing [1st Generation] (Galactic Civil War Period: EP4–EP6)
+1. T-65B X-wing [1st Generation] (Galactic Civil War Period: EP4?EP6)
 The original legendary starfighter flown by Luke and Wedge. The four engines are each independent and cylindrical.
 
-1. T-70 X-wing [2nd Generation] (New Republic / Early Resistance: EP7–EP8)
+1. T-70 X-wing [2nd Generation] (New Republic / Early Resistance: EP7?EP8)
 Developed by Incom-FreiTek. The engine intakes became "semi-circular," designing them to form a single circle when the wings are closed. Famous as Poe Dameron's personal starfighter (the black "Black One"). Weapon swappability speed and electronic warfare capabilities were significantly improved.
 
 1. T-85 X-wing [3rd Generation] (New Republic Military / End Period: EP7)
@@ -191,18 +192,21 @@ The historic first victory of destroying the Death Star. The X-wings of "Red Squ
 [return](#index)
 ##### TIE fighter series
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
-- img: https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
-- img: https://64.media.tumblr.com/d41001d348d731d4e1d68b464ff96e42/5d591de4dc2a98f2-1b/s2048x3072/dc98f19792c6019e27de80b7c7e1d5cf8990a075.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
-- img: https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
+https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400
+https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
+
+https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
+https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
+
+https://64.media.tumblr.com/d41001d348d731d4e1d68b464ff96e42/5d591de4dc2a98f2-1b/s2048x3072/dc98f19792c6019e27de80b7c7e1d5cf8990a075.jpg?w=400
+https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
+
+https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400
+https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
-The design of the Eta-2 Actis-class light interceptor, manufactured by Kuat Systems Engineering and used during the Clone Wars, influenced Sienar Fleet Systems and became the technological basis for the TIE series. For the first decade or so after the founding of the Galactic Empire, the TIE/ln starfighter served as the primary backbone of the Imperial fleet. However, following the devastating defeat at the Battle of Yavin—which resulted in the destruction of the first Death Star—and a shift in the Rebel Alliance's effective hit-and-run tactics, the variety of the TIE series expanded dramatically within just a few years.
+The design of the Eta-2 Actis-class light interceptor, manufactured by Kuat Systems Engineering and used during the Clone Wars, influenced Sienar Fleet Systems and became the technological basis for the TIE series. For the first decade or so after the founding of the Galactic Empire, the TIE/ln starfighter served as the primary backbone of the Imperial fleet. However, following the devastating defeat at the Battle of Yavin?which resulted in the destruction of the first Death Star?and a shift in the Rebel Alliance's effective hit-and-run tactics, the variety of the TIE series expanded dramatically within just a few years.
 Until that pivotal defeat, the Empire had relied on a "reign of terror" (the Tarkin Doctrine) driven by overwhelming force and massive capital weaponry, such as Star Destroyers and the Death Star, concentrating its immense funding there. For their starfighter doctrine, the TIE/ln was mass-produced as a cost-effective, carrier-based fighter where swarming mass production was the top priority. Consequently, TIE/ln fighters were always deployed in overwhelming numbers.
 The Rebel Alliance's success with high-performance, small fighters equipped with deflector shields and hyperdrives (such as the X-wing) forced a strategic shift in Imperial starfighter development.
 
@@ -229,8 +233,8 @@ The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of H
 [return](#index)
 ##### AT-AT
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817213628178644992
+https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
+https://www.tumblr.com/webcateyes/817213628178644992
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -246,8 +250,8 @@ While its heavy plating makes it nearly impervious to conventional weapons, the 
 [return](#index)
 ##### AT-ST
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817213628178644992
+https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
+https://www.tumblr.com/webcateyes/817213628178644992
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -259,8 +263,8 @@ During the Battle of Hoth, it guarded the legs of the large ground combat weapon
 ##### Snowspeeder
 
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817196079655321600
+https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
+https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -271,8 +275,8 @@ The Rebel Alliance's Snowspeeder was based on the T-47, adapted for the cold cli
 [return](#index)
 ##### Gallofrey Yards GR-75 Medium Transport Ship
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817196079655321600
+https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
+https://www.tumblr.com/webcateyes/817196079655321600
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -296,8 +300,8 @@ During the Battle of Hoth, two ships operated in pairs to attempt an evacuation.
 ##### The Kuat Systems Engineering Firespray-31 class patrol attack craft
 
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817289911924310016
+https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
+https://www.tumblr.com/webcateyes/817289911924310016
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -315,8 +319,8 @@ Episode VI tells the story of Luke overcoming a brutal reality to fight the Empi
 [return](#index)
 ##### The Bantha-II skiff
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817304133218582528
+https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400
+https://www.tumblr.com/webcateyes/817304133218582528
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -336,14 +340,14 @@ The skiff, capable of carrying approximately 100 tons of cargo, was equipped wit
 [return](#index)
 ##### The Lucrehulk-class LH-3210 cargo freighter
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/6cbd9e2e42b102ef6cb90efdb4f8b3ce/b12ce46fef14fdeb-39/s2048x3072/51e3448936f7939a32dd5289d51237f42ae3b7c2.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817329251736027136
+https://64.media.tumblr.com/6cbd9e2e42b102ef6cb90efdb4f8b3ce/b12ce46fef14fdeb-39/s2048x3072/51e3448936f7939a32dd5289d51237f42ae3b7c2.jpg?w=400
+https://www.tumblr.com/webcateyes/817329251736027136
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
-The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a super massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
+The Lucrehulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a super massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
 
-The basic specifications of the Lucréhulk-class were a length of 3,356.9 meters, a width of 3,009 meters, and a height of 1,030 meters, making it the largest ship of its time, far exceeding the size of later Star Destroyer-type battleships. By regulation, it was only permitted to be equipped with 42 quadruple turbolasers for self-defense. Despite its size, the crew was highly automated and droid-based, consisting of 25 biological crew members and 150 droid crew members for ship operation. As a commercial transport ship, it had a particularly enormous internal volume, with a cargo capacity of 5 million tons (equivalent to more than 10 supertankers).
+The basic specifications of the Lucrehulk-class were a length of 3,356.9 meters, a width of 3,009 meters, and a height of 1,030 meters, making it the largest ship of its time, far exceeding the size of later Star Destroyer-type battleships. By regulation, it was only permitted to be equipped with 42 quadruple turbolasers for self-defense. Despite its size, the crew was highly automated and droid-based, consisting of 25 biological crew members and 150 droid crew members for ship operation. As a commercial transport ship, it had a particularly enormous internal volume, with a cargo capacity of 5 million tons (equivalent to more than 10 supertankers).
 
 Noticing their unique characteristics, it appears that 10-30% of the thousands to tens of thousands of Lucrehulk-class battleships were secretly armed and converted into warships. Due to their immense size, they were equipped with over 700 turrets and operated as "mobile super-bases," capable of transporting millions of droid armies and massive amounts of military supplies at once.
 
@@ -354,8 +358,8 @@ By the time of the Clone Wars, these ships had been in service for decades. They
 [return](#index)
 ##### J-327 Nubian ship（Modified）　Naboo Royal starship
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/d0a26508928f7daf7802c7559880602f/f0dcde259d2ccfe1-9c/s2048x3072/a070ae13b7de84355a9a345f115a2c8435943724.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817365224204206080
+https://64.media.tumblr.com/d0a26508928f7daf7802c7559880602f/f0dcde259d2ccfe1-9c/s2048x3072/a070ae13b7de84355a9a345f115a2c8435943724.jpg?w=400
+https://www.tumblr.com/webcateyes/817365224204206080
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -363,15 +367,15 @@ The Royal Naboo Starship embodies the craftsmanship and industrial design that s
 
 During the Trade Federation's invasion of Naboo, Queen Amidala and her entourage traveled to the Naboo Starship to present their case to the Council. The T-14 hyperdrive generator was replaced on Tatooine due to damage during their escape. It was during this time that Anakin Skywalker met the Royal Amidala and traveled to the Council aboard the ship.
 
-It also participated in the surprise attack during the recapture of Naboo. After the Clone Wars, it was used for the Queen's and Senator Padmé's travel and diplomatic missions. After a period of retirement, it came into the possession of the Imperial Sith Lord Darth Vader (Anakin Skywalker) and was kept as part of his personal collection.
+It also participated in the surprise attack during the recapture of Naboo. After the Clone Wars, it was used for the Queen's and Senator Padme's travel and diplomatic missions. After a period of retirement, it came into the possession of the Imperial Sith Lord Darth Vader (Anakin Skywalker) and was kept as part of his personal collection.
 
 [return](#index)
 ##### Naboo N-1 starfighter
 [return](#index)
 ##### The Baktoid Armor Workshop's Armored Assault Tank (AAT)
 {% capture my_tiles %}
-- img: https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817329563773321216
+https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400
+https://www.tumblr.com/webcateyes/817329563773321216
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -410,11 +414,11 @@ The dawn of starship construction in the Star Wars galaxy trace back to two spec
 
 ### The Dawn of Spaceflight
 
-Long before the birth of the Republic, the galaxy was ruled by the Infinite Empire—a highly advanced, Force-integrated civilization established by the Rakata, who weaponized the dark side. Using their technology, they conquered key worlds one after another, including Coruscant (the human homeworld), Corellia, Duro, and Kashyyyk (the Wookiee homeworld), enslaving the indigenous populations. During this dark era, the Rakata held an absolute monopoly over all shipbuilding and hyperlane navigation.
+Long before the birth of the Republic, the galaxy was ruled by the Infinite Empire?a highly advanced, Force-integrated civilization established by the Rakata, who weaponized the dark side. Using their technology, they conquered key worlds one after another, including Coruscant (the human homeworld), Corellia, Duro, and Kashyyyk (the Wookiee homeworld), enslaving the indigenous populations. During this dark era, the Rakata held an absolute monopoly over all shipbuilding and hyperlane navigation.
 
 Around 25,200 BBY, a mysterious plague swept through the Rakata, causing them to lose their connection to the Force and driving their empire to a sudden collapse. The few survivors retreated to their forgotten homeworld in the Unknown Regions, leaving the rest of the galaxy stranded. Suddenly, every civilization needed a replacement for the lost, Force-driven technology.
 
-The naturally gifted navigators of the Duros system, alongside the liberated slaves who had been brought to Corellia for construction labor, immediately began reverse-engineering the lost technology of the Rakata. The result was a technological renaissance based entirely on physics and mechanical engineering—usable by anyone, no Force sensitivity required.
+The naturally gifted navigators of the Duros system, alongside the liberated slaves who had been brought to Corellia for construction labor, immediately began reverse-engineering the lost technology of the Rakata. The result was a technological renaissance based entirely on physics and mechanical engineering?usable by anyone, no Force sensitivity required.
 
 They started with the "hyperspace cannon," a primitive method that essentially played catch with physical objects across space. Then, around 25,053 BBY, engineers from both systems achieved the ultimate breakthrough: they re-engineered a mechanical "hyperdrive" that could be mounted directly onto individual ships, allowing anyone to jump through space at will. This sparked the age of galactic exploration. The Duros pioneered the galaxy's two major hyperspace highways: the Perlemian Trade Route and the Corellian Run. These hyperlanes physically bound powerful worlds like Coruscant, Corellia, Duro, and Alderaan together.
 
@@ -422,7 +426,7 @@ Ships built by Duros Space Manufacturing (DSM) were just as rugged and practical
 
 Other systems attempted their own technological leaps during this time, but with less success. In the Deon Cluster, poor manufacturing tolerances led to incredibly high accident rates during hyperspace jumps. To make matters worse, they attempted to invade the Core Worlds using this inferior technology. Their swift defeat ensured they would never achieve technological dominance.
 
-As interstellar trade thrived, 22 star systems—including Coruscant, Corellia, Duro, and Kuat—became the original signatories (the Core Founders), establishing a unified galactic government: the Galactic Republic, built for mutual defense and free trade.
+As interstellar trade thrived, 22 star systems?including Coruscant, Corellia, Duro, and Kuat?became the original signatories (the Core Founders), establishing a unified galactic government: the Galactic Republic, built for mutual defense and free trade.
 
 On Duro, the shipbuilding industry developed through powerful corporate guilds, to the point where the guild council eventually became the planet's ruling political body. Against this backdrop, the Corellia-based Corellian Engineering Corporation (CEC) proudly claimed to be the oldest continuously operating company in the Republic.
 
@@ -430,7 +434,7 @@ Meanwhile, around the same time the Republic was founded in 25,053 BBY, an arist
 
 Later, around 20,000 BBY, Core Galaxy Systems was incorporated, growing into a massive conglomerate managing numerous shipbuilding subsidiaries.
 
-### The Early to Mid-Republic (25,000 BBY – 5,000 BBY)
+### The Early to Mid-Republic (25,000 BBY ? 5,000 BBY)
 
 As the Republic expanded, the demand for starships skyrocketed.
 
@@ -442,7 +446,7 @@ Around 5,000 BBY, Corellia StarDrive was established. This was a highly successf
 
 When the Sith invaded Corellia around 3,000 BBY, Corellia StarDrive pooled massive financial resources with other firms to fund the resistance. However, the destruction of their headquarters by the Sith, coupled with a tragic shuttle accident that killed their lead designers, crippled the company. Seizing the opportunity, CEC bought out their former rival.
 
-### The Late Republic (5,000 BBY – 500 BBY)
+### The Late Republic (5,000 BBY ? 500 BBY)
 
 This era saw the golden age of the "Old Triumvirate" (the original Big Three), while Sienar quietly pulled the strings from the shadows.
 
@@ -457,9 +461,9 @@ Founded prior to 4,000 BBY by Neimoidians of Duros descent, HKD held the largest
 1. **Core Galaxy Systems:**
 Founded around 20,000 BBY as a pioneer shipwright, this corporate giant maintained an unshakeable stronghold in the Core Worlds, mass-producing standard starship models for both civilian and military use. They reigned at the top of the Old Triumvirate for thousands of years, manufacturing the Republic’s *Dreadnought*-class heavy cruisers and various frigates, while their subsidiaries pumped out light freighters.
 
-Meanwhile, Sienar Engineering—the prestigious company that would later birth the TIE fighter—didn’t even rank in the top three for finished starship sales. However, Sienar possessed the finest technical R&D in the galaxy, owning the rights to the "beating hearts" of starships: hyperdrive cores, advanced avionics, and massive ion reactors. Instead of building hulls themselves, they operated as a high-end systems and component supplier, licensing their cutting-edge power plants to the Triumvirate (especially Core Galaxy Systems), quietly amassing a staggering fortune.
+Meanwhile, Sienar Engineering?the prestigious company that would later birth the TIE fighter?didn’t even rank in the top three for finished starship sales. However, Sienar possessed the finest technical R&D in the galaxy, owning the rights to the "beating hearts" of starships: hyperdrive cores, advanced avionics, and massive ion reactors. Instead of building hulls themselves, they operated as a high-end systems and component supplier, licensing their cutting-edge power plants to the Triumvirate (especially Core Galaxy Systems), quietly amassing a staggering fortune.
 
-Back on Duro, around 1,000 BBY, centuries of heavy industrialization had completely devastated the homeworld's environment, rendering it uninhabitable. DSM faced a critical crossroads. They left their automated foundries running on the surface but completely relocated their staff and design hubs to the "Orbital Canopies"—massive, domed space cities constructed in orbit. From then on, DSM shifted from "building ships on the ground" to "constructing them entirely within orbital drydocks." Combined with the Duros cultural mindset of being born and raised in space, DSM’s manufacturing tolerances became sharper and more refined than ever.
+Back on Duro, around 1,000 BBY, centuries of heavy industrialization had completely devastated the homeworld's environment, rendering it uninhabitable. DSM faced a critical crossroads. They left their automated foundries running on the surface but completely relocated their staff and design hubs to the "Orbital Canopies"?massive, domed space cities constructed in orbit. From then on, DSM shifted from "building ships on the ground" to "constructing them entirely within orbital drydocks." Combined with the Duros cultural mindset of being born and raised in space, DSM’s manufacturing tolerances became sharper and more refined than ever.
 
 ### The 500 BBY Shift: KDY’s Rise and the New Triumvirate
 
@@ -528,12 +532,12 @@ The "KDY-CEC-Sienar" triad, solidified during the 500 BBY reshuffle, reached its
 Monopolized the construction of the Empire's ultimate symbols of power, including the *Imperial*-class Star Destroyer. KDY sat comfortably at the absolute peak of military manufacturing, having integrated closely with the Santhe Corporation around 100 BBY.
 
 * **Sienar Fleet Systems (SFS):**
-Evolving from Sienar Engineering and officially merging with the Santhe family around 100 BBY, SFS utilized CEO Raith Sienar's direct political pipeline to Emperor Palpatine to secure the exclusive, endless production contract for the TIE fighter line. Furthermore, they maintained a brilliant corporate symbiosis with their rival, KDY—every single Imperial Star Destroyer built by KDY was powered by massive, Sienar-manufactured solar ionization reactors.
+Evolving from Sienar Engineering and officially merging with the Santhe family around 100 BBY, SFS utilized CEO Raith Sienar's direct political pipeline to Emperor Palpatine to secure the exclusive, endless production contract for the TIE fighter line. Furthermore, they maintained a brilliant corporate symbiosis with their rival, KDY?every single Imperial Star Destroyer built by KDY was powered by massive, Sienar-manufactured solar ionization reactors.
 
 * **Corellian Engineering Corporation (CEC):**
 While they conceded the frontline military contracts to KDY and Sienar, CEC retained an absolute monopoly over the galaxy's civilian and logistics markets. They specialized in rugged, cheap, highly modular freighters (like the YT-1300) that owners could easily modify with legal or illegal upgrades. Characters like Han Solo utilized these Corellian hulls, and they quickly became the backbone of the galactic underworld and the Rebel Alliance fleet.
 
-Tragically, the Duros system—the ancient pioneer of hyperlane travel—suffered the worst fate under the Empire. Driven by Emperor Palpatine’s fierce "High Human Culture" (anti-alien) policy, the Imperial military forcefully seized and nationalized Duro's orbital canopies and shipyards.
+Tragically, the Duros system?the ancient pioneer of hyperlane travel?suffered the worst fate under the Empire. Driven by Emperor Palpatine’s fierce "High Human Culture" (anti-alien) policy, the Imperial military forcefully seized and nationalized Duro's orbital canopies and shipyards.
 
 The name Duros Space Manufacturing was stripped away, and its cutting-edge facilities were converted into Imperial naval depots manufacturing components for Star Destroyers. The proud engineers of DSM were reduced to slave laborers within their own ancestral space cities. Because Corellia (CEC) was also placed under heavy Imperial surveillance, the ancient, millennia-old partnership between the two worlds was entirely severed.
 
@@ -553,28 +557,29 @@ With their freedom restored, they immediately revived the legendary "Duros Space
   - [swgalaxymap.com （Scalable vector map）](http://www.swgalaxymap.com/)
 
 {% capture my_tiles %}
-- img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
-  url: https://www.starwars.com/star-wars-galaxy-map
-- img: https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400
-  url: https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
+https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
+https://www.starwars.com/star-wars-galaxy-map
+
+https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400
+https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
 
 Let's Virtual Galactic Tour.
 
-### The Prequel Trilogy (Episodes I–III)
+### The Prequel Trilogy (Episodes I?III)
 
 #### Episode I: The Phantom Menace
 
 * **Tatooine**
-A harsh desert planet baking under the glare of twin suns, located in the Outer Rim where the Triellus Trade Route intersects with the Corellian Run. As a lawless hub under the absolute control of the Hutt clans and it path direct root close to Kessel where illicit spice smuggling. Though a dusty planet on the galactic fringe, it is the crucial starting point for the entire saga—the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
+A harsh desert planet baking under the glare of twin suns, located in the Outer Rim where the Triellus Trade Route intersects with the Corellian Run. As a lawless hub under the absolute control of the Hutt clans and it path direct root close to Kessel where illicit spice smuggling. Though a dusty planet on the galactic fringe, it is the crucial starting point for the entire saga?the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
 
 * **Naboo**
-A peaceful Mid Rim world offset from Hydian Way blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padmé Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma—a vital starship fuel resource—making it the prime target of the Trade Federation’s illegal blockade.
+A peaceful Mid Rim world offset from Hydian Way blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padme Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma?a vital starship fuel resource?making it the prime target of the Trade Federation’s illegal blockade.
 
 * **Coruscant**
-Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis—a planet entirely encased in a sprawling, multi-leveled metropolis. 
+Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis?a planet entirely encased in a sprawling, multi-leveled metropolis. 
 It is home to the Galactic Senate House and the Jedi Temple, serving as the center of all political and Jedi activities. It is also the stage where Palpatine, a native of Naboo, who aspires to the position of Chairman of the Council, establishes the Empire.
 
 #### Episode II: Attack of the Clones
@@ -597,7 +602,7 @@ A magnificent Mid Rim world blanketed by colossal wroshyr forests and vast, unta
 A brutal, hellish volcanic planet in the Outer Rim, situated along the Hydian Way. It is a fractured world where rivers of molten lava carve through black obsidian landscapes. This desolate world served as the backdrop for the tragic, emotional duel between Obi-Wan Kenobi and his fallen apprentice, Darth Vader, permanently severing their bond.
 
 
-### The Original Trilogy (Episodes IV–VI)
+### The Original Trilogy (Episodes IV?VI)
 
 #### Episode IV: A New Hope
 
@@ -621,9 +626,9 @@ A massive, majestic gas giant located in the Outer Rim near the Corellian Trade 
 #### Episode VI: Return of the Jedi
 
 * **Endor (The Forest Moon of Endor)**
-A sanctuary moon dominated by towering, ancient trees, orbiting the gas giant Endor. Located along the Cerean Reach past Cerea (branching off the Corellian Trade Spine), this heavily forested world was chosen by the Empire to house the shield generator protecting the incomplete Second Death Star. In a brilliant twist of fate, the Rebel strike team allied with the moon's primitive, resourceful natives—the Ewoks—to overthrew the Imperial garrison, leading directly to the collapse of the Empire.
+A sanctuary moon dominated by towering, ancient trees, orbiting the gas giant Endor. Located along the Cerean Reach past Cerea (branching off the Corellian Trade Spine), this heavily forested world was chosen by the Empire to house the shield generator protecting the incomplete Second Death Star. In a brilliant twist of fate, the Rebel strike team allied with the moon's primitive, resourceful natives?the Ewoks?to overthrew the Imperial garrison, leading directly to the collapse of the Empire.
 
-### The Sequel Trilogy (Episodes VII–IX)
+### The Sequel Trilogy (Episodes VII?IX)
 
 #### Episode VII: The Force Awakens
 
@@ -648,7 +653,7 @@ A pristine, over the Jakku, deep-space world hidden within the Unknown Regions, 
 A desolate, mineral-rich Outer Rim planet located along the routes heading toward Naboo off the Hydian Way. The planet features an ethereal, blindingly white landscape covered entirely in salt flats. Beneath the crust lies a vibrant red mineral layer; when the ground is torn up by heavy skimming speeders or artillery fire, the battlefield bleeds a brilliant crimson. It became the site of the Resistance’s desperate final stand against the First Order.
 
 * **Cantonica**
-A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is famous for the glitzy casino city of Canto Bight—an opulent oasis where wealthy war profiteers, high-rolling gamblers, and galactic arms dealers indulged in lavish nightlife, blissfully detached from the galaxy's conflicts.
+A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is famous for the glitzy casino city of Canto Bight?an opulent oasis where wealthy war profiteers, high-rolling gamblers, and galactic arms dealers indulged in lavish nightlife, blissfully detached from the galaxy's conflicts.
 
 #### Episode IX: The Rise of Skywalker
 
@@ -656,7 +661,7 @@ A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is
 A barren, jagged world of dark stone hidden deep within the labyrinthine anomalies of the Unknown Regions, far beyond the galactic disk. Locked in a permanent shroud of dry electrical storms and ambient dark side energy, this ancient Sith redoubt served as the secret stronghold where a resurrected Emperor Palpatine spent decades constructing his armada, the Final Order.
 
 * **Kijimi**
-A frigid, snow-swept mountain world located in the Mid Rim, positioned just off the Perlemian Trade Route toward Hutt Space. The ancient, winding alleyways of Kijimi City served as a notorious haven for spice runners, thieves, and scoundrels, providing a cold sanctuary for Zorii Bliss and her crew—associates from Poe Dameron’s checkered past.
+A frigid, snow-swept mountain world located in the Mid Rim, positioned just off the Perlemian Trade Route toward Hutt Space. The ancient, winding alleyways of Kijimi City served as a notorious haven for spice runners, thieves, and scoundrels, providing a cold sanctuary for Zorii Bliss and her crew?associates from Poe Dameron’s checkered past.
 
 * **Ilum**
 An ancient ice world located in the Unknown Regions close to Exegol, historically revered by the Jedi Order as a sacred pilgrimage site for harvesting kyber crystals to power their lightsabers. Tragically, the planet was occupied by the Empire and later hollowed out by the First Order, engineered directly into the core of the catastrophic planet-killing superweapon known as Starkiller Base.
@@ -703,7 +708,7 @@ A highly influential Core World that serves as the corporate home to Kuat Drive 
 A Neimoidian’s wealthy Colony world located near Kuat. Neimoidians are descendants of the Duros. They purchased and colonized a planet adjacent to the Kuat system, establishing it as their homeworld, Neimoidia; however, they diverged due to differing environments and cultures. It serves as one of the premier "Purse Worlds" for the high-ranking Neimoidian executives of the Trade Federation (ranking highest among its sister worlds, Deko Neimoidia and Koru Neimoidia). The planet is famous for its stunning, opulent cities built on massive suspension bridges spanning misty mountain chasms, where the elite locked away their vast fortunes.
 
 * **Rakata Prime (Lehon)**
-A breathtaking tropical world of pristine oceans and scattered islands tucked away in the Unknown Regions. Tens of thousands of years ago, it served as the capital of the Infinite Empire—a cruel, dominant civilization ruled by the Rakata species. The planet once orbited the Star Forge, an ancient, dark side-fueled automated shipyard capable of forging entire fleets.
+A breathtaking tropical world of pristine oceans and scattered islands tucked away in the Unknown Regions. Tens of thousands of years ago, it served as the capital of the Infinite Empire?a cruel, dominant civilization ruled by the Rakata species. The planet once orbited the Star Forge, an ancient, dark side-fueled automated shipyard capable of forging entire fleets.
 
 * **Ruusan**
 A legendary Mid Rim world situated near the borders of Hutt Space. In 1032 BBY, it became the battlefield for the final, apocalyptic war between the old Jedi Order and the Army of Light against the Sith Brotherhood of Darkness. Following the perceived extinction of the Sith (save for Darth Bane, who survived to create the Rule of Two), the valley where the final thought bomb detonated became a sacred, haunted landmark known as the Valley of the Jedi.
@@ -719,19 +724,19 @@ A vibrant agricultural planet located in the Expansion Region along the Corellia
 ---
 ## The Midi-chlorians in Star Wars world
 
-Midi-chlorians—they’re those microscopic life-forms that act as a link between living beings and the Force.
+Midi-chlorians?they’re those microscopic life-forms that act as a link between living beings and the Force.
 While their introduction stirred up quite a debate among fans, they made their official, canonical debut right there in the dialogue of Episode I.
 If we take a closer look at how they fit into the lore, it actually opens up a whole new way to enjoy the history of the Star Wars galaxy!
 
 ### The Celestials
 Around 1,000,000 BBY, the Celestials ruled the galaxy as "the Architects." Word is, they kept the galaxy in balance by controlling both the Light and Dark sides of the Force through midi-chlorians, managing it as a cosmic Force.
-We can still find traces of them today—like the creation of the Corellian system, the Centerpoint Station (a massive planetary transport device left behind there), and even projections of their descendants.
+We can still find traces of them today?like the creation of the Corellian system, the Centerpoint Station (a massive planetary transport device left behind there), and even projections of their descendants.
 To build the galaxy, they reportedly placed five lush planets right in the habitable zone of the Corellian system to serve as a stable breeding ground and buffer zone for this cosmic Force.
 
 Eventually, the rising Rakata Empire stripped the Celestials of their technology. Being a peaceful species that avoided conflict, the Celestials shed their physical forms to become non-corporeal Force spirits. A select few retreated to Mortis, a planet hidden within a spatial anomaly in the Deep Core. During the Clone Wars, they were discovered as a trio known as "The Ones," where they influenced Anakin and Ahsoka before ultimately fading away.
 
 ### The Rakata and the Infinite Empire
-Around 35,000 BBY, the Rakata—a species deeply attuned to the Force—rose to power. Their entire race was strong in the Force, and they weren't afraid to tap into its powerful Dark Side.
+Around 35,000 BBY, the Rakata?a species deeply attuned to the Force?rose to power. Their entire race was strong in the Force, and they weren't afraid to tap into its powerful Dark Side.
 They began dominating the galaxy using hyperdrives powered entirely by the Force. However, these drives drained the crew's Force energy and could only jump to areas where the Force was exceptionally strong.
 This led them straight to worlds like Coruscant, Dxun, and Kashyyyk, and eventually guided them to the Corellian system.
 Wherever they conquered, they enslaved the locals and literally extracted their midi-chlorians to fuel their tech and expansion. Because their technology relied so heavily on midi-chlorians, the Corellian system became a crucial hub for their starship manufacturing.
@@ -762,791 +767,3 @@ Later on, they moved from the chaotic Deep Core to the stable Outer Rim world of
     - NC
 
 ### type2
-
-{% include ---
-layout: contents
-title: "STAR WARS"
-permalink: /static/01_univers/starwars.html
-image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad8666520db225d-b7/s1280x1920/04d41bd1ea5d1db8d42353fc02eb80a936eedce1.jpg"
----
-
-You might be interested in ["Lucas Museum of Narrative Art](https://lucasmuseum.org/)".   22. Sep. 2026 open
-
-## index
-[Tr1](#the-original-trilogy) / [Tr2](#the-prequel-trilogy) / [Tr3](#the-sequel-trilogy) 
-
-[Ep01](#star-wars-episode-i---the-phantom-menace) / 
-[Ep02](#star-wars-episode-ii---attack-of-the-clones) / 
-[Ep03](#star-wars-episode-iii---revenge-of-the-sith) / 
-[Ep04](#star-wars-episode-iv---a-new-hope) / 
-[Ep05](#star-wars-episode-v---the-empire-strikes-back) /
-[Ep06](#star-wars-episode-vi---return-of-the-jedi) / 
-[Ep07](#star-wars-episode-vii---the-force-awakens) / 
-[Ep08](#star-wars-episode-viii---the-last-jedi) / 
-[Ep09](#star-wars-episode-ix---the-rise-of-skywalker) 
-
-[StarShipBuilders](#about-starship-manufacturing-in-star-wars-world)
-About starship builders in Star Wars world
-
-[The Planets](#about-planets-in-star-wars-world)
-About Planets in Star Wars world
-
-[Midi-chlorians](#the-midi-chlorians-in-star-wars-world)
-The Midi-chlorians in Star Wars world
-
-
-## Overview
-
-A long time ago in a galaxy far, far away....
-
-The Star Wars narrative envisioned by **George Lucas** was about unifying the world peacefully through the history and ethics of the Skywalker family, while revealing the true nature of the magical "Force". However, although the concept for the final reveal was passed on to Disney, it seems that the narrative was not told yet. However, Disney is clearly expanding the story at a rapid pace. This will likely involve not only reaffirming existing settings, but also explaining new facts and mysteries, and re-evaluating things from new perspectives. The narative is likely to become even more substantial.
-
-This psge contains exaggerations and cues designed to pique curiosity, so please view the content and verify the information on specialized websites for accuracy. Accurate information about Star Wars is being compiled on Canon. The vast amount of information from Lucas's era was compiled as "Legends." There are discrepancies and omissions in these, but Canon should ultimately become the most comprehensive resource. 
-
-A defining characteristic of the vehicles in the Star Wars series is the richly defined world setting, where many manufacturers representing major planets in the galaxy are responsible for everything from massive military ships to small civilian vehicles, transporters, and vehicles adapted to different environments, as well as the engines, weapons, and escape pods equipped on them.
-Generally speaking, the exterior design of the vehicles changes in the two older trilogies. Also, in the final trilogy, while the internals are supposed to be modernized, many of them appear to have almost the same exterior. As a fan, there is a nostalgic and welcome feeling to this. On the other hand, the fact that we don't see a tangible rational evolution over more than 30 years leaves a sad impression, as it suggests that the emphasis on Canon has placed a limit on the enjoyment of high-quality narrative and creativity. There are always multiple interpretations, and at times, perceptions differ drastically from person to person.
-
-
-## Skywalker Saga and vehicle types 
-
-<a href="https://64.media.tumblr.com/017e15d6c3a3b5971625a3ce5b8b3bca/2500a2af89d56293-3b/s1280x1920/c1f4bf4050762599819f38cb5a706251e0ab656d.pnj?W=400"> 
-<img src="https://64.media.tumblr.com/017e15d6c3a3b5971625a3ce5b8b3bca/2500a2af89d56293-3b/s1280x1920/c1f4bf4050762599819f38cb5a706251e0ab656d.pnj?w=400" width="400"></a>
-<a href="https://64.media.tumblr.com/65567b76cb311d52d604771ed6381aa8/2500a2af89d56293-02/s2048x3072/6cea619a3aaba5604bd8d64e94274851ba56ef85.pnj" >
-<img src="https://64.media.tumblr.com/65567b76cb311d52d604771ed6381aa8/2500a2af89d56293-02/s2048x3072/6cea619a3aaba5604bd8d64e94274851ba56ef85.pnj" width="300">
-</a>
-
-Star Wars is composed of three trilogies. In order of release, they are the Original Trilogy (Classic Trilogy), the Prequel Trilogy, and the Sequel Trilogy.
-
-### The Original Trilogy
-
-While the timeline may be slightly out of order in terms of in-universe chronology, George Lucas's Star Wars saga begins with Episode IV: A New Hope. Princess Leia, having escaped from another battlefield with the crucial schematics, is captured by Darth Vader and taken to the Empire's new superweapon, the planet-destroying Death Star. After the escaped droids are dispatched with their message, Luke Skywalker joins the fight. The Empire's plan to destroy Yavin 4, where the Rebel base is located, with the Death Star sees the Alliance retaliating against Imperial arrogance. Ultimately, the Empire's overconfidence in their own strength leads to the loss of the Death Star and key Imperial officers.
-
-Star Wars Episode V: The Empire Strikes Back begins with the Battle of Hoth (the evacuation from Echo Base). The Empire launches a full-scale counterattack, finally discovering the Rebel hidden outpost. The Rebel Alliance uses the V-150 Planet Defender ion cannon installed at Echo Base to temporarily neutralize the Galactic Empire's Imperial-class Star Destroyer, allowing their transports to escape. Despite this, the Rebels are scattered in defeat. Later, through Darth Vader's machinations on Cloud City, Han Solo is carbon-frozen and Leia is captured.
-
-In Star Wars Episode VI: Return of the Jedi, following his defeat at Cloud City, Luke heads to Tatooine to rescue Han Solo and his friends, before returning to Dagobah to receive his final training from Yoda. Meanwhile, the Empire was constructing an even more powerful Death Star II in orbit around the forest moon of the giant gas planet Endor. The Rebels attempt to destroy the Death Star II before its completion based on stolen data; however, this is a trap set by the Emperor. While the battle station was indeed unfinished, its primary weapon, the superlaser, was already fully operational.With the help of Solo and the native Ewoks, they destroy the shield generator on the forest moon. Around that time, Luke and Vader were locked in a fierce lightsaber duel on the Death Star. Upon seeing the Sith Lord trying to lure Luke to the dark side of the Force, Darth Vader has a change of heart. Redeemed as Anakin Skywalker, he throws the Emperor down the reactor shaft to save Luke, and the Dark Lord's physical body is annihilated by the surging energy.
-
-#### Star Wars Episode IV: - A New Hope
-
-The story follows Luke Skywalker as he becomes embroiled in a war against the Empire due to Leia's actions. Is this a coincidence, or fate?
-
-[return](#index)
-
-##### Imperial-class Star Destroyer "the Devastator"
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/94fe070652cf7f87e1c568bb53f7a0ab/1578e484ced63a62-3f/s2048x3072/497b61fd22832daf495dd27465f079c8f5b65b8e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817130064833576960?source=share
-  - img: https://64.media.tumblr.com/63ed95980a1d0c62edf1113ee505e6ce/0c6a77b33d657da2-2c/s2048x3072/cc58a9c2acd819c17562bf6acbb24958aea3a1de.jpg?w=400
-    url: https://www.tumblr.com/webcateyes/817129955198681088?source=share
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The colossal battleship that graced the opening scene. The flagship of the 501st Legion, directly under Supreme Commander Darth Vader, it measured 1600 meters in length. The Devastator was one of the last and most advanced Imperial I-class battleships, boasting cutting-edge improvements to its special weapons systems, giving it performance equal to, or even exceeding, that of other battleships of the time (Imperial II-class). Equipped with 60 turbolaser cannons and tractor beam generators, it carried tens of thousands of assault stormtroopers and numerous TIE fighters. It demonstrated incredible power in planetary conquest and maintaining order.
-
-The Devastator arrived at the end of the Battle of Scarif, attempting to neutralize the Rebel flagship, the Profundity, and prevent the leak of design data. However, by a narrow margin, Princess Leia's Tantive IV, along with the Profundity's recently received blueprints, escaped via hyperspace. Lord Vader quickly returned to his ship, and the Devastator pursued.
-
-In the opening scene of the first Star Wars film, it completely swallowed and captured the Tantive IV beneath its hull.
-
-Afterward, it participated in the Battle of Hoth, the pursuit of the Millennium Falcon, and numerous other battles, but was shot down and severely damaged under heavy fire during the Battle of Endor.
-
-[return](#index)
-
-##### Corellian Engineering Corporation CR90 Corvette "Tantive IV"
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/267e9921fe567ac14e3097f5f0fec4f7/53fbd28bc797d5de-88/s2048x3072/33d0591a149ecd632fecb413210f1a447c31cccc.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817126283415781376
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-A Corellian Engineering CR90 corvette, also known as the Corellian corvette or Blockade runner, operated by the Organa royal family of the planet Alderaan as a Senate diplomatic vessel. Due to its modular design, it was easy to modify various parts for different purposes. Equipped with 11 Koniex F-31 sublight engines, two medium turbolasers, and four light turbolasers as standard, it was a small, high-speed light capital ship, making it widely used by both military and civilian forces. Although it blended in with many similar ships, the Empire marked it as being used by the Rebel Alliance.
-
-A corvette firing it's weapons backwards flies away over a brown planet. The first spaceship in the opening sequence.
-
-Princess Leia Organa's support for the Rebel Alliance was an open secret and was monitored by Lord Vader. The Tantive IV, having sustained damage (including hyperdrive damage) during another mission, was to be repaired aboard the Profundity and then attempt to request Obi-Wan's assistance. However, while being repaired in the Profundity's dock, it traveled with them to the Battle of Scarif. Just before escaping from the Profundity, they received the Death Star data disc and narrowly escaped to the Tatooine region. However, the Tantive IV was ultimately captured by the Devastator over Tatooine. Thanks to Leia's quick thinking, the message and blueprints were entrusted to R2-D2 and C-3PO, delivered to Tatooine, and marked the beginning of Luke Skywalker's story.
-
-The Tantive IV, captured near Tatooine, was reported by the Empire as a meteorite impact accident due to its uncontrollable nature, and information about any survivors was covered up. Later (before Star Wars: The Rise of Skywalker), the Tantive IV, left abandoned in the outskirts, was repaired and secretly returned to Leia. After being used as a Resistance communications base and power generator, it participated in the Battle of Exegol, but was apparently rendered uncontrollable by Palpatine's powerful Force lightning and crashed to the surface, ending its history.
-
-[return](#index)
-##### Sandcrawler
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/42ba56d7039336adec48d60a0c61465c/7a6998eec64f6f75-53/s2048x3072/8440b0d84bcfdf24c7a2c5042418fab377ee0ec8.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817093428872658944/originally-these-ore-transport-vehicles-were?source=share
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Sandcrowler was a digercrowler built as massive mobile mining and smelting facilities brought to the sandy planet Tatooine by the Corellia Mining Corporation. It was 40m long and 20m tall. This is twice the length of the Imperial AT-AT and almost the same height. Later, it was discovered that there were no mineral resources underground but on the surface, and the digercrowler was discarded. The Java people reused them, using them as a scrap collection and recycling workshop, a mobile shop, and a dwelling. The Java people also use them on Arvala-7, which has a similar environment. The interior is divided into several layers (5-6 layers), and opening the front door creates a huge ramp, allowing a view of the interior. It is equipped with eight tracks. Powered by a robust fusion reactor, it was capable of reliable operation. It was also equipped with a magnetic suction tube for scrap collection.
-
-[return](#index)
-##### Corellian Engineering Corporation YT-1300  cargo ship "Millennium Falcon"
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/0ea066f495e609530ccdcb4e5ecded74/9d2b855d852680e6-f7/s2048x3072/624d807c08832bb0a2f34cf43981a0217825e46e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817291902808375296
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The YT series consisted of light freighters manufactured by the Corellian Engineering Corporation and came in many variations. The Corellian YT-1300 was one of them, equipped with a high-performance power unit, a near-light-speed sublight engine, a hyperdrive, and an advanced control and navigation computer. There were three configurations, distinguished by the designations p, f, and fp: passenger, cargo, and cargo-passenger. The f and fp types featured reinforced frames and repulsorlifts for cargo handling, along with a five-legged landing gear configuration. Options included heavy armor for navigating hostile territory and equipment to double its cargo capacity. Thanks to its modular design, it allowed for a wide variety of combinations of cockpit positions and engines, making it a favorite for frequent customization. It was also capable of pushing external freight containers mounted on the bow.
-
-The Millennium Falcon was a heavily modified vessel based on the YT-1300f—an older model manufactured around 60 BBY. The Falcon was registered under various aliases as a smuggling vessel. During a heist while the ship was still owned by Lando Calrissian, Han Solo famously set the record for the shortest distance traveled through the Kessel Run, a dangerous route passing through a black hole cluster. Shortly after, Han won the Millennium Falcon from Lando in a card game. Han and Chewbacca's private upgrades to its armament, engines, and hyperdrive ultimately earned the ship its famous nickname, "the fastest hunk of junk in the galaxy." Later, after being forced to dump a shipment of spice, Han owed a massive debt to Jabba the Hutt. To pay it off, he and Obi-Wan Kenobi agreed on a transport job on Tatooine. Ultimately, moved by his feelings for Princess Leia and his bond with Luke, Han joined the Rebel Alliance. Decades later, after Han was killed by his son Ben, Rey teamed up with Chewbacca. The Millennium Falcon, by then nearly a century old, eventually became the property of Rey Skywalker.
-
-[return](#index)
-##### The Y-Wing Starfighter
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/941f4917318ce2ee0ac6092db8f01be0/54c5087b9a75c181-29/s2048x3072/e08ebf295b9199a4aa1e09da853b71613c34846f.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817220932401856512
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Y-wing starfighter is a versatile, multi-role starfighter built on Koensayr Manufacturing’s BTL series. From its early days with the Galactic Republic during the Clone Wars, to its iconic service with the Rebel Alliance, and all the way into the Sequel Trilogy era, this reliable ship has seen an incredibly long service life.
-
-Initially designed as a long-range bomber, it pivoted to a fighter-bomber role by the time the Rebel Alliance got hold of it. While it lacks the top speed and agility of sleek dogfighters like the X-wing, it more than makes up for it with sheer power, heavy armor, and a massive payload (including proton torpedoes and ion cannons). This made it a heavyweight champ in anti-capital ship missions, including the legendary assaults on the Death Stars.
-
-- Main Lineage and Variations
-    The Y-wing's history is largely defined by a few key models:
-
-1. BTL-B Y-wing
-   The very first mass-produced model, adopted by the Galactic Republic during the early Clone Wars. It featured a two-seat cockpit for a pilot and a dedicated gunner. While packed with heavy armor and strong shields, it was notoriously high-maintenance. It saw plenty of action taking down Separatist cruisers.
-
-1. BTL-S3 Y-wingv:  Carrying over the design principles of the BTL-B, this two-seat (pilot and gunner) strike fighter was heavily used by the Rebel Alliance.
-
-1. BTL-A4 Y-wing :  The most famous variant, this single-seat (one-pilot) model served as the backbone of the Rebel fleet. To make repairs easier and improve reliability, Rebel mechanics stripped away the heavy hull plating and engine nacelle covers. This mod job left the skeletal frame exposed, giving it that iconic, bare-bones "Y" silhouette (earning it the nickname "Wishbone").
-
-1. BTA-NR2 Y-wing :  A modernized variant that popped up during the New Republic and Resistance eras. While it kept the classic look, its core specs received a major upgrade under the hood.
-
-- Iconic Battles
-
-  - **Battle of Yavin** (Episode IV: A New Hope)
-This is where the Y-wing made its cinematic debut and left its biggest mark. Flying under the call sign "Gold Squadron", they took part in the assault on the first Death Star. While the faster X-wings kept the Empire's TIE fighters busy, the heavily armored, high-yield Y-wings made the treacherous first run down the Death Star’s trench to hit the thermal exhaust port.
-
-  - **Battle of Scarif** (Rogue One: A Star Wars Story)
-Set just before the events of "Episode IV", this battle showed off the ship's tactical utility. Y-wings from Gold Squadron dropped "ion torpedoes" to disable an Imperial Star Destroyer. This perfectly set the stage for a Rebel Hammerhead Corvette to ram the disabled ship into another Destroyer, bringing down the planetary shield gate.
-
-  - **Battle of Endor** (Episode VI: Return of the Jedi)
-During the massive fleet battle over the Second Death Star, Y-wings flew as "Gray Squadron". Alongside the Millennium Falcon and X-wings, they dove straight into the superstructure of the Death Star once its shields fell, helping to blow the main reactor to pieces.
-
-  - **Battle of Exegol** (Episode IX: The Rise of Skywalker)
-In the final showdown of the saga, the Y-wing made a triumphant return. Among the massive civilian armada, you could spot fully-armored models reminiscent of the old Republic days (BTL-B), alongside upgraded modern variants, all dropping payloads onto the Sith Eternal’s shieldless Star Destroyers.
-
-[return](#index)
-##### Incom T-65 X-wing Starfighter sereis
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/af685d982c45a68fd3cc2f8d5f188094/3a13c703ed1c0c2f-34/s2048x3072/57ebcfef40aebc08a96af9c9bf97dd52a4449d2d.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817281492696842240
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Incom Corporation T-65 X-wing is a highly functional multi-role starfighter that determined the victory of the Rebel Alliance and the New Republic. Incom Corporation developed the X-wing in secrecy as a private venture for an Empire procurement bid, fusing the technologies of the Z-95 Headhunter, a single-wing bestselling light starfighter, and the ARC-170 starfighter, a heavy starfighter for the Republic during the Clone Wars jointly developed by Incom/Subpro.
-
-The X-wing has a design philosophy that is the polar opposite of the TIE series: "high survivability, independent operational capability, and heavy armament for hit-and-run tactics." Namely, its equipment includes: deployable wings called "S-foils (Strike Foils)" which expand the laser fire arcs at the wingtips and increase cooling efficiency; a deflector shield generator; a hyperdrive; astromech droid (R2-series, etc.) compatibility; proton torpedo launchers; anti-starfighter lasers; and heavy bombing capabilities.
-
-Around 2 BBY, the pro-Rebel Incom Corporation evacuated the X-wings to the Rebel Alliance in response to the Empire's seizure actions. As a result, the Rebel Alliance obtained the "state-of-the-art starfighter" for free, and operated this series for a long time thereafter.
-
-1. T-65B X-wing [1st Generation] (Galactic Civil War Period: EP4–EP6)
-The original legendary starfighter flown by Luke and Wedge. The four engines are each independent and cylindrical.
-
-1. T-70 X-wing [2nd Generation] (New Republic / Early Resistance: EP7–EP8)
-Developed by Incom-FreiTek. The engine intakes became "semi-circular," designing them to form a single circle when the wings are closed. Famous as Poe Dameron's personal starfighter (the black "Black One"). Weapon swappability speed and electronic warfare capabilities were significantly improved.
-
-1. T-85 X-wing [3rd Generation] (New Republic Military / End Period: EP7)
-The highest-tier, state-of-the-art heavy starfighter that was deployed exclusively for the defense of the New Republic Military's capital star system under strict military regulations. Due to the strike from the First Order's "Starkiller Base," most of them instantly perished along with the capital star system and the main fleet of the Republic.
-
-  - Battle of Scarif (0 BBY / "Rogue One"):  Said to be the first combat deployment of the X-wing. The X-wings of "Blue Squadron" scrambled.
-
-  - Battle of Yavin (0 BBY / "Episode IV")
-The historic first victory of destroying the Death Star. The X-wings of "Red Squadron" scrambled.
-
-[return](#index)
-##### TIE fighter series
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/ba40377e1e3a04409ee4ee59a061094e/ff6408c2c2981d84-2a/s2048x3072/a98f8695788754db2b216f12846546960406d57e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817329127303544832/tei-ln-fighter
-- img: https://64.media.tumblr.com/f4a62fd1538160dcf19ebd2d729d78f2/07c66e36097318d6-4c/s2048x3072/adc2b0c4c4c0acf375cc6f187b964fe4b2b1ebe4.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817297514186326016/tieadvansd-x1
-- img: https://64.media.tumblr.com/d41001d348d731d4e1d68b464ff96e42/5d591de4dc2a98f2-1b/s2048x3072/dc98f19792c6019e27de80b7c7e1d5cf8990a075.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817298266693795840/tiesa-tactical-bommer
-- img: https://64.media.tumblr.com/af39c00a199cf253e9d18a6df8efd511/8ad44e264ece483d-a7/s2048x3072/bc0184b2a0437b565cb2ebf296470fa004569fce.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817299008296992768/tiein-interceptor
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The design of the Eta-2 Actis-class light interceptor, manufactured by Kuat Systems Engineering and used during the Clone Wars, influenced Sienar Fleet Systems and became the technological basis for the TIE series. For the first decade or so after the founding of the Galactic Empire, the TIE/ln starfighter served as the primary backbone of the Imperial fleet. However, following the devastating defeat at the Battle of Yavin—which resulted in the destruction of the first Death Star—and a shift in the Rebel Alliance's effective hit-and-run tactics, the variety of the TIE series expanded dramatically within just a few years.
-Until that pivotal defeat, the Empire had relied on a "reign of terror" (the Tarkin Doctrine) driven by overwhelming force and massive capital weaponry, such as Star Destroyers and the Death Star, concentrating its immense funding there. For their starfighter doctrine, the TIE/ln was mass-produced as a cost-effective, carrier-based fighter where swarming mass production was the top priority. Consequently, TIE/ln fighters were always deployed in overwhelming numbers.
-The Rebel Alliance's success with high-performance, small fighters equipped with deflector shields and hyperdrives (such as the X-wing) forced a strategic shift in Imperial starfighter development.
-
-
-- Positioning of Major Variations
-
-  - The TIE/ln itself is a space superiority starfighter. The "ln" designation stands for "line," indicating it was the standard mass-production model equipped with high-performance Twin Ion Engines manufactured by Sienar Fleet Systems. To maximize mass production and agility, essential features from the prototype were drastically stripped down, resulting in an extremely lightweight design that completely omitted defensive systems such as shields, life-support equipment, and hyperdrives.
-
-  - TIE Advanced x1 (Early Prototype):  Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
-
-  - TIE Interceptor (Interceptor):  A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
-
-  - TIE Bomber (Bomber):  An anti-ship and ground attack aircraft. While it existed before the Battle of Yavin, its deployment on the front lines became more prominent after Yavin, primarily to strike Rebel strongholds and large cruisers. Its distinctive twin-fuselage design features the pilot on one side and a large number of torpedoes and bombs on the other.
-
-  - TIE Defender :  The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
-
-
-
-#### Star Wars: Episode V - The Empire Strikes Back
-Episode 5 tells the story of Luke learning about his true family, a story he hadn't been told in detail. He learns about his parents and siblings, and the beginnings of his sisterly love are also depicted.
-
-The opening of "Star Wars Episode V: The Empire Strikes Back" is the Battle of Hoth (the Echo Base evacuation). Princess Leia explains that the Rebel Alliance used the V-150 Planet Defender ion cannons installed at Echo Base to temporarily disable the Galactic Empire's Imperial-class Star Destroyers. The overconfidence against the weak Rebel forces led to the loss of the Death Star and key officers, and the Rebels were scattered when the Empire launched a full-scale offensive.
-
-[return](#index)
-##### AT-AT
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817213628178644992
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The AT-AT (All Terrain Armored Transport) was developed by Kuat Drive Yards (KDY) under Imperial orders, with its origins tracing back to the late stages of the Clone Wars. 
-The early prototype (AT-AT/P) was remarkably massive, measuring over 31 meters in height, but the modernized mass-production models deployed during the Galactic Civil War were scaled down to a more practical height of 22.5 meters. 
-During the First Order era, the military legacy evolved into a heavily augmented successor known as the AT-M6.
-
-These formidable walkers are typically transported by capital ships such as Imperial-class Star Destroyers, which can carry a complement of up to 20 units to be deployed to planetary surfaces in an upright position using dedicated dropships like the Y-85 Titan. 
-The cockpit (head) houses two pilots and a combat commander; it is equipped with two chin-mounted heavy laser cannons and two temple-mounted repeating blasters, while the early prototype also featured a rear-facing laser turret on its chassis. 
-The main troop compartment (torso) carries speeder bikes and a platoon of ground forces. Its long, massive legs function as psychological and physical weapons, heavily armored to withstand standard infantry fire, starfighter blaster cannons, and solid projectiles. 
-While its heavy plating makes it nearly impervious to conventional weapons, the movable leg mechanisms are vulnerable to being tripped by tow cables, and the flexible neck remains a primary structural weak point. However, due to their terrifying battlefield presence, operations utilizing AT-ATs are usually deemed highly successful even if tactical losses are incurred.
-
-[return](#index)
-##### AT-ST
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/a50ad468a387d83d4522270e6cc0f3a3/412fe14017969837-c8/s2048x3072/1658b70f1055af7347cede3d4c27af071c489d6c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817213628178644992
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The AT-ST is an all-terrain scout transporter. Its prototype appeared during the Clone Wars and it is one of the Empire's main ground combat weapons. It is bipedal and capable of traveling at 100 km/h. It has a crew of two: a pilot and a gunner. It is equipped with a medium-sized twin blaster, light blasters in the left and right pods, and concussion grenade launchers.
-
-During the Battle of Hoth, it guarded the legs of the large ground combat weapon, the AT-AT. During the Battle of Endor, it guarded the entrance to the second Death Star's shield generator with overwhelming firepower. However, it was thrown into disarray by a log attack by the native Ewoks, who opened the hatch and hijacked it.
-
-[return](#index)
-##### Snowspeeder
-
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817196079655321600
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Incom Corporation's T-47 Airspeeder is a low-altitude speeder that levitates using a repulsor coil, an anti-gravity device that depends on its distance from the ground. Its high-power generator and high-thrust ion thrusters allowed for user modifications through its modular design.
-
-The Rebel Alliance's Snowspeeder was based on the T-47, adapted for the cold climate of their base at Hoth, and featured two laser cannons mounted on each shoulder, utilizing its abundant power. It also included a fire control system and added armor, but lacked shields. The use of cargo handling cables as a countermeasure against AT-ATs was also used in subsequent battles.
-
-[return](#index)
-##### Gallofrey Yards GR-75 Medium Transport Ship
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/b5fdc61963f197cbc1062abec57aaaba/69c8eaddad5ffc56-ec/s2048x3072/e275292f5ce2090803347d7955037896c668715e.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817196079655321600
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-Meanwhile, the Gallofrey Yards GR-75 medium transport ship (commonly known as the "Tuna Ship") was used to evacuate the base personnel.
-
-Length: 90 meter
-
-A military-modified version of the civilian transport GR-45.
-
-The Rebel Alliance mass-produced these ships cheaply, prioritizing cargo space, and armament consisting only of twin laser cannons and deflector shields. The thick, protective clamshell-type hull panels were entirely dedicated to cargo pods. While the GR-75 medium transport ship was inexpensive to produce, meticulous maintenance was required.
-
-During the Battle of Hoth, two ships operated in pairs to attempt an evacuation. Several ship names have been identified.
-
-- Quantum Storm: One of the first transport ships.
-- Bright Hope: The last transport ship to depart from Echo Base
-- Suns’ Orchard
-- Duty Free
-
-[return](#index)
-
-##### The Kuat Systems Engineering Firespray-31 class patrol attack craft
-
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/ec6c4d92649f35949d495ae027f13c97/6754587674c3732e-93/s2048x3072/9129884a5d1526c85d6f18e7ffb8faa508fbfa5c.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817289911924310016
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Kuat Systems Engineering Firespray-31 class patrol attack craft (Firespray-class interceptor and Firespray gunship) was used for security and patrol of the prison moon Ovo 4. The Firespray has a flat rear end that faces downwards when landing. While in flight, it rotates its attitude by 90 degrees, and the design intent for this increased target area is unclear. Fett's Slave was heavily armed, including proton bombs, through modifications.
-
-Jango Fett, a bounty hunter clad in anti-Force capabilities Mandalorian armor, also known as a DNA donor for clone troopers, stole a Firespray-class vessel used it for two generations of his family. Jango named the ship Slave I as a lesson learned from his capture. Boba Fett (his clone son) used it throughout his career, and later named his vessels Slave as well. Fett's fire spray, under Darth Vader's orders, transported Solo, who had been carbon-frozen in Cloud City on the planet Bespin where he and Leia had taken refuge, to Jabba the Hutt on Tatooine.
-
-Another bounty hunter, Koshka Frost, and a corrupt merchant from the Outer Rim during the Clone Wars also personally piloted Firespray 31.
-
-
-#### Star Wars: Episode VI - Return of the Jedi
-
-Episode VI tells the story of Luke overcoming a brutal reality to fight the Empire for his family and friends. Watched over by legendary Jedi, he destroys the Empire and restores the world to the Rebel Republic, even saving his own father.
-
-[return](#index)
-##### The Bantha-II skiff
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/96cb66547b0437ab1fcf71fe05fb6a78/ab79191c428a492a-63/s1280x1920/a524be3a76ed1f745cc967d8c2a5022ba5ebb532.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817304133218582528
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Bantha II cargo skiff, manufactured by Ubrikkian Industries, was an anti-gravity general-purpose vehicle.
-
-It had a single open deck with a simple cockpit near the rear, making it easy to operate.
-
-An anti-gravity engine mounted beneath the deck allowed it to levitate up to 50 meters above the ground, and a rear thrust nozzle enabled it to move forward at a maximum speed of 250 kilometers per hour. It had a pair of rear steering fins, but these were unstable when restrained. Being non-combatant, it was easily disabled by attack.
-
-The skiff, capable of carrying approximately 100 tons of cargo, was equipped with a retractable magnetic lifter and loading ramp for loading onto the deck. The deck could be modified to accommodate a cabin with up to 16 seats and the addition of defensive armor.
-
-### The Prequel Trilogy
-
-#### Star Wars Episode I - The Phantom Menace
-"The Phantom Menace" tells the story of the Skywalker family and lineage, and it seems to hold secrets about the Force. The episode follows two Jedi envoys sent by the Senate as they save Naboo from a crisis caused by the Trade Federation, which has secret ties to the Sith Lord. After rescuing Queen Amidala from captivity, Obi-Wan Kenobi and other Jedi stop at the planet Tatooine to repair the hyperdrive of a Naboo starship. There, they win a pod race bet against Anakin Skywalker, Luke's future father, and the story unfolds as they avert the invasion of Naboo.Queen Amidala shows respect to the Naboo natives, who had been at odds with each other but did not interfere with one another, and together they protect Naboo from crisis and maintain peace.
-
-[return](#index)
-##### The Lucrehulk-class LH-3210 cargo freighter
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/6cbd9e2e42b102ef6cb90efdb4f8b3ce/b12ce46fef14fdeb-39/s2048x3072/51e3448936f7939a32dd5289d51237f42ae3b7c2.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817329251736027136
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Lucréhulk-class LH-3210 cargo freighter, manufactured by Horsch-Kessel Drive, was a super massive cargo ship of the Trade Federation. It was used by the Confederacy of Independent Systems during the Clone Wars.
-
-The basic specifications of the Lucréhulk-class were a length of 3,356.9 meters, a width of 3,009 meters, and a height of 1,030 meters, making it the largest ship of its time, far exceeding the size of later Star Destroyer-type battleships. By regulation, it was only permitted to be equipped with 42 quadruple turbolasers for self-defense. Despite its size, the crew was highly automated and droid-based, consisting of 25 biological crew members and 150 droid crew members for ship operation. As a commercial transport ship, it had a particularly enormous internal volume, with a cargo capacity of 5 million tons (equivalent to more than 10 supertankers).
-
-Noticing their unique characteristics, it appears that 10-30% of the thousands to tens of thousands of Lucrehulk-class battleships were secretly armed and converted into warships. Due to their immense size, they were equipped with over 700 turrets and operated as "mobile super-bases," capable of transporting millions of droid armies and massive amounts of military supplies at once.
-
-When the Trade Federation launched the Naboo blockade and the Clone Wars, these ships were illegally modified and repurposed for military use, concealing hundreds of laser cannons beneath their surface armor, transforming them into impregnable fortresses equipped with powerful shields.
-
-By the time of the Clone Wars, these ships had been in service for decades. They were used in the Clone Wars, including the blockade and invasion of Naboo, the First Battle of Geonosis, and the Battle of Coruscant.
-
-[return](#index)
-##### J-327 Nubian ship（Modified）　Naboo Royal starship
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/d0a26508928f7daf7802c7559880602f/f0dcde259d2ccfe1-9c/s2048x3072/a070ae13b7de84355a9a345f115a2c8435943724.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817365224204206080
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Royal Naboo Starship embodies the craftsmanship and industrial design that symbolizes the Republic's peaceful era. This beautifully polished, streamlined vessel lacks offensive weaponry but boasts powerful shields and a high-performance hyperdrive.
-
-During the Trade Federation's invasion of Naboo, Queen Amidala and her entourage traveled to the Naboo Starship to present their case to the Council. The T-14 hyperdrive generator was replaced on Tatooine due to damage during their escape. It was during this time that Anakin Skywalker met the Royal Amidala and traveled to the Council aboard the ship.
-
-It also participated in the surprise attack during the recapture of Naboo. After the Clone Wars, it was used for the Queen's and Senator Padmé's travel and diplomatic missions. After a period of retirement, it came into the possession of the Imperial Sith Lord Darth Vader (Anakin Skywalker) and was kept as part of his personal collection.
-
-[return](#index)
-##### Naboo N-1 starfighter
-[return](#index)
-##### The Baktoid Armor Workshop's Armored Assault Tank (AAT)
-{% capture my_tiles %}
-- img: https://64.media.tumblr.com/306f1df4e9015cad18872eb91556a5e4/9e6ea0d2afc156e1-33/s2048x3072/6b5fafcb4e4142074dbac4a778e57bc5bbe00916.jpg?w=400
-  url: https://www.tumblr.com/webcateyes/817329563773321216
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-The Baktoid Armor Workshop's Armored Assault Tank (AAT) was a hover vehicle utilizing repulsorlift technology, piloted by B1 battle droids used by the Trade Federation since the invasion of Naboo.
-
-Heavily armored and highly firepowered, it featured a rotating long-range laser cannon mounted on the upper central section, two pylon-mounted auxiliary laser cannons on the sides, and a short-range blaster cannon on the front. It also had six energy projectile launchers on its underside, capable of firing high-velocity, high-penetration projectiles shielded by plasma, special armor-piercing rounds, and high-explosive rounds.
-
-The crew consisted of six droids (one commander, one pilot, and two gunners). OOM command battle droids sometimes also piloted AATs.
-
-During the Battle of Naboo, it fought alongside large troop transports and single trooper aerial platforms against the Naboo/Gungan coalition forces.
-
-During the Separatist movement led by Lord Sidious, Chairman of the High Council Palpatine, the Federation joined the Confederacy of Independent Systems, and as a result, armored assault tanks were also used as part of the Separatist droid army's forces.
-
-
-#### Star Wars Episode II - Attack of the Clones
-[return](#index)
-#### Star Wars Episode III - Revenge of the Sith
-[return](#index)
-
-[return](#index)
-### The Sequel Trilogy
-#### Star Wars Episode VII - The Force Awakens
-#### Star Wars Episode VIII - The Last Jedi
-#### Star Wars: Episode IX - The Rise of Skywalker
-
-[return](#index)
-
----
-## About Starship Manufacturing in Star Wars World
-
-While the "Legends" continuity is now classified as non-canon, its sheer volume of information as of 2025 still vastly outpaces the current Disney "Canon." Of course, as Disney continues to pump out new spin-offs, Canon is expanding rapidly, inevitably leading to contradictions between the two timelines. But honestly, just like in the real world, history is often rewritten depending on who is in power, their perspective, or the oral traditions passed down. This is, after all, a story from a long time ago in a galaxy far, far away.
-
-Here, we’ve woven both threads together to give you a grand overview. Hopefully, the charm of this corporate narrative sparks your curiosity!
-
-The dawn of starship construction in the Star Wars galaxy trace back to two specific sectors: the Corellian system (inhabited by humans) and the Duros system (inhabited by a humanoid species). Because these two systems were located exceptionally close to one another compared to the rest of the galaxy, collaboration was uniquely possible.
-
-### The Dawn of Spaceflight
-
-Long before the birth of the Republic, the galaxy was ruled by the Infinite Empire—a highly advanced, Force-integrated civilization established by the Rakata, who weaponized the dark side. Using their technology, they conquered key worlds one after another, including Coruscant (the human homeworld), Corellia, Duro, and Kashyyyk (the Wookiee homeworld), enslaving the indigenous populations. During this dark era, the Rakata held an absolute monopoly over all shipbuilding and hyperlane navigation.
-
-Around 25,200 BBY, a mysterious plague swept through the Rakata, causing them to lose their connection to the Force and driving their empire to a sudden collapse. The few survivors retreated to their forgotten homeworld in the Unknown Regions, leaving the rest of the galaxy stranded. Suddenly, every civilization needed a replacement for the lost, Force-driven technology.
-
-The naturally gifted navigators of the Duros system, alongside the liberated slaves who had been brought to Corellia for construction labor, immediately began reverse-engineering the lost technology of the Rakata. The result was a technological renaissance based entirely on physics and mechanical engineering—usable by anyone, no Force sensitivity required.
-
-They started with the "hyperspace cannon," a primitive method that essentially played catch with physical objects across space. Then, around 25,053 BBY, engineers from both systems achieved the ultimate breakthrough: they re-engineered a mechanical "hyperdrive" that could be mounted directly onto individual ships, allowing anyone to jump through space at will. This sparked the age of galactic exploration. The Duros pioneered the galaxy's two major hyperspace highways: the Perlemian Trade Route and the Corellian Run. These hyperlanes physically bound powerful worlds like Coruscant, Corellia, Duro, and Alderaan together.
-
-Ships built by Duros Space Manufacturing (DSM) were just as rugged and practical as those from the Corellian Engineering Corporation (CEC). However, DSM earned a galaxy-wide reputation for having the absolute best astronavigation computers and hyperdrive efficiency. Instead of purely competing, DSM and CEC split the market. They regularly co-developed vessels where CEC designed the hulls and living quarters, while DSM supplied and integrated the hyperspace jump engines and advanced navigation systems. Together, they rapidly captured the majority share of the galactic freighter market.
-
-Other systems attempted their own technological leaps during this time, but with less success. In the Deon Cluster, poor manufacturing tolerances led to incredibly high accident rates during hyperspace jumps. To make matters worse, they attempted to invade the Core Worlds using this inferior technology. Their swift defeat ensured they would never achieve technological dominance.
-
-As interstellar trade thrived, 22 star systems—including Coruscant, Corellia, Duro, and Kuat—became the original signatories (the Core Founders), establishing a unified galactic government: the Galactic Republic, built for mutual defense and free trade.
-
-On Duro, the shipbuilding industry developed through powerful corporate guilds, to the point where the guild council eventually became the planet's ruling political body. Against this backdrop, the Corellia-based Corellian Engineering Corporation (CEC) proudly claimed to be the oldest continuously operating company in the Republic.
-
-Meanwhile, around the same time the Republic was founded in 25,053 BBY, an aristocratic alliance known as "The Ten" founded Kuat Drive Yards (KDY). Led by House Kuat, they purchased an entire planet and terraformed it into the industrial powerhouse of Kuat.
-
-Later, around 20,000 BBY, Core Galaxy Systems was incorporated, growing into a massive conglomerate managing numerous shipbuilding subsidiaries.
-
-### The Early to Mid-Republic (25,000 BBY – 5,000 BBY)
-
-As the Republic expanded, the demand for starships skyrocketed.
-
-CEC focused primarily on designing modular, rock-solid civilian vessels utilizing Corellia’s exceptional aerospace engineers, though they also took on manufacturing contracts for other companies' military designs.
-
-Over on Duro, exploration efforts led to the discovery of a highly habitable planet located very close to the Kuat system, which they colonized and named Neimoidia. Over generations, the toxic, humid atmosphere and low-sunlight life inside enclosed dome cities caused a genetic divergence. The colonists evolved into a distinct species: the Neimoidians. Their fiercely protective, purely commercial nature would eventually become the foundation of the infamous Trade Federation.
-
-Around 5,000 BBY, Corellia StarDrive was established. This was a highly successful, separate entity founded by former CEC executives who had jumped ship. By headhunting top talent from CEC and focusing aggressively on massive capital ships and luxury liners, Corellia StarDrive established deep political connections within the Republic capital, eventually overshadowing CEC. They became one of the pillars of the "Big Three" during the Late Republic era.
-
-When the Sith invaded Corellia around 3,000 BBY, Corellia StarDrive pooled massive financial resources with other firms to fund the resistance. However, the destruction of their headquarters by the Sith, coupled with a tragic shuttle accident that killed their lead designers, crippled the company. Seizing the opportunity, CEC bought out their former rival.
-
-### The Late Republic (5,000 BBY – 500 BBY)
-
-This era saw the golden age of the "Old Triumvirate" (the original Big Three), while Sienar quietly pulled the strings from the shadows.
-
-For millennia leading up to 500 BBY, the galactic shipbuilding industry and economy were dominated by three titans:
-
-1. **Corellia StarDrive:**
-Founded around 5,000 BBY, this original Corellian mega-corporation completely dominated the military market (supplying the Republic Navy's capital ships) and high-end luxury transport sector. They famously manufactured the *Thranta*-class corvettes used during the Old Sith Wars. For a long time, they outmaneuvered CEC and amassed enough wealth to single-handedly bankroll entire planetary alliances.
-
-1. **Hoersch-Kessel Drive (HKD):**
-Founded prior to 4,000 BBY by Neimoidians of Duros descent, HKD held the largest market share in the Outer Rim, keeping the fringes of the galaxy supplied with massive cargo haulers and bulk carriers. While their designs were notoriously slow and bulky, they boasted unparalleled cargo capacity and heavy armor plating, making them indispensable to galactic infrastructure. Unlike DSM, HKD secretly became a subsidiary of the Trade Federation, covertly building massive warships like the 3-kilometer-wide *Lucrehulk*-class battleship. After the Trade Federation's defeat at the Battle of Naboo, the company was sold to Duros investors, and eventually passed to Nimbanese financiers by the end of the Clone Wars. Aggressive corporate streamlining caused their top engineers to leave, weakening the company permanently. Despite trying to return to their commercial roots, they were never able to recover.
-
-1. **Core Galaxy Systems:**
-Founded around 20,000 BBY as a pioneer shipwright, this corporate giant maintained an unshakeable stronghold in the Core Worlds, mass-producing standard starship models for both civilian and military use. They reigned at the top of the Old Triumvirate for thousands of years, manufacturing the Republic’s *Dreadnought*-class heavy cruisers and various frigates, while their subsidiaries pumped out light freighters.
-
-Meanwhile, Sienar Engineering—the prestigious company that would later birth the TIE fighter—didn’t even rank in the top three for finished starship sales. However, Sienar possessed the finest technical R&D in the galaxy, owning the rights to the "beating hearts" of starships: hyperdrive cores, advanced avionics, and massive ion reactors. Instead of building hulls themselves, they operated as a high-end systems and component supplier, licensing their cutting-edge power plants to the Triumvirate (especially Core Galaxy Systems), quietly amassing a staggering fortune.
-
-Back on Duro, around 1,000 BBY, centuries of heavy industrialization had completely devastated the homeworld's environment, rendering it uninhabitable. DSM faced a critical crossroads. They left their automated foundries running on the surface but completely relocated their staff and design hubs to the "Orbital Canopies"—massive, domed space cities constructed in orbit. From then on, DSM shifted from "building ships on the ground" to "constructing them entirely within orbital drydocks." Combined with the Duros cultural mindset of being born and raised in space, DSM’s manufacturing tolerances became sharper and more refined than ever.
-
-### The 500 BBY Shift: KDY’s Rise and the New Triumvirate
-
-Around 500 BBY, the thousands-of-years-old status quo was shattered in a ruthless corporate offensive led by Kuat Drive Yards (KDY).
-
-```
-[Before 500 BBY: The Old Triumvirate]
-1. Core Galaxy Systems ────(Driven to Bankruptcy & Absorbed)─┐
-2. Corellia StarDrive ─────(Tragic Accident & Absorbed)──────┼─→ [The New Triumvirate]
-3. Hoersch-Kessel Drive ───(Financial Decline to the Rim)────┘   1. Kuat Drive Yards (KDY)
-                                                                 2. Corellian Engineering (CEC)
-                                                                 3. Sienar Fleet Systems (SFS)
-
-```
-
-Despite their immense capabilities, KDY had been kept out of the top tier for centuries. That changed when they launched a coordinated campaign against the industry leader, Core Galaxy Systems, utilizing brutal price wars, corporate espionage, engineered "accidents," and political lobbying. KDY drove Core Galaxy Systems to the brink of bankruptcy and completely acquired them in 500 BBY, erasing the ancient giant from history and claiming the crown as the galaxy's premier shipbuilder.
-
-Almost simultaneously, tragedy struck Corellia StarDrive. A shuttle carrying their entire executive design team crashed, completely halting their R&D pipeline. Sensing blood in the water, the underdog Corellian Engineering Corporation (CEC) immediately bought out the crippled company. This merger granted CEC access to high-end military tech alongside their civilian lines, launching them into the top three.
-
-Failing to compete with KDY’s industrial scale and CEC’s modernized modular ships, Hoersch-Kessel Drive (HKD) collapsed out of the Core markets. Stranded and financially desperate, they fell entirely under the control of the Trade Federation. Their massive bulk-carrier technology was repurposed to covertly mass-produce the Separatist fleet for the upcoming Clone Wars, transforming the old corporation into a dark, secretive armory.
-
-#### Other Legendary Shipwrights of the Era
-
-#####  Rendili StarDrive
-
-Based in the Core Worlds, Rendili was one of the Republic’s oldest shipbuilders. Before KDY's rise, Rendili held the lion's share of the Republic Navy's capital ship contracts, famously designing the *Hammerhead*-class cruisers.
-
-* **Technological Legacy:**
-Rendili was the true pioneer of the wedge-shaped (dagger-like) hull design that would eventually become the ultimate symbol of Imperial terror. Their finest masterpieces included the *Dreadnought*-class heavy cruiser and the *Victory*-class Star Destroyer used during the Clone Wars.
-
-* **The Kuat Rivalry:**
-Once a tier above KDY, Rendili was slowly choked out of its prime Navy contracts by KDY’s aggressive lobbying and backroom political deals. By the time of the Clone Wars, KDY had aggressively headhunted Rendili’s top engineers, relegating the ancient firm to KDY’s shadow by the rise of the Empire.
-
-##### Incom Corporation
-
-Located near the Core Worlds close to Coruscant, Incom was based on the planet Fresia in the Cal-Seti system. They were the undisputed kings of starfighter development, splitting the starfighter market down the middle with Sienar from the Mid-Republic through the Galactic Civil War.
-
-* **Technological Legacy:**
-During the Clone Wars, Incom engineered the ARC-170 starfighter and the Z-95 Headhunter for the Republic. Later, they designed the most iconic starfighter in galactic history: the T-65 X-wing, as well as the UT-60D U-wing.
-
-* **The Dramatic Defection:**
-Following the rise of the Empire, the Imperial regime attempted to forcefully nationalize Incom. In a daring, cinematic act of defiance, Incom's top designers and engineers defected to the Rebel Alliance, taking the secret prototypes and blueprints for the X-wing with them, handing the Rebellion its greatest weapon.
-
-##### Mon Calamari Orbital Shipyards
-
-Located at the terminus of the Perlemian Trade Route on the aquatic world of Dac (Mon Cala), these shipyards boast a rich history dating back to 4,000 BBY, built as a joint venture between the planet's two native species, the Mon Calamari and the Quarren. Their ships were the polar opposite of Kuat’s rigid, industrial products; each vessel was built with unique, flowing curves, treated more like an organic piece of art than a machine. Originally, they built peaceful oceanic explorers, passenger liners, and deep-space cruise ships, which were bought by hundreds of Outer Rim systems for defensive purposes. The Republic didn't even know these shipyards existed until 4,166 BBY. Unfortunately, the worlds fractured internally during the Clone Wars.
-
-* **The Shield of the Rebellion:**
-When the Empire brutally occupied and enslaved their homeworld, the Mon Calamari revolted. They took their massive luxury liners and retrofitted them with heavy armor, turbo-lasers, and incredibly powerful redundant shield generators. These converted civilian ships became the *Mon Calamari Star Cruisers* (such as the MC80), providing the Rebel Alliance with the only capital ships capable of trading direct fire with an Imperial Star Destroyer.
-
-##### The Techno Union Conglomerate
-
-A massive corporate cartel that served as the industrial and technological backbone for the Confederacy of Independent Systems (CIS) during the Clone Wars.
-
-* **Baktoid Armor Workshops:**
-The industrial powerhouse responsible for mass-producing millions of B1 and B2 battle droids, as well as the Trade Federation's armored vehicles like the AAT and MTT.
-
-* **Phlac-Arphocc Automata:**
-The brilliant but cold minds behind autonomous starfighters like the *Vulture*-class droid fighter and the Tri-fighter. By entirely removing life-support systems, they minimized costs and maximized maneuvering tolerances, establishing a terrifying new market for completely unmanned warfare.
-
-### The Imperial Era: Nationalization and the Big Three
-
-The "KDY-CEC-Sienar" triad, solidified during the 500 BBY reshuffle, reached its terrifying peak under the Galactic Empire.
-
-* **Kuat Drive Yards (KDY):**
-Monopolized the construction of the Empire's ultimate symbols of power, including the *Imperial*-class Star Destroyer. KDY sat comfortably at the absolute peak of military manufacturing, having integrated closely with the Santhe Corporation around 100 BBY.
-
-* **Sienar Fleet Systems (SFS):**
-Evolving from Sienar Engineering and officially merging with the Santhe family around 100 BBY, SFS utilized CEO Raith Sienar's direct political pipeline to Emperor Palpatine to secure the exclusive, endless production contract for the TIE fighter line. Furthermore, they maintained a brilliant corporate symbiosis with their rival, KDY—every single Imperial Star Destroyer built by KDY was powered by massive, Sienar-manufactured solar ionization reactors.
-
-* **Corellian Engineering Corporation (CEC):**
-While they conceded the frontline military contracts to KDY and Sienar, CEC retained an absolute monopoly over the galaxy's civilian and logistics markets. They specialized in rugged, cheap, highly modular freighters (like the YT-1300) that owners could easily modify with legal or illegal upgrades. Characters like Han Solo utilized these Corellian hulls, and they quickly became the backbone of the galactic underworld and the Rebel Alliance fleet.
-
-Tragically, the Duros system—the ancient pioneer of hyperlane travel—suffered the worst fate under the Empire. Driven by Emperor Palpatine’s fierce "High Human Culture" (anti-alien) policy, the Imperial military forcefully seized and nationalized Duro's orbital canopies and shipyards.
-
-The name Duros Space Manufacturing was stripped away, and its cutting-edge facilities were converted into Imperial naval depots manufacturing components for Star Destroyers. The proud engineers of DSM were reduced to slave laborers within their own ancestral space cities. Because Corellia (CEC) was also placed under heavy Imperial surveillance, the ancient, millennia-old partnership between the two worlds was entirely severed.
-
-### The New Republic: A Grand Resurrection
-
-Following the catastrophic collapse of the Empire at the Battle of Endor, the Duros people rose up in a massive, coordinated rebellion, driving out the Imperial forces and reclaiming their orbital cities.
-
-With their freedom restored, they immediately revived the legendary "Duros Space Manufacturing" brand. Though exhausted by years of Imperial oppression, their engineering genius and passion for the stars remained completely intact. Backed by the newly formed New Republic government, DSM officially re-established its ancient, tens-of-thousands-of-years-old alliance with the liberated Corellian Engineering Corporation (CEC). Together, they began co-developing next-generation cargo haulers to heal the galaxy’s broken trade routes, alongside brand-new capital ships for the New Republic Defense Fleet, marking a triumphant return to the galactic stage.
-
-[return](#index)
-
----
-## About Planets in Star Wars world
-
-- Online map
-  - [starwars.com (Official) ](https://www.starwars.com/star-wars-galaxy-map)
-  - [swgalaxymap.com （Scalable vector map）](http://www.swgalaxymap.com/)
-
-{% capture my_tiles %}
-- img: https://lumiere-a.akamaihd.net/v1/images/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg?region=0%2C0%2C4000%2C4000
-  url: https://www.starwars.com/star-wars-galaxy-map
-- img: https://64.media.tumblr.com/be321fd6de5abb057ca417590fd558ab/2500a2af89d56293-9f/s2048x3072/0d0b8159dded9055c1553cc968103377dcdddbe8.pnj?w=400
-  url: https://64.media.tumblr.com/00851319dae0fcd615f74236dc1bc95d/2500a2af89d56293-b1/s2048x3072/edf123f6984afac8de54644b3cce07cc832f9b6c.pnj
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-
-
-Let's Virtual Galactic Tour.
-
-### The Prequel Trilogy (Episodes I–III)
-
-#### Episode I: The Phantom Menace
-
-* **Tatooine**
-A harsh desert planet baking under the glare of twin suns, located in the Outer Rim where the Triellus Trade Route intersects with the Corellian Run. As a lawless hub under the absolute control of the Hutt clans and it path direct root close to Kessel where illicit spice smuggling. Though a dusty planet on the galactic fringe, it is the crucial starting point for the entire saga—the boyhood home where Anakin Skywalker lived as a slave, and the quiet frontier where Luke Skywalker would later be raised.
-
-* **Naboo**
-A peaceful Mid Rim world offset from Hydian Way blessed with rolling green hills, majestic waterfalls, and sprawling swamplands. It is home to a unique dual civilization of surface-dwelling humans and the underwater Gungan species. As the birthplace of both Padmé Amidala and Palpatine, it holds immense political weight. The planet is also incredibly rich in plasma—a vital starship fuel resource—making it the prime target of the Trade Federation’s illegal blockade.
-
-* **Coruscant**
-Located at the literal heart of the galaxy in the Core Worlds, this legendary capital is an ecumenopolis—a planet entirely encased in a sprawling, multi-leveled metropolis. 
-It is home to the Galactic Senate House and the Jedi Temple, serving as the center of all political and Jedi activities. It is also the stage where Palpatine, a native of Naboo, who aspires to the position of Chairman of the Council, establishes the Empire.
-
-#### Episode II: Attack of the Clones
-
-* **Kamino**
-While resting of the Outer Rim entrance near Scrif, this world is widely considered "extragalactic" because it sits well aside the galactic plane. It is a tempestuous ocean world battered by endless, violent storms. Its native inhabitants, the Kaminoans, are master cloners who utilized their highly advanced genetic engineering to secretly manufacture the Grand Army of the Republic for Supreme Chancellor Palpatine.
-
-* **Geonosis**
-A harsh, reddish desert world of rocky mesas and canyon networks located in the Outer Rim, right in Tatooine's cosmic backyard. Inhabited by the insectoid Geonosians, the planet housed massive, hidden droid foundries for the Separatist alliance. It earned its place in history as the flashpoint for the Clone Wars during the explosive Battle of Geonosis.
-
-#### Episode III: Revenge of the Sith
-
-* **Utapau**
-Tucked away deep in the Outer Rim along the Rimma Trade Route, this unique planet features a wind-blasted surface pockmarked by countless massive sinkholes. The planet's civilizations built their stunning, vertical cities directly into the limestone walls of these chasms. It was here that Obi-Wan Kenobi tracked down General Grievous, engaging the cyborg commander in a fierce, fateful duel.
-
-* **Kashyyyk**
-A magnificent Mid Rim world blanketed by colossal wroshyr forests and vast, untamed ecosystems, located at the terminus of the Randon Run branching off the Perlemian Trade Route. It is the proud homeworld of the fiercely loyal and powerful Wookiees. Grand Master Yoda personally arrived to command the beachfront defenses here, only for the tragedy of Order 66 to strike mid-battle, turning a triumph into a Jedi massacre.
-
-* **Mustafar**
-A brutal, hellish volcanic planet in the Outer Rim, situated along the Hydian Way. It is a fractured world where rivers of molten lava carve through black obsidian landscapes. This desolate world served as the backdrop for the tragic, emotional duel between Obi-Wan Kenobi and his fallen apprentice, Darth Vader, permanently severing their bond.
-
-
-### The Original Trilogy (Episodes IV–VI)
-
-#### Episode IV: A New Hope
-
-* **Alderaan**
-A breathtaking Core World located along the Commenor Run, internationally renowned for its vibrant culture, peaceful philosophy, and stunning alpine landscapes. It was the adoptive homeworld of Princess Leia Organa. After her consular ship was captured above Tatooine while fleeing the archives of Scarif, Alderaan was utterly obliterated by the Death Star’s superlaser on the orders of Grand Moff Tarkin, serving as a horrific demonstration of Imperial terror right before Leia’s eyes.
-
-* **Yavin 4 (The Fourth Moon of Yavin)**
-A lush, jungle-covered moon orbiting the red gas giant Yavin, located in the Outer Rim just off the Hydian Way. Hidden within ancient, overgrown stone temples, the Rebel Alliance established its primary secret headquarters. It became the legendary staging ground for the Battle of Yavin, where Rebel pilots made their desperate, triumphant stand to destroy the first Death Star.
-
-#### Episode V: The Empire Strikes Back
-
-* **Hoth**
-A remote, unforgiving ice world locked in a perpetual blizzard, situated on the Corellian Trade Spine near the entry points of the Outer Rim. Despite its isolation, it is surrounded by several adjacent star systems. Following their evacuation from Yavin, the Rebellion established the hidden Echo Base within its sub-zero caverns, only to be forced into a chaotic retreat after a devastating ground assault by Imperial AT-AT walkers.
-
-* **Dagobah**
-A forgotten, unmapped world shrouded in thick fog, dark swamplands, and petrified forests just off Rimma Trade Route within the Outer Rim. Free from industrialized life, the planet acts as a natural locus for the Force. It became the sanctuary for Grand Master Yoda during his long exile, and the proving ground where Luke Skywalker underwent his grueling Jedi training.
-
-* **Bespin**
-A massive, majestic gas giant located in the Outer Rim near the Corellian Trade Spine, sharing cosmic proximity with systems like Hoth. High within its habitable atmospheric layer floated Cloud City, a luxurious tibanna gas mining metropolis managed by Lando Calrissian. Darth Vader ruthlessly used the city as a trap, capturing Han Solo and Princess Leia to lure Luke into a confrontation.
-
-#### Episode VI: Return of the Jedi
-
-* **Endor (The Forest Moon of Endor)**
-A sanctuary moon dominated by towering, ancient trees, orbiting the gas giant Endor. Located along the Cerean Reach past Cerea (branching off the Corellian Trade Spine), this heavily forested world was chosen by the Empire to house the shield generator protecting the incomplete Second Death Star. In a brilliant twist of fate, the Rebel strike team allied with the moon's primitive, resourceful natives—the Ewoks—to overthrew the Imperial garrison, leading directly to the collapse of the Empire.
-
-### The Sequel Trilogy (Episodes VII–IX)
-
-#### Episode VII: The Force Awakens
-
-* **Jakku**
-An isolated, endless desert world located on the western fringes of the Inner Rim. In 5 ABY, it served as the graveyard for the Galactic Civil War during the pivotal Battle of Jakku. Decades later, the desert remains littered with the rusted hulks of crashed Star Destroyers, where a young scavenger named Rey eked out a living. It is also where the defecting First Order stormtrooper FN-2187 (Finn) crossed paths with Poe Dameron and Rey during a daring escape.
-
-* **Takodana**
-A picturesque Mid Rim world nestled among pristine lakes and deep, ancient forests, situated closer to the Core side of the Cerean Reach. For centuries, it housed the lakeside castle of the ancient pirate queen Maz Kanata. It was in the castle’s forgotten basement vaults that Rey experienced her fateful, terrifying vision upon touching the long-lost lightsaber of Luke Skywalker.
-
-* **D'Qar**
-A quiet, heavily vegetated Outer Rim world located on the far side of Naboo, halfway between Tatooine and Hoth. The planet served as the secluded headquarters for General Leia Organa’s Resistance, acting as the command center from which the daring starfighter assault against Starkiller Base was launched.
-
-* **Hosnian Prime**
-A sophisticated, cosmopolitan ecumenopolis on the Corellian Trade Spine in the Core Worlds that served as the rotating capital of the New Republic. As the seat of the Galactic Senate, it stood as a shining beacon of democracy until the entire Hosnian system was instantaneously annihilated by the phantom red beam fired across the galaxy from First Order's Starkiller Base.
-
-#### Episode VIII: The Jedi Last
-
-* **Ahch-To**
-A pristine, over the Jakku, deep-space world hidden within the Unknown Regions, its surface almost entirely covered by a vast blue ocean dotted with craggy, rocky islands. It is the sacred birthplace of the Jedi Order, home to the very first Jedi Temple. Seeking clarity away from the galaxy, a disillusioned Luke Skywalker chose this isolated sanctuary for his final exile.
-
-* **Crait**
-A desolate, mineral-rich Outer Rim planet located along the routes heading toward Naboo off the Hydian Way. The planet features an ethereal, blindingly white landscape covered entirely in salt flats. Beneath the crust lies a vibrant red mineral layer; when the ground is torn up by heavy skimming speeders or artillery fire, the battlefield bleeds a brilliant crimson. It became the site of the Resistance’s desperate final stand against the First Order.
-
-* **Cantonica**
-A dry, arid desert world located in the Corporate Sector of the Outer Rim. It is famous for the glitzy casino city of Canto Bight—an opulent oasis where wealthy war profiteers, high-rolling gamblers, and galactic arms dealers indulged in lavish nightlife, blissfully detached from the galaxy's conflicts.
-
-#### Episode IX: The Rise of Skywalker
-
-* **Exegol**
-A barren, jagged world of dark stone hidden deep within the labyrinthine anomalies of the Unknown Regions, far beyond the galactic disk. Locked in a permanent shroud of dry electrical storms and ambient dark side energy, this ancient Sith redoubt served as the secret stronghold where a resurrected Emperor Palpatine spent decades constructing his armada, the Final Order.
-
-* **Kijimi**
-A frigid, snow-swept mountain world located in the Mid Rim, positioned just off the Perlemian Trade Route toward Hutt Space. The ancient, winding alleyways of Kijimi City served as a notorious haven for spice runners, thieves, and scoundrels, providing a cold sanctuary for Zorii Bliss and her crew—associates from Poe Dameron’s checkered past.
-
-* **Ilum**
-An ancient ice world located in the Unknown Regions close to Exegol, historically revered by the Jedi Order as a sacred pilgrimage site for harvesting kyber crystals to power their lightsabers. Tragically, the planet was occupied by the Empire and later hollowed out by the First Order, engineered directly into the core of the catastrophic planet-killing superweapon known as Starkiller Base.
-
-### The Star Wars Stories (Spin-offs)
-
-#### Rogue One: A Star Wars Story
-
-* **Jedha**
-A cold, desert moon located in the Mid Rim toward the Unknown Regions, defined by its weathered, ancient landscapes. As a holy site for early Force-worshipping faiths and a natural source of rare kyber crystals, it was heavily occupied and strip-mined by the Empire. The holy city met a cataclysmic end when Grand Moff Tarkin ordered a single-reactor test fire of the Death Star’s superlaser, wiping the city off the map.
-
-* **Scarif**
-A paradise-like Outer Rim world situated near the Triellus Trade Route past Bothan Space, characterized by shimmering tropical oceans, pristine sandbanks, and clusters of palm trees. Beneath its tranquil surface, however, laid the heavily fortified Imperial Security Complex. It became the stage for the most crucial land and orbital battle of the Galactic Civil War, where a band of Rebel volunteers sacrificed everything to steal the Death Star schematics.
-
-#### Solo: A Star Wars Story
-
-* **Corellia**
-An industrial powerhouse located in the Core Worlds, famed across the galaxy for its colossal orbital shipyards and unparalleled aerospace engineering. As the rough-and-tumble birthplace of Han Solo and Qi'ra, its shipyards manufactured some of the galaxy's most iconic vessels, including the rugged freighters that would become the foundations for the Millennium Falcon.
-
-* **Kessel**
-A distorted, low-gravity asteroid world shrouded in a dense, glowing cloud of cosmic gas within the Outer Rim. Controlled by ruthless criminal syndicates running brutal underground spice mines, it became immortalized when a young Han Solo piloted the Millennium Falcon through the treacherous maelstrom, setting the legendary record of completing the Kessel Run in less than 12 parsecs.
-
-### Additional interest planets (Shipyard, Animation, Live-Action Series, and Theme Parks)
-
-* **Mandalore**
-A planet located in the Outer Rim, bordering the Mid Rim just off the Hydian Way. It is the ancestral home of the Mandalorians, a legendary and proud warrior culture. After centuries of devastating cataclysmic warfare scorched the planet's surface into an inhospitable white desert, the surviving population adapted by living inside massive, pressurized biocube dome cities.
-
-* **Batuu**
-A remote frontier planet located on the outermost edge of the Outer Rim, sitting directly on the border of the Unknown Regions. Before the advent of advanced, direct hyperspace lanes, it was a bustling, prosperous trade hub. Today, it serves as a forgotten crossroad for smugglers, rogue traders, and those wishing to stay out of the sight of the authorities at the infamous Black Spire Outpost.
-
-* **Tython**
-A mysterious planet hidden deep within the volatile, star-dense Deep Core, possessing an incredibly powerful natural resonance with the Force. Revered as one of the oldest cradles of the ancient Jedi Order, its mountain peaks hold the ancient Seeing Stone, where Force-sensitives can sit and project their presence across the cosmic currents of the galaxy.
-
-* **Sullust**
-A volatile Outer Rim world located near the junction of the Rimma Trade Route and the Hydian Way, its jagged surface defined by relentless volcanic activity, rivers of lava, and toxic atmosphere. The highly intelligent Sullustans adapted by engineering highly sophisticated, comfortable underground cities. During the Galactic Civil War, the planet housed massive Imperial orbital shipyards and manufacturing plants.
-
-* **Duro**
-A legendary Core World and the proud homeworld of the blue-skinned Duros, one of the galaxy's most naturally gifted spacefaring species. As one of the earliest civilizations to master the mechanical hyperdrive, they charted the galaxy's oldest hyperspace highways. However, intense, unregulated industrialization eventually ruined the planet’s atmosphere, forcing the Duros to abandon the surface and live inside massive, interconnected orbital canopy cities.
-
-* **Kuat**
-A highly influential Core World that serves as the corporate home to Kuat Drive Yards (KDY), the premier military shipbuilder in galactic history. The planet is completely encircled by a massive, artificial ring of orbital drydocks. This orbital shipyard manufactured the ultimate symbols of Imperial enforcement, mass-producing the legendary *Imperial*-class Star Destroyers.
-
-* **Cato Neimoidia**
-A Neimoidian’s wealthy Colony world located near Kuat. Neimoidians are descendants of the Duros. They purchased and colonized a planet adjacent to the Kuat system, establishing it as their homeworld, Neimoidia; however, they diverged due to differing environments and cultures. It serves as one of the premier "Purse Worlds" for the high-ranking Neimoidian executives of the Trade Federation (ranking highest among its sister worlds, Deko Neimoidia and Koru Neimoidia). The planet is famous for its stunning, opulent cities built on massive suspension bridges spanning misty mountain chasms, where the elite locked away their vast fortunes.
-
-* **Rakata Prime (Lehon)**
-A breathtaking tropical world of pristine oceans and scattered islands tucked away in the Unknown Regions. Tens of thousands of years ago, it served as the capital of the Infinite Empire—a cruel, dominant civilization ruled by the Rakata species. The planet once orbited the Star Forge, an ancient, dark side-fueled automated shipyard capable of forging entire fleets.
-
-* **Ruusan**
-A legendary Mid Rim world situated near the borders of Hutt Space. In 1032 BBY, it became the battlefield for the final, apocalyptic war between the old Jedi Order and the Army of Light against the Sith Brotherhood of Darkness. Following the perceived extinction of the Sith (save for Darth Bane, who survived to create the Rule of Two), the valley where the final thought bomb detonated became a sacred, haunted landmark known as the Valley of the Jedi.
-
-* **Cerea**
-A peaceful Mid Rim world located at the terminus of the Great Grain Run, and the homeworld of the highly intelligent, binary-brained Cerean species (such as Jedi Master Ki-Adi-Mundi). The Cereans strictly regulate the importation of modern technology, choosing instead to live in a harmonious, utopian society deeply attuned to their planet's natural ecosystems.
-
-* **Kinyen**
-A vibrant agricultural planet located in the Expansion Region along the Corellian Trade Spine. It is the homeworld of the gentle, three-eyed Gran species. Blessed with endless, rolling prairies and fertile farmlands, Kinyen acts as a major breadbasket for the galaxy. During the Imperial era, its peaceful population suffered a horrific massacre when the Empire brutally cracked down on localized resistance.
-
-[return](#index)
-
----
-## The Midi-chlorians in Star Wars world
-
-Midi-chlorians—they’re those microscopic life-forms that act as a link between living beings and the Force.
-While their introduction stirred up quite a debate among fans, they made their official, canonical debut right there in the dialogue of Episode I.
-If we take a closer look at how they fit into the lore, it actually opens up a whole new way to enjoy the history of the Star Wars galaxy!
-
-### The Celestials
-Around 1,000,000 BBY, the Celestials ruled the galaxy as "the Architects." Word is, they kept the galaxy in balance by controlling both the Light and Dark sides of the Force through midi-chlorians, managing it as a cosmic Force.
-We can still find traces of them today—like the creation of the Corellian system, the Centerpoint Station (a massive planetary transport device left behind there), and even projections of their descendants.
-To build the galaxy, they reportedly placed five lush planets right in the habitable zone of the Corellian system to serve as a stable breeding ground and buffer zone for this cosmic Force.
-
-Eventually, the rising Rakata Empire stripped the Celestials of their technology. Being a peaceful species that avoided conflict, the Celestials shed their physical forms to become non-corporeal Force spirits. A select few retreated to Mortis, a planet hidden within a spatial anomaly in the Deep Core. During the Clone Wars, they were discovered as a trio known as "The Ones," where they influenced Anakin and Ahsoka before ultimately fading away.
-
-### The Rakata and the Infinite Empire
-Around 35,000 BBY, the Rakata—a species deeply attuned to the Force—rose to power. Their entire race was strong in the Force, and they weren't afraid to tap into its powerful Dark Side.
-They began dominating the galaxy using hyperdrives powered entirely by the Force. However, these drives drained the crew's Force energy and could only jump to areas where the Force was exceptionally strong.
-This led them straight to worlds like Coruscant, Dxun, and Kashyyyk, and eventually guided them to the Corellian system.
-Wherever they conquered, they enslaved the locals and literally extracted their midi-chlorians to fuel their tech and expansion. Because their technology relied so heavily on midi-chlorians, the Corellian system became a crucial hub for their starship manufacturing.
-
-But around 25,200 BBY, everything changed for the Rakata. They suffered a sudden, severe drop in their midi-chlorian counts, losing their connection to the Force and shattering their symbiotic relationship with it. Some say this was the midi-chlorians' rebellion against the Rakata's heavy abuse of the Dark Side; others think it was the work of the Celestials.
-As a result, the Rakata lost their Force-driven technology almost overnight. Between hyperdrive accidents and massive slave revolts, they were pushed to the brink of extinction and their civilization collapsed. The few survivors retreated to their homeworld, Lehon.
-
-Driven by their aggressive nature, they fell into endless civil wars, forgot their own science, and culturally regressed. Due to genetic decay from a shrinking population, even the elite groups hiding in underground cities degenerated, leading to their total extinction around 0 ABY.
-
-### The Je'daii of Planet Tython
-Around 25,000 BBY, in a galaxy free from the Rakata, individuals guided by the Force gathered on the planet Tython. They formed the Je'daii, the ancestors of the Jedi we know today.
-Their early philosophers began listening to the cosmic will of the "Living Force," forming a philosophy of living in harmony with it. They believed that Tython’s two moons, Ashla and Bogan, triggered storms and earthquakes whenever the midi-chlorians reacted to the emotional states of the inhabitants.
-
-Later on, they moved from the chaotic Deep Core to the stable Outer Rim world of Ossus. There, they built the Great Library and aligned themselves with the Galactic Republic's vision of peace and freedom.
-
-
-[return](#index)
-
-- list 1
-  - list 2: aaaassssdddddffff
-  - *list 2*: aaaaaafffgghhjjkkloii
-  - **list 2**: aaaaaafffgghhjjkkloii
-- list 1
-
-- 車両タイプ
-  - エン系
-    - NCC
-    - NC
-
-### type2
-
-222
-{% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
-  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-.html data=my_tiles size="150" %}
-
-222
-{% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
-  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
