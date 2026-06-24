@@ -4,7 +4,7 @@
   - size: 画像の最大横幅（デフォルト: 200px）
 {% endcomment %}
 {% comment %}
-  data format
+  data format How to use in liqud
 
   image-url
   page-url
@@ -30,12 +30,13 @@
 {% endunless %}
 
 {% assign normalized = include.data
-  | replace: '\r\n', '\n'
-  | replace: '\r', '\n'
-  | strip
+  | newline_to_br
 %}
 
-{% assign blocks = normalized | split: '\n\n' %}
+{% assign blocks = normalized | split: '<br /><br />' %}
+{% comment %}
+{% assign blocks = include.data | split: '===' %}
+{% endcomment %}
 
 <div class="multitile-wrapper">
 
@@ -45,8 +46,8 @@
 
     {% for block in blocks %}
 
-      {% assign rows = block | strip | split: '\n' %}
-
+    {% assign rows = block | strip | split: '<br />' %}
+    
       {% assign img_url = rows[0] | strip %}
       {% assign link_url = rows[1] | strip %}
 
