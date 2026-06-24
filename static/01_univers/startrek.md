@@ -27,33 +27,82 @@ A defining characteristic of the vehicles in the Star Trek series is that almost
 </section>
 
 
-## vehicle types
-
-### NCC-1701 Enterprise siries
-
+## The planet gervaments and vehicle classes
 {% capture my_tiles %}
-
 https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt|https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
 https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400|https://example.com/mountain
 https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://example.com/forest
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
-The USS Enterprise is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
+### United Federation of Planets 
+The USS Enterprise series is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
 
 In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appears. Later in the film, the Galaxy-class NCC-1701-D is heavily damaged; however, it is later restored in Star Trek: Picard. Ambassador class USS-1701-C apear in TV sereis Star Trek: The Next Generation. In films 8-10 (STVIII-STX), the Sovereign-class NCC-1701-E plays a prominent role. Later models included the Odyssey-class 1701-F, the Neo-Constitution class (Constitution III) 1701-G, and the ultra-large Universe-class NCC-1701-J. The chronological original was the NX-class NX-01 from Star Trek: Enterprise.
 
-### NX class 
+#### NCC-1701 Enterprise siries
+The lineage of Federation flagships and their respective classes include:
+
+#### NX class 
   
-## constitution class 
+#### Constitution class 
 
-## constitution class 
+#### Constitution refit class 
 
-## constitution class 
+#### Excelsior class
 
-## constitution class 
+#### Ambassador class 
 
-## constitution class 
+#### Galaxy class 
+
+#### Excersior class 
+
+#### Sovereign class
+#### Odyssey Class
+
+#### Neo-Constitution
+
+#### Universe Class
+
+Enterprise NX-01
+Class: NX Class 
+Series: Star Trek: Enterprise
+
+U.S.S. Enterprise NCC-1701
+Class: Constitution Class (Original Series)
+Series: Star Trek: The Original Series & Strange New Worlds
+
+U.S.S. Enterprise NCC-1701 Refit / -A
+Class: Constitution Class (Refitted)
+Series: Star Trek: The Original Series Movies (II-VI)
+
+U.S.S. Enterprise NCC-1701-B
+Class: Excelsior Class
+Series: Star Trek: Generations
+
+U.S.S. Enterprise NCC-1701-C
+Class: Ambassador Class
+Series: Star Trek: The Next Generation ("Yesterday's Enterprise")
+
+U.S.S. Enterprise NCC-1701-D
+Class: Galaxy Class
+Series: Star Trek: The Next Generation
+
+U.S.S. Enterprise NCC-1701-E
+Class: Sovereign Class
+Series: Star Trek: The Next Generation Movies (First Contact, Insurrection, Nemesis)
+
+U.S.S. Enterprise NCC-1701-F
+Class: Odyssey Class
+Series: Star Trek: Picard & Star Trek Online
+
+U.S.S. Enterprise NCC-1701-G
+Class: Neo-Constitution Class
+Series: Star Trek: Picard (Season 3)
+
+U.S.S. Enterprise NCC-1701-J
+Class: Universe Class
+Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 
 ### type2
 
