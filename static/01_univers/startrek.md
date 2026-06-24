@@ -5,7 +5,7 @@ permalink: /static/01_univers/startrek.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
-<section markdown="1">
+
 ## images
 
 {% capture my_tiles %}
@@ -16,7 +16,7 @@ https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://examp
 {% include multitile.html data=my_tiles size="150" %}
 </section>
 
-<section markdown="1">
+
 ## Overview
 
 While Star Trek is highly recognized in the United States, it's said that only about 10% of people in Japan know the general storyline. Star Trek's TV drama series alone comprises dozens of seasons and nearly 900 episodes. Watching it requires patience, but it's one of the most representative works of sci-fi.
@@ -26,7 +26,7 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 A defining characteristic of the vehicles in the Star Trek series is that almost all of the ships featured are military vessels belonging to planetary nations. Smaller shuttles and other vessels appear in the background, but they are rarely mentioned. While smaller ships like those of the Resistance also appear, the main focus is on the warships.
 </section>
 
-<section markdown="1">
+
 ## vehicle types
 
 ### NCC-1701 Enterprise siries
