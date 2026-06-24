@@ -104,6 +104,49 @@ U.S.S. Enterprise NCC-1701-J
 Class: Universe Class
 Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 
+
+---
+
+The Star Trek universe features a vast array of major homeworlds, colonies, and independent planets, each governed by its own unique political system.The primary planets in Star Trek and their respective governments or ruling bodies include:
+🏛️ Founding Federation Worlds
+These planets are the core members of the United Federation of Planets (a representative interstellar democracy). They have local governing bodies but answer to the Federation Council.
+
+Earth (Capital of the Federation)Government: United Earth Government (a global parliamentary democracy).
+
+VulcanGovernment: Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
+
+Andoria (or Andoria's moon)Government: Andorian Empire (a constitutional monarchy with a parliament and an Emperor).
+
+Tellar PrimeGovernment: Tellarite Republic (an oligarchical democracy heavily structured around debate and trade consortiums).
+
+BetazedGovernment: Betazoid Ruling Council (a matriarchal, hereditary aristocracy led by noble Houses).
+
+⚔️ Major Galactic PowersThese independent worlds serve as the capital seats of the galaxy's alpha quadrant empires.
+
+Qo'noS (Kronos)Government: Klingon Empire. It operates as a feudal military empire ruled by the Klingon High Council and led by a Chancellor or Emperor.
+
+Romulus (and later the Romulan Free State)Government: Romulan Star Empire. It is a totalitarian police state governed by the Romulan Senate and a Praetor, heavily policed by the Tal Shiar secret service.
+
+Cardassia PrimeGovernment: Cardassian Union. Its structure fluctuates between a military dictatorship ruled by the Central Command / Obsidian Order, and a civilian oligarchy called the Detapa Council.
+
+FerenginarGovernment: Ferengi Alliance. It is an ultra-capitalist corporate plutocracy ruled by the Grand Nagus and regulated by the Ferengi Commerce Authority (FCA).
+
+🌌 Independent & Regional Worlds
+
+BajorGovernment: Bajoran Provisional Government. A constitutional democracy overseen by a civilian Chamber of Ministers alongside a parallel, highly influential religious hierarchy led by the Kai (Pope-like figure).
+
+TholiaGovernment: Tholian Assembly. A highly reclusive, xenophobic caste-based bureaucracy.
+
+Gorn HomeworldGovernment: Gorn Hegemony. A tribal, absolute monarchy built on strict predatory dominance hierarchies.
+
+BreenGovernment: Breen Confederacy. A opaque, highly decentralized multi-species alliance managed by unknown political syndicates.
+
+Idran / Founder's Homeworld (Gamma Quadrant)Government: The Dominion. An absolute, totalitarian absolute monarchy/theocracy where the Changelings are worshipped as gods, enforcing order through genetically engineered servant races.
+
+Would you like to dive deeper into the political lore of a specific empire, or explore how Federation law applies to new planets trying to join?
+
+
+
 ### type2
 
 {% capture my_tiles %}
