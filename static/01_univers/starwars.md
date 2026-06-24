@@ -127,17 +127,16 @@ The Y-wing starfighter is a versatile, multi-role starfighter built on Koensayr 
 
 Initially designed as a long-range bomber, it pivoted to a fighter-bomber role by the time the Rebel Alliance got hold of it. While it lacks the top speed and agility of sleek dogfighters like the X-wing, it more than makes up for it with sheer power, heavy armor, and a massive payload (including proton torpedoes and ion cannons). This made it a heavyweight champ in anti-capital ship missions, including the legendary assaults on the Death Stars.
 
-- Main Lineage and Variations
-    The Y-wing's history is largely defined by a few key models:
+-  Main Lineage and Variations: The Y-wing's history is largely defined by a few key models:
 
-1. BTL-B Y-wing
+   1. BTL-B Y-wing
    The very first mass-produced model, adopted by the Galactic Republic during the early Clone Wars. It featured a two-seat cockpit for a pilot and a dedicated gunner. While packed with heavy armor and strong shields, it was notoriously high-maintenance. It saw plenty of action taking down Separatist cruisers.
 
-1. BTL-S3 Y-wingv:  Carrying over the design principles of the BTL-B, this two-seat (pilot and gunner) strike fighter was heavily used by the Rebel Alliance.
+   1. BTL-S3 Y-wingv:  Carrying over the design principles of the BTL-B, this two-seat (pilot and gunner) strike fighter was heavily used by the Rebel Alliance.
 
-1. BTL-A4 Y-wing :  The most famous variant, this single-seat (one-pilot) model served as the backbone of the Rebel fleet. To make repairs easier and improve reliability, Rebel mechanics stripped away the heavy hull plating and engine nacelle covers. This mod job left the skeletal frame exposed, giving it that iconic, bare-bones "Y" silhouette (earning it the nickname "Wishbone").
+   1. BTL-A4 Y-wing :  The most famous variant, this single-seat (one-pilot) model served as the backbone of the Rebel fleet. To make repairs easier and improve reliability, Rebel mechanics stripped away the heavy hull plating and engine nacelle covers. This mod job left the skeletal frame exposed, giving it that iconic, bare-bones "Y" silhouette (earning it the nickname "Wishbone").
 
-1. BTA-NR2 Y-wing :  A modernized variant that popped up during the New Republic and Resistance eras. While it kept the classic look, its core specs received a major upgrade under the hood.
+   1. BTA-NR2 Y-wing :  A modernized variant that popped up during the New Republic and Resistance eras. While it kept the classic look, its core specs received a major upgrade under the hood.
 
 - Iconic Battles
 
@@ -166,13 +165,14 @@ The X-wing has a design philosophy that is the polar opposite of the TIE series:
 
 Around 2 BBY, the pro-Rebel Incom Corporation evacuated the X-wings to the Rebel Alliance in response to the Empire's seizure actions. As a result, the Rebel Alliance obtained the "state-of-the-art starfighter" for free, and operated this series for a long time thereafter.
 
-1. T-65B X-wing [1st Generation] (Galactic Civil War Period: EP4?EP6)
+-  Major variations
+   1. T-65B X-wing [1st Generation] (Galactic Civil War Period: EP4?EP6)
 The original legendary starfighter flown by Luke and Wedge. The four engines are each independent and cylindrical.
 
-1. T-70 X-wing [2nd Generation] (New Republic / Early Resistance: EP7?EP8)
+   1. T-70 X-wing [2nd Generation] (New Republic / Early Resistance: EP7?EP8)
 Developed by Incom-FreiTek. The engine intakes became "semi-circular," designing them to form a single circle when the wings are closed. Famous as Poe Dameron's personal starfighter (the black "Black One"). Weapon swappability speed and electronic warfare capabilities were significantly improved.
 
-1. T-85 X-wing [3rd Generation] (New Republic Military / End Period: EP7)
+   1. T-85 X-wing [3rd Generation] (New Republic Military / End Period: EP7)
 The highest-tier, state-of-the-art heavy starfighter that was deployed exclusively for the defense of the New Republic Military's capital star system under strict military regulations. Due to the strike from the First Order's "Starkiller Base," most of them instantly perished along with the capital star system and the main fleet of the Republic.
 
 - Iconic Battles
@@ -198,13 +198,13 @@ The Rebel Alliance's success with high-performance, small fighters equipped with
 
 -  Positioning of Major Variations
 
-  -  The TIE/ln itself is a space superiority starfighter. The "ln" designation stands for "line," indicating it was the standard mass-production model equipped with high-performance Twin Ion Engines manufactured by Sienar Fleet Systems. To maximize mass production and agility, essential features from the prototype were drastically stripped down, resulting in an extremely lightweight design that completely omitted defensive systems such as shields, life-support equipment, and hyperdrives.
+   -  The TIE/ln itself is a space superiority starfighter. The "ln" designation stands for "line," indicating it was the standard mass-production model equipped with high-performance Twin Ion Engines manufactured by Sienar Fleet Systems. To maximize mass production and agility, essential features from the prototype were drastically stripped down, resulting in an extremely lightweight design that completely omitted defensive systems such as shields, life-support equipment, and hyperdrives.
 
-  -  TIE Advanced x1 (Early Prototype):  Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
+   -  TIE Advanced x1 (Early Prototype):  Testbed for next-generation high-end aircraft (prototype). This is the aircraft Darth Vader piloted at the Battle of Yabin. To compensate for the TIE/ln's weakness of low defensive capabilities, it was equipped with shields and a hyperdrive for independent operation. While extremely high-performance, its high manufacturing cost prevented mass production, although the data gained would be utilized in later aircraft.
 
-  - TIE Interceptor (Interceptor):  A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
+   - TIE Interceptor (Interceptor):  A "pure dogfight" main fighter designed to counter X-wings. Mass production was rushed immediately after the Battle of Yavin, and became increasingly common by the Battle of Endor (Episode VI). While lacking shields and hyperdrives like the Advanced x1, it was the most successful fighter, boasting overwhelming speed and maneuverability, and equipped with four or more laser cannons.
 
-  - TIE Bomber (Bomber):  An anti-ship and ground attack aircraft. While it existed before the Battle of Yavin, its deployment on the front lines became more prominent after Yavin, primarily to strike Rebel strongholds and large cruisers. Its distinctive twin-fuselage design features the pilot on one side and a large number of torpedoes and bombs on the other.
+   - TIE Bomber (Bomber):  An anti-ship and ground attack aircraft. While it existed before the Battle of Yavin, its deployment on the front lines became more prominent after Yavin, primarily to strike Rebel strongholds and large cruisers. Its distinctive twin-fuselage design features the pilot on one side and a large number of torpedoes and bombs on the other.
 
   - TIE Defender :  The "ultimate absolute superiority fighter" that disregarded cost. Developed under the leadership of Grand Admiral Thrawn, this ultra-high-performance aircraft features three solar panels. Equipped with powerful shields, a hyperdrive, and even ion cannons and warhead launchers, it was a "TIE where the pilot could survive," capable of single-handedly taking down several X-wings. However, Imperial resources were concentrated on superweapons such as the Death Star, and the destruction of key production facilities further delayed the program. As a result, the Empire collapsed before the TIE Defender could be deployed on a large scale.
 
