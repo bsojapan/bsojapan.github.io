@@ -1,32 +1,39 @@
+
 /* タイルコンテナのベース */
-.image-tile-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px; /* タイル間の隙間 */
+.multitile-container {
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;  /* タイル間の隙間 */
   margin: 20px 0;
   justify-content: flex-start;
 }
-　
+
 /* タイル全体のリンク */
-.image-tile-item {
-  display: block;
+.multitile-item {
+  display:block;
+  flex: 0 0 var(--multitile-size);
+  width: var(--multitile-size);
+  max-width: var(--multitile-size);
+
   text-decoration: none;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   flex-grow: 0;
   flex-shrink: 1;
 }
 
+/* タイル内の画像 */
+.multitile-item img {
+  width:100%;
+  height:auto;
+  display:block;
+
+  object-fit: cover;
+  border-radius: 4px; /* 角を少し丸く */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+
+}
+
 /* ホバー時の視覚効果（お好みで） */
 .image-tile-item:hover {
   transform: translateY(-3px);
-}
-
-/* タイル内の画像 */
-.image-tile-item img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  display: block;
-  border-radius: 4px; /* 角を少し丸く */
-  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
 }
