@@ -8,12 +8,9 @@ image_back: "/assets/images/p_wall_univers.jpg"
 ## images(level 2)
 
 {% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
-  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
+https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt|https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
+https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400|https://example.com/mountain
+https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://example.com/forest
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
@@ -32,14 +29,11 @@ to the Bottom of the Sea (Japan: Gensiryoku Sensuikan Seaview / Kaitei Kagaku Sa
 ### NCC-1701 Enterprise siries(level 3)
 
 {% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
-  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
+https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt|https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
+https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400|https://example.com/mountain
+https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://example.com/forest
 {% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
+{% include multitile.html data=my_tiles size="100" %}
 
 The USS Enterprise is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. 
 
@@ -64,14 +58,5 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
 
 ### type2
 
-{% capture my_tiles %}
-- img: https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt
-  url: https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-- img: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400
-  url: https://example.com/mountain
-- img: https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400
-  url: https://example.com/forest
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
 
 222
