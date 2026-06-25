@@ -36,49 +36,91 @@ STAR TREK (1966)                    ↼ー⇀
 STAR TREK :Generations                   ↼━⇀
 
 放映・公開年　　作品内年代（宇宙暦）　作品名（邦題）原題
-1966--1969          2265 ↼ー⇀ 2269 
-宇宙大作戦（TOS）Star Trek: The Original Series
+1966--1969          2265 ?━? 2269 
+TOS: Star Trek: The Original Series
 
-1973--1974              2269 ↼ー⇀ 2270 
-まんが宇宙大作戦（TAS）Star Trek: The Animated Series
+1973--1974              2269 ?━? 2270 
+TAS : Star Trek: The Animated Series
 
 1979                               ・2273年頃
-劇場版第1作:スター・トレックStar Trek: The Motion Picture
+TMP : Star Trek: The Motion Picture
 
 1982                                  ・2285
-劇場版第2作:カーンの逆襲Star Trek II: The Wrath of Khan
+TWOK : Star Trek II: The Wrath of Khan
 
 1984　　　　　　　　　　　　　　　　　・2285
-劇場版第3作:ミスター・スポックを探せ！Star Trek III: The Search for Spock
+TSFS : Star Trek III: The Search for Spock
 
 1986　　　　　　　　　　　　　　　　　 ・2286年 (1986年へ時間跳躍)
-劇場版第4作:故郷への長い道Star Trek IV: The Voyage Home
-1987--1994                                              2364↼ー⇀2370
-新スター・トレック（TNG）Star Trek: The Next Generation
+TVH : Star Trek IV: The Voyage Home
+
+1987--1994                                              2364?━?2370
+TNG : Star Trek: The Next Generation
 
 1988                     ・2254
-宇宙大作戦（パイロット版）「歪んだ空間」(1965年制作・1988年全編初放送)Star Trek: "The Cage"
+(1965 pilot)Star Trek: "The Cage"
 
 1989                                   ・2287
-劇場版第5作:新たなる未知へStar Trek V: The Final Frontier
+TFF : Star Trek V: The Final Frontier
 
 1991                                     ・2293
-劇場版第6作:未知の世界Star Trek VI: The Undiscovered Country
+TUC:Star Trek VI: The Undiscovered Country
 
-1993--1999                                                   2369↼ー⇀2375
-スタートレック:ディープ・スペース・ナイン（DS9）Star Trek: Deep Space Nine
+1993--1999                                                   2369?━?2375
+DS9 : Star Trek: Deep Space Nine
 
 1994                                      ・2293 　　　 　　　　　・2371
-劇場版第7作:ジェネレーションズStar Trek Generations
+GEN : Star Trek Generations
 
-1995--2001                                                     2371↼ー⇀2378
-スタートレック:ヴォイジャー（VOY）Star Trek: Voyager
+1995--2001                                                     2371?━?2378
+VOY : Star Trek: Voyager
 
 1996                                                                ・2373 (2063年へ時間跳躍)
-劇場版第8作:ファースト・コンタクトStar Trek: First Contact
+FC : Star Trek: First Contact
 
 1998                                                                 ・2375
-劇場版第9作:叛乱Star Trek: Insurrection
+INS : Star Trek: Insurrection
+
+2001--2005   2151?━?2155 (最終話は2161年)
+ENT : Star Trek: Enterprise
+
+2002                                                            ・2379
+NRM : S.T.X Star Trek: Nemesis
+
+2009                  2258年 (※歴史分岐パラレル)
+ST09 Reboot : Star Trek
+
+2013                    2259 (※歴史分岐パラレル)
+STID Reboot : Star Trek Into Darkness
+
+2016                      2263 (※歴史分岐パラレル)
+STB Reboot : Star Trek Beyond
+
+
+2017--2024          2256 - 2258                                           3188 - 3191
+DSC : Star Trek: Discovery S3--2/S3--5
+
+
+2020--2023                       2399年 - 2402
+PIC : （S1 - S3）Star Trek: Picard
+
+2020--2024             2380年 - 2384
+LD : Star Trek: Lower Decks
+
+
+2021--2024                                              2383年 - 2385
+PRO : Star Trek: Prodigy
+
+2022--continu                             2259年 - 継続中
+SNW : Star Trek: Strange New Worlds
+
+2025                       2333年 / 2380年代
+S31 : Star Trek: Section 31
+
+
+2026--放映中                3191-- 継続中
+スターフレート・アカデミー（原題）Star Trek: Starfleet Academy
+
 
 ```
 
