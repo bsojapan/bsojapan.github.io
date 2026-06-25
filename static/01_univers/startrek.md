@@ -30,101 +30,10 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 A defining characteristic of the vehicles in the Star Trek series is that almost all of the ships featured are military vessels belonging to planetary nations. Smaller shuttles and other vessels appear in the background, but they are rarely mentioned. While smaller ships like those of the Resistance also appear, the main focus is on the warships.
 </section>
 
-[https://64.media.tumblr.com/831fb32814ef6996c1af08aab4eb789a/4eaa47f6d2aab5da-90/s2048x3072/9c9f59f7660d82ee83905797d7296cc759ecb6c9.pnj?w400](https://64.media.tumblr.com/831fb32814ef6996c1af08aab4eb789a/4eaa47f6d2aab5da-90/s2048x3072/9c9f59f7660d82ee83905797d7296cc759ecb6c9.pnj)
-```
-
-S                ↼━⇀
-
-Broadcast/Release Year 　　　　　　　　　　　　　　　　　　 In-Work Era (Space Calendar)
-Original Title　　　　　　       23th       |          24th                |    25th   |   32th    
-----------------------------------------------------------------------------------------------------
-1966--1969          2265 ↼━⇀ 2269         |
-TOS: Star Trek: The Original Series         |
-                                            | 
-1973--1974              2269 ↼━⇀ 2270     |
-TAS : Star Trek: The Animated Series        |
-                                            |
-1979                               ・2273   |
-TMP : Star Trek: The Motion Picture         |
-                                            |
-1982                                  ・2285|
-TWOK : Star Trek II: The Wrath of Khan      |
-                                            |
-1984　　　　　　　　　　　　　　　　　・2285   |
-TSFS : Star Trek III: The Search for Spock  |
-
-1986　　　　　1986<----　　　　　　　 ・2286年 
-TVH : Star Trek IV: The Voyage Home
-
-1987--1994                                              2364↼━━━━⇀2370
-TNG : Star Trek: The Next Generation
-
-1988                     ・2254
-(1965 pilot)Star Trek: "The Cage"
-
-1989                                   ・2287
-TFF : Star Trek V: The Final Frontier
-
-1991                                     ・2293
-TUC:Star Trek VI: The Undiscovered Country
-
-1993--1999                                                   2369↼━━━⇀2375
-DS9 : Star Trek: Deep Space Nine
-
-1994                                      ・2293 　　　 　　　　　・2371
-GEN : Star Trek Generations
-
-1995--2001                                                     2371↼━━⇀2378
-VOY : Star Trek: Voyager
-
-1996            2063<----                                           ・2373 
-FC : Star Trek: First Contact
-
-1998                                                               　  ・2375
-INS : Star Trek: Insurrection
-
-2001--2005   2151?━?2155 (最終話は2161年)
-ENT : Star Trek: Enterprise
-
-2002                                                                     ・2379
-NRM : S.T.X Star Trek: Nemesis
-
-2009                  2258年 
-ST09 Reboot : Star Trek
-
-2013                    2259 
-STID Reboot : Star Trek Into Darkness
-
-2016                      2263 
-STB Reboot : Star Trek Beyond
-
-
-2017--2024          2256↼━⇀2258                      　　　　　　                        3188↼━⇀3191
-DSC : Star Trek: Discovery S3--2/S3--5
-
-
-2020--2023                                                         2399↼━⇀2402
-PIC : （S1 - S3）Star Trek: Picard
-
-2020--2024                                                2380↼━⇀2384
-LD : Star Trek: Lower Decks
-
-
-2021--2024                                                  2383↼━⇀2385
-PRO : Star Trek: Prodigy
-
-2022--continu          2259↼━⇀????
-SNW : Star Trek: Strange New Worlds
-
-2025                                                  ・2333 2380↼━⇀???? 
-S31 : Star Trek: Section 31
-
-
-2026--放映中                                                                                3191↼━⇀????
-スターフレート・アカデミー（原題）Star Trek: Starfleet Academy
-
-
-```
+{% capture my_tiles %}
+https://64.media.tumblr.com/831fb32814ef6996c1af08aab4eb789a/4eaa47f6d2aab5da-90/s2048x3072/9c9f59f7660d82ee83905797d7296cc759ecb6c9.pnj?w400|https://64.media.tumblr.com/831fb32814ef6996c1af08aab4eb789a/4eaa47f6d2aab5da-90/s2048x3072/9c9f59f7660d82ee83905797d7296cc759ecb6c9.pnj
+{% endcapture %}
+{% include multitile.html data=my_tiles size="250" %}
 
 ## The planet goverments and vehicle classes
 {% capture my_tiles %}
