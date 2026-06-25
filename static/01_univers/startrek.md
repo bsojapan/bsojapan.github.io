@@ -36,10 +36,10 @@ S                ↼━⇀
 
 Broadcast/Release Year 　　　　　　　　　　　　　　　　　　 In-Work Era (Space Calendar)
 Original Title　　　　　　23th               |          24th                |    25th   |   32th    
-1966--1969          2265 ↼━⇀ 2269          |
+1966--1969          2265 ↼━⇀ 2269         |
 TOS: Star Trek: The Original Series         |
-                                            |
-1973--1974              2269 ↼━⇀ 2270      |
+                                            | 
+1973--1974              2269 ↼━⇀ 2270     |
 TAS : Star Trek: The Animated Series        |
                                             |
 1979                               ・2273   |
