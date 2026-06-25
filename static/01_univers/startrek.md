@@ -35,6 +35,50 @@ A defining characteristic of the vehicles in the Star Trek series is that almost
 STAR TREK (1966)                    ↼━⇀
 STAR TREK :Generations                   ↼━⇀
 
+放映・公開年　　作品内年代（宇宙暦）　作品名（邦題）原題
+1966--1969          2265 ?━? 2269 
+宇宙大作戦（TOS）Star Trek: The Original Series
+
+1973--1974              2269 ?━? 2270 
+まんが宇宙大作戦（TAS）Star Trek: The Animated Series
+
+1979                               ・2273年頃
+劇場版第1作:スター・トレックStar Trek: The Motion Picture
+
+1982                                  ・2285
+劇場版第2作:カーンの逆襲Star Trek II: The Wrath of Khan
+
+1984　　　　　　　　　　　　　　　　　・2285
+劇場版第3作:ミスター・スポックを探せ！Star Trek III: The Search for Spock
+
+1986　　　　　　　　　　　　　　　　　 ・2286年 (1986年へ時間跳躍)
+劇場版第4作:故郷への長い道Star Trek IV: The Voyage Home
+1987--1994                                              2364?━?2370
+新スター・トレック（TNG）Star Trek: The Next Generation
+
+1988                     ・2254
+宇宙大作戦（パイロット版）「歪んだ空間」(1965年制作・1988年全編初放送)Star Trek: "The Cage"
+
+1989                                   ・2287
+劇場版第5作:新たなる未知へStar Trek V: The Final Frontier
+
+1991                                     ・2293
+劇場版第6作:未知の世界Star Trek VI: The Undiscovered Country
+
+1993--1999                                                   2369?━?2375
+スタートレック:ディープ・スペース・ナイン（DS9）Star Trek: Deep Space Nine
+
+1994                                      ・2293 　　　 　　　　　・2371
+劇場版第7作:ジェネレーションズStar Trek Generations
+
+1995--2001                                                     2371?━?2378
+スタートレック:ヴォイジャー（VOY）Star Trek: Voyager
+
+1996                                                                ・2373 (2063年へ時間跳躍)
+劇場版第8作:ファースト・コンタクトStar Trek: First Contact
+
+1998                                                                 ・2375
+劇場版第9作:叛乱Star Trek: Insurrection
 
 ```
 
