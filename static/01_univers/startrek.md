@@ -88,13 +88,13 @@ ENT : Star Trek: Enterprise
 2002                                                                     ・2379
 NRM : S.T.X Star Trek: Nemesis
 
-2009                  2258年 (※歴史分岐パラレル)
+2009                  2258年 
 ST09 Reboot : Star Trek
 
-2013                    2259 (※歴史分岐パラレル)
+2013                    2259 
 STID Reboot : Star Trek Into Darkness
 
-2016                      2263 (※歴史分岐パラレル)
+2016                      2263 
 STB Reboot : Star Trek Beyond
 
 
@@ -105,14 +105,14 @@ DSC : Star Trek: Discovery S3--2/S3--5
 2020--2023                                                         2399↼━⇀2402
 PIC : （S1 - S3）Star Trek: Picard
 
-2020--2024             2380↼━⇀2384
+2020--2024                                                2380↼━⇀2384
 LD : Star Trek: Lower Decks
 
 
 2021--2024                                                  2383↼━⇀2385
 PRO : Star Trek: Prodigy
 
-2022--continu                             2259↼━⇀????
+2022--continu          2259↼━⇀????
 SNW : Star Trek: Strange New Worlds
 
 2025                                                  ・2333 2380↼━⇀???? 
