@@ -32,14 +32,13 @@ A defining characteristic of the vehicles in the Star Trek series is that almost
 
 ```
 
-STAR TREK (1966)                    ↼ー⇀
-STAR TREK :Generations                   ↼━⇀
+S                ↼━⇀
 
 放映・公開年　　作品内年代（宇宙暦）　作品名（邦題）原題
-1966--1969          2265 ?━? 2269 
+1966--1969          2265 ↼━⇀ 2269 
 TOS: Star Trek: The Original Series
 
-1973--1974              2269 ?━? 2270 
+1973--1974              2269 ↼━⇀ 2270 
 TAS : Star Trek: The Animated Series
 
 1979                               ・2273年頃
@@ -51,10 +50,10 @@ TWOK : Star Trek II: The Wrath of Khan
 1984　　　　　　　　　　　　　　　　　・2285
 TSFS : Star Trek III: The Search for Spock
 
-1986　　　　　　　　　　　　　　　　　 ・2286年 (1986年へ時間跳躍)
+1986　　　　　1986<----　　　　　　　 ・2286年 
 TVH : Star Trek IV: The Voyage Home
 
-1987--1994                                              2364?━?2370
+1987--1994                                              2364↼━━━━⇀2370
 TNG : Star Trek: The Next Generation
 
 1988                     ・2254
@@ -66,19 +65,19 @@ TFF : Star Trek V: The Final Frontier
 1991                                     ・2293
 TUC:Star Trek VI: The Undiscovered Country
 
-1993--1999                                                   2369?━?2375
+1993--1999                                                   2369↼━━━⇀2375
 DS9 : Star Trek: Deep Space Nine
 
 1994                                      ・2293 　　　 　　　　　・2371
 GEN : Star Trek Generations
 
-1995--2001                                                     2371?━?2378
+1995--2001                                                     2371↼━━⇀2378
 VOY : Star Trek: Voyager
 
-1996                                                                ・2373 (2063年へ時間跳躍)
+1996            2063<----                                           ・2373 
 FC : Star Trek: First Contact
 
-1998                                                                 ・2375
+1998                                                               　  ・2375
 INS : Star Trek: Insurrection
 
 2001--2005   2151?━?2155 (最終話は2161年)
@@ -97,28 +96,28 @@ STID Reboot : Star Trek Into Darkness
 STB Reboot : Star Trek Beyond
 
 
-2017--2024          2256 - 2258                                           3188 - 3191
+2017--2024          2256↼━⇀2258                      　　　　　　                     3188↼━⇀3191
 DSC : Star Trek: Discovery S3--2/S3--5
 
 
-2020--2023                       2399年 - 2402
+2020--2023                       2399↼━⇀2402
 PIC : （S1 - S3）Star Trek: Picard
 
-2020--2024             2380年 - 2384
+2020--2024             2380↼━⇀2384
 LD : Star Trek: Lower Decks
 
 
-2021--2024                                              2383年 - 2385
+2021--2024                                              2383↼━⇀2385
 PRO : Star Trek: Prodigy
 
-2022--continu                             2259年 - 継続中
+2022--continu                             2259↼━⇀????
 SNW : Star Trek: Strange New Worlds
 
-2025                       2333年 / 2380年代
+2025                                                  ・2333 2380↼━⇀???? 
 S31 : Star Trek: Section 31
 
 
-2026--放映中                3191-- 継続中
+2026--放映中                                                                                3191↼━⇀????
 スターフレート・アカデミー（原題）Star Trek: Starfleet Academy
 
 
