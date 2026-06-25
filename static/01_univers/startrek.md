@@ -38,7 +38,7 @@ STAR TREK :Generations                   ↼━⇀
 
 ```
 
-## The planet gervaments and vehicle classes
+## The planet goverments and vehicle classes
 {% capture my_tiles %}
 https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt|https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
 https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400|https://example.com/mountain
