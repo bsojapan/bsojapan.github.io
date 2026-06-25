@@ -30,6 +30,7 @@ In 1966, Star Trek (Japan: 1969, Uchu Dai-Sakusen) aired alongside Voyage to the
 A defining characteristic of the vehicles in the Star Trek series is that almost all of the ships featured are military vessels belonging to planetary nations. Smaller shuttles and other vessels appear in the background, but they are rarely mentioned. While smaller ships like those of the Resistance also appear, the main focus is on the warships.
 </section>
 
+[https://64.media.tumblr.com/831fb32814ef6996c1af08aab4eb789a/4eaa47f6d2aab5da-90/s2048x3072/9c9f59f7660d82ee83905797d7296cc759ecb6c9.pnj?w400](https://64.media.tumblr.com/831fb32814ef6996c1af08aab4eb789a/4eaa47f6d2aab5da-90/s2048x3072/9c9f59f7660d82ee83905797d7296cc759ecb6c9.pnj)
 ```
 
 S                ↼━⇀
