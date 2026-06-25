@@ -85,7 +85,7 @@ INS : Star Trek: Insurrection
 2001--2005   2151?━?2155 (最終話は2161年)
 ENT : Star Trek: Enterprise
 
-2002                                                            ・2379
+2002                                                                     ・2379
 NRM : S.T.X Star Trek: Nemesis
 
 2009                  2258年 (※歴史分岐パラレル)
