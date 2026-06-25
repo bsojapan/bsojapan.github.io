@@ -35,7 +35,7 @@ A defining characteristic of the vehicles in the Star Trek series is that almost
 S                ↼━⇀
 
 Broadcast/Release Year 　　　　　　　　　　　　　　　　　　 In-Work Era (Space Calendar)
-Original Title　　　　　　23th               |          24th                |    25th   |   32th    
+Original Title　　　　　　       23th       |          24th                |    25th   |   32th    
 1966--1969          2265 ↼━⇀ 2269         |
 TOS: Star Trek: The Original Series         |
                                             | 
