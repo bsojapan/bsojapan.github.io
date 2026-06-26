@@ -6,16 +6,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
 
-## images
-
-{% capture my_tiles %}
-https://images.unsplash.com/photo-1507525428034-b723cf961d3e?160pt|https://www.tumblr.com/webcateyes/817666664470626304/its-a-bit-rough-around-the-edges-though?source=share
-https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400|https://example.com/mountain
-https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://example.com/forest
-{% endcapture %}
-{% include multitile.html data=my_tiles size="150" %}
-</section>
-
+## index
 
 ## Overview
 
@@ -45,34 +36,36 @@ https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://examp
 
 ### the United Federation of Planets
 
+#### Earth 
+
 United Federation of Planets, 
 The USS Enterprise series is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
 
 In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appears. Later in the film, the Galaxy-class NCC-1701-D is heavily damaged; however, it is later restored in Star Trek: Picard. Ambassador class USS-1701-C apear in TV sereis Star Trek: The Next Generation. In films 8-10 (STVIII-STX), the Sovereign-class NCC-1701-E plays a prominent role. Later models included the Odyssey-class 1701-F, the Neo-Constitution class (Constitution III) 1701-G, and the ultra-large Universe-class NCC-1701-J. The chronological original was the NX-class NX-01 from Star Trek: Enterprise.
 
-#### NCC-1701 Enterprise siries
+##### NCC-1701 Enterprise siries
 The lineage of Federation flagships and their respective classes include:
 
-#### NX class 
+##### NX class 
   
-#### Constitution class 
+##### Constitution class 
 
-#### Constitution refit class 
+##### Constitution refit class 
 
-#### Excelsior class
+##### Excelsior class
 
-#### Ambassador class 
+##### Ambassador class 
 
-#### Galaxy class 
+##### Galaxy class 
 
-#### Excersior class 
+##### Excersior class 
 
-#### Sovereign class
-#### Odyssey Class
+##### Sovereign class
+##### Odyssey Class
 
-#### Neo-Constitution
+##### Neo-Constitution
 
-#### Universe Class
+##### Universe Class
 
 ---
 Enterprise NX-01
@@ -117,43 +110,44 @@ Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 
 
 ---
+## Planets and Goverments
 
 The Star Trek universe features a vast array of major homeworlds, colonies, and independent planets, each governed by its own unique political system.The primary planets in Star Trek and their respective governments or ruling bodies include:
 
-🏛️ Founding Federation Worlds
+### 🏛️ Founding Federation Worlds
 These planets are the core members of the United Federation of Planets (a representative interstellar democracy). They have local governing bodies but answer to the Federation Council.
 
-Earth (Capital of the Federation)Government: United Earth Government (a global parliamentary democracy).
+#### Earth (Capital of the Federation)Government: United Earth Government (a global parliamentary democracy).
 
-Vulcan Government: Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
+#### Vulcan Government: Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
 
-Andoria (or Andoria's moon)Government: Andorian Empire (a constitutional monarchy with a parliament and an Emperor).
+#### Andoria (or Andoria's moon)Government: Andorian Empire (a constitutional monarchy with a parliament and an Emperor).
 
-Tellar PrimeGovernment: Tellarite Republic (an oligarchical democracy heavily structured around debate and trade consortiums).
+#### Tellar PrimeGovernment: Tellarite Republic (an oligarchical democracy heavily structured around debate and trade consortiums).
 
-BetazedGovernment: Betazoid Ruling Council (a matriarchal, hereditary aristocracy led by noble Houses).
+#### BetazedGovernment: Betazoid Ruling Council (a matriarchal, hereditary aristocracy led by noble Houses).
 
-⚔️ Major Galactic PowersThese independent worlds serve as the capital seats of the galaxy's alpha quadrant empires.
+### ⚔️ Major Galactic PowersThese independent worlds serve as the capital seats of the galaxy's alpha quadrant empires.
 
-Qo'noS (Kronos)Government: Klingon Empire. It operates as a feudal military empire ruled by the Klingon High Council and led by a Chancellor or Emperor.
+#### Qo'noS (Kronos)Government: Klingon Empire. It operates as a feudal military empire ruled by the Klingon High Council and led by a Chancellor or Emperor.
 
-Romulus (and later the Romulan Free State)Government: Romulan Star Empire. It is a totalitarian police state governed by the Romulan Senate and a Praetor, heavily policed by the Tal Shiar secret service.
+#### Romulus (and later the Romulan Free State)Government: Romulan Star Empire. It is a totalitarian police state governed by the Romulan Senate and a Praetor, heavily policed by the Tal Shiar secret service.
 
-Cardassia PrimeGovernment: Cardassian Union. Its structure fluctuates between a military dictatorship ruled by the Central Command / Obsidian Order, and a civilian oligarchy called the Detapa Council.
+#### Cardassia PrimeGovernment: Cardassian Union. Its structure fluctuates between a military dictatorship ruled by the Central Command / Obsidian Order, and a civilian oligarchy called the Detapa Council.
 
-FerenginarGovernment: Ferengi Alliance. It is an ultra-capitalist corporate plutocracy ruled by the Grand Nagus and regulated by the Ferengi Commerce Authority (FCA).
+#### FerenginarGovernment: Ferengi Alliance. It is an ultra-capitalist corporate plutocracy ruled by the Grand Nagus and regulated by the Ferengi Commerce Authority (FCA).
 
-🌌 Independent & Regional Worlds
+### 🌌 Independent & Regional Worlds
 
-BajorGovernment: Bajoran Provisional Government. A constitutional democracy overseen by a civilian Chamber of Ministers alongside a parallel, highly influential religious hierarchy led by the Kai (Pope-like figure).
+#### BajorGovernment: Bajoran Provisional Government. A constitutional democracy overseen by a civilian Chamber of Ministers alongside a parallel, highly influential religious hierarchy led by the Kai (Pope-like figure).
 
-TholiaGovernment: Tholian Assembly. A highly reclusive, xenophobic caste-based bureaucracy.
+#### TholiaGovernment: Tholian Assembly. A highly reclusive, xenophobic caste-based bureaucracy.
 
-Gorn HomeworldGovernment: Gorn Hegemony. A tribal, absolute monarchy built on strict predatory dominance hierarchies.
+#### Gorn HomeworldGovernment: Gorn Hegemony. A tribal, absolute monarchy built on strict predatory dominance hierarchies.
 
-BreenGovernment: Breen Confederacy. A opaque, highly decentralized multi-species alliance managed by unknown political syndicates.
+#### BreenGovernment: Breen Confederacy. A opaque, highly decentralized multi-species alliance managed by unknown political syndicates.
 
-Idran / Founder's Homeworld (Gamma Quadrant)Government: The Dominion. An absolute, totalitarian absolute monarchy/theocracy where the Changelings are worshipped as gods, enforcing order through genetically engineered servant races.
+#### Idran / Founder's Homeworld (Gamma Quadrant)Government: The Dominion. An absolute, totalitarian absolute monarchy/theocracy where the Changelings are worshipped as gods, enforcing order through genetically engineered servant races.
 
 
 
