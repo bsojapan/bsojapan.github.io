@@ -158,37 +158,65 @@ The Star Trek universe features a vast array of major homeworlds, colonies, and 
 ### 🏛️ Founding Federation Worlds
 These planets are the core members of the United Federation of Planets (a representative interstellar democracy). They have local governing bodies but answer to the Federation Council.
 
-#### Earth (Capital of the Federation)Government: United Earth Government (a global parliamentary democracy).
+#### Earth (Capital of the Federation)Government: 
 
-#### Vulcan Government: Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
+United Earth Government (a global parliamentary democracy).
 
-#### Andoria (or Andoria's moon)Government: Andorian Empire (a constitutional monarchy with a parliament and an Emperor).
+#### Vulcan Government: 
 
-#### Tellar PrimeGovernment: Tellarite Republic (an oligarchical democracy heavily structured around debate and trade consortiums).
+Vulcan High Command (historically an authoritarian military junta, later reformed into an advisory democratic council).
 
-#### BetazedGovernment: Betazoid Ruling Council (a matriarchal, hereditary aristocracy led by noble Houses).
+#### Andoria (or Andoria's moon)Government: 
+
+Andorian Empire (a constitutional monarchy with a parliament and an Emperor).
+
+#### Tellar PrimeGovernment: 
+
+Tellarite Republic (an oligarchical democracy heavily structured around debate and trade consortiums).
+
+#### BetazedGovernment: 
+
+Betazoid Ruling Council (a matriarchal, hereditary aristocracy led by noble Houses).
 
 ### ⚔️ Major Galactic PowersThese independent worlds serve as the capital seats of the galaxy's alpha quadrant empires.
 
-#### Qo'noS (Kronos)Government: Klingon Empire. It operates as a feudal military empire ruled by the Klingon High Council and led by a Chancellor or Emperor.
+#### Qo'noS (Kronos)Government: 
 
-#### Romulus (and later the Romulan Free State)Government: Romulan Star Empire. It is a totalitarian police state governed by the Romulan Senate and a Praetor, heavily policed by the Tal Shiar secret service.
+Klingon Empire. It operates as a feudal military empire ruled by the Klingon High Council and led by a Chancellor or Emperor.
 
-#### Cardassia PrimeGovernment: Cardassian Union. Its structure fluctuates between a military dictatorship ruled by the Central Command / Obsidian Order, and a civilian oligarchy called the Detapa Council.
+#### Romulus (and later the Romulan Free State)Government: 
 
-#### FerenginarGovernment: Ferengi Alliance. It is an ultra-capitalist corporate plutocracy ruled by the Grand Nagus and regulated by the Ferengi Commerce Authority (FCA).
+Romulan Star Empire. It is a totalitarian police state governed by the Romulan Senate and a Praetor, heavily policed by the Tal Shiar secret service.
+
+#### Cardassia PrimeGovernment: 
+
+Cardassian Union. Its structure fluctuates between a military dictatorship ruled by the Central Command / Obsidian Order, and a civilian oligarchy called the Detapa Council.
+
+#### FerenginarGovernment: 
+
+Ferengi Alliance. It is an ultra-capitalist corporate plutocracy ruled by the Grand Nagus and regulated by the Ferengi Commerce Authority (FCA).
 
 ### 🌌 Independent & Regional Worlds
 
-#### BajorGovernment: Bajoran Provisional Government. A constitutional democracy overseen by a civilian Chamber of Ministers alongside a parallel, highly influential religious hierarchy led by the Kai (Pope-like figure).
+#### BajorGovernment: 
 
-#### TholiaGovernment: Tholian Assembly. A highly reclusive, xenophobic caste-based bureaucracy.
+Bajoran Provisional Government. A constitutional democracy overseen by a civilian Chamber of Ministers alongside a parallel, highly influential religious hierarchy led by the Kai (Pope-like figure).
 
-#### Gorn HomeworldGovernment: Gorn Hegemony. A tribal, absolute monarchy built on strict predatory dominance hierarchies.
+#### TholiaGovernment: 
 
-#### BreenGovernment: Breen Confederacy. A opaque, highly decentralized multi-species alliance managed by unknown political syndicates.
+Tholian Assembly. A highly reclusive, xenophobic caste-based bureaucracy.
 
-#### Idran / Founder's Homeworld (Gamma Quadrant)Government: The Dominion. An absolute, totalitarian absolute monarchy/theocracy where the Changelings are worshipped as gods, enforcing order through genetically engineered servant races.
+#### Gorn HomeworldGovernment: 
+
+Gorn Hegemony. A tribal, absolute monarchy built on strict predatory dominance hierarchies.
+
+#### BreenGovernment: 
+
+Breen Confederacy. A opaque, highly decentralized multi-species alliance managed by unknown political syndicates.
+
+#### Idran / Founder's Homeworld (Gamma Quadrant)Government: 
+
+The Dominion. An absolute, totalitarian absolute monarchy/theocracy where the Changelings are worshipped as gods, enforcing order through genetically engineered servant races.
 
 
 
