@@ -155,8 +155,6 @@ BreenGovernment: Breen Confederacy. A opaque, highly decentralized multi-species
 
 Idran / Founder's Homeworld (Gamma Quadrant)Government: The Dominion. An absolute, totalitarian absolute monarchy/theocracy where the Changelings are worshipped as gods, enforcing order through genetically engineered servant races.
 
-Would you like to dive deeper into the political lore of a specific empire, or explore how Federation law applies to new planets trying to join?
-
 
 
 ### type2
