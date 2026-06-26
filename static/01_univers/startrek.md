@@ -116,6 +116,37 @@ Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 
 ##### Universe Class
 
+### Valcan
+
+### Andoria
+
+### Teller Prime
+
+### Betazoid
+
+## Non-Federation World
+
+### Qu'noS
+
+### Romulus
+
+### Cardessia
+
+### Ferenginar 
+
+##  Independent and Regional World
+
+###  Bajor
+
+###  Tholia
+
+###  Breen 
+
+###  Idran 
+
+## 
+
+
 ---
 
 
