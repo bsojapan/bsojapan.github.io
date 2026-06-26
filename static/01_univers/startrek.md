@@ -45,6 +45,55 @@ In the opening of the seventh film (STVII), the Excelsior-class NCC-1701-B appea
 
 ##### NCC-1701 Enterprise siries
 The lineage of Federation flagships and their respective classes include:
+-  Enterprise NX-01
+
+Class: NX Class 
+Series: Star Trek: Enterprise
+
+-  U.S.S. Enterprise NCC-1701
+
+Class: Constitution Class (Original Series)
+Series: Star Trek: The Original Series & Strange New Worlds
+
+-  U.S.S. Enterprise NCC-1701 Refit / -A
+
+Class: Constitution Class (Refitted)
+Series: Star Trek: The Original Series Movies (II-VI)
+
+-  U.S.S. Enterprise NCC-1701-B
+
+Class: Excelsior Class
+Series: Star Trek: Generations
+
+-  U.S.S. Enterprise NCC-1701-C
+
+Class: Ambassador Class
+Series: Star Trek: The Next Generation ("Yesterday's Enterprise")
+
+-  U.S.S. Enterprise NCC-1701-D
+
+Class: Galaxy Class
+Series: Star Trek: The Next Generation
+
+- U.S.S. Enterprise NCC-1701-E
+
+Class: Sovereign Class
+Series: Star Trek: The Next Generation Movies (First Contact, Insurrection, Nemesis)
+
+- U.S.S. Enterprise NCC-1701-F
+
+Class: Odyssey Class
+Series: Star Trek: Picard & Star Trek Online
+
+-  U.S.S. Enterprise NCC-1701-G
+
+Class: Neo-Constitution Class
+Series: Star Trek: Picard (Season 3)
+
+-  U.S.S. Enterprise NCC-1701-J
+
+Class: Universe Class
+Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 
 ##### NX class 
   
@@ -68,45 +117,6 @@ The lineage of Federation flagships and their respective classes include:
 ##### Universe Class
 
 ---
-Enterprise NX-01
-Class: NX Class 
-Series: Star Trek: Enterprise
-
-U.S.S. Enterprise NCC-1701
-Class: Constitution Class (Original Series)
-Series: Star Trek: The Original Series & Strange New Worlds
-
-U.S.S. Enterprise NCC-1701 Refit / -A
-Class: Constitution Class (Refitted)
-Series: Star Trek: The Original Series Movies (II-VI)
-
-U.S.S. Enterprise NCC-1701-B
-Class: Excelsior Class
-Series: Star Trek: Generations
-
-U.S.S. Enterprise NCC-1701-C
-Class: Ambassador Class
-Series: Star Trek: The Next Generation ("Yesterday's Enterprise")
-
-U.S.S. Enterprise NCC-1701-D
-Class: Galaxy Class
-Series: Star Trek: The Next Generation
-
-U.S.S. Enterprise NCC-1701-E
-Class: Sovereign Class
-Series: Star Trek: The Next Generation Movies (First Contact, Insurrection, Nemesis)
-
-U.S.S. Enterprise NCC-1701-F
-Class: Odyssey Class
-Series: Star Trek: Picard & Star Trek Online
-
-U.S.S. Enterprise NCC-1701-G
-Class: Neo-Constitution Class
-Series: Star Trek: Picard (Season 3)
-
-U.S.S. Enterprise NCC-1701-J
-Class: Universe Class
-Series: Star Trek: Enterprise ("Azati Prime" - 26th Century Timeline)
 
 
 ---
