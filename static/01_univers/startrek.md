@@ -36,6 +36,11 @@ https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://examp
 
 ### the United Federation of Planets
 
+{% capture my_tiles %}
+https://64.media.tumblr.com/a1b0b330b296d9be937f1b967b47a34f/4eaa47f6d2aab5da-90/s2048x3072/5d3184908683a37029be55f0d3fba0dd915ede02.pnj?w400|https://64.media.tumblr.com/a1b0b330b296d9be937f1b967b47a34f/4eaa47f6d2aab5da-90/s2048x3072/5d3184908683a37029be55f0d3fba0dd915ede02.pnj
+{% endcapture %}
+{% include multitile.html data=my_tiles size="150" %}
+
 #### Earth 
 
 United Federation of Planets, 
