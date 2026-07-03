@@ -13,7 +13,7 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 ###  宇宙船XL-5Fireball XL51962年10月 〜 1963年12月2062年（100年後の未来）
 ###  海底大戦争 スティングレイStingray1964年10月 〜 1965年6月2064年（初の全編カラー作品）
 
-### thunderbird series  
+### {thunderbird series}[]  
 
 -  Thuderbird (Sep.-Dec,1965)
 -  Thunderbirds Are Go (movie, Dec.,1966)
