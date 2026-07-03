@@ -12,7 +12,7 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 ###  Supercar (Jan., 1961 -- Nov., 1962) 
 ###  Fireball XL5 (1962年10月 〜 1963年12月)  
 ###  Stingray (1964年10月 〜 1965年6月)  
-### [thunderbird series]({ site.url }/static/02_earth/ja_thunderbird.html)  
+### [thunderbird series]({{ site.url }}/static/02_earth/ja_thunderbird.html)  
 
 -  Thuderbird (Sep.-Dec,1965)
 -  Thunderbirds Are Go (movie, Dec.,1966)
