@@ -10,6 +10,7 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 ## index
 
 ### thunderbird series  
+
 -  Thuderbird (Sep.-Dec,1965)
 -  Thunderbirds Are Go (movie, Dec.,1966)
 -  Thunderbird 6  (movie, Jul. 1968)
@@ -22,10 +23,3 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 
 
-
-
-## Overview
-
-A long time ago in a galaxy far, far away....
-
-### The Original Trilogy
