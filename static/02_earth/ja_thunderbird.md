@@ -67,7 +67,7 @@ A space station that supports disaster response and rescue operations. John is s
 A three-axle, six-wheeled Rolls-Royce owned by Lady Penelope, a former British intelligence agent. She currently serves as an IR agent responsible for intelligence gathering. The vehicle is driven by her butler, Parker—a character who, despite his bumbling nature, often takes surprisingly bold actions. ...sometimes even blowing enemies to smithereens with the missiles and other weaponry mounted on the *Penelope*...
 
 ### Pod Vehocles
-##### High-Speed ​​Elevator Cars
+#### High-Speed ​​Elevator Cars
 
 Vehicles equipped with large platforms, housed within Pod 3 of *Thunderbird 2*. By operating the "Master Elevator Car," one can remotely control multiple "Slave Elevator Cars."
 In the first episode, they played a crucial role as a makeshift landing gear system for the *Fire Flash* (pictured right)—the world's first supersonic nuclear-powered airliner developed by Air Terrainean—after sabotage rendered its own landing gear inoperable.
