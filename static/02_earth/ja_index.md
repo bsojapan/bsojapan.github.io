@@ -9,11 +9,19 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 ## index
 
-About starship builders in Star Wars world
+### thunderbird series  
+-  Thuderbird (Sep.-Dec,1965)
+-  Thunderbirds Are Go (movie, Dec.,1966)
+-  Thunderbird 6  (movie, Jul. 1968)
+-  Thunderbirds 2086 (animation, Apr.,1982)
+-  Thunderbird (movie, Jul.,2004)
+-  Thunderbirds Are Go (Apr., 2015)
+-  Thunderbirds: The Anniversary Episodes (Jan. 2022)
 
-About Planets in Star Wars world
 
-The Midi-chlorians in Star Wars world
+
+
+
 
 
 ## Overview
