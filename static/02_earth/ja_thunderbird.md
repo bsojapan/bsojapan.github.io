@@ -11,7 +11,7 @@ Thunderbirds Official Site
 
 MOVIE: *Thunderbird 6*
 
-### Outlone 
+### Outline 
 Thunderbirds was established by the multi-millionaire Jeff Tracy as the International Rescue Organization (IR). Its base was constructed in secret on an island in the South Seas. While outwardly appearing to be the Tracy family's vacation home, a massive secret base lay concealed beneath it.
 When a disaster struck, the team would detect it immediately—whether through direct radio requests for deployment or by intercepting signals via the space station Thunderbird 5. Jeff's five sons would then pilot their respective Thunderbird craft to the scene, swiftly carrying out rescue operations and disaster prevention measures.
 Each machine featured a highly rational, automated design, allowing most of the rescue vehicles to be operated by a single person.
