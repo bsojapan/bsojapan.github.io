@@ -1,5 +1,8 @@
 ---
-
+layout: contents
+title: "Thunderbird"
+permalink: /static/01_univers/template.html
+image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
 ## Thunderbirds
