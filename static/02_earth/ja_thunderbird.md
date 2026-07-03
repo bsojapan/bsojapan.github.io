@@ -1,7 +1,7 @@
 ---
 layout: contents
 title: "Thunderbird"
-permalink: /static/01_univers/template.html
+permalink: /static/01_univers/ja_thunderbird.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
