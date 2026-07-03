@@ -9,10 +9,9 @@ image_back: "https://64.media.tumblr.com/adf75d63ffb3811a72fe06fe9f68d9d9/3ad866
 
 ## index
 
-###  スーパーカーSupercar1961年1月 〜 1962年11月1961年（放映当時とほぼ同時代）
-###  宇宙船XL-5Fireball XL51962年10月 〜 1963年12月2062年（100年後の未来）
-###  海底大戦争 スティングレイStingray1964年10月 〜 1965年6月2064年（初の全編カラー作品）
-
+###  Supercar (Jan., 1961 -- Nov., 1962) 
+###  Fireball XL5 (1962年10月 〜 1963年12月)  
+###  Stingray (1964年10月 〜 1965年6月)  
 ### {thunderbird series}[{ site.url }}/static/02_earth/ja_thunderbird.html]  
 
 -  Thuderbird (Sep.-Dec,1965)
