@@ -1,7 +1,7 @@
 ---
 layout: contents
-title: "Jerry Anderson's works"
-permalink: /static/02_earth/ja_index.html
+title: "Gerry Anderson's works"
+permalink: /static/02_earth/ga_index.html
 image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e3158051a83db7e6-04/s1280x1920/820cd4f3a27246f8c18eeb475f3b6fad1d2273da.jpg"
 ---
 
@@ -12,7 +12,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ###  Supercar (Jan., 1961 -- Nov., 1962) 
 ###  Fireball XL5 (1962年10月 〜 1963年12月)  
 ###  Stingray (1964年10月 〜 1965年6月)  
-### [thunderbird series]({{ site.url }}/static/02_earth/ja_thunderbird.html)  
+### [thunderbird series]({{ site.url }}/static/02_earth/ga_thunderbird.html)  
 
 -  Thuderbird (Sep.-Dec,1965)
 -  Thunderbirds Are Go (movie, Dec.,1966)
