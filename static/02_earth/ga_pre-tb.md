@@ -27,9 +27,9 @@ Stingray was established by the .
 
 A marine patrol vessel owned by the World Aquanaut Security Patrol (WASP). Operated by a two-person crew, the craft is also equipped with space and sleeping quarters for guests. Following the construction of a prototype, the *Stingray* was developed by WASP over a period of 20 years. It carries 16 Stingray missiles and is equipped with a digital weather database, a surface video-scan periscope, and a personal mobility unit for exploration. The origin of the number "3" on the vertical fin is unclear.
 
--  specification
+- specification
   - Length: 30 m (85 ft)
-  -  Width (excluding hydroplanes): 6.8 m (20 ft)
+  - Width (excluding hydroplanes): 6.8 m (20 ft)
   -  Displacement: Surface: 265 tons / Submerged: 320 tons
   -  Speed:
 Surface: 400 knots / Submerged: 600 knots
