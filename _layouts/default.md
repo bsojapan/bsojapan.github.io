@@ -9,7 +9,7 @@
 
   {% include googlefont.html %}
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/styl_basee.css' | relative_url }}">
 
   {% include googletag.html %}
   
