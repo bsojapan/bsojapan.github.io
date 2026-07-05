@@ -10,7 +10,7 @@
   
 
 <title>
-  {{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models 
+ <h0> {{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models 
 </title>
 </head>
 
