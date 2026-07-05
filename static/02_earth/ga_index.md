@@ -22,12 +22,12 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 -  Thunderbirds Are Go (Apr., 2015)
 -  Thunderbirds: The Anniversary Episodes (Jan. 2022)
 
-###  [Captain Scarlet and the Mysterons(Sep., 1967 -- May.,1968)](){{ site.url }}/static/02_earth/ga_midworks.html
-###  [Joe 90(Sep.,1968 -- Jun.,1969)]()
-###  [The Secret Service(1969年9月 〜 1969年12月)1969年（当時の現代劇）]()
-###  UFO (Sep.,1970年 -- Jul.,1971) 1980年（初の実写特撮シリーズ）
-###  Protectors 1972年9月 〜 1974年3月1972年（実写アクションスパイ劇）
-###  Space: 1999 (1975年9月 〜 1977年17月)1999年（月が軌道を外れた年）
-###  Terrahawks(1983年10月 〜 1986年7月)2020年（人形劇への回帰作）
-###  Space Precinct(1994年10月 〜 1995年7月)2040年（実写SFポリスアクション）
+###  [Captain Scarlet and the Mysterons(Sep., 1967 -- May.,1968)]({{ site.url }}/static/02_earth/ga_midworks.html)
+###  [Joe 90(Sep.,1968 -- Jun.,1969)]({{ site.url }}/static/02_earth/ga_midworks.html)
+###  [The Secret Service(1969年9月 〜 1969年12月)1969年（当時の現代劇）]({{ site.url }}/static/02_earth/ga_midworks.html)
+###  [UFO (Sep.,1970年 -- Jul.,1971) 1980年（初の実写特撮シリーズ）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
+###  [Protectors 1972年9月 〜 1974年3月1972年（実写アクションスパイ劇）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
+###  [Space: 1999 (1975年9月 〜 1977年17月)1999年（月が軌道を外れた年）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
+###  [Terrahawks(1983年10月 〜 1986年7月)2020年（人形劇への回帰作）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
+###  [Space Precinct(1994年10月 〜 1995年7月)2040年（実写SFポリスアクション）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
 r
