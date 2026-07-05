@@ -16,11 +16,11 @@
 <main>
   <section>
     <span class="title">
-{{ page.title }} {{ site.contents_subtitle_c }}
+{{ page.title }}{{ site.contents_subtitle_c }}
     </span>
-  </section>
 
   {{ content }}
+  </section>
 </main>
 
 {% include footer.html %}
