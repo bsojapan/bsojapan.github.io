@@ -7,8 +7,8 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ## Supercar
 ### Overview
 ### Vehicles
-#### supercar
-#### MB-58
+#### Supercar
+#### U-58
 
 ## Fireball XL-5
 ### Overview
