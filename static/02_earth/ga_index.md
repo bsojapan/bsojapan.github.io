@@ -9,8 +9,8 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ## index
 
-###  [Supercar (Jan., 1961 -- Nov., 1962)]({{ site.url }}/static/02_earth/ga_pre-tb.md) 
-###  [Fireball XL5 (Oct., 1962 -- Dec., 1963)]({{ site.url }}/static/02_earth/ga_pre-tb.md)
+###  [Supercar (Jan., 1961 -- Nov., 1962)]({{ site.url }}/static/02_earth/ga_pre-tb.html) 
+###  [Fireball XL5 (Oct., 1962 -- Dec., 1963)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
 ###  [Stingray (Oct., 1964 -- Jun., 1965)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
 ### [thunderbird series]({{ site.url }}/static/02_earth/ga_thunderbird.html)  
 
