@@ -4,27 +4,81 @@ title: "Captain Scarlet / JOE 90 / The Seacret Service"
 permalink: /static/02_earth/ga_midworks.html
 image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e3158051a83db7e6-04/s1280x1920/820cd4f3a27246f8c18eeb475f3b6fad1d2273da.jpg"
 ---
-## Supercar
+## CAPTAIN SCARLET and the MISTERONS
 ### Overview
 ### Vehicles
-#### Supercar
+#### Cloud Base
+地球上のあらゆる場所に移動可能な、スペクトラムの巨大な浮遊航空基地（最高司令部）です。
 
-## Fireball XL-5
+特徴： 高度約40,000フィート（約12,000m）の上空に常に浮遊しています。大型の滑走路を備え、ここからエンゼル機などの航空部隊が世界中へ直接スクランブル発進します。ホワイト大佐をはじめとする主要メンバーの居住・執務空間でもあります。
+
+#### Angel Interceptor
+
+クラウドベースに配備されている、スペクトラムの主力超音速迎撃戦闘機です。
+
+特徴： ホワイト、デスティニー、シンフォニーなどの女性パイロットチーム「エンゼル（Angels）」が操縦します。最高速度はマッハ4（時速約4,800km）に達し、クラウドベースの傾斜カタパルトから数秒で緊急発進します。洗練された美しい純白のフォルムが特徴です。
+####  SPJ（Spectrum Passenger Jet：旅客用ジェット機）
+エージェントや要人を地上からクラウドベースへと送り届けるための、垂直離着陸（VTOL）機能を持った高速人員輸送機です。
+####  マグナコプター（Magnacopter）
+劇中に一度だけ登場した、全長約60m（200フィート）に及ぶ「史上最大のヘリコプター」です。空中版のMSVとも言える機体で、重要会議に出席する代表団を安全に空輸するために使用されました。
+
+#### S.P.V. Spectrum Pursuit Vehicle
+
+■ SPV（Spectrum Pursuit Vehicle：追跡戦闘車）
+スペクトラムの看板メカとも言える、10輪駆動の強力な超重装甲車です。
+最大の特徴： 衝突時の衝撃から乗員を保護するため、運転席に窓がありません。ドライバーは「後ろ向き」に座り、テレビモニターの映像だけを頼りに運転します。
+
+装備・機能： 前部にレーザーキャノン、地対空ミサイルを搭載。後部には悪路用の補助キャタピラが備わっており、車体後部から座席ごと脱出する緊急射出座席（エジェクター・シート）も装備しています。世界各地の秘密拠地（古い宿舎や廃坑など）に隠されており、エージェントの要請に応じて即座に出撃します。
+#### M.S.V. Maximum Security Vehicle
+#### S.S.C. Spectrum Saloon CarSpectrum Patrol Car / Saloon Car
+■ SPC / SSC（Spectrum Patrol Car / Saloon Car：パトロールカー）
+スペクトラムの一般用・追跡用の超高速スポーツクーペです。
+
+特徴： 鮮やかな赤いボディが特徴。一般道では信じられないほどの高速で巡航できます（設定では時速約320km以上）。
+
+装備： ガトリング機関銃や赤外線探知機、伸縮式スキャナーを搭載。主に市街地での偵察やエージェントの移動、比較的低リスクな環境での高速追跡に使用されます。
+#### S.P.J. Spectrum Passenger Jet
+
+■ MSV（Maximum Security Vehicle：最高機密輸送車）
+重要人物（VIP）や機密物質を安全に輸送するための大型装甲トレーラー（または特殊バス）です。
+
+特徴： 分厚い装甲に覆われており、小型原子爆弾の爆発にさえ耐えられるほどの堅牢性を誇ります。最高時速は約320km（200mph）。劇中ではミステロンの暗殺計画から大統領や要人を守るために投入されました。
+
+####  ■ イエロー・フォックス（Yellow Fox Tanker）
+一見すると民間のごく普通の黄色いガソリンタンクローリーですが、その内部は最高機密の移動会議室（兼VIP輸送シェルター）になっています。ミステロンの裏をかくための文字通りの「偽装車両」です。
+
+
+
+
+
+
+
+
+#### ゼロ-X（Zero-X：有人火星探査船）
+もともとは劇場版『サンダーバード・劇場版』に登場した大型宇宙船ですが、本作の第1話にも登場します。このゼロ-Xによる火星探査の際、ミステロンの都市を誤って攻撃してしまったことが、すべての戦いの始まり（ミステロンの地球侵略）となりました。
+
+###  2005
+
+補足：『新キャプテン・スカーレット（2005年）』のメカについて
+2005年に3DCGでリメイクされた『新キャプテン・スカーレット（New Captain Scarlet）』では、メカの名称やデザインが一新されています。
+
+スカイベース（クラウドベースに相当）
+
+ライノ / Rhino（SPVに相当する重装甲車）
+
+チーター / Cheetah（SPCに相当。変形して飛行可能）
+
+ホワイトファルコン（エンゼル機に相当）
+
+
+
+## JOE 90
 ### Overview
 ### Vehicles
-#### Fireball
+#### MAXCAR
+#### U-59
 
-## Stingray
-
-
-### Outline
-Stingray was established by the .
-
+## The Seacret Service
+### Overview
 ### Main Vehicles
-#### Stingray(W.A.S.P.)
-
-A marine patrol vessel owned by the World Aquanaut Security Patrol (WASP). Operated by a two-person crew, the craft is also equipped with space and sleeping quarters for guests. Following the construction of a prototype, the *Stingray* was developed by WASP over a period of 20 years. It carries 16 Stingray missiles and is equipped with a digital weather database, a surface video-scan periscope, and a personal mobility unit for exploration. The origin of the number "3" on the vertical fin is unclear.
-
-- specification
-  - Length: 30 m (85 ft)
-  - Width (excluding hydroplanes): 6.8 m (20 ft)
+#### *****
