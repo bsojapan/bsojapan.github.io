@@ -9,10 +9,10 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ## index
 
-###  [Supercar (Jan., 1961 -- Nov., 1962)]({{ site.url }}/static/02_earth/ga_pre-tb.html) 
-###  [Fireball XL5 (Oct., 1962 -- Dec., 1963)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
-###  [Stingray (Oct., 1964 -- Jun., 1965)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
-### [thunderbird series]({{ site.url }}/static/02_earth/ga_thunderbird.html)  
+###  [SUPERCAR (Jan., 1961 -- Nov., 1962)]({{ site.url }}/static/02_earth/ga_pre-tb.html) 
+###  [FIREBALL XL5 (Oct., 1962 -- Dec., 1963)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
+###  [STINGRAY (Oct., 1964 -- Jun., 1965)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
+### [THUNDERBIRD series]({{ site.url }}/static/02_earth/ga_thunderbird.html)  
 
 -  Thuderbird (Sep.-Dec,1965)
 -  Thunderbirds Are Go (movie, Dec.,1966)
@@ -22,8 +22,12 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 -  Thunderbirds Are Go (Apr., 2015)
 -  Thunderbirds: The Anniversary Episodes (Jan. 2022)
 
-###  [Captain Scarlet and the Mysterons(Sep., 1967 -- May.,1968)]({{ site.url }}/static/02_earth/ga_midworks.html)
-###  [Joe 90(Sep.,1968 -- Jun.,1969)]({{ site.url }}/static/02_earth/ga_midworks.html)
+###  [CAPTAIN SCARLET and the Mysterons(Sep., 1967 -- May.,1968)]({{ site.url }}/static/02_earth/ga_midworks.html)
+
+-  Captain Scarlet and the Misterons (1967)
+-  NEW Captain Scarlet (2003)
+
+###  [JOE 90(Sep.,1968 -- Jun.,1969)]({{ site.url }}/static/02_earth/ga_midworks.html)
 ###  [The Secret Service(1969年9月 〜 1969年12月)1969年（当時の現代劇）]({{ site.url }}/static/02_earth/ga_midworks.html)
 ###  [UFO (Sep.,1970年 -- Jul.,1971) 1980年（初の実写特撮シリーズ）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
 ###  [Protectors 1972年9月 〜 1974年3月1972年（実写アクションスパイ劇）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
