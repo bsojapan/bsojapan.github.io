@@ -26,7 +26,7 @@ Stingray was established by the .
 #### Stingray(W.A.S.P.)
 
 
-#### Terror Fish
+#### Terror Fish(Titan)
 
 A general-purpose combat and reconnaissance submarine used by Titan, also known as the "Mechanical Fish." It is powered by a turbine engine that utilizes a chemical reaction between seawater and the biodegradable fuel "Grenanol" to drive two reversible main propulsion turbines. It is also equipped with ten attitude-control turbines and two auxiliary propulsion turbines. Its underwater speed is just over 90% that of the Stingray. The opening and closing jaw section serves as both an intake for seawater and a launch port for missiles.
 
