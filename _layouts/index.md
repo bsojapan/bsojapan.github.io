@@ -10,7 +10,7 @@
   
 
 <title>
- <h0> {{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models 
+  {{ page.title }} | Blue Sky and Oceans -- 1/144 or smaller scale vehicle models 
 </title>
 </head>
 
@@ -20,7 +20,7 @@
 
   <main>
   <section>
-  <h2>{{ page.title }}  {{ site.contents_subtitle_i }}</h2>  
+  <h0>{{ page.title }}  {{ site.contents_subtitle_i }}</h2>  
   </section>
  
 {{ content }}
