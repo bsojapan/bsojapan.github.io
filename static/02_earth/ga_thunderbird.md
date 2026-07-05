@@ -108,7 +108,7 @@ Capable of vertical takeoff/landing and hovering by directing the thrust of its 
 [another view 1] [another view 2] [another view 3]
 
 ## Thunderbird (Moie, 2015)
-### behicles
+### Vehicles
 #### Thunderbird 1
 #### Thunderbird 2
 #### Thunderbird 3
@@ -118,7 +118,7 @@ Capable of vertical takeoff/landing and hovering by directing the thrust of its 
 #### Mool 
 
 ## Thunderbird Are Go (Reboot, 3D CG, 2015)
-## Behicles
+### Vehicles
 #### Thunderbird 1
 #### Thunderbird 2
 #### Thunderbird 3
@@ -126,3 +126,4 @@ Capable of vertical takeoff/landing and hovering by directing the thrust of its 
 #### Thunderbird 5
 #### Penerope FAB-1
 #### Mool 
+
