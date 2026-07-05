@@ -20,7 +20,7 @@
 
   <main>
   <section>
-  <h1>{{ page.title }}  {{ site.contents_subtitle_i }}</h1>  
+  <span class=title >{{ page.title }}  {{ site.contents_subtitle_i }}</span>  
   </section>
  
 {{ content }}
