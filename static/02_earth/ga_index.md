@@ -9,9 +9,9 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ## index
 
-###  Supercar (Jan., 1961 -- Nov., 1962) 
-###  Fireball XL5 (1962年10月 〜 1963年12月)  
-###  [Stingray (1964年10月 〜 1965年6月)]({{ site.url }}/static/02_earth/ga_stingray.html)
+###  [Supercar (Jan., 1961 -- Nov., 1962)]({{ site.url }}/static/02_earth/ga_pre-tb.md) 
+###  [Fireball XL5 (Oct., 1962 -- Dec., 1963)]({{ site.url }}/static/02_earth/ga_pre-tb.md)
+###  [Stingray (Oct., 1964 -- Jun., 1965)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
 ### [thunderbird series]({{ site.url }}/static/02_earth/ga_thunderbird.html)  
 
 -  Thuderbird (Sep.-Dec,1965)
@@ -22,11 +22,12 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 -  Thunderbirds Are Go (Apr., 2015)
 -  Thunderbirds: The Anniversary Episodes (Jan. 2022)
 
-###  Captain Scarlet and the Mysterons1967年9月 〜 1968年5月2068年
-###  Joe 901968年9月 〜 1969年6月1998年 〜 2012年頃
-###  The Secret Service1969年9月 〜 1969年12月1969年（当時の現代劇）
-###  UFO   1 970年9月 〜 1971年7月1980年（初の実写特撮シリーズ）
+###  Captain Scarlet and the Mysterons(Sep., 1967 -- May.,1968)
+###  Joe 90(Sep.,1968 -- Jun.,1969)
+###  The Secret Service(1969年9月 〜 1969年12月)1969年（当時の現代劇）
+###  UFO (Sep.,1970年 -- Jul.,1971) 1980年（初の実写特撮シリーズ）
 ###  Protectors 1972年9月 〜 1974年3月1972年（実写アクションスパイ劇）
-###  Space: 1999  1975年9月 〜 1977年17月1999年（月が軌道を外れた年）
-###  Terrahawks1983年10月 〜 1986年7月2020年（人形劇への回帰作）
-###  Space Precinct1994年10月 〜 1995年7月2040年（実写SFポリスアクション）
+###  Space: 1999 (1975年9月 〜 1977年17月)1999年（月が軌道を外れた年）
+###  Terrahawks(1983年10月 〜 1986年7月)2020年（人形劇への回帰作）
+###  Space Precinct(1994年10月 〜 1995年7月)2040年（実写SFポリスアクション）
+r
