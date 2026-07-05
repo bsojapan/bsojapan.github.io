@@ -15,7 +15,9 @@
 
 <main>
   <section>
-    <h0>{{ page.title }} {{ site.contents_subtitle_c }}
+    <span class=title>
+{{ page.title }} {{ site.contents_subtitle_c }}
+    </span>
   </section>
 
   {{ content }}
