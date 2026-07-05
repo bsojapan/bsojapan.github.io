@@ -11,7 +11,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ###  Supercar (Jan., 1961 -- Nov., 1962) 
 ###  Fireball XL5 (1962年10月 〜 1963年12月)  
-###  Stingray (1964年10月 〜 1965年6月)  
+###  [Stingray (1964年10月 〜 1965年6月)]({{ site.url }}/static/02_earth/ga_stingray.html)
 ### [thunderbird series]({{ site.url }}/static/02_earth/ga_thunderbird.html)  
 
 -  Thuderbird (Sep.-Dec,1965)
