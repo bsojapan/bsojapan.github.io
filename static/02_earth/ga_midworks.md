@@ -7,55 +7,25 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ## CAPTAIN SCARLET and the MISTERONS
 ### Overview
 
-　元英国海軍で
-シークレットサービスの経歴を持つホワイト大佐(Colonel White 51)が
-指揮する秘密防衛組織スペクトラム(The secret defence organisation Spectrum)が、
-宇宙からの攻撃者ミステロン(Mysterons)に対抗するお話．<br>
-<br>
-　2068年、火星探索の際に事故が起こり、
-火星のエイリアンの都市が破壊されてしまう．
-その報復にミステロンが攻撃を仕掛けてきた．
-ミステロンは、人であれ物であれ、
-破壊したものになりすます能力を持っていた．
-地球人と区別のつかない敵との戦いになった．
-キャプテンスカーレットは火星探査の際、身体を乗っ取られ、
-地球大統領の暗殺の手先となった．
-しかし、暗殺に失敗、800ftを転落してしまう．
-しかし、ミステロン化され不死身のからだとなっていたため回復する．
-転落のショックで洗脳からも解け、
-昔の記憶も取り戻して二度と乗っ取られないからだになっただけでなく、
-火星人を見分ける能力も身についていた．
-そのため、
-スペクトラムの重要エージェントであった．
-世界宇宙旅行協会のテストパイロットと
-アメリカシークレットサービスの経歴を持つ右腕のキャプテン ブルーや、
-情報士官のグリーン大尉、エンゼル隊とともにミステロンに立ち向かう．
-<br>
-<br>
-　空中空母(Cloud Base)から発進するエンジェル機や、
-連絡用の航空機、
-地上でミステロンを攻撃する強力な追跡戦闘車(SPV)を始めとする
-各種の車両が登場します．
-また、スペクトラムの主要エージェントは全員、
-色のコードネームを使っています．
-エンゼル隊は、
-すべて女性パイロットで、
-ほとんどがエアラインパイロットからスペクトラムに任命されているそうです．
-<br>
-<br>
-　ストーリーがちょっと難しかった？(^^; 
-かなり画面の暗い場面が多く、
-スペクトラムの基地にドーナツ状の光が当たって、
-ミステロンの声がするなど、
-何となく不気味なイメージが残ってます．
-しかし、
-編隊で発進するエンジェル機や、
-追跡戦闘車の迫力と、
-緊急時の射出座席などが印象深く残っています．
-あとは、、、髭がこくってがっしりしていかついキャプテンスカーレットの顔．．．(^^;<br>
-　
-<br>
-</p>
+　The story centers on Spectrum, a secret defense organization led by Colonel White—a former Royal Navy officer with a background in the Secret Service—as they battle the Mysterons, an extraterrestrial enemy.
+
+In 2068, an accident during a Mars expedition resulted in the destruction of an alien city. In retaliation, the Mysterons launched an attack. They possessed the ability to assume the form of anything—person or object—they destroyed, forcing Earth to fight an enemy indistinguishable from its own people. During the Mars mission, Captain Scarlet had his body taken over and was used as a pawn to attempt the assassination of the World President. Although the assassination failed and he fell 800 feet, he survived and recovered thanks to the indestructible body granted to him by the Mysterons. The shock of the fall broke the brainwashing and restored his original memories; not only did he gain a body that could never be possessed again, but he also acquired the ability to identify the aliens. Consequently, he became a key agent for Spectrum. He stands against the Mysterons alongside his right-hand man, Captain Blue (a former test pilot for the World Space Travel Association and US Secret Service agent), Intelligence Officer Captain Green, and the Angel Organization.
+
+The series features a variety of vehicles, including the Angel Interceptors launched from the airborne "Cloud Base," liaison aircraft, and the powerful Spectrum Pursuit Vehicle (SPV) used for ground-based attacks against the Mysterons. Additionally, all key Spectrum agents use color-based code names. The Angel Organization consists entirely of female pilots, most of whom were recruited to Spectrum from careers as airline pilots.
+
+Was the story a bit complex? (^^;
+There were quite a few scenes with very dark visuals—
+like the donut-shaped light shining on the Spectrum base
+accompanied by the voice of the Mysterons—
+leaving me with a somewhat eerie impression.
+However,
+I also have vivid memories of things like
+the Angel Interceptors launching in formation,
+the dynamic presence of the Pursuit Vehicle,
+and the emergency ejection seats.
+And then there's... Captain Scarlet's face—rugged and tough, with that heavy stubble... (^^;
+
+
 <!-- ============================================= -->
 <p class="comment2">
 <div class="red1">スペクトラム基地  (SPACTRUM CLOUDBASE)</div><br>
