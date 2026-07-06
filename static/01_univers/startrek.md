@@ -41,7 +41,7 @@ https://64.media.tumblr.com/a1b0b330b296d9be937f1b967b47a34f/4eaa47f6d2aab5da-90
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
-#### Earth 
+#### Earth
 
 United Federation of Planets, 
 The USS Enterprise series is the quintessential ship of this series, and its influence extends to NASA's Space Shuttles. In the first TV series (TOS), it was the Constitution-class NCC-1701, a beautiful, chalky white starship with a distinctive yet simple design. It was equipped with a pair of warp nacelles that warped spacetime, a design that defined subsequent ships. In the film version (TMP), it was refitted into the Constitution-class (Refit), but self-destructed in the third film (STIII). In the fourth film (STIV), a sister ship was renamed NCC-1701-A.
