@@ -9,22 +9,17 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 　The story centers on Spectrum, a secret defense organization led by Colonel White—a former Royal Navy officer with a background in the Secret Service—as they battle the Mysterons, an extraterrestrial enemy.
 
-In 2068, an accident during a Mars expedition resulted in the destruction of an alien city. In retaliation, the Mysterons launched an attack. They possessed the ability to assume the form of anything—person or object—they destroyed, forcing Earth to fight an enemy indistinguishable from its own people. During the Mars mission, Captain Scarlet had his body taken over and was used as a pawn to attempt the assassination of the World President. Although the assassination failed and he fell 800 feet, he survived and recovered thanks to the indestructible body granted to him by the Mysterons. The shock of the fall broke the brainwashing and restored his original memories; not only did he gain a body that could never be possessed again, but he also acquired the ability to identify the aliens. Consequently, he became a key agent for Spectrum. He stands against the Mysterons alongside his right-hand man, Captain Blue (a former test pilot for the World Space Travel Association and US Secret Service agent), Intelligence Officer Captain Green, and the Angel Organization.
+In 2068, an accident during a Mars expedition resulted in the destruction of an alien city. In retaliation, the Mysterons launched an attack. They possessed the ability to assume the form of anything—person or object—they destroyed, forcing Earth to fight an enemy indistinguishable from its own people. During the Mars mission, Captain Scarlet had his body taken over and was used as a pawn to attempt the assassination of the World President. Although the assassination failed and he fell 800 feet, he survived and recovered thanks to the indestructible body granted to him by the Mysterons. The shock of the fall broke the brainwashing and restored his original memories; not only did he gain a body that could never be possessed again, but he also acquired the ability to identify the aliens. Consequently, he became a key agent for Spectrum. He stands against the Mysterons alongside his right-hand man, Captain Blue (a former test pilot for the World Space Travel Association and US Secret Service agent), Intelligence Officer Captain Green, and the Angel Organization. Additionally, all key Spectrum agents use color-based code names. The Angel Organization consists entirely of female pilots, most of whom were recruited to Spectrum from careers as airline pilots. 
 
-The series features a variety of vehicles, including the Angel Interceptors launched from the airborne "Cloud Base," liaison aircraft, and the powerful Spectrum Pursuit Vehicle (SPV) used for ground-based attacks against the Mysterons. Otherside since the Mysterons are energy-based lifeforms, they do not employ their own machinery; in other words, Spectrum's technology becomes the Mysterons' weaponry.Additionally, all key Spectrum agents use color-based code names. The Angel Organization consists entirely of female pilots, most of whom were recruited to Spectrum from careers as airline pilots. 
+The series features a variety of vehicles, including the Angel Interceptors launched from the airborne "Cloud Base," liaison aircraft, and the powerful Spectrum Pursuit Vehicle (SPV) used for ground-based attacks against the Mysterons. Otherside since the Mysterons are energy-based lifeforms, they do not employ their own machinery; in other words, Spectrum's technology becomes the Mysterons' weaponry.
 
-Was the story a bit complex? (^^;
-There were quite a few scenes with very dark visuals—
-like the donut-shaped light shining on the Spectrum base
-accompanied by the voice of the Mysterons—
-leaving me with a somewhat eerie impression.
-However,
-I also have vivid memories of things like
-the Angel Interceptors launching in formation,
-the dynamic presence of the Pursuit Vehicle,
-and the emergency ejection seats.
+Was the story a bit complex? (^^; 
+There were quite a few scenes with very dark visuals—like the donut-shaped light shining on the Spectrum base
+accompanied by the voice of the Mysterons—leaving me with a somewhat eerie impression.
+However,I also have vivid memories of things likethe Angel Interceptors launching in formation,
+the dynamic presence of the Pursuit Vehicle, and the emergency ejection seats.
 
-The war in *Captain Scarlet* mirrors the dynamics of modern warfare. The Mysterons and Spectrum represent the likes of the U.S. and Iran, or Russia and Ukraine; consequently, these conflicts never come to an end.
+The war in *Captain Scarlet* mirrors the dynamics of modern warfare, in particular, regarding the origins of the outbreak of hostilities, the rationale used to justify subsequent reprisals, and the escalation of combat resulting from a cycle of retaliatory attacks.. The Mysterons and Spectrum represent the likes of the U.S. and Iran, or Russia and Ukraine; consequently, these conflicts never come to an end.
 This work shows Anderson's uncanny ability to predict the future.
 
 
