@@ -42,13 +42,6 @@ And then there's... Captain Scarlet's face—rugged and tough, with that heavy s
 クラウド転換エンジン
 (よくわからないけど、大気中の物質を変換して動力源にしている？)
 によって動力が供給されるアトムジェットによって推進する．
-
-
-
-特徴： 
-
-#### Angel Interceptor
-
 CLOUDBADSEは移動可能だが、
 通常、海抜40,000ft(12,200m)の地球静止軌道に浮かんでいる．
 フルレンジのコンピューター、レーダー、通信通信システムおよび
@@ -62,26 +55,14 @@ CLOUDBADSEは移動可能だが、
 RELAXABAYはスペクトラムのレジャー設備で、
 水泳プール、テニスとスカッシュのコート、
 小型スキー滑走斜面、卓球、ビリアードなどがある．
-<br clear="right">
-</p>
 
 
-<!-- ============================================= -->
+#### Angel Interceptor
 
-<!-- ============================================= -->
-<p>
-<div class="blue1">エンゼル機(Angel Interceptor)</div>
-</p>
-<p class="comment2">
-<a href="p-cs-angel01.JPG" width="180" hight="120" alt="エンゼル機" title=""target="_newwindow">
-<img src="p-cs-angel01s.JPG" align="left">
-</a>
-<a href="p-cs-angel03.JPG" width="160" hight="120" alt="エンゼル機" title=""target="_newwindow">
-<img src="p-cs-angel03s.JPG" align="right">
-</a>
-　ミステロンに対抗する単座攻撃機．
+ミステロンに対抗する単座攻撃機．
 女性ばかりのチーム エンジェル隊が使用する機体で、
 スペクトラム基地である空中空母"CLOUDBASE"から発進する．
+
 機体はワールドフォース空軍"viper jet"のクラウドベース用特別仕様．
 全長 60ft(20m)、全幅 35ft(12m)、全備重量40,100LB(18.2t)、
 最高速度3,000MPH(Mach 4)、
@@ -101,39 +82,17 @@ CLOUDBASEの待機室(Amber room)からハイドロリフトによってコッ�
 通信およびレーダー機器を装備している．
 兵装は、コンピューター指示により弾薬、空対空/空対地ミサイルの選択をおこない発射される．
 
-<br>
-　機体としては、A-4スカイホークを参考にスケールアップしてデザインされた？ような感じの形状です．
-<br clear="left">
-</p>
-<p align="center">
-<a href="p-cs-angel02a.JPG" width="180" hight="120" alt="エンゼル機初期型" title=""target="_newwindow">
-<img src="p-cs-angel02as.JPG" align="center">
-</a>
-<a href="p-cs-angel02b.JPG" width="180" hight="120" alt="エンゼル機後期型" title=""target="_newwindow">
-<img src="p-cs-angel02bs.JPG" align="center">
-</a>
-<br>
-エンゼル機の初期型(左)と後期型(右)
-</p>
-<p align="center">
-<a href="p-cs-angel04.JPG" target="_newwindow">
-[another view 1]</a>
-<a href="p-cs-angel05.JPG"  target="_newwindow">
-[another view 2]</a>
-<a href="p-cs-angel06.JPG" target="_newwindow">
-[another view 3]</a>
-</p>
+クラウドベースに配備されている、スペクトラムの主力超音速迎撃戦闘機です。
+ホワイト、デスティニー、シンフォニーなどの女性パイロットチーム「エンゼル（Angels）」が操縦します。
+最高速度はマッハ4（時速約4,800km）に達し、クラウドベースの傾斜カタパルトから数秒で緊急発進します。
+洗練された美しい純白のフォルムが特徴です。
 
-<!-- ============================================= -->
-<p class="comment2">
-<div class="blue1">スペクトラム ヘリコプター(SPECTRUM HELICOPTER)</div><br>
-<a href="p-cs-heli1.JPG" target="_newwindow">
-<img src="p-cs-heli1s.JPG" width="160" hight="120" alt="スペクトラム ヘリコプター" title="スペクトラム ヘリコプター" align="left">
-</a>
-<a href="p-cs-heli2.JPG" target="_newwindow">
-<img src="p-cs-heli2s.JPG" width="160" hight="120" alt="スペクトラム ヘリコプター" title="スペクトラム ヘリコプター" align="right">
-</a>
-　多目的ヘリ．悪路など地理条件が非常に悪いとき、
+機体としては、A-4スカイホークを参考にスケールアップしてデザインされた？ような感じの形状です．
+
+エンゼル機の初期型(左)と後期型(右)
+
+
+多目的ヘリ．悪路など地理条件が非常に悪いとき、
 スペクトル人員の輸送のために、短距離用として用いられる．
 
 全長45ft(13.7m)、ブレード直径39ft(11.9m)、
@@ -367,9 +326,6 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 </p>
 
 
-クラウドベースに配備されている、スペクトラムの主力超音速迎撃戦闘機です。
-
-特徴： ホワイト、デスティニー、シンフォニーなどの女性パイロットチーム「エンゼル（Angels）」が操縦します。最高速度はマッハ4（時速約4,800km）に達し、クラウドベースの傾斜カタパルトから数秒で緊急発進します。洗練された美しい純白のフォルムが特徴です。
 ####  SPJ（Spectrum Passenger Jet：旅客用ジェット機）
 エージェントや要人を地上からクラウドベースへと送り届けるための、垂直離着陸（VTOL）機能を持った高速人員輸送機です。
 ####  マグナコプター（Magnacopter）
