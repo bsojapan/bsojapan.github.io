@@ -274,7 +274,7 @@ VIPの輸送車両．
 
 
 
-■ MSV（Maximum Security Vehicle：最高機密輸送車）
+#### MSV（Maximum Security Vehicle：最高機密輸送車）
 重要人物（VIP）や機密物質を安全に輸送するための大型装甲トレーラー（または特殊バス）です。
 
  分厚い装甲に覆われており、
