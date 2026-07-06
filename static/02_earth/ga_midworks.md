@@ -27,7 +27,7 @@ And then there's... Captain Scarlet's face—rugged and tough, with that heavy s
 
 
 ### Vehicles
-#### SPACTRUM CLOUDBASE)
+#### SPACTRUM CLOUDBASE
 
 地球上のあらゆる場所に移動可能な、スペクトラムの巨大な浮遊航空基地（最高司令部）です。
 通常は高度約40,000フィート（約12,000m）の上空に常に浮遊しています。
@@ -91,6 +91,7 @@ CLOUDBASEの待機室(Amber room)からハイドロリフトによってコッ�
 
 エンゼル機の初期型(左)と後期型(右)
 
+#### SPECTRUM HELIJET 
 
 多目的ヘリ．悪路など地理条件が非常に悪いとき、
 スペクトル人員の輸送のために、短距離用として用いられる．
@@ -107,20 +108,10 @@ CLOUDBASEの待機室(Amber room)からハイドロリフトによってコッ�
 クラウドベースにいないすべてのスペクトラム要員の位置が示される)
 を使用できる．
 高性能爆薬ロケット弾発射装置を装備．
-</p>
-<p align="center">
-<a href="p-cs-heli3.JPG"  alt="" title=""target="_newwindow">
-[another view 1]</a>
-<a href="p-cs-heli4.JPG"  alt="" title=""target="_newwindow">
-[another view 2]</a>
-</p>
 
-<!-- ============================================= -->
-<p class="comment2">
-<div class="blue1">超音速連絡機 SPJ (SPECTRUM PASSENGER JET)</div><br>
-<a href="p-cs-plain1.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-plain1s.JPG" align="left">
-</a>
+
+#### SPJ (SPECTRUM PASSENGER JET)
+
 　高速非戦闘自家用航空機．
 敵の攻撃に応じて要員を輸送する．<br>
 　7人乗り．操縦席は2席．
@@ -135,29 +126,10 @@ TVR 24民間航空機を転用したもの．
 パイロット一人でも運行可能．
 ノーズコーン内には、対気速度計などが収容されている．
 
-<br clear="left">
-</p>
-　<br>
-　<br>
-　<br>
-　<br>
 
-<p align="center">
-<a href="p-cs-plain2.JPG"  alt="" title=""target="_newwindow">
-[another view 1]</a>
-<a href="p-cs-plain3.JPG"  alt="" title=""target="_newwindow">
-[another view 2]</a>
-</p>
 
-<!-- ============================================= -->
-<p class="coment2">
-<div class="green1">追跡戦闘車 S.P.V (SPECTRUM PURSUIT VEHICLE)</div><br>
-<a href="p-cs-spv01.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-spv01s.JPG" align="left">
-</a>
-<a href="p-cs-spv02.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-spv02s.JPG" align="right">
-</a>
+#### 追跡戦闘車 S.P.V (SPECTRUM PURSUIT VEHICLE)
+
 　キャプテンスカーレットも搭乗する水陸両用の"高速追跡車"．
 どのような乱暴な運転をしても大丈夫なように頑丈にできている．
 世界中のあちこちの秘密基地に配備され、
@@ -182,29 +154,10 @@ MISTERONに有効な唯一の兵器である電極放射線砲を装備されて
 敵の攻撃で損傷を受けた場合には、
 中央の操縦室から座席が側方に飛び出し、
 そのあと射出して脱出できるようになっている．
-<br clear="right">
-</p>
-<p align="center">
-<a href="p-cs-spv03.JPG"  alt="" title=""target="_newwindow">
-[another view 1]</a>
-<a href="p-cs-spv04.JPG"  alt="" title=""target="_newwindow">
-[another view 2]</a>
-<a href="p-cs-spv05.JPG"  alt="" title=""target="_newwindow">
-[another view 3]</a>
-<a href="p-cs-spv06.JPG"  alt="" title=""target="_newwindow">
-[another view 4]</a>
-</p>
 
 
-<!-- ============================================= -->
-<p class="coment2">
-<div class="green1">スペクトラム パトロールカー S.S.C (SPECTRUM SALOON CAR)</div><br>
-<a href="p-cs-ssv01.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-ssv01s.JPG" align="left">
-</a>
-<a href="p-cs-ssv02.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-ssv02s.JPG" align="right">
-</a>
+
+#### S.S.C (SPECTRUM SALOON CAR)
 　5席巡回用で、すべてのスペクトラム要員が使用する．
 全長18ft(5.5m)、
 四輪駆動、最高速度200MPH(320km/h)．
@@ -216,25 +169,11 @@ MISTERONに有効な唯一の兵器である電極放射線砲を装備されて
 中央に配置された「デテクターアイ(検出装置)」に光学望遠鏡を備えた長距離レーザー・プロジェクターと赤外線ビーム、
 側光および方向指示器などが装備されている．
 また、変速装置、独立懸架サスペンションおよび磁気ブレーキを装備．
-<br clear="right">
-</p>
-<p align="center">
-<a href="p-cs-ssv03.JPG"  alt="" title=""target="_newwindow">
-[another view 1]</a>
-<a href="p-cs-ssv04.JPG"  alt="" title=""target="_newwindow">
-[another view 2]</a>
-</p>
 
 
-<!-- ============================================= -->
-<p class="coment2">
-<div class="green1">装甲車 M.S.V (MAXIMUM SECURITY VEHICLE)</div><br>
-<a href="p-cs-msv01.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-msv01s.JPG" align="left">
-</a>
-<a href="p-cs-msv02.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
-<img src="p-cs-msv02s.JPG" align="right">
-</a>
+
+
+#### VIP
 　ミステロンにおそわれる恐れのあるVIP移送用4席防弾高速車両．
 全長24ft(7.3m)、重量8t、最高速度200MPH(320km/h)．
 エキスパートのCOACH技術者によるハンドメイド、かつ、
@@ -252,19 +191,9 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 外部との接触遮断、車内密閉に対応するために、
 サバイバル用食物キットも装備している．
 
-<br clear="right">
-</p>
-<p align="center">
-<a href="p-cs-msv03.JPG"  alt="" title=""target="_newwindow">
-[another view 1]</a>
-</p>
 
+####  探索トラック (SPECTRUM DETECTOR TRUCK)
 
-<!-- ============================================= -->
-<!-- ============================================= -->
-<p class="coment2">
-<div class="green1">探索トラック (SPECTRUM DETECTOR TRUCK)</div><br>
-　信号の発進地点を追跡し、
 目標にスペクトルエージェントを送り込むための
 通信設備を装備した4輪車両．
 全長24フィート(7.3m)．
@@ -274,14 +203,9 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 目標の座標値が速やかに計算される．
 かなり高度な探索、通信設備が搭載されている．
 即座に動員することが可能なように8台のユニットを維持してる．
-<br clear="right">
-</p>
 
 
-<!-- ============================================= -->
-<!-- ============================================= -->
-<p class="coment2">
-<div class="green1">(YELLOW FOX SECURITY TANKER)</div><br>
+#### (YELLOW FOX SECURITY TANKER)
 　VIPの輸送車両．
 イエローフォックスはMSVが目立ちすぎる場合に使用され、
 燃料タンカーを偽装している．
@@ -291,14 +215,10 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 動力はディーゼルエンジン．
 6名用シート付きの会議用テーブルなどが
 密封されたコンパートメント内に装備されている．
-<br clear="right">
-</p>
 
 
-<!-- ============================================= -->
-<!-- ============================================= -->
-<p class="coment2">
-<div class="blue2">スペクトラムホバークラフト (SPECTRUM HOVERCRAFT)</div><br>
+#### スペクトラムホバークラフト (SPECTRUM HOVERCRAFT)
+
 　砂漠および水上での移動に用いられる最良のギア．
 オーストラリアの訓練施設 SPECTRUM KOALA にフリート(小隊)配備．
 全長62フィート(18.9m)．
@@ -307,14 +227,11 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 コンプレッサー・タービンに動力を供給するニュートロン・ジェネレーターを使用．
 操縦席はパイロットおよび副操縦士用で、
 乗客は別に2人搭乗可能．
-<br clear="right">
-</p>
 
 
-<!-- ============================================= -->
-<!-- ============================================= -->
-<p class="coment2">
-<div class="blue1">マグナコプター (MAGNACOPTER)</div><br>
+
+
+#### マグナコプター (MAGNACOPTER)
 　VIPをゆったりと快適に空輸するための、大型重警備の航空機．
 全長200フィート(61m)、ローター直径150フィート(45.7m)、
 最高速度200MPH(321km/h)．
@@ -322,8 +239,6 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 動力はツインターボ・ジェットとロケット・モータ．
 ギャレー(調理室)、トイレ、コンピューター/通信バンク、ストレージ、
 着陸時にも最高セキュリティを保持可能．
-<br clear="right">
-</p>
 
 
 ####  SPJ（Spectrum Passenger Jet：旅客用ジェット機）
@@ -351,7 +266,7 @@ VIPはふっくらした座席とテレビを快適に楽しむことができ�
 ■ MSV（Maximum Security Vehicle：最高機密輸送車）
 重要人物（VIP）や機密物質を安全に輸送するための大型装甲トレーラー（または特殊バス）です。
 
-特徴： 分厚い装甲に覆われており、小型原子爆弾の爆発にさえ耐えられるほどの堅牢性を誇ります。最高時速は約320km（200mph）。劇中ではミステロンの暗殺計画から大統領や要人を守るために投入されました。
+特徴： 分厚い装甲に覆われており、小型原子爆弾の爆発にさえ耐えられるほどの堅牢性を誇ります。最高時速は約320km（200mph）。劇中ではミステロンの暗殺計画から大統領や要人を守るために投入されました
 
 ####  ■ イエロー・フォックス（Yellow Fox Tanker）
 一見すると民間のごく普通の黄色いガソリンタンクローリーですが、その内部は最高機密の移動会議室（兼VIP輸送シェルター）になっています。ミステロンの裏をかくための文字通りの「偽装車両」です。
