@@ -20,7 +20,7 @@ However,I also have vivid memories of things likethe Angel Interceptors launchin
 the dynamic presence of the Pursuit Vehicle, and the emergency ejection seats.
 
 The war in *Captain Scarlet* mirrors the dynamics of modern warfare, in particular, regarding the origins of the outbreak of hostilities, the rationale used to justify subsequent reprisals, and the escalation of combat resulting from a cycle of retaliatory attacks. The Mysterons or Spectrum represent the likes of the U.S., Israel and Iran, or Russia and Ukraine; consequently, these conflicts never come to an end.
-This work shows Anderson's uncanny ability to predict the future.
+This work shows Anderson's uncanny ability to predict the future and it brilliantly captures the foolish nature of war.
 
 
 
