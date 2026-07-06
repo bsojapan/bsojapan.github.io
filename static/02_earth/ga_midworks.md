@@ -56,35 +56,32 @@ a small ski slope, table tennis, billiards, and more.
 
 #### Angel Interceptor
 
-クラウドベースに配備されている、ミステロンに対抗する
-スペクトラムの主力超音速単座迎撃戦闘機です。
-ホワイト、デスティニー、シンフォニーなどの女性パイロットチーム「エンゼル（Angels）」が操縦します。
-最高速度はマッハ4（時速約4,800km）に達し、
-クラウドベースの傾斜カタパルトから数秒で緊急発進します。
-洗練された美しい純白のフォルムが特徴です。
-
-機体はワールドフォース空軍"viper jet"のクラウドベース用特別仕様．
-全長 60ft(20m)、全幅 35ft(12m)、全備重量40,100LB(18.2t)、
-最高速度3,000MPH(Mach 4)、
-製造費 $1,250,000/機、製造期間9ヶ月．
-ターボジェットコンプレッサー2発を機体後部に装備し、
-尾部のラムジェットに供給する．
-高々度希薄気体中での超音速飛行では、
-ピッチ制御用ジェットによってコントロールし、
-着陸機動にも用いられる．
-緊急用に小型で強力な従来型ロケットも装備している．
-
-パイロットは、
-CLOUDBASEの待機室(Amber room)からハイドロリフトによってコックピットに送られる．
-各種装置や射撃照準は容易に操作できるようパイロットにあわせて調整される．
-飛行制御コンピューターによる自動操舵装置、
-大気と機体表面の温度モニター、
-通信およびレーダー機器を装備している．
-兵装は、コンピューター指示により弾薬、空対空/空対地ミサイルの選択をおこない発射される．
+This is Spectrum's primary supersonic single-seat interceptor fighter deployed at Cloudbase for use against the Mysterons. The aircraft is a special Cloudbase variant of the World Force Air Force's "Viper Jet"; it utilizes non-retractable skids for landing gear.
+It is piloted by the "Angels," an all-female pilot team that includes members such as White, Destiny, and Symphony.
+It reaches a top speed of Mach 4 (approximately 4,800 km/h)
+and can execute an emergency launch from Cloudbase's inclined catapult in mere seconds.
+It is characterized by a sleek, beautiful, pure-white profile.
 
 
+Overall length: 20m (60ft); wingspan: 12m (35ft); gross weight: 18.2t (40,100 lbs);
+production cost: $1,250,000 per unit; production time: 9 months.
+It is equipped with twin turbojet compressors at the rear of the fuselage
+that feed air to the tail-mounted ramjet.
+During supersonic flight in the thin air of high altitudes,
+control is maintained via pitch-control jets,
+which are also utilized during landing maneuvers.
+It is also equipped with a small yet powerful conventional rocket for emergencies.
 
-機体としては、A-4スカイホークを参考にスケールアップしてデザインされた？ような感じの形状です．
+At launch, the aircraft is positioned on the catapult via an elevator,
+while the pilot is transported from the Cloudbase ready room (the "Amber Room") to the cockpit via a hydraulic lift.
+
+Controls and targeting systems are ergonomically adjusted for ease of use by the pilot.
+The aircraft is equipped with an automatic piloting system managed by a flight control computer,
+monitors for atmospheric and airframe surface temperatures,
+and communication and radar equipment.
+Ammunition and air-to-air or air-to-ground missiles are selected and fired based on instructions from the tactical support computer.
+
+In terms of airframe design, it bears a resemblance to a scaled-up version of the A-4 Skyhawk.
 
 エンゼル機の初期型(左)と後期型(右)
 
