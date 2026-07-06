@@ -37,7 +37,7 @@ https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=400|https://examp
 ### the United Federation of Planets
 
 {% capture my_tiles %}
-https://64.media.tumblr.com/a1b0b330b296d9be937f1b967b47a34f/4eaa47f6d2aab5da-90/s2048x3072/5d3184908683a37029be55f0d3fba0dd915ede02.pnj?w400|https://64.media.tumblr.com/59f95f5cf709c62b5f744d27eb3cc6e5/4eaa47f6d2aab5da-7b/s2048x3072/41e8dbd28cfb7b0f81d3832357a2899481bd9745.pnj
+https://64.media.tumblr.com/a1b0b330b296d9be937f1b967b47a34f/4eaa47f6d2aab5da-90/s2048x3072/5d3184908683a37029be55f0d3fba0dd915ede02.pnj?w400|https://64.media.tumblr.com/05eb01aa1694c70910bf0e9ae4a195af/4eaa47f6d2aab5da-63/s2048x3072/0afafac8dfda8cf7e53dd7d6d7ff2b5c1cef1ced.pnj
 {% endcapture %}
 {% include multitile.html data=my_tiles size="150" %}
 
