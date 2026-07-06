@@ -23,6 +23,9 @@ I also have vivid memories of things like
 the Angel Interceptors launching in formation,
 the dynamic presence of the Pursuit Vehicle,
 and the emergency ejection seats.
+
+The war in *Captain Scarlet* mirrors the dynamics of modern warfare. The Mysterons and Spectrum represent the likes of the U.S. and Iran, or Russia and Ukraine; consequently, these conflicts never come to an end.
+
 And then there's... Captain Scarlet's face—rugged and tough, with that heavy stubble... (^^;
 
 
