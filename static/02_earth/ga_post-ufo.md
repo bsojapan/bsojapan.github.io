@@ -69,6 +69,198 @@ UFOが防衛網を突破して地上に降下・不時着した場合に出動�
 ### Outline
 Stingray was established by the .
 
+
+　『 謎の円盤 UFO 』の続編．
+ムーンベース・アルファは，
+雨の海の近くのプラトンクレーター
+(<a href="http://www.moonsystem.to/moonmap/index1.html" target="_blank">地図</a>)
+に設営された自給自足型コロニーである．
+汎用宇宙船として EAGLE TRANSPORTER が配備されていた．
+宇宙空間を含んだ世界戦争を経た後，
+地球上では紛争もなくなり，
+世界的な統一国家が誕生していた．
+それにともない，
+核兵器がすべて、
+核処分エリア(NDA-1)1として指定されたサイトで埋設廃棄管理することになり，
+ムーンベース アルファが管理していた．
+その後，発射台1および宇宙探検部門が本格稼働を始め，
+科学者たちが駐在することになった．
+ところが，
+1999年9月13日，
+磁気放射線の増加により新たに運用されていたより大きな貯蔵施設 NDA-2で大爆発が起こり，
+月が地球の衛星軌道を外れ，
+地球の反対側数百光年から現れたブラックホールに引きつけられていく．
+タイムワープやスペースワープをともない宇宙の彼方へと漂い始める．
+アルファ基地のクルーの宇宙サバイバルの始まりだった．
+
+<br>
+ジェリー･アンダーソンの人間によるSF作品の二作目．
+２シーズン分製作され，日本でも 1977年,81年 に放映された。
+<br>
+</p>
+
+<!-- ============================================= -->
+<p class="coment2">
+<div class="blue1">イーグル宇宙船  Eagle Transporter </div><br>
+<a href="p-eagle-01.jpg" width="180" hight="120" alt="イーグル宇宙船  Eagle Tranceporter" title="イーグル宇宙船  Eagle Transporter"target="_newwindow">
+<img src="p-eagle-01s.JPG" align="left">
+</a>
+<a href="p-eagle-02.JPG" width="180" hight="120" alt="イーグル宇宙船  Eagle Transporter" title="イーグル宇宙船  Eagle Transporter"target="_newwindow">
+<img src="p-eagle-02s.JPG" align="right">
+</a>
+　イーグル宇宙船は国際月資源管理会議の公式惑星間宇宙船のひとつで，
+地球からと月で調達した資材でムーンベースアルファにおいて製造された汎用宇宙船．
+全長76ft(23.2m)、幅30ft(9.1m)，高さ14ft(4.3m)、総重量238t.
+3万km/h(0.15c)の最高速度で、257億kmの最大行動範囲を有する．
+本来は，ムーンベースと地球のシャトルとして利用していたので，
+地球重力クラスの惑星ならば，
+大気圏突入，着地，離陸，大気圏離脱が可能である．
+本来軍用目的に設計されたものではないが，
+レーザーガンを標準装備し，宙対宙ミサイルも装備できる．
+モジュール式宇宙船で，
+構造は大きく三つに分類できる．
+司令モジュール，
+ユーティリティポッドと四つの側面浮揚体を含めた上部構造体のモジュール，
+主燃料タンクと四つのブースターのモジュールである．
+通常は偵察任務に用いられ，四つの核融合エンジンで航行し，
+その場合48時間分の燃料を携行する．
+
+ポッドを換装して様々な用途に対応することができる．
+ポッドには約６種類あり，
+標準(8人-12人)，VIP輸送(オレンジ色)，貨物輸送，ウインチ，救助，
+偵察探検(4人)，調査研究(6人)，に対応している．
+
+重機器運搬用のウインチなどの専門モジュールや，
+強重力惑星離脱用の補助推進ロケットも装着可能で，
+大気圏飛行用の小型航空機"アルファグライダー"も運搬可能である．
+(<a href="http://www.space1999.net/~catacombs/main/models/wrefm.html" target="_blank">参考サイト</a>)
+
+ムーンベースアルファでは，
+12の運送イーグル、26の偵察イーグルおよび2機の救助イーグルフリートを保有し，
+技術スタッフによって常に飛行可能状態に保たれ，
+必要に応じて修理，製造も行う．
+
+<br>
+<br clear="right">
+<br clear="left">
+</p>
+<p align="center">
+<a href="p-eagle-03.jpg" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 1]
+</a>
+<a href="p-eagle-04.jpg" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 2]
+</a>
+<a href="p-eagle-05.jpg" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 3]
+</a>
+<a href="p-eagle-06.jpg" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 4]
+</a>
+<br>
+<a href="p-r-eagle_11l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view A]
+</a>
+<a href="p-r-eagle_15l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view B]
+</a>
+<a href="p-r-eagle_12l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view C]
+</a>
+<a href="p-r-eagle_13l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view D]
+</a>
+<a href="p-r-eagle_14l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view E]
+</a>
+</p>
+<!-- ============================================= -->
+<p class="coment2">
+<div class="blue1">イーグル宇宙船  Rescue Eagle </div><br>
+<a href="p-r-eagle_02l.JPG" width="180" hight="120" alt="イーグル宇宙船   Rescue Eagle " title="イーグル宇宙船   Rescue Eagle "target="_newwindow">
+<img src="p-r-eagle_02s.JPG" align="right">
+</a>
+<a href="p-r-eagle_04l.JPG" width="180" hight="120" alt="イーグル宇宙船   Rescue Eagle " title="イーグル宇宙船   Rescue Eagle "target="_newwindow">
+<img src="p-r-eagle_04s.JPG" align="left">
+</a>
+　イーグル宇宙船にポッドを換装して，
+救助ポッドを装着したもの．
+救助ポッドは外部上の赤いラインで識別できる特別タイプの乗客ポッド．
+惑星の上陸時に、あるいは遠距離宇宙で被災したとき，
+傷または疾病のフィールド分析および治療に使用される．
+通常，医寮スタッフが乗り込み，
+可動式ベッド、
+患者モニターユニットおよび現場外科治療のための設備を装備している．
+<br>
+<br clear="right">
+<br clear="left">
+</p>
+<p align="center">
+<a href="p-r-eagle_01l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 1]
+</a>
+<a href="p-r-eagle_03l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 2]
+</a>
+<a href="p-r-eagle_05l.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 3]
+</a>
+</p>
+
+<!-- ============================================= -->
+<p class="coment2">
+<div class="blue1">ホーク  HAWK Mk IX</div><br>
+<a href="p-hawk01.JPG" width="160" hight="120" alt="" title="ホーク  Hauk MK-IK"target="_newwindow">
+<img src="p-hawk01s.JPG" align="right">
+</a>
+<a href="p-hawk02.JPG" width="160" hight="120" alt="" title="ホーク  Hauk MK-IK"target="_newwindow">
+<img src="p-hawk02s.JPG" align="left">
+</a>
+　ドラマ中ひとつのエピソード(WAR GAMES)に出てきたゲストメカ．
+エピソード中では，
+ムーンベースアルファのイーグル編隊を壊滅させ，
+基地に大きな被害を与えています．
+これまでに８つのバージョンを経て改造されたホークで，
+一説(David Hirsch)によれば
+"UFO"のインターセプターの発展型(後継機)ともいわれている．
+　ホークには強力なブースターが多くあり，
+その機動性の高さを想像させる．
+ノーズコーンはイーグルににているものの，
+全体にスマートに作られている．
+コクピット部はイーグル同様せいぜい複座の二人乗りのようで，
+各ブロックは切り離しが可能になっているように見える．
+また，降着装置が見られず、
+完全なスペース仕様になっているか収納式降着装置を装備していると考えられる．
+左右にある大型推進ロケットは、
+大気圏内飛行においては空力的に問題となりそうだが，
+少なくとも月面における低重力中のオペレーションが可能と思われる．
+主要武器は、
+機首近くの太いパイロンにつけられたものだが，
+先端部のものは
+可視レーザー・ビームではなく機銃のように閃光を発する武器であった．
+ミサイルは見られないが、
+パイロン下のBOXはミサイル装置のようにも見える．
+原型モデルでは，
+BOXおよびパイロン前縁に発射口のようなものが見られ，
+従来型レーザー兵器が装備されていたとも考えられる．
+<br clear="right">
+<p align="center">
+<a href="p-hawk03.JPG" width="160" hight="120" alt="" title=""target="_newwindow">
+[another view 1]
+</a>
+</p>
+<!-- ============================================= -->
+<p class="coment2">
+<div class="blue1">ムーンバギー  Moon Buggy</div><br>
+　６輪月面車．25台を配備．
+最新の再利用燃料で駆動する．
+どのような悪路でも充分走行可能なサスペンションを装備．
+<br clear="right">
+</p>
+
+<!-- ============================================= -->
+<!-- ============================================= -->
+
 ### Main Vehicles
 #### *****
 
