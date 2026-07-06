@@ -29,32 +29,29 @@ And then there's... Captain Scarlet's face—rugged and tough, with that heavy s
 ### Vehicles
 #### SPACTRUM CLOUDBASE
 
-地球上のあらゆる場所に移動可能な、スペクトラムの巨大な浮遊航空基地（最高司令部）です。
-通常は高度約40,000フィート（約12,000m）の上空に常に浮遊しています。
-全長630ft(192m)、全幅330ft(100m)の空中空母．
-大型の滑走路を備え、ここからエンゼル機などの航空部隊が世界中へ直接スクランブル発進します。
-スペクトラム要員が暮らしながら働いている．
-ホワイト大佐をはじめとする主要メンバーの居住・執務空間でもあります。
+Cloudbase is Spectrum's massive floating airbase (and supreme headquarters), measuring 630 feet (192 meters) in length and 330 feet (100 meters) in width, capable of traveling to any location on Earth.
+Although mobile, it typically remains stationed in the upper atmosphere—at an altitude of approximately 12,000 meters (40,000 feet)—hovering constantly.
 
-太陽エネルギーエンジンによって、
-都市が2週間に必要とするエネルギーを一日で生産できる．
-エア インテイク ナセル ジェット 
-クラウド転換エンジン
-(よくわからないけど、大気中の物質を変換して動力源にしている？)
-によって動力が供給されるアトムジェットによって推進する．
-CLOUDBADSEは移動可能だが、
-通常、海抜40,000ft(12,200m)の地球静止軌道に浮かんでいる．
-フルレンジのコンピューター、レーダー、通信通信システムおよび
-情報モニタリングとそれらのデーターの保管機能を持つ．
-スペクトラム"エンゼル迎撃機"のための
-メンテナンス、修理および航空機発着ハンガーを装備している．
-その他の設備には、
-会議室、ラウンジ、船内病室、エージェントのためのトレーニングコーナー、
-兵器の保管庫、設計開発やテストをおこなう実験室(分析および研究センター)がある．
-また、
-RELAXABAYはスペクトラムのレジャー設備で、
-水泳プール、テニスとスカッシュのコート、
-小型スキー滑走斜面、卓球、ビリアードなどがある．
+It features a large, full-length flight deck from which air units, such as the Angel Interceptors, can scramble directly to locations worldwide.
+It serves as both a living and working environment for Spectrum personnel, including the living quarters and offices for key figures like Colonel White.
+
+Its power source is a solar energy engine capable of generating a two-week supply of urban energy in just a single day.
+Propulsion is provided by "Atom-Jets," which are powered by "Air Intake Nacelle Jet Cloud-Conversion Engines" (converting atmospheric matter into fuel, even while operating outside the dense atmosphere).
+
+The base is equipped with comprehensive computer, radar,
+and communication systems, as well as capabilities for
+information monitoring and data storage.
+It houses maintenance, repair, and hangar facilities
+for Spectrum's "Angel Interceptors"—
+featuring capacity far exceeding the needs of the fleet—
+along with amenities such as conference rooms, a lounge,
+an infirmary, an agent training area,
+an armory, and laboratories (analysis and research centers)
+for design, development, and testing.
+Additionally,
+"Relaxabay" serves as the base's leisure facility,
+offering a swimming pool, tennis and squash courts,
+a small ski slope, table tennis, billiards, and more.
 
 
 #### Angel Interceptor
