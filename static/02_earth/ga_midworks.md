@@ -92,22 +92,14 @@ Air inflators within the landing skids allow for flexible, stable landings on bo
 
 #### SPJ (SPECTRUM PASSENGER JET)
 
-エージェントや要人を地上からクラウドベースへと送り届けるための、垂直離着陸（VTOL）機能を持った高速人員輸送機です。
+This is a twin-engine, high-speed, non-combat private personnel transport aircraft—a modified version of the high-speed TVR 24 civilian airliner—designed to ferry agents and VIPs between the ground and the cloud-based facility. It was later retrofitted with Vertical Take-Off and Landing (VTOL) and Very Short Take-Off and Landing (VSTOL) systems, and is also equipped with self-defense missiles.
 
-高速非戦闘自家用航空機．
-敵の攻撃に応じて要員を輸送する．<br>
-　7人乗り．操縦席は2席．
-1,125MPH(Mach1.5)、全長78ft(23.8m)、
-全幅37ft(11.3m)．総重量 630,427LBS.(285,957kg)<br>
-TVR 24民間航空機を転用したもの．
-航続距離12000マイル(19,300km)に十分なハイオク燃料搭載可能．
-この燃料によって二発の再加熱ターボ・ジェットによる主プラントを駆動．
-外翼は90度回転することによって、
-エアブレーキになる．
-強力なコンピューターによって、
-パイロット一人でも運行可能．
-ノーズコーン内には、対気速度計などが収容されている．
+It is a seven-seater aircraft (including two cockpit seats) designed to transport personnel in response to enemy attacks.
+It boasts a top speed of 1,125 mph (Mach 1.5), a length of 78 ft (23.8 m),
+a wingspan of 37 ft (11.3 m), a gross weight of 630,427 lbs (285,957 kg), and a range of 19,300 km (12,000 miles).
+Although the triangular fuselage cross-section might make the cabin appear cramped, the aircraft is comparable in size to the De Havilland Canada DHC-8; with a spacious cabin deck that accommodates conference tables, it serves effectively as a mobile operations center.
 
+The outer wing sections can rotate 90 degrees to act as airbrakes, enabling landing at the cloud-based facility. Thanks to powerful computer systems, the aircraft can be operated by a single pilot.
 
 
 #### マグナコプター (MAGNACOPTER)
