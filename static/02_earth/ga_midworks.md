@@ -92,7 +92,7 @@ Air inflators within the landing skids allow for flexible, stable landings on bo
 
 #### SPJ (SPECTRUM PASSENGER JET)
 
-This is a twin-engine, high-speed, non-combat private personnel transport aircraft—a modified version of the high-speed TVR 24 civilian airliner—designed to ferry agents and VIPs between the ground and the cloud-based facility. It was later retrofitted with Vertical Take-Off and Landing (VTOL) and Very Short Take-Off and Landing (VSTOL) systems, and is also equipped with self-defense missiles.
+This is a twin-engine, high-speed, non-combat private personnel transport aircraft—a modified version of the high-speed TVR 24 civilian airliner—designed to ferry agents and VIPs between the ground and the cloud-based facility. It was later retrofitted with Vertical Take-Off and Landing (VTOL) and Very Short Take-Off and Landing (VSTOL) systems, and is also equipped with self-defense missiles. It is also capable of landing on water, thanks to three hydrofoils extending from the base of its wings.
 
 It is a seven-seater aircraft (including two cockpit seats) designed to transport personnel in response to enemy attacks.
 It boasts a top speed of 1,125 mph (Mach 1.5), a length of 78 ft (23.8 m),
