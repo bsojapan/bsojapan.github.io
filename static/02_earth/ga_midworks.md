@@ -24,7 +24,7 @@ The war depicted in *Captain Scarlet* seems to mirror the dynamics of modern war
 
 
 ### Vehicles
-#### SPACTRUM CLOUDBASE
+#### SPECTRUM CLOUDBASE
 
 Cloudbase is Spectrum's massive floating airbase (and supreme headquarters), measuring 630 feet (192 meters) in length and 330 feet (100 meters) in width, capable of traveling to any location on Earth.
 Although mobile, it typically remains stationed in the upper atmosphere—at an altitude of approximately 12,000 meters (40,000 feet)—hovering constantly.
@@ -33,7 +33,7 @@ It features a large, full-length flight deck from which air units, such as the A
 It serves as both a living and working environment for Spectrum personnel, including the living quarters and offices for key figures like Colonel White.
 
 Its power source is a solar energy engine capable of generating a two-week supply of urban energy in just a single day.
-Propulsion is provided by "Atom-Jets," which are powered by "Air Intake Nacelle Jet Cloud-Conversion Engines" (converting atmospheric matter into fuel, even while operating outside the dense atmosphere).
+Propulsion is provided by "Atom-Jets," which are powered by "Air Intake Nacelle Jet Cloud-Conversion Engines" (converting atmospheric matter into fuel, even within the thin upper atmosphere).
 
 The base is equipped with comprehensive computer, radar,
 and communication systems, as well as capabilities for
