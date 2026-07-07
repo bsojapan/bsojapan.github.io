@@ -117,9 +117,9 @@ Powered by twin turbojet engines and rocket motors. Features include a galley, r
 #### S.P.V (SPECTRUM PURSUIT VEHICLE)
 
 This is a powerful, high-speed, amphibious, 10-wheel-drive pursuit vehicle—arguably the signature machine of Spectrum.
-
 It is built ruggedly to withstand even the roughest driving conditions.
 Deployed at secret bases and outposts worldwide (such as old barracks or abandoned mines), it mobilizes in response to agents' requests.
+
 -  Overall length: 25 ft (7.6 m);
 -  Top speed: Over 200 mph (320 km/h);
   
