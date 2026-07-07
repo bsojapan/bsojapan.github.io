@@ -84,21 +84,10 @@ In terms of airframe design, it looks like an A-4 Skyhawk scaled up to the size 
 
 #### SPECTRUM HELIJET 
 
-多目的ヘリ．悪路など地理条件が非常に悪いとき、
-スペクトル人員の輸送のために、短距離用として用いられる．
-
-全長45ft(13.7m)、ブレード直径39ft(11.9m)、
-ブレード回転数 2,000RPMで、
-最高速度302MPH(486km/h)で5人を移送可能．
-ローターは2発のエアインダクションターボジェットで駆動．
-リング状のテイル形状は機体の安定性を維持するとともに、
-動力喪失時に滑空性能を与える．
-一組の脚フローター内のエアバッグによって、
-陸上でも水上でも適正な圧力を保ち荒れた地理条件でも安定な着地が可能．
-パイロットは操縦用OMNIスキャンスクリーン(下方の視界を示し、
-クラウドベースにいないすべてのスペクトラム要員の位置が示される)
-を使用できる．
-高性能爆薬ロケット弾発射装置を装備．
+A multi-purpose helicopter used for short-range transport of Spectrum personnel, particularly in areas with extremely poor geographical conditions or rugged terrain.
+Based on the "Rotor" round-tail-rotor helicopter-jet from the World Army Air Force, the Spectrum Heli-Jet measures 13.7 meters (45 ft) in length with a rotor diameter of 12 meters (39 ft), making it roughly the same size as the BK-177. It is typically armed with a machine gun and a launcher for high-explosive rockets. It can transport five people and reach a top speed of 486 km/h (302 mph).
+The rotor is powered by two air-induction turbojet engines. The ring-shaped tail design maintains aircraft stability and provides gliding capability in the event of power loss.
+Air inflators within the landing skids allow for flexible, stable landings on both land and water. Pilots have access to an OMNI-scan control screen, which displays downward visibility and the locations of all Spectrum personnel not currently within the cloud base.
 
 
 #### SPJ (SPECTRUM PASSENGER JET)
