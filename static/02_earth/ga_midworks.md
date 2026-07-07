@@ -102,17 +102,13 @@ Although the triangular fuselage cross-section might make the cabin appear cramp
 The outer wing sections can rotate 90 degrees to act as airbrakes, enabling landing at the cloud-based facility. Thanks to powerful computer systems, the aircraft can be operated by a single pilot.
 
 
-#### マグナコプター (MAGNACOPTER)
+#### MAGNACOPTER
 
-劇中に一度だけ登場した、全長約60m（200フィート）に及ぶ「史上最大のヘリコプター」です。
-空中版のMSVとも言える機体で、重要会議に出席する代表団を安全に空輸するために使用されました。　
-VIPをゆったりと快適に空輸するための、大型重警備の航空機．
-全長200フィート(61m)、ローター直径150フィート(45.7m)、
-最高速度200MPH(321km/h)．
-20名の人員を輸送可能．
-動力はツインターボ・ジェットとロケット・モータ．
-ギャレー(調理室)、トイレ、コンピューター/通信バンク、ストレージ、
-着陸時にも最高セキュリティを保持可能．
+This is a massive, heavily armored helicopter that appeared only once in the series, designed to transport VIPs through the air in spacious comfort. It serves as an aerial carrier for MSVs, housing one in a cargo bay beneath the fuselage. Its design is based on a high-speed, armored VTOL troop transport (capable of carrying 60 soldiers) originally developed for the World Air Force (later the World Army Air Force, or WAAF). It was utilized to safely transport delegations attending critical conferences.
+
+Overall length: 200 ft (61 m); rotor diameter: 150 ft (45.7 m); top speed: 200 mph (321 km/h). Capacity: 20 personnel.
+
+Powered by twin turbojet engines and rocket motors. Features include a galley, restroom, computer/communications bank, and storage area; it maintains maximum security even while landed.
 
 
 
