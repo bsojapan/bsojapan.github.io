@@ -106,45 +106,32 @@ The outer wing sections can rotate 90 degrees to act as airbrakes, enabling land
 
 This is a massive, heavily armored helicopter that appeared only once in the series, designed to transport VIPs through the air in spacious comfort. It serves as an aerial carrier for MSVs, housing one in a cargo bay beneath the fuselage. Its design is based on a high-speed, armored VTOL troop transport (capable of carrying 60 soldiers) originally developed for the World Air Force (later the World Army Air Force, or WAAF). It was utilized to safely transport delegations attending critical conferences.
 
-Overall length: 200 ft (61 m); rotor diameter: 150 ft (45.7 m); top speed: 200 mph (321 km/h). Capacity: 20 personnel.
+-  Overall length: 61 m (200 ft);
+-  rotor diameter: 50 m (150 ft);
+-  top speed: 320 km?h (200 mph).
+-  Capacity: 20 personnel.
 
 Powered by twin turbojet engines and rocket motors. Features include a galley, restroom, computer/communications bank, and storage area; it maintains maximum security even while landed.
 
 
-
-
-
 #### 追跡戦闘車 S.P.V (SPECTRUM PURSUIT VEHICLE)
 
-　キャプテンスカーレットも搭乗する水陸両用の"高速追跡車"．
-どのような乱暴な運転をしても大丈夫なように頑丈にできている．
-世界中のあちこちの秘密基地に配備され、
-必要に応じて出動する．
-10輪、2席防弾車両．最高速200MPH(320km/h)以上、
-全長25ft(7.6m)、
-窓はなく対衝撃用に後方に向いて着席し、
-テレビモニターを見ながら操縦する．
-動力は、
-液体燃料電池で交換可能なパワーユニット．
-水上では車輪を格納して2つのジェット推進装置で進む．
-車両後部のキャタピラを使って、
-どのようなところでも高速走行が可能．
-磁気ディスク逆推進ブレーキシステムによって
-ほとんど垂直の障害を登坂することも可能．
-革命的レーダー装置(超感度2-ウェイ通信)、
-エアコンディショニングプラント、
-蛋白質食物供給．
-Armanent、レーザーキャノン、地対空ミサイル、
-および車両前部には
-MISTERONに有効な唯一の兵器である電極放射線砲を装備されている．
-敵の攻撃で損傷を受けた場合には、
-中央の操縦室から座席が側方に飛び出し、
-そのあと射出して脱出できるようになっている．
+This is a powerful, high-speed, amphibious, 10-wheel-drive pursuit vehicle—arguably the signature machine of Spectrum.
 
-スペクトラムの看板メカとも言える、10輪駆動の強力な超重装甲車です。
-最大の特徴： 衝突時の衝撃から乗員を保護するため、運転席に窓がありません。ドライバーは「後ろ向き」に座り、テレビモニターの映像だけを頼りに運転します。
-
-装備・機能： 前部にレーザーキャノン、地対空ミサイルを搭載。後部には悪路用の補助キャタピラが備わっており、車体後部から座席ごと脱出する緊急射出座席（エジェクター・シート）も装備しています。世界各地の秘密拠地（古い宿舎や廃坑など）に隠されており、エージェントの要請に応じて即座に出撃します。
+It is built ruggedly to withstand even the roughest driving conditions.
+Deployed at secret bases and outposts worldwide (such as old barracks or abandoned mines), it mobilizes in response to agents' requests.
+Overall length: 25 ft (7.6 m);
+Top speed: Over 200 mph (320 km/h);
+It has no windows; the driver sits facing the rear for impact protection,
+piloting the vehicle while viewing a television monitor.
+Power is supplied by
+an interchangeable power unit utilizing liquid fuel cells.
+It is equipped with a laser cannon and surface-to-air missiles at the front, as well as an electrode radiation gun—the only weapon effective against the Mysterons. Auxiliary tracks at the rear allow for
+high-speed travel over any type of rough terrain.
+A magnetic-disc reverse-thrust braking system
+enables it to climb obstacles that are nearly vertical.
+On water, the wheels retract, and propulsion is provided by two jet units.
+It is also equipped with an emergency ejection seat that allows the occupant to escape sideways from the vehicle body.
 
 
 #### M.S.V. Maximum Security Vehicle
