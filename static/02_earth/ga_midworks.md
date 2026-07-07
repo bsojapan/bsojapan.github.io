@@ -79,7 +79,7 @@ monitors for atmospheric and airframe surface temperatures,
 and communication and radar equipment.
 Ammunition and air-to-air or air-to-ground missiles are selected and fired based on instructions from the tactical support computer.
 
-In terms of airframe design, it bears a resemblance to a scaled-up version of the A-4 Skyhawk.
+In terms of airframe design, it bears a resemblance to a scaled-up to F-4 Phantom version of the A-4 Skyhawk.
 
 エンゼル機の初期型(左)と後期型(右)
 
