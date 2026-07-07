@@ -19,8 +19,7 @@ accompanied by the voice of the Mysterons—leaving me with a somewhat eerie imp
 However,I also have vivid memories of things likethe Angel Interceptors launching in formation,
 the dynamic presence of the Pursuit Vehicle, and the emergency ejection seats.
 
-The war in *Captain Scarlet* mirrors the dynamics of modern warfare, in particular, regarding the origins of the outbreak of hostilities, the rationale used to justify subsequent reprisals, and the escalation of combat resulting from a cycle of retaliatory attacks. The Mysterons or Spectrum represent the likes of the U.S., Israel and Iran, or Russia and Ukraine; consequently, these conflicts never come to an end.
-This work shows Anderson's uncanny ability to predict the future and it brilliantly captures the foolish nature of war.
+The war depicted in *Captain Scarlet* seems to mirror the dynamics of modern warfare—particularly regarding the causes of hostilities, the logic used to justify subsequent retaliatory measures, and the way combat escalates through a cycle of reprisal. Both the Mysterons and Spectrum behave much like nations that justify war, ensuring that the conflict never truly ends. Although the series was set against the backdrop of the Cold War, the Andersons' storytelling resonates with contemporary international conflicts, vividly illustrating the folly of war.
 
 
 
