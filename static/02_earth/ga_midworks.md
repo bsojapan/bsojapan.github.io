@@ -114,14 +114,14 @@ This is a massive, heavily armored helicopter that appeared only once in the ser
 Powered by twin turbojet engines and rocket motors. Features include a galley, restroom, computer/communications bank, and storage area; it maintains maximum security even while landed.
 
 
-#### 追跡戦闘車 S.P.V (SPECTRUM PURSUIT VEHICLE)
+#### S.P.V (SPECTRUM PURSUIT VEHICLE)
 
 This is a powerful, high-speed, amphibious, 10-wheel-drive pursuit vehicle—arguably the signature machine of Spectrum.
 
 It is built ruggedly to withstand even the roughest driving conditions.
 Deployed at secret bases and outposts worldwide (such as old barracks or abandoned mines), it mobilizes in response to agents' requests.
-Overall length: 25 ft (7.6 m);
-Top speed: Over 200 mph (320 km/h);
+-  Overall length: 25 ft (7.6 m);
+-  Top speed: Over 200 mph (320 km/h);
 It has no windows; the driver sits facing the rear for impact protection,
 piloting the vehicle while viewing a television monitor.
 Power is supplied by
