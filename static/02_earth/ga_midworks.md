@@ -137,29 +137,18 @@ It is also equipped with an emergency ejection seat that allows the occupant to 
 
 #### M.S.V. Maximum Security Vehicle
 
-ミステロンにおそわれる恐れのあるVIP移送用4席防弾高速車両．
-全長24ft(7.3m)、重量8t、最高速度200MPH(320km/h)．
-エキスパートのCOACH技術者によるハンドメイド、かつ、
-ワールドフォース空軍による破壊試験をクリアした車体．
-VIPはふっくらした座席とテレビを快適に楽しむことができる．
-主要動力は横置きディーゼルエンジンだが、
-バッテリーによる待機型電動モーターも装備している．
-シェル(外郭)は、
-積層装甲、refrigerationハニカムおよび放射線防護メタルで覆われている．
-ウィンドウは耐熱、放射線防護、防弾石英ガラス製．
-さらに、タイヤも防弾製である．
-兵装は、レーザー砲および対ミステロン電極放射線砲を装備している．
-レーダーおよび2ウェイの通信にも対応し、
-ガスや放射線による脅威が発生した場合、
-外部との接触遮断、車内密閉に対応するために、
-サバイバル用食物キットも装備している．
+A high-speed, four-seat armored vehicle designed to transport VIPs at risk of attack by the Mysterons.
+It measures 24 feet (7.3 meters) in length, weighs 8 tons, and boasts a top speed of 200 mph (320 km/h).
+Hand-built by expert coachbuilders, the vehicle's chassis has successfully passed destructive testing conducted by the World Force Air Force. It is encased in heavy armor; the outer shell features a combination of laminated armor, a refrigerated honeycomb structure, and radiation-shielding metal. The windows are made of heat-resistant, radiation-shielding, bulletproof quartz glass, and the tires are also bulletproof. Its rugged construction allows it to withstand even the blast of a small nuclear weapon.
+VIPs can enjoy a comfortable ride featuring luxurious seating and amenities such as a television.
+It has a top speed of approximately 320 km/h (200 mph) and is also equipped with an electric motor.
+While its primary propulsion comes from independent transverse diesel engines at the front and rear, it also features a battery-powered electric motor for standby operation.
 
-重要人物（VIP）や機密物質を安全に輸送するための大型装甲トレーラー（または特殊バス）です。
+Its armament includes laser cannons and electrode-based radiation cannons designed to counter the Mysterons. It is equipped with radar and two-way communication systems, as well as survival food kits; in the event of threats such as gas or radiation, the vehicle can seal itself off from the outside environment.
 
- 分厚い装甲に覆われており、
- 小型原子爆弾の爆発にさえ耐えられるほどの堅牢性を誇ります。
- 最高時速は約320km（200mph）。
- 劇中ではミステロンの暗殺計画から大統領や要人を守るために投入されました
+In the series, it was deployed to protect the President and other dignitaries from Mysteron assassination plots.
+
+
 #### SPC / SSC（Spectrum Patrol Car / Saloon Car
 特徴： 鮮やかな赤いボディが特徴。
 一般道では信じられないほどの高速で巡航できます（設定では時速約320km以上）。
