@@ -195,20 +195,11 @@ Equipment includes powerful quartz headlights; a centrally mounted "Detector Eye
 
 #### (YELLOW FOX SECURITY TANKER)
 
+"Yellow Fox" is a disguised Spectrum transport vehicle. At first glance, it appears to be an ordinary yellow civilian vehicle, but its interior houses a top-secret mobile conference room that also serves as a VIP transport shelter. It is disguised as a gasoline tanker featuring a four-wheel front axle configuration and an eight-wheel rear axle configuration. It is deployed for missions—such as VIP transport—where secrecy is paramount.
+It is capable of transporting up to six VIPs at speeds of 200 km/h (120 mph).
+The passenger lounge is located within the "container tank" section, which features "Cahelium" reinforcement and double-hulled walls. The vehicle is powered by a diesel engine, and the sealed compartment is equipped with amenities such as a conference table with seating for six.
 
-一見すると民間のごく普通の黄色いガソリンタンクローリーですが、
-その内部は最高機密の移動会議室（兼VIP輸送シェルター）になっています。
-ミステロンの裏をかくための文字通りの「偽装車両」です。　
-VIPの輸送車両．
-イエローフォックスはMSVが目立ちすぎる場合に使用され、
-燃料タンカーを偽装している．
-6人のVIPを移送、120MPH(193km/h)の速度で移動する．
-乗客ラウンジは「コンテナー・タンク」内に設けられ、
-"cahelium"強化と二重殻壁が採用されている．
-動力はディーゼルエンジン．
-6名用シート付きの会議用テーブルなどが
-密封されたコンパートメント内に装備されている．
-
+A hydraulic drawbridge-style ramp at the rear allows for boarding and disembarking. The interior boasts high-end furnishings and fixtures designed for passenger comfort, including a coffee table, a wall-mounted vending machine, and a wine cabinet.
 
 #### スペクトラムホバークラフト (SPECTRUM HOVERCRAFT)
 
