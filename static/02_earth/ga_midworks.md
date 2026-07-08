@@ -189,30 +189,16 @@ A hydraulic drawbridge-style ramp at the rear allows for boarding and disembarki
 
 #### スペクトラムホバークラフト (SPECTRUM HOVERCRAFT)
 
-　砂漠および水上での移動に用いられる最良のギア．
-オーストラリアの訓練施設 SPECTRUM KOALA にフリート(小隊)配備．
-全長62フィート(18.9m)．
-最高速度100MPH(160Km/h)以上で走行可能．
-エアクッションで浮上した本体を推進するために、
-コンプレッサー・タービンに動力を供給するニュートロン・ジェネレーターを使用．
-操縦席はパイロットおよび副操縦士用で、
-乗客は別に2人搭乗可能．
+This blue-and-white, two-tone hovercraft is the optimal vehicle for traversing both desert and water. It is distinguished by vertical fins on its forward-swept wings. It appears to be comparable in size to the Griffon 2000 series.
+Fleets of these craft are deployed for routine patrol duties at bases such as Camp Sahara in North Africa and the SPECTRUM KOALA training facility in Australia.
 
-スペクトラム・ホバークラフトは非常に汎用性の高い乗り物で、他の乗り物では走行できないような険しい地形でも使用できます。日常的には、北アフリカのキャンプ・サハラやオーストラリアのコアラ基地といったスペクトラムの訓練施設でパトロールに使用されています。
+-  Overall length: 62 feet (18.9 m)
+-  Top speed: Over 100 mph (160 km/h)
 
+The compressor turbine used to propel the air-cushioned hull is electrically driven, powered by a thermionic conversion system known as a "Neutron Generator."
+The cockpit accommodates a pilot and co-pilot, with additional seating for two passengers.
 
-ホバークラフトは4人乗りです。
-
-
-ホバークラフトは、固定式のプリスピンローターと回転するローターブレードによって駆動されます。これらのローターブレードは、空気インペラとして機能し、流入する空気を下向きにエアクッションの出口に送り込み、ホバークラフトを地面や水面から持ち上げます。機体は主にフリートニウム合金と従来の船舶用材料でできており、非常に丈夫で軽量です。機体色は青と白です。
-
-
-ホバークラフトは、空気と燃料の混合気を加熱する熱交換器システムによって電気エネルギーを生成する熱電子変換器を動力源としてモーターを駆動する。また、代替動力源として、ベンシェバにあるスペクトラム製油所から供給される特殊な燃料も使用する。
-
-
-ホバークラフトがどこで製造されているかは不明だが、オーストラリアのコアラ基地、スペクトラム士官候補生センター、ホバークラフト基地のいずれかであると推測される。メンテナンスは各訓練施設で行われている。
-
-
+Constructed primarily from Fleetnium alloy and conventional marine materials, the craft is exceptionally durable yet lightweight.
 
 
 
