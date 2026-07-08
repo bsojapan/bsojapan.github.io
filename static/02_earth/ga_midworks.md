@@ -12,7 +12,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 [The Seacret Service](#the-seacret-service)
 
-## CAPTAIN SCARLET and t\The MISTERONS
+## CAPTAIN SCARLET and The MISTERONS
 
 ### Overview
 
