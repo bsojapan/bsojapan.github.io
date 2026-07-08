@@ -26,8 +26,6 @@ The war depicted in *Captain Scarlet* seems to mirror the dynamics of modern war
 
 ### Vehicles
 
-###  2005
-
 #### SPECTRUM CLOUDBASE
 
 Cloudbase is Spectrum's massive floating airbase (and supreme headquarters), measuring 630 feet (192 meters) in length and 330 feet (100 meters) in width, capable of traveling to any location on Earth.
