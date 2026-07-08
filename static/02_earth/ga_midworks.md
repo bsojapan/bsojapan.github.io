@@ -5,6 +5,7 @@ permalink: /static/02_earth/ga_midworks.html
 image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e3158051a83db7e6-04/s1280x1920/820cd4f3a27246f8c18eeb475f3b6fad1d2273da.jpg"
 ---
 
+<span id="index">INDEX</span>
 
 [Captain Scarlet and Misterons](#captain-scarlet-and-the-misterons)
 
@@ -216,6 +217,7 @@ Constructed primarily from Fleetnium alloy and conventional marine materials, th
 このゼロ-Xによる火星探査の際、
 ミステロンの都市を誤って攻撃してしまったことが、すべての戦いの始まり（ミステロンの地球侵略）となりました。
 
+[Return to top](#index)
 
 ### Captain Scarlet and the Return of thee Mysteron (1999)
 
@@ -237,6 +239,7 @@ Constructed primarily from Fleetnium alloy and conventional marine materials, th
 
 ##### ホワイトファルコン（エンゼル機に相当）
 
+[Return to top](#index)
 
 
 ## JOE 90
@@ -245,7 +248,11 @@ Constructed primarily from Fleetnium alloy and conventional marine materials, th
 #### MAXCAR
 #### U-59
 
+[Return to top](#index)
+
 ## The Seacret Service
 ### Overview
 ### Main Vehicles
 #### *****
+
+[Return to top](#index)
