@@ -206,13 +206,6 @@ The cockpit accommodates a pilot and co-pilot, with additional seating for two p
 Constructed primarily from Fleetnium alloy and conventional marine materials, the craft is exceptionally durable yet lightweight.
 
 
-
-
-
-
-
-
-
 #### ゼロ-X（Zero-X：有人火星探査船）
 もともとは劇場版『サンダーバード・劇場版』に登場した大型宇宙船ですが、
 本作の第1話にも登場します。
@@ -220,26 +213,25 @@ Constructed primarily from Fleetnium alloy and conventional marine materials, th
 ミステロンの都市を誤って攻撃してしまったことが、すべての戦いの始まり（ミステロンの地球侵略）となりました。
 
 
-### 1999
-Captain Scarlet and the Return of the Mysterons
+### Captain Scarlet and the Return of thee Mysteron (1999)
+
 1999年テストフィルム1話（約3分）21世紀に向けて制作されたCGIのテスト映像。
 後にブルーレイ化もされました。
 
-### 2005
-
-New Captain Scarlet
+### New Captain Scarlet (2005)
 
 2005年全26話モーションキャプチャーやCGI技術を駆使した「ハイパーマリオネーション」によるリブート（再始動）作品。
 
 2005年に3DCGでリメイクされた『新キャプテン・スカーレット（New Captain Scarlet）』では、メカの名称やデザインが一新されています。
+#### vehicles 
 
-スカイベース（クラウドベースに相当）
+##### スカイベース（クラウドベースに相当）
 
-ライノ / Rhino（SPVに相当する重装甲車）
+##### ライノ / Rhino（SPVに相当する重装甲車）
 
-チーター / Cheetah（SPCに相当。変形して飛行可能）
+##### チーター / Cheetah（SPCに相当。変形して飛行可能）
 
-ホワイトファルコン（エンゼル機に相当）
+##### ホワイトファルコン（エンゼル機に相当）
 
 
 
