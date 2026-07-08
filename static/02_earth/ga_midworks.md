@@ -152,23 +152,17 @@ In the series, it was deployed to protect the President and other dignitaries fr
 
 
 #### SPC / SSC（Spectrum Patrol Car / Saloon Car
-特徴： 鮮やかな赤いボディが特徴。
-一般道では信じられないほどの高速で巡航できます（設定では時速約320km以上）。
+This is a high-speed, all-wheel-drive, five-seat sports coupe used by Spectrum personnel for general patrol and pursuit duties. It is primarily utilized for urban reconnaissance, agent transport, and high-speed pursuits in relatively low-risk environments.
+It features a striking red body and is capable of cruising at very high speeds on public roads (rated at over 320 km/h).
 
-装備： ガトリング機関銃や赤外線探知機、伸縮式スキャナーを搭載。主に市街地での偵察やエージェントの移動、比較的低リスクな環境での高速追跡に使用されます。
+- Length: 18 ft (5.5 m)
+- Top speed: 300 km/h (150–200 mph)
+- Weight: 3,248 lbs
+- Seating capacity: 5 (potentially 6, with three seats each in the front and rear)
 
-スペクトラムの一般用・追跡用の超高速スポーツクーペです。
-　5席巡回用で、すべてのスペクトラム要員が使用する．
-全長18ft(5.5m)、
-四輪駆動、最高速度200MPH(320km/h)．
-後部床下にガスタービンを装備、
-燃焼室からのHOT GASでコンプレッサーとパワータービンを駆動、
-車体は強化されたシャシーにあわせて軽量かつ弾力のあるfleetonium合金でできている．車両頭部はラム(衝角)として使用できるように強化されている．
-また、タイヤとフロントガラスは防弾機能を持つ．
-強力クオーツ・ヘッドライト、
-中央に配置された「デテクターアイ(検出装置)」に光学望遠鏡を備えた長距離レーザー・プロジェクターと赤外線ビーム、
-側光および方向指示器などが装備されている．
-また、変速装置、独立懸架サスペンションおよび磁気ブレーキを装備．
+It is powered by a gas turbine engine located beneath the rear floor; air is drawn in through an intake above the cabin, and hot exhaust gases drive the compressor and power turbine to transmit power to the front and rear wheels, with exhaust vented upwards from the rear. It is equipped with a transmission, independent suspension, and magnetic brakes.
+The body is constructed from "Fleetonium" alloy—a material that is both lightweight and resilient—mounted on a reinforced chassis. The vehicle's nose is reinforced to function as a battering ram, and both the tires and windshield are bulletproof.
+Equipment includes powerful quartz headlights; a centrally mounted "Detector Eye" unit featuring an optical telescope, long-range laser projector, and infrared beam; as well as side lights and turn signals. It also carries twin rapid-fire Gatling guns (housed within the front wheel arches), an infrared detector, a telescopic scanner, airbags, and an ejection seat.
 
 
 ####  探索トラック (SPECTRUM DETECTOR TRUCK)
