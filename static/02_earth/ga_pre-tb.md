@@ -10,7 +10,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 This is the first of Gerry Anderson's landmark sci-fi series.
 
 
-Professor Rudolph Popkiss and his assistant, Dr. Horatio Beaker, develop the "Supercar"—a vertical take-off and landing (VTOL) vehicle piloted by Mike Mercury—at their secret facility in the Nevada desert, known as Black Rock Laboratory. During the vehicle's maiden test flight, a young boy named Jimmy Gibson—who was aboard a plane piloted by his older brother—crashes into the ocean and issues a distress call amidst the dense fog. Rescued by the "Supercar Team," Jimmy joins the group alongside his chimpanzee companion, Mitch. Together, they embark on adventures involving rescue missions and investigations, all while thwarting the various schemes of the notorious Master Spy and his henchman, Zarin, who seek to capture the Supercar. The series spans 39 episodes.
+Professor Rudolph Popkiss and his assistant, Dr. Horatio Beaker, develop the "Supercar"—a vertical take-off and landing (VTOL) vehicle piloted by Mike Mercury—at their secret facility in the Nevada desert, known as Black Rock Laboratory. During the vehicle's maiden test flight, a young boy named Jimmy Gibson—who was aboard a plane piloted by his older brother—crashes into the ocean and sends out a distress signal amidst the dense fog. Rescued by the "Supercar Team", Jimmy had joined the group alongside his chimpanzee companion, Mitch. Together, they embark on adventures involving rescue missions and investigations, all while thwarting the various schemes of the notorious Master Spy and his henchman, Zarin, who seek to capture the Supercar. The series spans 39 episodes.
 
 ### Vehicles
 #### Supercar
