@@ -167,32 +167,18 @@ Equipment includes powerful quartz headlights; a centrally mounted "Detector Eye
 
 ####  探索トラック (SPECTRUM DETECTOR TRUCK)
 
-目標にスペクトルエージェントを送り込むための
-通信設備を装備した4輪車両．
-全長24フィート(7.3m)．
-360度回転式多チャンネルアンテナが装備され、
-受信した情報はすべて後部の小型レーダー室に送られる．
-ほかの探索トラックからの信号もリンクし相互に情報交換可能、
-目標の座標値が速やかに計算される．
-かなり高度な探索、通信設備が搭載されている．
-即座に動員することが可能なように8台のユニットを維持してる．
+The "Radar Van" is a four-wheeled van—resembling a camper—distinguished by a prominent dark green or blue rotating antenna. Eight of these vehicles exist, forming a mobile detection system designed to track targets for Spectrum agents.
 
-「レーダーバン」とも呼ばれるこの指向性長距離ガイガーカウンター搭載バンは、8台存在する。これらは、カルバー原子力センターへの侵入事件（第4話「マンハント」）の後、ブラック大尉の放射能汚染を検知・追跡するために使用された。
+They were utilized to detect and track Captain Black following his exposure to radioactive contamination during the infiltration of the Culver Nuclear Center (Episode 4, "Manhunt"). A large, roof-mounted, rotating "parabolic reflector"—acting as a directional, long-range Geiger counter—links with other vans to instantly triangulate the target's position. The vehicles are equipped with highly advanced search and communication systems.
 
+- Overall length: 7.3 m (24 feet).
+Equipped with a 360-degree rotating multi-channel antenna; all received data is transmitted to a small radar compartment at the rear.
 
-屋根に取り付けられた大型の回転式「放物面反射鏡」は、他のバンと連携して、目標物の位置を三角測量するために使用される。 
+The detection vehicles run on a special fuel recovered from the Spectrum refinery in Beersheba. Onboard equipment is powered by hydrogen fuel injection cells, which generate electricity by combining ambient air with hydrogen fuel to drive an electric motor.
 
+The van accommodates five personnel (a driver, a navigator, and three passenger-technicians) and was manufactured for the Spectrum organization by an unnamed company.
 
-探知車は、ベンシェバにあるスペクトラム製油所が回収した特殊な燃料で稼働する。車内の機器は、水素燃料噴射セルによって駆動され、周囲の空気と水素燃料を組み合わせることで発電し、電気モーターを動かす。
-
-
-このバンは5人乗りの車両（運転手とナビゲーターが2人、乗客兼技術者が3人）で、スペクトラム組織のために無名の企業が製造したものである。 
-
-
-このバンは恐らく一般的な自動車用材料（内部にロールケージと補強材を備えている）で作られており、色は青である。
-
-
-
+Constructed from standard automotive materials (though featuring an internal roll cage and structural reinforcements), the van is blue in color.
 #### (YELLOW FOX SECURITY TANKER)
 
 "Yellow Fox" is a disguised Spectrum transport vehicle. At first glance, it appears to be an ordinary yellow civilian vehicle, but its interior houses a top-secret mobile conference room that also serves as a VIP transport shelter. It is disguised as a gasoline tanker featuring a four-wheel front axle configuration and an eight-wheel rear axle configuration. It is deployed for missions—such as VIP transport—where secrecy is paramount.
