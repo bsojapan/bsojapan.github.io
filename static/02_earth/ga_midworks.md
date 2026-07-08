@@ -6,7 +6,11 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ---
 
 
-[Captain Scarlet and Misterons](captain-scarlet-and-misterons)
+[Captain Scarlet and Misterons](captain-scarlet-and-the-misterons)
+
+[JOE 90](joe-90)
+
+[The Seacret Service](the-seavret-service)
 
 ## CAPTAIN SCARLET and the MISTERONS
 
