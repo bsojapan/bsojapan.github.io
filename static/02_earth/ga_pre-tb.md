@@ -36,6 +36,18 @@ This refers to a class of "super-sized" or "experimental long-range" spacecraft 
 ### Vehicles
 #### Fireball
 
+It belongs to a class of "super-sized" or "experimental long-range" spacecraft developed by the World Space Patrol; the name reflects the immense power of its launch.
+
+The XL5 patrols Sector 25 of known interstellar space and is one of at least 30 ships in the "Fireball XL" fleet (with the XL30 having been confirmed, the number appears to serve as an identifier).
+
+The Fireball XL class is equipped with a "gravity activator" to generate artificial gravity. The forward section is a winged cockpit unit known as "Fireball Junior," which functions as a short-range, vertical-takeoff-and-landing (VTOL) craft for planetary exploration. The main section houses the navigation bay, laboratory, workshop, lounge, and crew quarters, as well as the rocket motors that enable interstellar travel.
+
+Upon takeoff from Space City, the craft accelerates along a launch rail approximately 1.6 km (1 mile) long while mounted on a trolley; the rail terminates in a 40-degree incline. When returning to Space City, it performs a vertical landing from a horizontal attitude using thrusters mounted on the underside of the hull.
+
+Upon arrival at an alien world, the main section typically remains in orbit while Fireball Junior descends to the surface.
+
+The XL5 carries out deep-space patrol missions lasting three months. Between missions, it remains on standby at Space City.
+
 ## STINGRAY
 
 
