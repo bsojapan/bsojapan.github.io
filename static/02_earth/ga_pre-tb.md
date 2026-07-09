@@ -17,6 +17,22 @@ This is the first of Gerry Anderson's landmark sci-fi series.Professor Rudolph P
 
 ## FIREBALL XL-5
 ### Overview
+
+Set in the year 2062, this series chronicles the missions of the *Fireball XL5*, an Earth spacecraft belonging to the World Space Patrol.
+The ship is commanded by Colonel Steve Zodiac, and the crew includes Professor Matthew Matic (navigator and engineer), the captivating Dr. Venus, and the robot co-pilot, Robert. Venus's pet, Zoonie the Lazoon, also occasionally joins them on their adventures.
+
+The World Space Patrol is headquartered at "Space City," located on an unnamed island in the South Pacific. Commander Zero—gruff yet kind-hearted—serves as Commander-in-Chief and Chief Controller, assisted by Lieutenant Ninety.
+
+In the course of their adventures across the cosmos, the crew of the *Fireball XL5* visits alien planets and confronts formidable foes—both human and non-human.
+
+Produced using the "Supermarionation" technique, this was the final black-and-white series in the franchise, consisting of thirty-nine 30-minute episodes.
+Following the TV series, a long-running comic strip (illustrated by artists such as Mike Noble) was produced.
+
+### Vehicle
+
+#### Fireball XL5
+
+This refers to a class of "super-sized" or "experimental long-range" spacecraft developed by the World Space Patrol; the name reflects the immense power of its launch.
 ### Vehicles
 #### Fireball
 
