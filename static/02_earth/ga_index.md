@@ -9,6 +9,8 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ## index
 
+https://64.media.tumblr.com/bf30809726f46c528d8e96e3b6891837/b22d132dc8bf2d74-9a/s1280x1920/7d10bdfcf4a7dd9f0c3f3b114ca603d51901bd4c.pnj?w400|https://64.media.tumblr.com/7c589061710749ec639f8f449d73385c/b22d132dc8bf2d74-83/s2048x3072/81a82239a90b9dc4d534e3e1d5b921b784e050af.pnj
+
 ###  [SUPERCAR (Jan., 1961 -- Nov., 1962)]({{ site.url }}/static/02_earth/ga_pre-tb.html) 
 ###  [FIREBALL XL5 (Oct., 1962 -- Dec., 1963)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
 ###  [STINGRAY (Oct., 1964 -- Jun., 1965)]({{ site.url }}/static/02_earth/ga_pre-tb.html)
