@@ -1,17 +1,15 @@
 ---
 layout: contents
-title: "Thema"
+title: "Country"
 permalink: /static/03_sky/template-type-r.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
 ## index
 
-## Country 1
-
 ## WWII OR After WWII
 ### Force 
-#### Type and Class name
+#### Type and Class name 1
 ##### Vehicle name 1
 
 {% capture my_tiles %}
@@ -43,7 +41,8 @@ This is a explaning about
     - NCC-1701（初代）
     - NCC-1701-D（新
 
-##### type2
+#### Type and Class name 2
+##### Vehicle name 2
 
 
 222
