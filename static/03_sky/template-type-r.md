@@ -1,7 +1,7 @@
 ---
 layout: contents
 title: "Thema"
-permalink: /static/01_univers/template.html
+permalink: /static/01_univers/template-type-r.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
