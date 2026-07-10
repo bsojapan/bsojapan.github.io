@@ -7,7 +7,7 @@ image_back: "/assets/images/p_wall_univers.jpg"
 
 ## index
 
-## WWII OR After WWII
+## WWII or After WWII
 ### Force 
 #### Type and Class name 1
 ##### Vehicle name 1
