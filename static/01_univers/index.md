@@ -5,3 +5,8 @@ permalink: /static/01_univers/   # 完成フォルダ「https://.../about/」URL
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
 
+[STAR TREK]({{ site.url }}/static/01_univers/startrek.html)
+[STAR WARS]({{ site.url }}/static/01_univers/starwars.html)
+[BATTLESTAR GARACTICA]({{ site.url }}/static/01_univers/startrek.html)
+
+
