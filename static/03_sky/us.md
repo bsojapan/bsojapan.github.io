@@ -1,6 +1,6 @@
 ---
 layout: contents
-title: "UNITED STATS OF AMERIKA"
+title: "UNITED STATS OF AMERICA"
 permalink: /static/03_sky/us.html
 image_back: "/assets/images/p_wall_univers.jpg"
 ---
