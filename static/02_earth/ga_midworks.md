@@ -65,7 +65,7 @@ a small ski slope, table tennis, billiards, and more.
 
 #### Angel Interceptor
 
-This is Spectrum's primary supersonic single-seat interceptor fighter deployed at Cloudbase for use against the Mysterons. The aircraft is a special Cloudbase variant of the World Force Air Force's "Viper Jet"; it utilizes non-retractable skids for landing gear.
+This is Spectrum's primary supersonic single-seat interceptor fighter deployed at Cloudbase for use against the Mysterons. The aircraft is a special Cloudbase variant of the World Force Air Force's "Viper Jet"; it utilizes retractable front skids for landing gear.
 It is piloted by the "Angels," an all-female pilot team that includes members such as White, Destiny, and Symphony.
 It reaches a top speed of Mach 4 (approximately 4,800 km/h)
 and can execute an emergency launch from Cloudbase's inclined catapult in mere seconds.
