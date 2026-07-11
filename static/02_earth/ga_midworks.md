@@ -267,9 +267,34 @@ Mac's Car is a high-speed, flight-capable vehicle in a metallic viridian green f
    -  Sea: approx. 130 km/h (70 knots, approx. 80 mph)
    -  Fuel Economy: Approx. 8.5 km/L (20 miles per gallon)
 
-#### U-59 Wildcat Armored Car
-#### U-87 Stronger Hi-speed Armored Car
-#### MIG-242 fighter
+#### Military vehicles
+##### U-59 Wildcat Armored Car
+##### U-87 Stronger Hi-speed Armored Car
+
+#### Military sircafts
+##### MIG-242 fighter
+
+#### Military Ships
+##### Submarine 1
+##### Patrol ship 1
+
+
+#### Civilian cars
+##### monorail 1
+##### monotrain
+##### Hover car （Tour bus / bus )
+
+#### Civilian aircrafts
+##### Passenger Jet aircraft 1
+##### Passengrt Jet Aircraft 2
+##### Passengrt Jet Aircraft 3
+##### Airliner
+##### Passenger Jet aircraft 4 AV21
+
+
+#### Civilian ships
+##### Speed boat 1
+
 
 [Return to top](#index)
 
