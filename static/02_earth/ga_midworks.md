@@ -244,6 +244,19 @@ Constructed primarily from Fleetnium alloy and conventional marine materials, th
 
 ## JOE 90
 ### Overview
+
+*Joe 90* chronicles the adventures of the McClaine father-and-son duo as they become involved in the operations of the World Intelligence Network (WIN).
+Professor Ian "Mac" McClaine, a computer expert, lives with his adopted nine-year-old son, Joe, and their housekeeper, Mrs. Ada Harris, following the death of his wife. They reside in a traditional cottage on the Dorset coast, where Mac develops inventions in a state-of-the-art underground laboratory.
+
+
+Mac has perfected a groundbreaking device known as BIG RAT (Brain Impulse Galvanoscope Record and Transfer). It is an expert system capable of copying knowledge and experience from experts via an antenna and uploading that data into another person—using a rotating mechanism called the "Rat Trap"—thereby allowing the recipient to utilize that specialized knowledge.
+
+Mac demonstrates the device to an old friend and WIN agent, Sam Loover. After Loover reports the demonstration to Section Chief Shane Weston, the project is classified as top secret. WIN fully adopts the system and recruits young Joe, who utilizes a special pair of glasses to operate the device in the field. Against a backdrop of international conflicts and tensions characteristic of the Cold War era, the stories unfold through Joe’s espionage missions—adventurous and perilous undertakings made possible by exploiting the universal assumption that a child could not possibly be capable of such feats.
+
+While some might point out potential issues regarding modern compliance standards, the series is best understood as the embodiment of a child's dream to play "Bond." It emerged from a social context where the *James Bond* film franchise—and specifically the gadget-laden Aston Martin DB5—had captured the imaginations of children everywhere.
+
+Within the *Joe 90* lore, the name refers to "Project File Number 90." However, the concept may have originated from the idea of ​​the character being the 90th agent in a sequence following 007.
+
 ### Vehicles
 #### MAXCAR
 #### U-59
