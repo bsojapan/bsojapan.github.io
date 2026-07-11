@@ -258,8 +258,9 @@ While some might point out potential compliance issues by modern standards, the 
 Within the *Joe 90* lore, the name refers to "Project File Number 90." However, the concept may have originated from the idea of ​​him being the 90th agent, following the pattern established by 007.
 
 ### Vehicles
-#### MAC's CAR
-#### U-59
+#### MAC's CAR 
+#### U-59 Wildcat Armored Car
+#### U-87 Stronger Hi-speed Armored Car
 #### MIG-242 fighter
 
 [Return to top](#index)
