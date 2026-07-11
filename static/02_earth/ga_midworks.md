@@ -260,12 +260,12 @@ Within the *Joe 90* lore, the name refers to "Project File Number 90." However, 
 ### Vehicles
 #### MAC's CAR 
 
-Mac's Car is a high-speed, flight-capable vehicle in a metallic viridian green finish, built by MacLean. It has a top speed of 365 km/h. Three people can fit inside the trapezoidal cockpit located at the front. Exposed twin turbojet engines are mounted behind the cockpit, featuring integrated exhaust nozzles. To transform into flight mode, the main wings deploy and the vertical stabilizer shifts rearward; simultaneously, the front wheels slide upward toward the center to retract, while the rear wheels rotate upward and backward around their axle. During flight, it often operates at relatively low altitudes. Its coloring, engine appearance, landing gear configuration, and retraction mechanism have led to comparisons with a grasshopper.
-Maximum Speed
-Air: approx. 480 km/h (300 mph)
-Land: approx. 320 km/h (200 mph)
-Sea: approx. 130 km/h (70 knots, approx. 80 mph)
-Fuel Economy: Approx. 20 miles per gallon
+Mac's Car is a high-speed, flight-capable vehicle in a metallic viridian green finish, built by MacLean. It has a top speed of 365 km/h. Three people can fit inside the trapezoidal cockpit located at the front. Exposed twin turbojet engines are mounted behind the cockpit, featuring integrated exhaust nozzles. To transform into flight mode, the main wings deploy and the vertical stabilizer shifts rearward; simultaneously, the front wheels slide upward toward the center to retract, while the rear wheels rotate upward and backward around their root axle. During flight, it often operates at relatively low altitudes. Its coloring, engine appearance, landing gear configuration, and retraction mechanism have led to comparisons with a grasshopper.
+-  Maximum Speed
+   -  Air: approx. 480 km/h (300 mph)
+   -  Land: approx. 320 km/h (200 mph)
+   -  Sea: approx. 130 km/h (70 knots, approx. 80 mph)
+   -  Fuel Economy: Approx. 20 miles per gallon
 
 #### U-59 Wildcat Armored Car
 #### U-87 Stronger Hi-speed Armored Car
