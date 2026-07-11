@@ -253,7 +253,7 @@ Mac has perfected a groundbreaking device known as BIG RAT (Brain Impulse Galvan
 
 Mac demonstrates the device to an old friend and WIN agent, Sam Loover. After Loover reports the demonstration to Section Chief Shane Weston, the project is classified as top secret. WIN fully adopts the system and recruits young Joe, who utilizes a special pair of glasses to operate the device in the field. Against a backdrop of international conflicts and tensions characteristic of the Cold War era, the stories unfold through Joe’s espionage missions—adventurous and perilous undertakings made possible by exploiting the universal assumption that a child could not possibly be capable of such feats.
 
-While some might point out potential issues regarding modern compliance standards, the series is best understood as the embodiment of a child's dream to play "Bond." It emerged from a social context where the *James Bond* film franchise—and specifically the gadget-laden Aston Martin DB5—had captured the imaginations of children everywhere.
+While some might point out potential issues regarding modern compliance standards, the series is best understood as the embodiment of a child's dream to play "Bond." It emerged from a social context where the *James Bond* film franchise—and specifically the gadget-laden Aston Martin DB5—had captured the imaginations of children everywhere -- the frase alwas children is told  from adults.
 
 Within the *Joe 90* lore, the name refers to "Project File Number 90." However, the concept may have originated from the idea of ​​the character being the 90th agent in a sequence following 007.
 
