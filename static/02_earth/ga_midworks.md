@@ -282,7 +282,15 @@ Mac's Car is a high-speed, flight-capable vehicle in a metallic viridian green f
 #### Civilian cars
 ##### monorail 1
 ##### monotrain
-##### Hover car （Tour bus / bus )
+##### Hovercraft Vehicles （Tour bus / bus )
+
+The UK is the birthplace of the hovercraft; development was driven primarily by the Navy, and the technology has since become widespread, utilized for both civilian transport and high-speed ferry services across the English Channel.
+
+Military
+Armoured Hovercraft /
+
+Civilian
+Tour bus /
 
 #### Civilian aircrafts
 ##### Passenger Jet aircraft 1
