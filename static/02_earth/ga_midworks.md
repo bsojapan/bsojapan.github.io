@@ -293,6 +293,9 @@ Civilian
 Tour bus /
 
 #### Civilian aircrafts
+
+Reflecting the fascination with supersonic aircraft prevalent at the time of production, the civilian aircraft in *Joe 90* feature slender, sharp-nosed airframes and predominantly delta-wing configurations. The design evolved from the wing-root engine placement seen in *Thunderbirds* (reminiscent of the de Havilland Comet) to pylon-mounted engines. Many of these designs are striking, so be sure to keep an eye out for them when watching the series.
+
 ##### Passenger Jet aircraft 1
 ##### Passengrt Jet Aircraft 2
 ##### Passengrt Jet Aircraft 3
