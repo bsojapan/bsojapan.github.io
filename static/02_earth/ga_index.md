@@ -23,9 +23,9 @@ https://64.media.tumblr.com/bf30809726f46c528d8e96e3b6891837/b22d132dc8bf2d74-9a
 -  Thuderbird (Sep.-Dec,1965)
 -  Thunderbirds Are Go (movie, Dec.,1966)
 -  Thunderbird 6  (movie, Jul. 1968)
--  Thunderbirds 2086 (animation, Apr.,1982)
+-  Thunderbirds 2086 (non-canon japanese animation TV series, Apr.,1982)
 -  Thunderbird (movie, Jul.,2004)
--  Thunderbirds Are Go (Apr., 2015)
+-  Thunderbirds Are Go (3D CG TV series, Apr., 2015)
 -  Thunderbirds: The Anniversary Episodes (Jan. 2022)
 
 ###  [CAPTAIN SCARLET and the Mysterons(Sep., 1967 -- May.,1968)]({{ site.url }}/static/02_earth/ga_midworks.html)
