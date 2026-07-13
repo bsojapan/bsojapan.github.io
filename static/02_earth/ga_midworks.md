@@ -271,10 +271,16 @@ Mac's Car is a high-speed, flight-capable vehicle in a metallic viridian green f
 ##### U-59 Wildcat Armored Car
 ##### U-87 Stronger Hi-speed Armored Car
 
-#### Military sircafts
-##### MIG-242 fighter
+#### aircafts
+##### military
+MIG-242 fighter
+##### Civilian aircrafts
 
-#### Military Ships
+Reflecting the fascination with supersonic aircraft prevalent at the time of production, the civilian aircraft in *Joe 90* feature slender, sharp-nosed airframes and predominantly delta-wing configurations. The design evolved from the wing-root engine placement seen in *Thunderbirds* (reminiscent of the de Havilland Comet) to pylon-mounted engines. Many of these designs are striking, so be sure to keep an eye out for them when watching the series.
+
+ Passenger Jet aircraft 1 / 2/ 3  Airliner  Passenger Jet aircraft 4 AV21
+
+####  Ships
 ##### Submarine 1
 ##### Patrol ship 1
 
@@ -282,7 +288,7 @@ Mac's Car is a high-speed, flight-capable vehicle in a metallic viridian green f
 #### Civilian cars
 ##### monorail 1
 ##### monotrain
-##### Hovercraft Vehicles （Tour bus / bus )
+#### Hovercraft Vehicles （Tour bus / bus )
 
 The UK is the birthplace of the hovercraft; development was driven primarily by the Navy, and the technology has since become widespread, utilized for both civilian transport and high-speed ferry services across the English Channel.
 
@@ -292,15 +298,7 @@ Armoured Hovercraft /
 Civilian
 Tour bus /
 
-#### Civilian aircrafts
 
-Reflecting the fascination with supersonic aircraft prevalent at the time of production, the civilian aircraft in *Joe 90* feature slender, sharp-nosed airframes and predominantly delta-wing configurations. The design evolved from the wing-root engine placement seen in *Thunderbirds* (reminiscent of the de Havilland Comet) to pylon-mounted engines. Many of these designs are striking, so be sure to keep an eye out for them when watching the series.
-
-##### Passenger Jet aircraft 1
-##### Passengrt Jet Aircraft 2
-##### Passengrt Jet Aircraft 3
-##### Airliner
-##### Passenger Jet aircraft 4 AV21
 
 
 #### Civilian ships
