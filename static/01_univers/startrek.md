@@ -183,7 +183,8 @@ Tellarite Republic (an oligarchical democracy heavily structured around debate a
 
 Betazoid Ruling Council (a matriarchal, hereditary aristocracy led by noble Houses).
 
-### ⚔️ Major Galactic PowersThese independent worlds serve as the capital seats of the galaxy's alpha quadrant empires.
+### ⚔️ Major Galactic Powers
+These independent worlds serve as the capital seats of the galaxy's alpha quadrant empires.
 
 #### Qo'noS (Kronos)Government: 
 
