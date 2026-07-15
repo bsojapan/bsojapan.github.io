@@ -34,6 +34,7 @@ https://64.media.tumblr.com/bf30809726f46c528d8e96e3b6891837/b22d132dc8bf2d74-9a
 -  NEW Captain Scarlet (2003)
 
 ###  [JOE 90(Sep.,1968 -- Jun.,1969)]({{ site.url }}/static/02_earth/ga_midworks.html)
+###  Doppelgänger (1969) ("Journey to the Far Side of the Sun", original Sci-Fi movie)
 ###  [The Secret Service(1969年9月 〜 1969年12月)1969年（当時の現代劇）]({{ site.url }}/static/02_earth/ga_midworks.html)
 ###  [UFO (Sep.,1970年 -- Jul.,1971) 1980年（初の実写特撮シリーズ）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
 ###  [Protectors 1972年9月 〜 1974年3月1972年（実写アクションスパイ劇）]({{ site.url }}/static/02_earth/ga_post-ufo.html)
