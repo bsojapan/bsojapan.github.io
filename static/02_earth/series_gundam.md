@@ -6,6 +6,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ---
 
 ## Overview
+### Historical Context of Its Production
 
 In Japan, when something truly shocking occurs, it is often described as causing a "Gekishin runs" (*gekishin*).
 
@@ -38,5 +39,8 @@ In a powerful alliance with Israel, he succeeded in initially dismantling the Ir
 With moves such as pressuring Ukraine toward a ceasefire, the annexation of Greenland (a Belgian territory) and Canada (a member of the British Commonwealth), and the rebranding of various buildings and landmarks with his own name, it appears that Trump’s disruptive, high-stakes agenda is set to escalate even further.
 
 ### Outline 
+
+
+
 ### Main Vehicles
 #### Thunderbird 1
