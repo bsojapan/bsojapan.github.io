@@ -47,7 +47,10 @@ With moves such as pressuring Ukraine toward a ceasefire, the annexation of Gree
 > Nine months ago the cluster of colonies furthest from the Earth, called Side 3 proclaimed itself the Principality of Zeon and launched a war of independence against the Earth Federation. Initial fighting lasted over one month and saw both sides lose half their respective populations. People are horrified by the indescribable atrocities that had been committed in the name of independence
 >
 > Eight months had passed since the rebellion began. They are at a stalemate
-> 
-> ### Main Vehicles
+>
+
+
+
+## Vehicles
 
 #### Thunderbird 1
