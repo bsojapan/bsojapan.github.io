@@ -29,7 +29,7 @@ As for the human drama, Japanese works are often perceived by Western audiences 
 > Eight months had passed since the rebellion began. They are at a stalemate
 >
 
-The first installment—often referred to as the "First Gundam"—begins with the lengthy narration mentioned above. The setting involves the Earth Federation, which holds dominion, and the Principality of Zeon—located in "Side 3," one of the colonized space sectors—as they engage in an independence conflict known as the "One Year War." The story focuses on the events that take place during the final three months of this war.
+The first installment—often referred to as the "First Gundam"—begins with the lengthy narration mentioned above. The setting involves the Earth Federation, which holds dominion, and the Principality of Zeon—located in "Side 3," one of the colonized space sectors—as they engage in an independence conflict known as the "One Year War." The story focuses on the events that take place during the final three and a half months of this war.
 
 ## Vehicles
 
