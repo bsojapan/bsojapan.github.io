@@ -1,11 +1,11 @@
 ---
 layout: contents
-title: "Mobile suits GUNDAM series"
+title: "Mobile Suit GUNDAM series"
 permalink: /static/02_earth/series_gundam.html
 image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e3158051a83db7e6-04/s1280x1920/820cd4f3a27246f8c18eeb475f3b6fad1d2273da.jpg"
 ---
 
-## Mobile suits GUNDA series
+## Mobile Suit GUNDAM series
 
 In Japan, when something truly shocking occurs, it is often described as causing a "Gekishin runs" (*gekishin*).
 
