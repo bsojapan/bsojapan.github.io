@@ -40,7 +40,14 @@ With moves such as pressuring Ukraine toward a ceasefire, the annexation of Gree
 
 ### Outline 
 
+> It is the year 0079 of the Universal Century. A half-century has passed since Earth began moving its burgeoning population into gigantic orbiting space colonies. A new home for mankind, where people are born and raised
+> 
+> And die
+>
+> Nine months ago the cluster of colonies furthest from the Earth, called Side 3 proclaimed itself the Principality of Zeon and launched a war of independence against the Earth Federation. Initial fighting lasted over one month and saw both sides lose half their respective populations. People are horrified by the indescribable atrocities that had been committed in the name of independence
+>
+> Eight months had passed since the rebellion began. They are at a stalemate
+> 
+> ### Main Vehicles
 
-
-### Main Vehicles
 #### Thunderbird 1
