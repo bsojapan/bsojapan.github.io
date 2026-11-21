@@ -8,8 +8,8 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ## Overview
 ### Historical Context of Its Production
 
-Mobile Suit Gundam
-
+## Overview
+### The Historical Context of the Work’s Creation
 Historical Context of Its Production
 
 The era in which *Mobile Suit Gundam* was created was a time when the limitations of Japanese *tokusatsu* (special effects) were becoming apparent, especially in the face of the technological innovations seen in major, Hollywood-backed science fiction films.
