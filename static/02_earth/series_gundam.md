@@ -12,9 +12,13 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 The era in which *Mobile Suit Gundam* was created was a time when the limitations of Japanese *tokusatsu* (special effects) were becoming apparent, especially in the face of the technological innovations seen in major, Hollywood-backed science fiction films.
 At the 1970 Japan World Exposition (Expo '70), public interest in science surged—fueled by exhibits like the Apollo moon rocks and the Soviet Soyuz spacecraft—yet, in reality, Japanese society was grappling with severe pollution, a byproduct of scientific and industrial development that would be unthinkable today.
 Meanwhile, in the Japanese entertainment landscape, manga series like *Astro Boy* were immensely popular, leading to a wave of adaptations—both animated and live-action—on television.
+
+
 Against this backdrop, Western science fiction masterpieces—such as *2001: A Space Odyssey* (1968), *Planet of the Apes* (1968), and later *Star Wars* (1977)—made a profound impact on the Japanese film industry. However, the high production costs required to emulate such works proved prohibitive.
 Consequently, much of Japanese science fiction shifted toward animation, a medium that allowed for bold, imaginative storytelling at a more manageable cost. Furthermore, Japan’s rich reservoir of manga provided a constant source of material, enabling the genre to evolve and branch out by flexibly incorporating themes that resonated with the public at the time.
 Following the massive success of *Space Battleship Yamato* (1974), *Mobile Suit Gundam* premiered in 1979 and eventually became a hit. Interestingly, both series failed to gain widespread acceptance during their initial runs and were cut short; however, intense demand from a dedicated fan base led to reruns and the production of feature films. This trajectory may reflect the gradual, evolving level of public awareness and acceptance of science fiction in Japan during that period.
+
+
 As for the human drama, Japanese works are often perceived by Western audiences as being somewhat "long-winded" or overly drawn-out. This stems from distinct characteristics of Japanese society, where decisions are frequently driven by emotion, and individuals often prioritize social norms—or even self-sacrifice—over personal desires, with outcomes evaluated based on one’s social standing or role. *Mobile Suit Gundam* offered a fresh perspective; the story unfolds from a neutral, non-binary viewpoint—transcending simple notions of good versus evil—while exploring various questions concerning science, culture, and the human condition.
 
 
