@@ -5,9 +5,17 @@ permalink: /static/02_earth/series_gundam.html
 image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e3158051a83db7e6-04/s1280x1920/820cd4f3a27246f8c18eeb475f3b6fad1d2273da.jpg"
 ---
 
+<details>
+  <summary>
+    mokuji 
+  </summary>
+  - aaa
+  - bbb
+</details>
+
 ## Overview
 
-### The Historical Context of the Work’s Creation
+<detail>### The Historical Context of the Work’s Creation
 
 The era in which *Mobile Suit Gundam* was created was a time when the limitations of Japanese *tokusatsu* (special effects) were becoming apparent, especially in the face of the technological innovations seen in major, Hollywood-backed science fiction films.
 At the 1970 Japan World Exposition (Expo '70), public interest in science surged—fueled by exhibits like the Apollo moon rocks and the Soviet Soyuz spacecraft—yet, in reality, Japanese society was grappling with severe pollution, a byproduct of scientific and industrial development that would be unthinkable today.
