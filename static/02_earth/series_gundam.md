@@ -75,9 +75,19 @@ We hope this overview proves helpful to you.
 </details>
 
 ## Vehicles
+### One Year War
+#### Earth Federation Forces（E.F.F.）
+#### Principality of Zeon
 
-### Earth Federation Forces（E.F.F.）
-### Principality of Zeon
+### Delaz Conflict  (U.C. 0083,Oct.-Nov.)  Operation Stardust
+OVA『機動戦士ガンダム0083 STARDUST MEMORY』
+The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a nuclear warhead, from the Earth Federation Forces' Torrington Base.
+Following a nuclear strike on a Federation naval review, they executed "Operation Stardust," which involved dropping a space colony onto Earth; the colony ultimately impacted the breadbasket region of the North American continent.
+In the aftermath of this incident, the Earth Federation Forces established an elite security unit known as the "Titans," ostensibly for the purpose of hunting down remaining Zeon forces (December, U.C. 0083).
+
+The Titans' subsequent, heavy-handed oppression of "spacenoids" (inhabitants of space colonies) sparked a backlash, leading to the formation of the anti-Federation organization "A.E.U.G." This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 (as depicted in *Mobile Suit Zeta Gundam*).
+Furthermore, in an effort to cover up the Federation's failures, all records pertaining to the incident—including the "GP Project" and the associated battles—were erased in March, U.C. 0084 (effectively rendering them "non-existent" in the official record).
+
 ### Anti-Earth Union Group（A.E.U.G.）
 ### Titans
 ### Neo Zeon
