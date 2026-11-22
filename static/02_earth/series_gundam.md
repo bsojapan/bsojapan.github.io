@@ -79,7 +79,9 @@ We hope this overview proves helpful to you.
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
 
-### Delaz Conflict  (U.C. 0083,Oct.-Nov.)  Operation Stardust, OVA *Mobile Suit 0083 STARDUST MEMORY*
+### Delaz Conflict  (U.C. 0083,Oct.-Nov.)  Operation Stardust
+OVA *Mobile Suit 0083 STARDUST MEMORY*
+
 The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a nuclear warhead, from the Earth Federation Forces' Torrington Base.
 Following a nuclear strike on a Federation naval review, they executed "Operation Stardust," which involved dropping a space colony onto Earth; the colony ultimately impacted the breadbasket region of the North American continent.
 In the aftermath of this incident, the Earth Federation Forces established an elite security unit known as the "Titans," ostensibly for the purpose of hunting down remaining Zeon forces (December, U.C. 0083).
