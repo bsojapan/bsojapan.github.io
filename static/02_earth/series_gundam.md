@@ -49,10 +49,10 @@ The *Gundam* series is generally categorized into three distinct groups. Over th
 
 On this page, we employ the following categorization:
 
-We cover works set within the "Universal Century" (UC) timeline.
-The "Mainstream" focuses on the core television series, anchored to the primary timeline.
-The "Substream" covers supplementary works—such as feature films and OVAs (Original Video Animations)—placed within the context of specific events and time periods.
-The "Related Stream" encompasses spin-offs, side stories, and works that offer alternative interpretations.
+- Only the works within the "Universal Century" (UC) timeline is covered.
+- The "Mainstream" focuses on the core television series, anchored to the primary timeline.
+- The "Substream" covers supplementary works—such as feature films and OVAs (Original Video Animations)—placed within the context of specific events and time periods.
+- The "Related Stream" encompasses spin-offs, side stories, and works that offer alternative interpretations.
 
 Please note that some works may shift between these categories. Furthermore, this overview does not encompass every single title in the franchise; for instance, it includes certain game scenarios that have the potential to be adapted into visual media later on.
 
