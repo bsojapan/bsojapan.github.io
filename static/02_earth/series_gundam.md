@@ -39,14 +39,15 @@ The first installment—often referred to as the "First Gundam"—begins with th
 
 ### Structure of the Gundam Franchise
 
-Background
+#### Background
 In 2020, Bandai Namco successfully consolidated the intellectual property (IP) of the *Mobile Suit Gundam* series, integrating its various multimedia components. Furthermore, in 2022, the company articulated a strategy to deepen the franchise’s complex, immersive world-building and elevate it into a significant "social property"—a cultural icon. Through manga, anime, television series, feature films, video games, *Gunpla* (plastic model kits), and attractions, the *Gundam* universe continues to expand, with an ever-growing array of stories and characters.
 
-Concept for This Overview (A Simplified Approach)
+#### Concept for This Overview (A Simplified Approach)
 To assist newcomers, this site provides a bold, simplified introduction to the franchise. Rest assured that by the time you find yourself needing more detailed information, your own knowledge will likely already be quite extensive.
 
 The *Gundam* series is generally categorized into three distinct groups. Over the course of the franchise’s expansion, content has been tailored not only for core fans but also for children, women, and a global audience. Given that these works cannot be neatly organized from a single perspective, this site focuses primarily on the main television series, presenting them as a cohesive history. We also embrace conflicting interpretations by framing them as multiple, valid historical viewpoints. It is worth noting that recent official announcements have also moved toward a simplified classification of the works.
 
+#### Categorize in this page
 On this page, we employ the following categorization:
 
 - Only the works within the "Universal Century" (UC) timeline is covered.
