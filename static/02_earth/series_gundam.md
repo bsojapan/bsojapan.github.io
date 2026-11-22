@@ -15,11 +15,12 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ## Overview
 
-<details>
+<details markdown="1">
   
-<summary>
+<summary>show contents</summary>
+
 ### The Historical Context of the Work’s Creation
-</summary>
+
 The era in which *Mobile Suit Gundam* was created was a time when the limitations of Japanese *tokusatsu* (special effects) were becoming apparent, especially in the face of the technological innovations seen in major, Hollywood-backed science fiction films.
 At the 1970 Japan World Exposition (Expo '70), public interest in science surged—fueled by exhibits like the Apollo moon rocks and the Soviet Soyuz spacecraft—yet, in reality, Japanese society was grappling with severe pollution, a byproduct of scientific and industrial development that would be unthinkable today.
 Meanwhile, in the Japanese entertainment landscape, manga series like *Astro Boy* were immensely popular, leading to a wave of adaptations—both animated and live-action—on television.
@@ -33,10 +34,7 @@ Following the massive success of *Space Battleship Yamato* (1974), *Mobile Suit 
 As for the human drama, Japanese works are often perceived by Western audiences as being somewhat "long-winded" or overly drawn-out. This stems from distinct characteristics of Japanese society, where decisions are frequently driven by emotion, and individuals often prioritize social norms—or even self-sacrifice—over personal desires, with outcomes evaluated based on one’s social standing or role. *Mobile Suit Gundam* offered a fresh perspective; the story unfolds from a neutral, non-binary viewpoint—transcending simple notions of good versus evil—while exploring various questions concerning science, culture, and the human condition.
 
 
-
-<summary>
 ### Outline 
-</summary>
 
 > It is the year 0079 of the Universal Century. A half-century has passed since Earth began moving its burgeoning population into gigantic orbiting space colonies. A new home for mankind, where people are born and raised
 > 
@@ -51,9 +49,8 @@ The first installment—often referred to as the "First Gundam"—begins with th
 
 
 
-<summary>
 ### Structure of the Gundam Franchise
-</summary>
+
 #### Background
 In 2020, Bandai Namco successfully consolidated the intellectual property (IP) of the *Mobile Suit Gundam* series, integrating its various multimedia components. Furthermore, in 2022, the company articulated a strategy to deepen the franchise’s complex, immersive world-building and elevate it into a significant "social property"—a cultural icon. Through manga, anime, television series, feature films, video games, *Gunpla* (plastic model kits), and attractions, the *Gundam* universe continues to expand, with an ever-growing array of stories and characters.
 
@@ -62,9 +59,9 @@ To assist newcomers, this site provides a bold, simplified introduction to the f
 
 The *Gundam* series is generally categorized into three distinct groups. Over the course of the franchise’s expansion, content has been tailored not only for core fans but also for children, women, and a global audience. Given that these works cannot be neatly organized from a single perspective, this site focuses primarily on the main television series, presenting them as a cohesive history. We also embrace conflicting interpretations by framing them as multiple, valid historical viewpoints. It is worth noting that recent official announcements have also moved toward a simplified classification of the works.
 
-<summary>
+
 #### Categories for works in this page
-</summary>
+
 On this page, we employ the following categorization:
 
 - Only the works within the "Universal Century" (UC) timeline is covered.
