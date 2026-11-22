@@ -47,7 +47,7 @@ To assist newcomers, this site provides a bold, simplified introduction to the f
 
 The *Gundam* series is generally categorized into three distinct groups. Over the course of the franchise’s expansion, content has been tailored not only for core fans but also for children, women, and a global audience. Given that these works cannot be neatly organized from a single perspective, this site focuses primarily on the main television series, presenting them as a cohesive history. We also embrace conflicting interpretations by framing them as multiple, valid historical viewpoints. It is worth noting that recent official announcements have also moved toward a simplified classification of the works.
 
-#### Categorize in this page
+#### Categories for works in this page
 On this page, we employ the following categorization:
 
 - Only the works within the "Universal Century" (UC) timeline is covered.
