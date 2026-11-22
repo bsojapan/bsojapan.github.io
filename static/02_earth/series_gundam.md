@@ -28,6 +28,7 @@ Following the massive success of *Space Battleship Yamato* (1974), *Mobile Suit 
 
 
 As for the human drama, Japanese works are often perceived by Western audiences as being somewhat "long-winded" or overly drawn-out. This stems from distinct characteristics of Japanese society, where decisions are frequently driven by emotion, and individuals often prioritize social norms—or even self-sacrifice—over personal desires, with outcomes evaluated based on one’s social standing or role. *Mobile Suit Gundam* offered a fresh perspective; the story unfolds from a neutral, non-binary viewpoint—transcending simple notions of good versus evil—while exploring various questions concerning science, culture, and the human condition.
+</details>
 
 
 ### Outline 
