@@ -35,6 +35,29 @@ As for the human drama, Japanese works are often perceived by Western audiences 
 
 The first installment—often referred to as the "First Gundam"—begins with the lengthy narration mentioned above. The setting involves the Earth Federation, which holds dominion, and the Principality of Zeon—located in "Side 3," one of the colonized space sectors—as they engage in an independence conflict known as the "One Year War." The story focuses on the events that take place during the final three and a half months of this war.
 
+
+
+### Structure of the Gundam Franchise
+
+Background
+In 2020, Bandai Namco successfully consolidated the intellectual property (IP) of the *Mobile Suit Gundam* series, integrating its various multimedia components. Furthermore, in 2022, the company articulated a strategy to deepen the franchise’s complex, immersive world-building and elevate it into a significant "social property"—a cultural icon. Through manga, anime, television series, feature films, video games, *Gunpla* (plastic model kits), and attractions, the *Gundam* universe continues to expand, with an ever-growing array of stories and characters.
+
+Concept for This Overview (A Simplified Approach)
+To assist newcomers, this site provides a bold, simplified introduction to the franchise. Rest assured that by the time you find yourself needing more detailed information, your own knowledge will likely already be quite extensive.
+
+The *Gundam* series is generally categorized into three distinct groups. Over the course of the franchise’s expansion, content has been tailored not only for core fans but also for children, women, and a global audience. Given that these works cannot be neatly organized from a single perspective, this site focuses primarily on the main television series, presenting them as a cohesive history. We also embrace conflicting interpretations by framing them as multiple, valid historical viewpoints. It is worth noting that recent official announcements have also moved toward a simplified classification of the works.
+
+On this page, we employ the following categorization:
+
+We cover works set within the "Universal Century" (UC) timeline.
+The "Mainstream" focuses on the core television series, anchored to the primary timeline.
+The "Substream" covers supplementary works—such as feature films and OVAs (Original Video Animations)—placed within the context of specific events and time periods.
+The "Related Stream" encompasses spin-offs, side stories, and works that offer alternative interpretations.
+
+Please note that some works may shift between these categories. Furthermore, this overview does not encompass every single title in the franchise; for instance, it includes certain game scenarios that have the potential to be adapted into visual media later on.
+
+We hope this overview proves helpful to you.
+
 ## Vehicles
 
 #### Thunderbird 1
