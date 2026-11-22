@@ -55,10 +55,10 @@ On this page, we employ the following categorization:
 - The "Substream" covers supplementary works—such as feature films and OVAs (Original Video Animations)—placed within the context of specific events and time periods.
 - The "Related Stream" encompasses spin-offs, side stories, and works that offer alternative interpretations.
 
-Please note that some works may shift between these categories. Furthermore, this overview does not encompass every single title in the franchise; for instance, it includes certain game scenarios that have the potential to be adapted into visual media later on.
+Please note that some works may shift between these categories. Furthermore, this overview does not encompass every single title in the franchise; for instance, it does not include certain game scenarios that have the potential to be adapted into visual media later on.
 
 We hope this overview proves helpful to you.
 
 ## Vehicles
 
-#### Thunderbird 1
+#### T
