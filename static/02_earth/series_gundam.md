@@ -75,7 +75,7 @@ We hope this overview proves helpful to you.
 </details>
 
 ## Vehicles
-### One Year War
+### One Year War (U.C. 0079.Jan.3-0080.Jan.1)
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
 
@@ -89,8 +89,13 @@ In the aftermath of this incident, the Earth Federation Forces established an el
 The Titans' subsequent, heavy-handed oppression of "spacenoids" (inhabitants of space colonies) sparked a backlash, leading to the formation of the anti-Federation organization "A.E.U.G." This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 (as depicted in *Mobile Suit Zeta Gundam*).
 Furthermore, in an effort to cover up the Federation's failures, all records pertaining to the incident—including the "GP Project" and the associated battles—were erased in March, U.C. 0084 (effectively rendering them "non-existent" in the official record).
 
+Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0084. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the immediate catalyst for the A.E.U.G. uprising.
+
+### Gryps Conflict
 #### Anti-Earth Union Group（A.E.U.G.）
 #### Titans
+### the First Neo Zeon War (January, U.C. 0089)
+### Neo-Zeon 
 #### Neo Zeon
 #### Londo Bell
 #### Anaheim Electronics
