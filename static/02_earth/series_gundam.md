@@ -13,7 +13,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
   - [Overview](#overview)
     - [The Historical Context of the Work’s Creation](#the-context-of-the-work’s-creation)
   - [Vehicles](#vehicles]
-    - [the One Year War](#the-one-year-war)
+    - [the One Year War](#the-one-year-war(u.c.-0079.jan.3-0080.jan.1))
 </details>
 
 ## Overview
