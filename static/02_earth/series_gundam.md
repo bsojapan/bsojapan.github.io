@@ -22,7 +22,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 ### The Historical Context of the Work’s Creation
 
 The era in which *Mobile Suit Gundam* was created was a time when the limitations of Japanese *tokusatsu* (special effects) were becoming apparent, especially in the face of the technological innovations seen in major, Hollywood-backed science fiction films.
-At the 1970 Japan World Exposition (Expo '70), public interest in science surged—fueled by exhibits like the Apollo moon rocks and the Soviet Soyuz spacecraft—yet, in reality, Japanese society was grappling with severe pollution, a byproduct of scientific and industrial development that would be unthinkable today.
+At the 1970 Japan Osaka World Exposition (Expo '70), public interest in science surged—fueled by exhibits like the Apollo moon rocks and the Soviet Soyuz spacecraft—yet, in reality, Japanese society was grappling with severe pollution, a byproduct of scientific and industrial development that would be unthinkable today.
 Meanwhile, in the Japanese entertainment landscape, manga series like *Astro Boy* were immensely popular, leading to a wave of adaptations—both animated and live-action—on television.
 
 
