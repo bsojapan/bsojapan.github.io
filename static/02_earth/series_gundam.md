@@ -11,10 +11,11 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
     Index 
   </summary>
   - [Overview](#overview)
-    - [The Historical Context of the Work’s Creation](#the-context-of-the-work’s-creation)
+    - [The Historical Context of the Work’s Creation](#the-context-of-the-works-creation)
     - [Outline](#outline)
+    - [Structure of the Gundam Franchise](#Structure-of-the-Gundam-Franchise)
   - [Vehicles](#vehicles)
-    - [the One Year War](#one-year-war(u.c.-0079.jan.3-0080.jan.1))
+    - [the One Year War](#one-year-war)
 </details>
 
 ## Overview
@@ -79,11 +80,13 @@ We hope this overview proves helpful to you.
 </details>
 
 ## Vehicles
-### One Year War (U.C. 0079.Jan.3-0080.Jan.1)
+### One Year War 
+(U.C. 0079.Jan.3-0080.Jan.1)
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
 
-### Delaz Conflict  (U.C. 0083,Oct.-Nov.)  Operation Stardust
+### Delaz Conflict  
+(U.C. 0083,Oct.-Nov.)  Operation Stardust
 OVA *Mobile Suit 0083 STARDUST MEMORY*
 
 The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a nuclear warhead, from the Earth Federation Forces' Torrington Base.
@@ -98,7 +101,8 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 ### Gryps Conflict
 #### Anti-Earth Union Group（A.E.U.G.）
 #### Titans
-### the First Neo Zeon War (January, U.C. 0089)
+### the First Neo Zeon War
+(January, U.C. 0089)
 ### Neo-Zeon 
 #### Neo Zeon
 #### Londo Bell
