@@ -154,7 +154,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 - 【mangas/novels】
   - Advance of Zeta: The Flag of Titans
   - Advance of Zeta: The Traitor to Destiny
-  -  Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
+  - Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
 
 </details>
   
@@ -166,6 +166,18 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 <details markdown ="1">
   <summery>rerated works</summery>
 
+- 【TV Series】
+  - Mobile Suit Zeta Gundam
+- 【OVA / Special】
+  - Gundam Neo Experience 0087: Green Divers
+  - Gundam Evolve 2: RX-178 Gundam Mk-II
+  - Gundam Evolve 9: MSZ-006 Z-Gundam
+  - Gundam Evolve 12: RMS-099 Rick-Dias
+  - Gundam Evolve 13: RMS-108 Marasai
+- 【Movies】
+  - Mobile Suit Zeta Gundam: A New Translation - Heirs to the Stars
+  - Mobile Suit Zeta Gundam II: A New Translation - Lovers
+  - Mobile Suit Zeta Gundam III: A New Translation - Love is the Pulse of the Stars
 </details>
 ### the Second Neo-Zeon War
 <details markdown ="1">
