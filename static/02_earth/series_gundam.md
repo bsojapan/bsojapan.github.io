@@ -212,6 +212,7 @@ The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
 ### the Laplus Incident
 <details markdown ="1">
+  
   <summary>rerated works</summary>
 
 - 【OVA】
