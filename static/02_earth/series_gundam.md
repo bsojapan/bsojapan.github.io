@@ -151,11 +151,10 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
   - Mobile Suit Zeta Gundam: A New Translation - Heirs to the Stars
   - Mobile Suit Zeta Gundam II: A New Translation - Lovers
   - Mobile Suit Zeta Gundam III: A New Translation - Love is the Pulse of the Stars
-  - 
 - 【mangas/novels】
-- Advance of Zeta: The Flag of Titans
-- Advance of Zeta: The Traitor to Destiny
-- Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
+  - Advance of Zeta: The Flag of Titans
+  - Advance of Zeta: The Traitor to Destiny
+  -  Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
 
 </details>
   
