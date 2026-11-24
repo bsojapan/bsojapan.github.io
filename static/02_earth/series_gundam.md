@@ -332,6 +332,16 @@ Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself to
   
   <summary>related works</summary>
 
+
+- 【Manga】
+  - Mobile Suit Gundam F90
+  - Mobile Suit Gundam F90 Fastest Formula (Mobile Suit Gundam F90FF)
+  - Mobile Suit Gundam F90 Cluster
+  - Mobile Suit Gundam Silhouette Formula 91
+- 【Video Game / Project】
+  - Mobile Suit Gundam F91: Formula Wars 0122 (Kidō Senshi Gundam F91: Formula Senki 0122)
+  - F90 A to Z Project
+
 </details>
 
 Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Giren, as well as former members of the Titans, led to a period of internal conflict, including the "Legion Founding War." The Martian Independent Zeon Army—which eventually secured control—spent 30 years constructing a secret base deep within Olympus Mons, concealed behind the development of a commercial mass driver; it was here that they developed a strategic weapon known as the "Olympus Cannon."
