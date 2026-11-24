@@ -303,17 +303,20 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 
 #### Londo Bell
 #### Anaheim Electronics
-### aaaaa
-<details markdown ="1">
-  
-  <summary>rerated works</summary>
 
-</details>
 
 ### the Mafty Uprising
 <details markdown ="1">
   
   <summary>related works</summary>
+ - 【movies】 
+    - Mobile Suit Gundam Hathaway (Mobile Suit Gundam: Hathaway's Flash)
+    - Mobile Suit Gundam Hathaway: The Witch of Circe (Circe's Witch)
+
+- 【Novels & Manga】
+  - Mobile Suit Gundam: Hathaway's Flash (Novel)
+  - Mobile Suit Gundam: Hathaway's Flash (Manga)
+  - Mobile Suit Gundam F90 Fastest Formula
 
 </details>
 
@@ -360,3 +363,9 @@ Following the war, the "Jupiter Phantom"—a remnant force from the Jovian regio
 
 #### aaaa
 #### bbbb
+### aaaaa
+<details markdown ="1">
+  
+  <summary>related works</summaryl
+
+</details>
