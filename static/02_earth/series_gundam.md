@@ -182,7 +182,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 </details>
 ### the Second Neo-Zeon War
 <details markdown ="1">
-  <summery>rerated works</summery>
+  <summery>related works</summery>
 
 </details>
 The Reborn Neo Zeon by Char Azunabl
