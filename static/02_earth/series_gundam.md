@@ -273,6 +273,8 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 
 </details>
 
+Following the "Laplace Incident," all Spacenoids held high hopes for the final article of the Universal Century Charter, which granted Newtypes priority participation in the government. However, the Earth Federation rendered this provision effectively meaningless. Instead, it imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. ICE), and carried out the forced deportation of "illegal residents" and the impoverished from Earth to space.
+Hathaway Noa—the eldest son of Earth Federation Forces officer Bright Noa—came to lead the terrorist organization "Mafty," driven by a complex mix of resentment toward both the Federation and his own father. The "Mafty Uprising" was an act of desperation, reflecting the internal turmoil of a man rebelling against both his father and the established order. Ultimately, Hathaway was defeated in a mobile suit battle, captured, and subsequently executed by the military.
 ##### T
 ###### T
 
