@@ -87,6 +87,16 @@ We hope this overview proves helpful to you.
 ## Vehicles
 ### the One Year War 
 (U.C. 0079.Jan.3-0080.Jan.1)
+
+- Mobile Suit GUNDAM
+- Mobile Suit GUNDAM Origin
+- Mobile Suit GUNDAM 0079 -- the war in the pockets
+- Mobile Suit GUNDAM 0080
+- Mobile Suit GUNDAM 
+
+
+
+
 The Earth Federation did not possess a full-fledged space navy; instead, it primarily operated patrol vessels and similar craft intended for law enforcement. Following Zeon Zum Deikun’s 0058 declaration of the founding of the Republic of Zeon in Side 3, both sides began the design and construction of full-scale warships.
 
 #### Earth Federation Forces（E.F.F.）
@@ -94,6 +104,7 @@ The Earth Federation did not possess a full-fledged space navy; instead, it prim
 
 ### the Delaz Conflict  
 (U.C. 0083,Oct.-Nov.)  Operation Stardust
+
 OVA *Mobile Suit 0083 STARDUST MEMORY*
 
 The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a nuclear warhead, from the Earth Federation Forces' Torrington Base.
