@@ -5,22 +5,20 @@ permalink: /static/02_earth/series_gundam.html
 image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e3158051a83db7e6-04/s1280x1920/820cd4f3a27246f8c18eeb475f3b6fad1d2273da.jpg"
 ---
 
-<details markdown="1">
-  
-  <summary>
-    Index 
-  </summary>
-  - [Overview](#overview)
-    - [The Historical Context of the Work’s Creation](#the-context-of-the-works--creation)
-    - [Outline](#outline)
-    - [Structure of the Gundam Franchise](#Structure-of-the-Gundam-Franchise)
-  - [Vehicles](#vehicles)
-    - [the One Year War](#the-one-year-war)
-    - [the Delaz Confrict](#the-delaz-confrict)
-    - [the Gryps Confrict](#the-gryps-confrict)
-    - [the First Neo Zion War](#the-first-neo-zion-war)
-    - [the second Neo Zion War](#the-second-neo-zion-war)
-    - [the Laplus Incident](#the-laplus-incident)
+<details>
+<summary>Index</summary>
+
+- [Overview](#overview)
+  - [The Historical Context of the Work’s Creation](#the-historical-context-of-the-works-creation)
+  - [Outline](#outline)
+  - [Structure of the Gundam Franchise](#structure-of-the-gundam-franchise)
+- [Vehicles](#vehicles)
+  - [the One Year War](#the-one-year-war)
+  - [the Delaz Conflict](#the-delaz-conflict)
+  - [the Gryps Conflict](#the-gryps-conflict)
+  - [the First Neo Zeon War](#the-first-neo-zeon-war)
+  - [the Second Neo Zeon War](#the-second-neo-zeon-war)
+  - [the Laplace Incident](#the-laplace-incident)
 
 </details>
 
