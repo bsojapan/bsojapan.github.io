@@ -135,6 +135,30 @@ Furthermore, in an effort to cover up the Federation's failures, all records per
 Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0084. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the immediate catalyst for the A.E.U.G. uprising.
 
 ### the Gryps Conflict
+()
+<details markdown ="1">
+<summary>rerated works</summary>
+  
+- 【TV Series】
+  - Mobile Suit Zeta Gundam
+- 【OVA / Special】
+  - Gundam Neo Experience 0087: Green Divers
+  - Gundam Evolve 2: RX-178 Gundam Mk-II
+  - Gundam Evolve 9: MSZ-006 Z-Gundam
+  - Gundam Evolve 12: RMS-099 Rick-Dias
+  - Gundam Evolve 13: RMS-108 Marasai
+- 【Movies】
+  - Mobile Suit Zeta Gundam: A New Translation - Heirs to the Stars
+  - Mobile Suit Zeta Gundam II: A New Translation - Lovers
+  - Mobile Suit Zeta Gundam III: A New Translation - Love is the Pulse of the Stars
+  - 
+- 【mangas/novels】
+- Advance of Zeta: The Flag of Titans
+- Advance of Zeta: The Traitor to Destiny
+- Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
+
+</details>
+  
 #### Anti-Earth Union Group（A.E.U.G.）
 #### E.F.F. Titans
 #### E.F.F.
