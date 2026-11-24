@@ -247,6 +247,16 @@ aaaa
   - Mobile Suit Gundam Narrative (Manga)
 </details>
 
+Following the "Axis Shock" (a psycho-field phenomenon) that occurred during the attempt to drop the asteroid Axis—an event in which Amuro Ray and Char Aznable (Zeon Zum Deikun’s successor) were presumed killed—the Earth Federation Forces, no longer facing a major military threat, proceeded to downsize their military. Meanwhile, the Federation government intensified its oppression of the "spacenoids" (inhabitants of space colonies). In response, remnants of Neo Zeon regrouped around a "cyber-newtype" named Full Frontal—presented as the second coming of Char Aznable—and began conducting guerrilla and terrorist operations. Due to the distinctive decorative markings on the wrists of their mobile suits, this group came to be known as "The Sleeves."
+
+During this period, it was revealed that "Laplace's Box"—an object lost during the "Laplace Incident" (a terrorist attack on the Prime Minister's official residence that took place in the first year of the Universal Century)—actually existed, and that it contained information capable of toppling the Earth Federation government.
+
+Cardeas Vist, the head of the Vist Foundation—a shadowy organization that had exerted control over the Earth Federation from behind the scenes for nearly a century—decided on his own initiative to hand over Laplace's Box to "The Sleeves" (the Federation's adversaries) in an attempt to break the long-standing stalemate of the Universal Century.
+
+The "Laplace Conflict" began when the Earth Federation Forces launched a full-scale assault on "Industrial 7," the site of the Vist Foundation’s headquarters and the planned location for the handover. Lieutenant Colonel Dagza Mackle of the special forces unit "ECOAS"—tasked with preventing the transfer of the Box—and Otto Mitas, captain of the Londo Bell ship *Nahel Argama* (which was overseeing the transport), ended up causing the destruction of the colony. Mortally wounded in the attack, Cardeas Vist entrusted his son, Banagher Links, with the RX-0 Unicorn Gundam—a mobile suit equipped with a "psycho-frame" and the "Laplace Program." As a result, a three-way conflict unfolds: the Earth Federation—determined to maintain the status quo—is pitted against the "Sleeves," who seek to supplant the Vist Foundation, while the *Nahel Argama*—having joined forces with Banagher—also enters the fray.
+
+Ultimately, Banagher reaches the original stone monument containing the Universal Century Charter and reveals its full, authentic text to the entire world. The Federation Forces, attempting to destroy the monument, fire the "Gryps 2" colony laser; however, the blast is once again thwarted by the "rainbow light" of a psycho-field phenomenon.
+
 #### Londo Bell
 #### Anaheim Electronics
 ### aaaaa
