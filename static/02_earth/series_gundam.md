@@ -246,6 +246,7 @@ aaaa
   - Mobile Suit Gundam: École du Ciel
   - Mobile Suit Gundam Narrative (Manga)
 </details>
+
 #### Londo Bell
 #### Anaheim Electronics
 ### aaaaa
@@ -254,6 +255,7 @@ aaaa
   <summary>rerated works</summary>
 
 </details>
+
 #### Mafty
 <details markdown ="1">
   
