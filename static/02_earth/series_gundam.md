@@ -11,7 +11,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
     Index 
   </summary>
   - [Overview](#overview)
-    - [The Historical Context of the Work’s Creation](#the-context-of-the-works-creation)
+    - [The Historical Context of the Work’s Creation](#the-context-of-the-works--creation)
     - [Outline](#outline)
     - [Structure of the Gundam Franchise](#Structure-of-the-Gundam-Franchise)
   - [Vehicles](#vehicles)
@@ -20,7 +20,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
     - [the Gryps Confrict](#the-gryps-confrict)
     - [the First Neo Zion War](#the-first-neo-zion-war)
     - [the second Neo Zion War](#the-second-neo-zion-war)
-    - [the Laplus Incident](the-laplus-incident)
+    - [the Laplus Incident](#the-laplus-incident)
 
 </details>
 
