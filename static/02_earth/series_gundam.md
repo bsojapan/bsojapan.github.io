@@ -25,8 +25,8 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
 
 ## Overview
 
-<a https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj>
-<img https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj width="400"></a>
+<a href="https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj">
+<img src="https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj" width="400"></a>
 
 <a href="https://64.media.tumblr.com/017e15d6c3a3b5971625a3ce5b8b3bca/2500a2af89d56293-3b/s1280x1920/c1f4bf4050762599819f38cb5a706251e0ab656d.pnj?W=400"> 
 <img src="https://64.media.tumblr.com/017e15d6c3a3b5971625a3ce5b8b3bca/2500a2af89d56293-3b/s1280x1920/c1f4bf4050762599819f38cb5a706251e0ab656d.pnj?w=400" width="400"></a>
