@@ -163,12 +163,32 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 #### E.F.F.
 ### the First Neo Zeon War
 (January, U.C. 0089)
+<details markdown ="1">
+  <summery>rerated works</summery>
+
+</details>
 ### the Second Neo-Zeon War
+<details markdown ="1">
+  <summery>rerated works</summery>
+
+</details>
 The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
 ### the Laplus Incident
+<details markdown ="1">
+  <summery>rerated works</summery>
+
+</details>
 #### Londo Bell
 #### Anaheim Electronics
+<details markdown ="1">
+  <summery>rerated works</summery>
+
+</details>
 #### Mafty
 ##### T
 ###### T
+<details markdown ="1">
+  <summery>rerated works</summery>
+
+</details>
