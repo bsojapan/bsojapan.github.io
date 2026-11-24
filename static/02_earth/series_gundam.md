@@ -220,7 +220,7 @@ aaaa
 ### the Laplus Incident
 <details markdown ="1">
   
-  <summary>rerated works</summary>
+  <summary>related works</summary>
 
 - 【OVA】
   - Mobile Suit Gundam Unicorn
