@@ -169,7 +169,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 (January, U.C. 0089)
 <details markdown ="1">
   
-<summery>related works</summery>
+<summary>related works</summary>
 
 - 【TV Series】
   - Mobile Suit Gundam ZZ
@@ -189,7 +189,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 ### the Second Neo Zeon War
 <details markdown ="1">
   
-<summery>related works</summery>
+<summary>related works</summary>
 </details>
 The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
@@ -202,7 +202,7 @@ The Reborn Neo Zeon by Char Azunabl
 #### Anaheim Electronics
 <details markdown ="1">
   
-  <summery>rerated works</summery>
+  <summary>rerated works</summary>
 
 </details>
 #### Mafty
@@ -210,6 +210,6 @@ The Reborn Neo Zeon by Char Azunabl
 ###### T
 <details markdown ="1">
   
-  <summery>related works</summery>
+  <summary>related works</summary>
 
 </details>
