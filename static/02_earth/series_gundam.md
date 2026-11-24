@@ -192,7 +192,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 ### the Second Neo Zeon War
 <details markdown ="1">
-
+<summary>related works</summary>
 - 【Movies】
   - Mobile Suit Gundam: Char's Counterattack
 - 【OVA】
@@ -206,7 +206,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
   - Mobile Suit Moon Gundam
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
   - Mobile Suit Gundam: Hathaway's Flash (Mobile Suit Gundam Hathaway  
-<summary>related works</summary>
+
 </details>
 The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
