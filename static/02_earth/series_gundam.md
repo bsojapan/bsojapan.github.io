@@ -167,6 +167,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 ### the First Neo Zeon War
 (January, U.C. 0089)
 <details markdown ="1">
+  
   <summery>related works</summery>
 
 - 【TV Series】
@@ -185,8 +186,8 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 </details>
 ### the Second Neo-Zeon War
 <details markdown ="1">
+  
   <summery>related works</summery>
-
 </details>
 The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
@@ -198,6 +199,7 @@ The Reborn Neo Zeon by Char Azunabl
 #### Londo Bell
 #### Anaheim Electronics
 <details markdown ="1">
+  
   <summery>rerated works</summery>
 
 </details>
@@ -205,6 +207,7 @@ The Reborn Neo Zeon by Char Azunabl
 ##### T
 ###### T
 <details markdown ="1">
+  
   <summery>related works</summery>
 
 </details>
