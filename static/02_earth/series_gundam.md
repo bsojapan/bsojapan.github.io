@@ -309,10 +309,10 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 <details markdown ="1">
   
   <summary>related works</summary>
- - 【movies】 
-    - Mobile Suit Gundam Hathaway (Mobile Suit Gundam: Hathaway's Flash)
-    - Mobile Suit Gundam Hathaway: The Witch of Circe (Circe's Witch)
-
+ 
+- 【movies】 
+  - Mobile Suit Gundam Hathaway (Mobile Suit Gundam: Hathaway's Flash)
+  - Mobile Suit Gundam Hathaway: The Witch of Circe (Circe's Witch)
 - 【Novels & Manga】
   - Mobile Suit Gundam: Hathaway's Flash (Novel)
   - Mobile Suit Gundam: Hathaway's Flash (Manga)
