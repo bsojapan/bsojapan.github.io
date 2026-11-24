@@ -15,9 +15,9 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
     - [Outline](#outline)
     - [Structure of the Gundam Franchise](#Structure-of-the-Gundam-Franchise)
   - [Vehicles](#vehicles)
-    - [the One Year War](#one-year-war)
-    - [Delaz Confrict](#delaz-confrict]
-    - [Gryps Confrict](#gryps-confrict)
+    - [the One Year War](#the-one-year-war)
+    - [the Delaz Confrict](#the-delaz-confrict)
+    - [the Gryps Confrict](#the-gryps-confrict)
     - [the First Neo Zion War](#the-first-neo-zion-war)
     - [the second Neo Zion War](#the-second-neo-zion-war)
 
