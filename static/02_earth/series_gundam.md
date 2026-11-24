@@ -20,6 +20,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
     - [the Gryps Confrict](#the-gryps-confrict)
     - [the First Neo Zion War](#the-first-neo-zion-war)
     - [the second Neo Zion War](#the-second-neo-zion-war)
+    - [the Laplus Incident](the-laplus-incident)
 
 </details>
 
@@ -90,7 +91,7 @@ We hope this overview proves helpful to you.
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
 
-### Delaz Conflict  
+### the Delaz Conflict  
 (U.C. 0083,Oct.-Nov.)  Operation Stardust
 OVA *Mobile Suit 0083 STARDUST MEMORY*
 
@@ -103,7 +104,7 @@ Furthermore, in an effort to cover up the Federation's failures, all records per
 
 Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0084. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the immediate catalyst for the A.E.U.G. uprising.
 
-### Gryps Conflict
+### the Gryps Conflict
 #### Anti-Earth Union Group（A.E.U.G.）
 #### E.F.F. Titans
 #### E.F.F.
