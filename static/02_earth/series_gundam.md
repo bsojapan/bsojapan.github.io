@@ -210,8 +210,12 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
   - Mobile Suit Gundam: Hathaway's Flash (Mobile Suit Gundam Hathaway  
 
 </details>
-The Reborn Neo Zeon by Char Azunabl
+
+The Reborn Neo Zeon by Char Azunabl.
+abcdefg.....
+
 #### Neo Zeon
+aaaa
 
 ### the Laplus Incident
 <details markdown ="1">
