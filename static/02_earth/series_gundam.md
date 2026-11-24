@@ -87,6 +87,8 @@ We hope this overview proves helpful to you.
 ## Vehicles
 ### the One Year War 
 (U.C. 0079.Jan.3-0080.Jan.1)
+The Earth Federation did not possess a full-fledged space navy; instead, it primarily operated patrol vessels and similar craft intended for law enforcement. Following Zeon Zum Deikun’s 0058 declaration of the founding of the Republic of Zeon in Side 3, both sides began the design and construction of full-scale warships.
+
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
 
@@ -110,6 +112,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 ### the First Neo Zeon War
 (January, U.C. 0089)
 ### the Second Neo-Zeon War
+The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
 ### the Laplus Incident
 #### Londo Bell
