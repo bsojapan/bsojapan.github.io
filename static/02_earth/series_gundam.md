@@ -195,7 +195,7 @@ The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
 ### the Laplus Incident
 <details markdown ="1">
-  <summery>rerated works</summery>
+  <summary>rerated works</summary>
 
 </details>
 #### Londo Bell
