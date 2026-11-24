@@ -167,17 +167,18 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
   <summery>rerated works</summery>
 
 - 【TV Series】
-  - Mobile Suit Zeta Gundam
-- 【OVA / Special】
-  - Gundam Neo Experience 0087: Green Divers
-  - Gundam Evolve 2: RX-178 Gundam Mk-II
-  - Gundam Evolve 9: MSZ-006 Z-Gundam
-  - Gundam Evolve 12: RMS-099 Rick-Dias
-  - Gundam Evolve 13: RMS-108 Marasai
-- 【Movies】
-  - Mobile Suit Zeta Gundam: A New Translation - Heirs to the Stars
-  - Mobile Suit Zeta Gundam II: A New Translation - Lovers
-  - Mobile Suit Zeta Gundam III: A New Translation - Love is the Pulse of the Stars
+  - Mobile Suit Gundam ZZ
+- 【OVA】
+  - Mobile Suit Gundam ZZ: Fragment
+  - Gundam Evolve 10: MSZ-010 ZZ-Gundam
+- 【Manga & Novels】
+  - Gundam Sentinel
+  - Mobile Suit Moon Gundam
+  - Mobile Suit Gundam Walpurgis
+  - Mobile Suit Gundam Walpurgis EVE
+  - Mobile Suit Gundam ZZ Side Story: Mirage of Zeon
+  - Mobile Suit Gundam: Char's Counterattack - Beyond the Time
+  - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
 </details>
 ### the Second Neo-Zeon War
 <details markdown ="1">
