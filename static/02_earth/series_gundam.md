@@ -115,7 +115,7 @@ The Earth Federation did not possess a full-fledged space navy; instead, it prim
 ### the Delaz Conflict  
 (U.C. 0083,Oct.-Nov.)  Operation Stardust
 <details markdown="1">
-  <summary>rerated works</summary>
+  <summary>related works</summary>
 - 【OVA】
   - Mobile Suit Gundam 0083: Stardust Memory
   - Mobile Suit Gundam 0083: The Mayfly of Space
@@ -137,7 +137,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 ### the Gryps Conflict
 ()
 <details markdown ="1">
-<summary>rerated works</summary>
+<summary>related works</summary>
   
 - 【TV Series】
   - Mobile Suit Zeta Gundam
@@ -164,7 +164,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 ### the First Neo Zeon War
 (January, U.C. 0089)
 <details markdown ="1">
-  <summery>rerated works</summery>
+  <summery>related works</summery>
 
 - 【TV Series】
   - Mobile Suit Gundam ZZ
@@ -202,6 +202,6 @@ The Reborn Neo Zeon by Char Azunabl
 ##### T
 ###### T
 <details markdown ="1">
-  <summery>rerated works</summery>
+  <summery>related works</summery>
 
 </details>
