@@ -87,7 +87,8 @@ We hope this overview proves helpful to you.
 ## Vehicles
 ### the One Year War 
 (U.C. 0079.Jan.3-0080.Jan.1)
-<details>
+<details markdown="1">
+  
 <summary>related works</summary>
 
 - 【TV Series】
