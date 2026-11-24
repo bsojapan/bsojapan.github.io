@@ -256,7 +256,7 @@ aaaa
 
 </details>
 
-#### Mafty
+### the Marty Uprising
 <details markdown ="1">
   
   <summary>related works</summary>
