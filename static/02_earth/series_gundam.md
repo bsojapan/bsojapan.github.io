@@ -115,6 +115,50 @@ The Earth Federation did not possess a full-fledged space navy; instead, it prim
 
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
+Early Warships (Pre-Mobile Suit Development, U.C. 0069–0070)
+Immediately following its founding—and before the practical application of Minovsky particle-based weaponry or mobile suits—the Principality of Zeon developed a fleet based on conventional space warfare doctrines.
+
+Entering the U.C. 0070s, the practical implementation of mega-particle cannons and the successful development of mobile suits led to a major shift in Zeon’s naval construction policy.
+
+
+##### Papua-class (Commissioned October, U.C. 0069)
+- U.C. 0069 (Battleship)
+- U.C. 0074 (Supply Ship)
+
+Initially built and commissioned as "missile battleships," these vessels were designed to launch large salvos of missiles using plasma/chemical-fuel rocket propulsion. However, the subsequent practical application of Minovsky particles—which render guided weaponry ineffective—immediately stripped them of their value as battleships. Around U.C. 0074, they were refitted with thermonuclear rocket engines and converted into "Papua-class supply ships."
+
+Converted from a missile battleship into a transport and supply vessel. These ships played a vital logistical role throughout the One Year War, transporting supplies and components for mobile suits.
+
+
+##### Chivvay-class (Commissioned June, U.C. 0070)
+
+U.C. 0070 (Battleship)
+
+At the time of their construction, these were classified as "Chivvay-class battleships." They were vessels of an older generation, utilizing plasma/chemical-fuel rocket propulsion and equipped with conventional, gunpowder-based projectile cannons rather than lasers or mega-particle cannons. In part, these older-style ships served as a form of camouflage to avoid raising suspicion among the Earth Federation Forces while the Principality conducted crew training.
+
+Underwent modernization prior to the outbreak of war: engines were replaced with thermonuclear rockets, and the main guns were swapped for mega-particle cannons. Space for mobile suits (MS) was also added. Following the introduction of larger battleships, its classification was changed to "heavy cruiser."
+
+##### Musai-class Light Cruiser
+July, U.C. 0075
+Designed from the ground up as the first-ever mothership intended for mobile suit operations. It entered service in tandem with the rollout of the Zaku I and became the mainstay of the Zeon mobile fleet.
+
+##### Gwazine-class Large Battleship
+July, U.C. 0076
+A purpose-built, large-scale space battleship, constructed to serve as a fleet flagship for the Zabi family and others. With the arrival of this class, the Chibe-class relinquished its status as a battleship.
+
+Other Vessels (Mid-to-Late War)
+
+Around the time the war began (U.C. 0079), a wider variety of vessels were constructed to meet the demands of the evolving conflict:
+##### Zanzibar-class Mobile Cruiser:
+A versatile cruiser capable of atmospheric entry and exit, allowing it to conduct independent Earth-descent operations and mobile suit deployments.
+
+##### Dolos-class Large Aircraft Carrier:
+An ultra-large space carrier capable of housing anywhere from several dozen to over 100 mobile suits (two vessels were constructed toward the end of the war).
+
+##### Pazok-class Transport Ship:
+A large transport vessel developed as a successor to the aging Papua-class.
+
+
 
 ### the Delaz Conflict  
 (U.C. 0083,Oct.-Nov.)  Operation Stardust
