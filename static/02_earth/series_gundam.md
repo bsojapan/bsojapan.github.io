@@ -273,6 +273,10 @@ aaaa
 
 </details>
 
+Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Giren, as well as former members of the Titans, led to a series of internal conflicts, including the "Legion Founding War." The Martian Independent Zeon Army—which ultimately secured control—spent 30 years constructing a secret base deep within Olympus Mons, under the guise of building a commercial mass driver; there, they developed a strategic weapon known as the "Olympus Cannon."
+
+With technical support from the Crossbone Vanguard—the private military force of the Buch Concern—they mass-produced the "Refine Series (RF)." These mobile suits were thoroughly modernized, yet designed to retain the outward appearance of units from the One Year War era.
+
 ### the Cosmo Babylonia War 
 <details markdown ="1">
   
