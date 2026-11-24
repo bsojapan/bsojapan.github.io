@@ -16,6 +16,11 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
     - [Structure of the Gundam Franchise](#Structure-of-the-Gundam-Franchise)
   - [Vehicles](#vehicles)
     - [the One Year War](#one-year-war)
+    - [Delaz Confrict](#delaz-confrict]
+    - [Gryps Confrict](#gryps-confrict)
+    - [the First Neo Zion War](#the-first-neo-zion-war)
+    - [the second Neo Zion War](#the-second-neo-zion-war)
+
 </details>
 
 ## Overview
@@ -100,11 +105,13 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 ### Gryps Conflict
 #### Anti-Earth Union Group（A.E.U.G.）
-#### Titans
+#### E.F.F. Titans
+#### E.F.F.
 ### the First Neo Zeon War
 (January, U.C. 0089)
-### Neo-Zeon 
+### the Second Neo-Zeon War
 #### Neo Zeon
+### the Laplus Incident
 #### Londo Bell
 #### Anaheim Electronics
 #### Mafty
