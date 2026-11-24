@@ -192,7 +192,20 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 ### the Second Neo Zeon War
 <details markdown ="1">
-  
+
+- 【Movies】
+  - Mobile Suit Gundam: Char's Counterattack
+- 【OVA】
+  - Gundam Evolve 5: RX-93 ν Gundam
+- 【Novels & Manga】
+  - Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children
+  - Mobile Suit Gundam: High Streamer
+  - Mobile Suit Gundam: Char's Counterattack - Beyond the Time
+  - Mobile Suit Gundam U.C.0094: Across the Sky
+  - Mobile Suit Gundam U.C.0096: Last Sun
+  - Mobile Suit Moon Gundam
+  - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
+  - Mobile Suit Gundam: Hathaway's Flash (Mobile Suit Gundam Hathaway  
 <summary>related works</summary>
 </details>
 The Reborn Neo Zeon by Char Azunabl
