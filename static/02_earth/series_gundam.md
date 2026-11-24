@@ -87,15 +87,23 @@ We hope this overview proves helpful to you.
 ## Vehicles
 ### the One Year War 
 (U.C. 0079.Jan.3-0080.Jan.1)
+<details "markdown=1"
 
-- Mobile Suit GUNDAM
-- Mobile Suit GUNDAM Origin
-- Mobile Suit GUNDAM 0079 -- the war in the pockets
-- Mobile Suit GUNDAM 0080
-- Mobile Suit GUNDAM 
-
-
-
+  <summary>related works</summary>
+-【TV Series】
+  - Mobile Suit Gundam
+  - Mobile Suit Gundam: The Origin - Advent of the Red Comet
+-【OVA】
+  - Mobile Suit Gundam 0080: War in the Pocket
+  - Mobile Suit Gundam: The 08th MS Team
+  - Mobile Suit Gundam MS IGLOO: The Hidden One Year War
+  - Mobile Suit Gundam MS IGLOO: Apocalypse 0079
+  - Mobile Suit Gundam MS IGLOO 2: Gravity Front
+  - Mobile Suit Gundam: The Origin
+-【ONA】
+  - Mobile Suit Gundam Thunderbolt
+  - Mobile Suit Gundam: Requiem for Vengeance
+</details>
 
 The Earth Federation did not possess a full-fledged space navy; instead, it primarily operated patrol vessels and similar craft intended for law enforcement. Following Zeon Zum Deikun’s 0058 declaration of the founding of the Republic of Zeon in Side 3, both sides began the design and construction of full-scale warships.
 
