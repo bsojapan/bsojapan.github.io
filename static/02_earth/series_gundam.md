@@ -19,7 +19,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
   - [the Gryps Conflict](#the-gryps-conflict)
   - [the First Neo Zeon War](#the-first-neo-zeon-war)
   - [the Second Neo Zeon War](#the-second-neo-zeon-war)
-  - [the Laplace Incident](#the-laplace-incident)
+  - [the Lapluce Incident](#the-lapluce-incident)
 
 </details>
 
@@ -85,7 +85,7 @@ We hope this overview proves helpful to you.
 </details>
 
 ## Vehicles
-### One Year War 
+### the One Year War 
 (U.C. 0079.Jan.3-0080.Jan.1)
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
