@@ -214,6 +214,29 @@ The Reborn Neo Zeon by Char Azunabl
 <details markdown ="1">
   <summary>rerated works</summary>
 
+- 【OVA】
+  - Mobile Suit Gundam Unicorn
+- 【TV Series】
+  - Mobile Suit Gundam Unicorn RE:0096
+- 【ONA】
+  - Mobile Suit Gundam: Twilight AXIS
+- 【Movies】
+  - Mobile Suit Gundam Narrative (Mobile Suit Gundam NT)
+  - Mobile Suit Gundam: Twilight AXIS - Red Trace
+- 【Novels & Manga】
+  - Mobile Suit Gundam Unicorn (Novel)
+  - Mobile Suit Gundam Unicorn: The Phoenix Hunt
+  - Mobile Suit Gundam Unicorn: A War After the War
+  - Mobile Suit Gundam: Twilight AXIS (Novel)
+  - Mobile Suit Gundam Unicorn: Bande Dessinée
+  - Mobile Suit Gundam Unicorn: Bande Dessinée Episode:0
+  - Mobile Suit Gundam Unicorn: Fragments of the Star and Moon
+  - Mobile Suit Gundam Unicorn: The Sleeves' Mechanic Writes Poetry
+  - Mobile Suit Gundam Unicorn: Return of the Lion
+  - Mobile Suit Gundam Unicorn: Testament
+  - Mobile Suit Gundam U.C.0096: Last Sun
+  - Mobile Suit Gundam: École du Ciel
+  - Mobile Suit Gundam Narrative (Manga)
 </details>
 #### Londo Bell
 #### Anaheim Electronics
