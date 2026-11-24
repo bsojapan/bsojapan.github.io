@@ -164,6 +164,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 #### Anti-Earth Union Group（A.E.U.G.）
 #### E.F.F. Titans
 #### E.F.F.
+
 ### the First Neo Zeon War
 (January, U.C. 0089)
 <details markdown ="1">
@@ -185,7 +186,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
 </details>
 
-### the Second Neo-Zeon War
+### the Second Neo Zeon War
 <details markdown ="1">
   
 <summery>related works</summery>
