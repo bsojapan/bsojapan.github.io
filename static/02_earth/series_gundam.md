@@ -114,8 +114,16 @@ The Earth Federation did not possess a full-fledged space navy; instead, it prim
 
 ### the Delaz Conflict  
 (U.C. 0083,Oct.-Nov.)  Operation Stardust
-
-OVA *Mobile Suit 0083 STARDUST MEMORY*
+<details markdown="1">
+  <summary>rerated works</summary>
+- 【OVA】
+  - Mobile Suit Gundam 0083: Stardust Memory
+  - Mobile Suit Gundam 0083: The Mayfly of Space
+  - Mobile Suit Gundam 0083: The Mayfly of Space 2
+  - Gundam Evolve 4: RX-78GP03 Dendrobium
+- 【Movie】
+  - Mobile Suit Gundam 0083: The Last Blitz of Zeon
+</details>
 
 The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a nuclear warhead, from the Earth Federation Forces' Torrington Base.
 Following a nuclear strike on a Federation naval review, they executed "Operation Stardust," which involved dropping a space colony onto Earth; the colony ultimately impacted the breadbasket region of the North American continent.
