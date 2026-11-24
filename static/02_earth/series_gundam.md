@@ -264,6 +264,20 @@ aaaa
 </details>
 ##### T
 ###### T
+### the First and Second Oldsmobile Campaign 
+<details markdown ="1">
+  
+  <summary>related works</summary>
+
+</details>
+
+### the Cosmo Babylonia War 
+<details markdown ="1">
+  
+  <summary>related works</summary>
+
+</details>
+### the Zanskar War 
 <details markdown ="1">
   
   <summary>related works</summary>
