@@ -19,7 +19,7 @@ image_back: "https://64.media.tumblr.com/bc7638b4f6cd5f2adb79d4657716d9d3/e31580
   - [the Gryps Conflict](#the-gryps-conflict)
   - [the First Neo Zeon War](#the-first-neo-zeon-war)
   - [the Second Neo Zeon War](#the-second-neo-zeon-war)
-  - [the Laplus Incident](#the-laplus-incident)
+  - [the laplace Incident](#the-laplace-incident)
 
 </details>
 
@@ -217,7 +217,7 @@ abcdefg.....
 #### Neo Zeon
 aaaa
 
-### the Laplus Incident
+### the Laplace Incident
 <details markdown ="1">
   
   <summary>related works</summary>
