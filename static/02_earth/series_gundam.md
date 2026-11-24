@@ -192,7 +192,9 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 ### the Second Neo Zeon War
 <details markdown ="1">
+  
 <summary>related works</summary>
+
 - 【Movies】
   - Mobile Suit Gundam: Char's Counterattack
 - 【OVA】
@@ -210,6 +212,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 </details>
 The Reborn Neo Zeon by Char Azunabl
 #### Neo Zeon
+
 ### the Laplus Incident
 <details markdown ="1">
   
