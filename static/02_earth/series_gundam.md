@@ -188,7 +188,7 @@ Furthermore, in an effort to cover up the Federation's failures, all records per
 Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0085. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the immediate catalyst for the A.E.U.G. uprising.
 
 
-This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 (as depicted in *Mobile Suit Zeta Gundam*).
+This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 as depicted in *Mobile Suit Zeta Gundam*.
 
 ### the Gryps Conflict
 ()
