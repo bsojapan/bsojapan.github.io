@@ -175,9 +175,8 @@ A large transport vessel developed as a successor to the aging Papua-class.
   - Mobile Suit Gundam 0083: The Last Blitz of Zeon
 </details>
 
-The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a prohibited nuclear warhead, from the Earth Federation Forces' Torrington Base.
-Following a nuclear strike on a Federation naval review, they executed "Operation Stardust," which involved dropping a space colony onto Earth; the colony ultimately impacted the breadbasket region of the North American continent.
-
+Following the One Year War, Aiguille Delaz rallied the remnants of the Zeon forces to establish the "Delaz Fleet." This group included the former Zeon Space Marine Corps—led by Cima Garahau—whose members harbored a deep desire for revenge due to the harsh treatment they had endured under Zeon. Cima herself maintained secret ties with hardline Earth Federation figures Jamitov Hymem and Bask Om (who would later form the Titans). The Delaz Fleet stole the Gundam Prototype Unit 2 (GP02A)—equipped with a prohibited nuclear warhead—from the Federation’s Torrington Base and launched a nuclear strike during a Federation naval review.
+Subsequently, they initiated "Operation Stardust," a plan to drop a space colony onto the Federation headquarters at Jaburo. During the operation, Delaz was killed by Cima; however, his lieutenant, Anavel Gato, succeeded in crashing the colony into the breadbasket region of the North American continent—thereby triggering a global food crisis—before charging into the Federation fleet and perishing. While this brought an end to the Delaz Conflict, the resulting food crisis only served to highlight the critical importance of the space colonies without actually improving their status. Meanwhile, the sense of military crisis stoked by Jamitov and his associates proved effective, ultimately leading to the establishment of the Titans.
 
 In the aftermath of this incident, the Earth Federation Forces established an elite security unit known as the "Titans", ostensibly for the purpose of hunting down remaining Zeon forces (December, U.C. 0083).
 
