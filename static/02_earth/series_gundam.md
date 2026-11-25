@@ -175,7 +175,7 @@ A large transport vessel developed as a successor to the aging Papua-class.
   - Mobile Suit Gundam 0083: The Last Blitz of Zeon
 </details>
 
-The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a nuclear warhead, from the Earth Federation Forces' Torrington Base.
+The "Delaz Fleet"—a remnant organization of the Principality of Zeon—stole the Gundam Prototype Unit 2 (GP02A), which was equipped with a prohibited nuclear warhead, from the Earth Federation Forces' Torrington Base.
 Following a nuclear strike on a Federation naval review, they executed "Operation Stardust," which involved dropping a space colony onto Earth; the colony ultimately impacted the breadbasket region of the North American continent.
 
 
@@ -183,7 +183,7 @@ In the aftermath of this incident, the Earth Federation Forces established an el
 
 
 The Titans' subsequent, heavy-handed oppression of "spacenoids" (inhabitants of space colonies) sparked a backlash, leading to the formation of the anti-Federation organization "A.E.U.G." 
-Furthermore, in an effort to cover up the Federation's failures, all records pertaining to the incident—including the "GP Project" and the associated battles—were erased in March, U.C. 0084 (effectively rendering them "non-existent" in the official record).
+Furthermore, in an effort to cover up the Federation's failures, all records pertaining to the Delaz Incident—including the "GP Project" and the associated battles—were erased in March, U.C. 0084 (effectively rendering them "non-existent" in the official record).
 
 Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0085. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the immediate catalyst for the A.E.U.G. uprising.
 
