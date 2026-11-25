@@ -155,7 +155,7 @@ Designed from the ground up as the first-ever mothership intended for mobile sui
 
 ##### Gwazine-class Large Battleship
 July, U.C. 0076
-A purpose-built, large-scale space battleship, constructed to serve as a fleet flagship for the Zabi family and others. With the arrival of this class, the Chibe-class relinquished its status as a battleship.
+A purpose-built, large-scale space battleship, constructed to serve as a fleet flagship for the Zabi family and others. With the arrival of this class, the Chivvay-class relinquished its status as a battleship.
 
 Other Vessels (Mid-to-Late War)
 
@@ -171,7 +171,7 @@ A large transport vessel developed as a successor to the aging Papua-class.
 
 
 
-### the Delaz Conflict  
+### The Delaz Conflict  
 (U.C. 0083,Oct.-Nov.)  Operation Stardust
 <details markdown="1">
   
@@ -196,13 +196,13 @@ Furthermore, in an effort to cover up the Federation's failures, all records per
 The Titans' subsequent, heavy-handed oppression of "spacenoids" (inhabitants of space colonies) sparked a backlash, leading to the formation of the anti-Earth Union Group "A.E.U.G." (0084).
 
 
-Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0085. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the major catalyst catalyst for the A.E.U.G. uprising.
+Following the Delaz Conflict, the Titans—having expanded their authority—carried out the "30 Bunch Incident" on July 31, U.C. 0085. In an attempt to suppress an anti-Federation demonstration at the "30 Bunch" colony in Side 1, they pumped in a lethal poison gas (G3 gas), resulting in the massacre of millions of residents. This served as the major catalyst for the A.E.U.G. uprising.
 
 
 This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 as depicted in *Mobile Suit Zeta Gundam*.
 
-### the Gryps Conflict
-()
+### The Gryps Conflict
+(U.C. 0087 - 0088)
 <details markdown ="1">
   
 <summary>related works</summary>
@@ -230,7 +230,7 @@ This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 
 #### E.F.F. Titans
 #### E.F.F.
 
-### the First Neo Zeon War
+### The First Neo Zeon War
 (January, U.C. 0089)
 <details markdown ="1">
   
@@ -251,7 +251,7 @@ This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
 </details>
 
-### the Second Neo Zeon War
+### The Second Neo Zeon War
 <details markdown ="1">
   
 <summary>related works</summary>
@@ -272,13 +272,13 @@ This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 
 
 </details>
 
-The Reborn Neo Zeon by Char Azunabl.
+The Reborn Neo Zeon by Char Aznable.
 abcdefg.....
 
 #### Neo Zeon
 aaaa
 
-### the Laplace Conflict
+### The Laplace Conflict
 <details markdown ="1">
   
   <summary>related works</summary>
@@ -322,7 +322,7 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 #### Anaheim Electronics
 
 
-### the Mafty Uprising
+### The Mafty Uprising
 <details markdown ="1">
   
   <summary>related works</summary>
@@ -337,14 +337,14 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 
 </details>
 
-Following the "Laplace Incident," all Spacenoids held high hopes that the final article of the Universal Century Charter—which granted Newtypes priority in government participation—would be upheld. However, the Earth Federation rendered this provision effectively meaningless. Instead, the Federation imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. Immigration and Customs Enforcement), and carried out the forced deportation of the impoverished and those deemed "illegal residents" from Earth to space.
+Following the "Laplace Confrict," all Spacenoids held high hopes that the final article of the Universal Century Charter—which granted Newtypes priority in government participation—would be upheld. However, the Earth Federation rendered this provision effectively meaningless. Instead, the Federation imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. Immigration and Customs Enforcement), and carried out the forced deportation of the impoverished and those deemed "illegal residents" from Earth to space.
 
 Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself torn by a complex mix of emotions: deep-seated resentment toward the discriminatory and despicable Federation, respect for his illustrious father (who served within that very system), and a profound sense of his own inadequacy. Driven by these feelings, he took command of the terrorist organization "Mafty." Beneath this, he was also haunted by the guilt of having played a direct role in the deaths of Quess Paraya—for whom he had harbored unrequited love—and Chan Agi (Amuro Ray’s partner) during the Second Neo Zeon War. The "Mafty" uprising was an act of desperation, born from the intersection of his intense, perhaps unattainable, admiration for his father and his own rebellious impulse against the established order. Ultimately, Hathaway was defeated in a mobile suit battle, captured, and subsequently executed by the military.
 
 ##### T
 ###### T
 
-### the First and Second Oldsmobile Campaign 
+### The First and Second Oldsmobile Campaign 
 <details markdown ="1">
   
   <summary>related works</summary>
@@ -380,7 +380,7 @@ Following the war, the "Jupiter Phantom"—a remnant force from the Jovian regio
 #### aaaa
 #### bbbb
 
-### the Zanskar War 
+### The Zanskar War 
 
 <details markdown ="1">
   
@@ -393,6 +393,6 @@ Following the war, the "Jupiter Phantom"—a remnant force from the Jovian regio
 ### aaaaa
 <details markdown ="1">
   
-  <summary>related works</summaryl
+  <summary>related works</summaryl>
 
 </details>
