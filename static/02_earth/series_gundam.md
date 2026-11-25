@@ -89,6 +89,13 @@ We hope this overview proves helpful to you.
 </details>
 
 ## Vehicles
+
+### The Laplace Incident (Terrorist Attack)
+(U.C. 0000)
+
+The true masterminds behind the incident were high-ranking officials within the Earth Federation government, including the first Prime Minister, Ricardo Marcenas. They sought to erase a specific clause inscribed in the Universal Century Charter—the very essence of "Laplace’s Box"—which stipulated that, should a new breed of humanity adapted to life in space ("Newtypes") emerge in the future, they would be granted priority in participating in the administration of the government. Fearing that space colonists ("Spacenoids") might seize political rights or control, the officials orchestrated the destruction of the Prime Minister’s official residence, "Laplace"—which housed the original stone monument bearing the Charter—and subsequently presented a "falsified version" of the Charter, with the clause removed, as the official document. The government manipulated a group of youths from impoverished backgrounds, including Syam Vist, into carrying out the terrorist bombing. Following the attack, the government also destroyed the shuttle intended for the perpetrators' escape in an attempt to silence them; however, Syam Vist miraculously survived and recovered a fragment of the original stone monument (Laplace’s Box) in space. This event marked the beginning of a century-long, collusive relationship between the government and the Vist Foundation. Notably, Ricardo Marcenas himself—one of the masterminds—experienced a crisis of conscience at the last moment and attempted to call off the attack, but it was too late; he was caught in the explosion of the residence and perished.
+
+
 ### the One Year War 
 (U.C. 0079.Jan.3-0080.Jan.1)
 <details markdown="1">
