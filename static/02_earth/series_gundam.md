@@ -403,7 +403,7 @@ Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself to
 
 </details>
 
-Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Giren, as well as former members of the Titans, led to a period of internal conflict, including the "Legion Founding War." The Martian Independent Zeon Army—which eventually secured control—spent 30 years constructing a secret base deep within Olympus Mons, concealed behind the development of a commercial mass driver; it was here that they developed a strategic weapon known as the "Olympus Cannon."
+Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Giren, as well as former members of the Titans, led to a period of internal conflict, including the "Legion Founding War." The Martian Independent Zeon Army—which eventually secured control—spent 30 years constructing a secret base deep under Olympus Mons, concealed behind the development of a commercial mass driver; it was here that they developed a strategic weapon known as the "Olympus Cannon."
 
 With technical support from the Crossbone Vanguard—the private military force of the Buch Concern—they mass-produced the "Refine Series (RF)" ; Oldsmobile". These units were modernized with the latest technology, though they retained the external appearance of mobile suits from the One Year War era.
 
@@ -420,7 +420,7 @@ Following the war, the "Jupiter Phantom"—a remnant force from the Jovian regio
 
 </details>
 
-#### aaaa
+#### The Cosmo Babylonia (the Crossbone Vanguard / the Buch Concern)
 #### bbbb
 
 ### The Zanskar War 
