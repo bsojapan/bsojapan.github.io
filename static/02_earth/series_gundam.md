@@ -91,7 +91,7 @@ We hope this overview proves helpful to you.
 ## Vehicles
 
 ### The Laplace Incident (Terrorist Attack)
-(U.C. 0000)
+(U.C. 0001.Jan.1.)
 
 The true masterminds behind the incident were high-ranking officials within the Earth Federation government, including the first Prime Minister, Ricardo Marcenas. They sought to erase a specific clause inscribed in the Universal Century Charter—the very essence of "Laplace’s Box"—which stipulated that, should a new breed of humanity adapted to life in space ("Newtypes") emerge in the future, they would be granted priority in participating in the administration of the government. Fearing that space colonists ("Spacenoids") might seize political rights or control, the officials orchestrated the destruction of the Prime Minister’s official residence, "Laplace"—which housed the original stone monument bearing the Charter—and subsequently presented a "falsified version" of the Charter, with the clause removed, as the official document. 
 
@@ -313,6 +313,7 @@ abcdefg.....
 #### Earth Federation / E.F.F
 
 ### The Laplace Conflict
+(0086.)
 <details markdown ="1">
   
   <summary>related works</summary>
@@ -342,7 +343,7 @@ abcdefg.....
   - Mobile Suit Gundam Narrative (Manga)
 </details>
 
-Following the "Axis Shock" (a psycho-field phenomenon) that occurred during the attempt to drop the asteroid Axis—an event in which Amuro Ray and Char Aznable (Zeon Zum Deikun’s successor) were presumed killed （PKIA）—the Earth Federation Forces, no longer facing a major military threat, proceeded to downsize their military. Meanwhile, the Federation government intensified its oppression of the "spacenoids" (inhabitants of space colonies). In response, remnants of Neo Zeon regrouped around a "cyber-newtype" named Full Frontal—presented as the second coming of Char Aznable—and began conducting guerrilla and terrorist operations. Due to the distinctive decorative markings on the wrists of their mobile suits, this group came to be known as "The Sleeves."
+Alias The Third Neo Zeon War. Following the "Axis Shock" (a psycho-field phenomenon) that occurred during the attempt to drop the asteroid Axis—an event in which Amuro Ray and Char Aznable (Zeon Zum Deikun’s successor) were presumed killed （PKIA）—the Earth Federation Forces, no longer facing a major military threat, proceeded to downsize their military. Meanwhile, the Federation government intensified its oppression of the "spacenoids" (inhabitants of space colonies). In response, remnants of Neo Zeon regrouped around a "cyber-newtype" named Full Frontal—presented as the second coming of Char Aznable—and began conducting guerrilla and terrorist operations. Due to the distinctive decorative markings on the wrists of their mobile suits, this group came to be known as "The Sleeves."
 
 During this period, it was revealed that "Laplace's Box"—an object lost during the "Laplace Incident" (a terrorist attack on the Prime Minister's official residence that took place in the first year of the Universal Century)—actually existed, and that it contained information capable of toppling the Earth Federation government.
 
