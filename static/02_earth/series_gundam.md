@@ -213,6 +213,11 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 as depicted in *Mobile Suit Zeta Gundam*.
 
+#### Delaz Freet
+
+#### E.F.F.
+
+
 ### The Gryps Conflict
 (U.C. 0087 - 0088)
 <details markdown ="1">
@@ -250,6 +255,7 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 ##### Saramis refit class
 #### E.F.F. Titans
 #### E.F.F.
+#### Axis 
 
 ### The First Neo Zeon War
 (January, U.C. 0089)
@@ -271,6 +277,11 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
   - Mobile Suit Gundam: Char's Counterattack - Beyond the Time
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
 </details>
+
+#### Neo Zeon
+#### Anti-Earth Union Group (A.E.U.G )
+#### Earth Federation / E.F.F.
+
 
 ### The Second Neo Zeon War
 <details markdown ="1">
@@ -296,8 +307,10 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 The Reborn Neo Zeon by Char Aznable.
 abcdefg.....
 
-#### Neo Zeon
-aaaa
+#### Neo Zeon / Char's Neo Zeon
+##### aaaa
+#### Londo Bell
+#### Earth Federation / E.F.F
 
 ### The Laplace Conflict
 <details markdown ="1">
@@ -340,7 +353,9 @@ The "Laplace Conflict" began when the Earth Federation Forces launched a full-sc
 Ultimately, Banagher reaches the original stone monument containing the Universal Century Charter and reveals its full, authentic text to the entire world. The Federation Forces, attempting to destroy the monument, fire the "Gryps 2" colony laser; however, the blast is once again thwarted by the "rainbow light" of a psycho-field phenomenon.
 
 #### Londo Bell
+#### The Sleeves / Neo Zeon Remnants
 #### Anaheim Electronics
+#### Earth Federation / E.F.F
 
 
 ### The Mafty Uprising
