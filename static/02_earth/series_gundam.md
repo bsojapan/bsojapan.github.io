@@ -122,7 +122,19 @@ Notably, Ricardo Marcenas himself—one of the masterminds—experienced a crisi
 
 </details>
 
-The Earth Federation did not possess a full-fledged space navy; instead, it primarily operated patrol vessels and similar craft intended for law enforcement. Following Zeon Zum Deikun’s 0058 declaration of the founding of the Republic of Zeon in Side 3, both sides began the design and construction of full-scale warships.
+
+In the past, the Earth Federation did not possess a full-scale space fleet, relying instead on vessels such as patrol craft primarily intended for maintaining public order. However, following Zeon Zum Deikun’s declaration of the founding of the Republic of Zeon at Side 3 in Universal Century 0058, both sides began the design and construction of genuine warships.
+
+As the Principality of Zeon subsequently developed humanoid mobile weapons known as "mobile suits" (MS), a radical shift in military doctrine occurred, leading to the production of naval vessels designed specifically for the deployment of these units.
+
+On January 3, Universal Century 0079, the Principality of Zeon declared war on the Earth Federation government. Simultaneously, they launched surprise attacks on Sides 1, 2, and 4—all of which were sympathetic to the Federation—and carried out massacres using poison gas. Furthermore, they executed "Operation British," which involved dropping a colony (Island Iffish)—cleared of its inhabitants—onto Earth with the intent of directly destroying the Earth Federation Forces' general headquarters, Jaburo. The colony broke apart during its descent, however, and its trajectory shifted; the main section ultimately struck Sydney, Australia.
+The Zeon forces then planned to drop a colony from Side 5 (Loum). This led to the "Battle of Loum," a large-scale fleet engagement against the Federation forces, who sought to prevent the attack. Utilizing new tactics centered on mobile suits, the Zeon forces achieved a resounding victory, even capturing the commander-in-chief of the Federation fleet, General Johann Ibrahim Revil.
+
+In the wake of this, Gihren Zabi, the leader of Zeon, sought to conclude a ceasefire treaty from a position of overwhelming advantage. However, General Revil—who had been released through the machinations of Kycilia Zabi—delivered his famous "Zeon has no soldiers left" speech, prompting the Federation to choose a path of total resistance. As a result, the ceasefire agreement was scrapped, and instead, the "Antarctic Treaty"—an international wartime accord prohibiting the use of weapons of mass destruction and the dropping of space colonies—was signed.
+
+Subsequently, seeking the resources necessary for a protracted conflict, the Zeon forces descended to Earth, bringing vast regions—including parts of North America, Eurasia, and Africa—under their control. However, as the conflict reached a stalemate, the emergence of the Earth Federation’s "White Base" unit and the deployment of the mass-produced "GM" mobile suit turned the tide; unable to hold their front lines, the Zeon forces were gradually pushed back.
+
+The theater of war shifted once again to space. Following intense battles for the space fortresses of Solomon and A Baoa Qu, the Zabi family was completely wiped out. Thus, the One Year War came to an end.
 
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
