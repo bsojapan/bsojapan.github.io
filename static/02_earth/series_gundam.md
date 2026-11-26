@@ -225,8 +225,17 @@ This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 
   - Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
 
 </details>
+
+The Gryps Conflict began when the new Gundam Mk-II mobile suit was seized at "Green Noah 1"—a facility in Side 7 where the original Gundam had undergone final assembly during the One Year War (and which the Titans referred to by the codename "Gryps 1"). Kamille Bidan, the son of the unit's designer and an opponent of the Titans, stole the Mk-II (Unit 3) and joined the Anti-Earth Union Group (AEUG); the other two units were also captured by the AEUG.
+
+After delivering Units 1 and 2 to their sponsor, Anaheim Electronics, in the lunar city of Amman, the AEUG rendezvoused with the reinforcements ship *Radish* in space. A fleet centered on the flagship *Argama* then descended to Earth to attack the Earth Federation headquarters at Jaburo, though they barely managed to escape a nuclear self-destruct trap set by the Titans.
+
+Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere with designs on seizing control of the Earth sphere—intervened, with Haman Karn positioning Mineva, the last surviving heir of the Zabi family, as a figurehead. A three-way struggle ensued between the AEUG (now fielding the new Zeta Gundam), the Titans, and Axis, centered around the "Gryps 2" colony laser. Finding themselves at a disadvantage, the AEUG fired the colony laser at the Titans' fleet. The resulting strike destroyed the Titans, wiping out both their leadership and their fleet. However, the AEUG also suffered heavy losses, including the *Radish* and many of their ace pilots. The conflict ultimately concluded with Axis—which had effectively preserved its military strength—emerging as the new dominant power.
   
 #### Anti-Earth Union Group（A.E.U.G.）
+##### Argama class 
+##### Irish class 
+##### Saramis refit class
 #### E.F.F. Titans
 #### E.F.F.
 
