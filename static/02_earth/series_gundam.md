@@ -105,7 +105,7 @@ The government manipulated a group of youths from impoverished backgrounds, incl
 Notably, Ricardo Marcenas himself—one of the masterminds—experienced a crisis of conscience at the last moment and attempted to call off the attack, but it was too late; he was caught in the explosion of the residence and perished.
 
 
-### the One Year War 
+### The One Year War 
 (U.C. 0079.01.03-0080.01.01)
 <details markdown="1">
   
@@ -434,7 +434,7 @@ In October 0120, they attacked the Earth Federation Forces (EFF) transport ship 
 
 Following the war, the "Jupiter Phantom"—a remnant force from the Jovian region that had withdrawn its remaining troops and Earth-sphere units—sought to make a comeback. In 0122, they launched the "Second Oldsmobile Campaign," plotting to drop meteorites onto Earth using a mass driver in Epsilon city on moon they had seized on the Moon("Second Operation Tears of Water Heaven" or "Second Operation Varuna's Tears"). However, they were annihilated by forces including the Earth Federation's "Fastest Formula" unit, resulting in the total eradication of the Oldsmobile faction.
 
-### the Cosmo Babylonia War
+### The Cosmo Babylonia War
 (U.C.0123.03.16 - 0123.03.30)
 <details markdown ="1">
   
