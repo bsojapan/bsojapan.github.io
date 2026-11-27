@@ -126,6 +126,13 @@ The government manipulated a group of youths from impoverished backgrounds, incl
 Notably, Ricardo Marcenas himself—one of the masterminds—experienced a crisis of conscience at the last moment and attempted to call off the attack, but it was too late; he was caught in the explosion of the residence and perished.
 
   </details>
+#### Earth Federation 
+##### The Lapland (The Prime Minister’s Official Residence)
+"Laplace" is an iconic space-station-style facility located in Low Earth Orbit (LEO)—at an altitude of approximately 200 to 400 km, where it completes one orbit every 90 minutes—making it visible from the Earth's surface.
+It is based on the "Stanford Torus" space colony design, a concept actually developed in the 1970s by organizations such as NASA’s Ames Research Center. The ring structure housed the core functions of the Prime Minister’s Official Residence, as well as international conference halls and residential quarters. Two massive, disc-shaped mirrors (solar reflectors) were positioned above and below the torus (ring). The zero-gravity area at the central hub served as a spaceport (docking bay).
+
+##### The Salamis-class Space Security Boat
+The Salamis-class Space Security Boat was an early space patrol vessel operated by the Earth Federation Forces around Universal Century 0001. Unlike its much larger cruiser descendants used during the One Year War, this original model was a compact, unarmored craft resembling modern space station modules, featuring an exposed truss frame and large solar panels. Designed primarily for orbital security and perimeter defense rather than fleet-to-fleet combat, it deployed remote-controlled dolone laser satellites to form an automated defense network around key facilities such as the Prime Minister's Official Residence, Laplace.
 
 ### The One Year War 
 (U.C. 0079.01.03-0080.01.01)
