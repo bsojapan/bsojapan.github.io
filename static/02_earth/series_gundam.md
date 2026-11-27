@@ -106,7 +106,7 @@ We hope this overview proves helpful to you.
 
 ### The Laplace Incident (Terrorist Attack)
 (U.C. 0001.01.01)
-<details>
+<details markdown ="1">
   
   <summary>related works</summary>
   
@@ -114,7 +114,7 @@ We hope this overview proves helpful to you.
  - TV series : Mobile Suit Gundam Unicorn RE:0096 episode 1, Departure, Year 96
 
 </details>
-<details>
+<details markdown ="1">
   
   <summary>Overview of historical events</summary>
 
