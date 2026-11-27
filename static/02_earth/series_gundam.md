@@ -372,11 +372,7 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 </details>
 
 
-<details markdown="1">
-  
-  <summary>Overview of historical events</summary>
-  
-</details>
+
 #### Neo Zeon / Char's Neo Zeon / The Reborn Neo Zeon by Char Aznable.
 #### Londo Bell
 #### Earth Federation / E.F.F
@@ -411,7 +407,10 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
   - Mobile Suit Gundam: École du Ciel
   - Mobile Suit Gundam Narrative (Manga)
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
 Alias The Third Neo Zeon War. Following the "Axis Shock" (a psycho-field phenomenon) that occurred during the attempt to drop the asteroid Axis—an event in which Amuro Ray and Char Aznable (Zeon Zum Deikun’s successor) were presumed killed （PKIA）—the Earth Federation Forces, no longer facing a major military threat, proceeded to downsize their military. Meanwhile, the Federation government intensified its oppression of the "spacenoids" (inhabitants of space colonies). In response, remnants of Neo Zeon regrouped around a "cyber-newtype" named Full Frontal—presented as the second coming of Char Aznable—and began conducting guerrilla and terrorist operations. Due to the distinctive decorative markings on the wrists of their mobile suits, this group came to be known as "The Sleeves."
 
 During this period, it was revealed that "Laplace's Box"—an object lost during the "Laplace Incident" (a terrorist attack on the Prime Minister's official residence that took place in the first year of the Universal Century)—actually existed, and that it contained information capable of toppling the Earth Federation government.
@@ -421,6 +420,7 @@ Cardeas Vist, the head of the Vist Foundation—a shadowy organization that had 
 The "Laplace Conflict" began when the Earth Federation Forces launched a full-scale assault on "Industrial 7," the site of the Vist Foundation’s headquarters and the planned location for the handover. Lieutenant Colonel Dagza Mackle of the special forces unit "ECOAS"—tasked with top-secret mission preventing the transfer of the Box—and Otto Mitas, captain of the Londo Bell ship *Nahel Argama* (which was overseeing the transport), ended up causing the destruction of the colony. Mortally wounded in the attack, Cardeas Vist entrusted his son, Banagher Links, with the RX-0 Unicorn Gundam—a mobile suit equipped with a "psycho-frame" and the "Laplace Program." As a result, a three-way conflict unfolds: the Earth Federation—determined to maintain the status quo—is pitted against the "Sleeves," who seek to supplant the Vist Foundation, while the *Nahel Argama*—having joined forces with Banagher—also enters the fray.
 
 Ultimately, Banagher reaches the original stone monument containing the Universal Century Charter and reveals its full, authentic text to the entire world. The Federation Forces, attempting to destroy the monument, fire the "Gryps 2" colony laser; however, the blast is once again thwarted by the "rainbow light" of a psycho-field phenomenon.
+</details>
 
 #### Londo Bell
 #### The Sleeves / Neo Zeon Remnants
@@ -443,7 +443,10 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
   - Mobile Suit Gundam F90 Fastest Formula
 
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
 Following the "Laplace Conflict," all Spacenoids held high hopes that the final article of the Universal Century Charter—which granted Newtypes priority in government participation—would be upheld. However, the Earth Federation rendered this provision effectively meaningless. Instead, the Federation imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. Immigration and Customs Enforcement), and carried out the forced deportation of the impoverished and those deemed "illegal residents" from Earth to space.
 
 Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself torn by a complex mix of emotions: deep-seated resentment toward the discriminatory and despicable Federation, respect for his illustrious father (who served within that very system), and a profound sense of his own inadequacy. Driven by these feelings, he took command of the terrorist organization "Mafty." Beneath this, he was also haunted by the guilt of having played a direct role in the deaths of Quess Paraya—for whom he had harbored unrequited love—and Chan Agi (Amuro Ray’s partner) during the Second Neo Zeon War. The "Mafty" uprising was an act of desperation, born from the intersection of his intense, perhaps unattainable, admiration for his father and his own rebellious impulse against the established order. Ultimately, Hathaway was defeated in a mobile suit battle, captured, and subsequently executed by the military.
@@ -464,7 +467,7 @@ Having lost the capacity for new production, space entered a period of technolog
 *In the Jovian Sphere*, a declining population and economic stagnation in the Earth Sphere—which lowered the demand for Helium-3—combined with the bitter lessons of the Jupiter Wars, prompted a deliberate restriction of technological, resource, and personnel exchanges with Earth. Thus, the region began forging its own independent society and history as the "Jupiter Republic", after the "Empire Jupiter."
 
 As existing nations and public institutions fell into complete dysfunction, the foundation of the era shifted toward voluntary organizations led by private individuals, pioneered by groups such as the Space Pirates Crossbone Vanguard and the League Militaire. In this age of turmoil and regression, it was no longer regular state armies or public infrastructure, but rather private transporters—exemplified by Muteki Transport—and networks of determined individuals that emerged as the new protagonists, sustaining the lifelines of fragmented humanity and civilization.
-
+</details>
 
 ### The First and Second Oldsmobile Campaign 
 (U.C.0120.10.27 - 0121.03.16)/(U.C.0121.09.29 - 0122.12)
@@ -484,7 +487,10 @@ As existing nations and public institutions fell into complete dysfunction, the 
   - F90 A to Z Project
 
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
 Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Gihren, as well as former members of the Titans, led to a period of internal conflict, including the "Legion Founding War." The Martian Independent Zeon Army—which eventually secured control—spent 30 years constructing a secret base deep under Olympus Mons, concealed behind the development of a commercial mass driver; it was here that they developed a strategic weapon known as the "Olympus Cannon."
 
 With technical support from the Anaheim Electronics —they mass-produced the "Refine Series (RF)" ; Oldsmobile". These units were modernized with the latest technology, though they retained the external appearance of mobile suits from the One Year War era.
@@ -493,6 +499,7 @@ In October 0120, they attacked the Earth Federation Forces (EFF) transport ship 
 
 
 Following the war, the "Jupiter Phantom"—a remnant force from the Jovian region that had withdrawn its remaining troops and Earth-sphere units—sought to make a comeback. In 0122, they launched the "Second Oldsmobile Campaign," plotting to drop meteorites onto Earth using a mass driver in Epsilon city on moon they had seized on the Moon("Second Operation Tears of Water Heaven" or "Second Operation Varuna's Tears"). However, they were annihilated by forces including the Earth Federation's "Fastest Formula" unit, resulting in the total eradication of the Oldsmobile faction.
+</details>
 
 ### The Cosmo Babylonia War
 (U.C.0123.03.16 - 0123.03.30)
@@ -501,7 +508,10 @@ Following the war, the "Jupiter Phantom"—a remnant force from the Jovian regio
   <summary>related works</summary>
 
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
 Meitzer Ronah was the founder who achieved immense success in the space debris collection and recycling business, building the massive Earth Sphere conglomerate Buch Concern. Although it was originally neither a political nor a military organization, he used Buch's material transport vessels and debris collection bases around the newly developed colonies in the former Side 4 sector (Frontier Side) and shoal zones as fronts to secretly construct Mobile Suit development and manufacturing plants, as well as training bases for his private army, the Crossbone Vanguard (CV).
 
 The CV provided a small number of its own second-line Mobile Suits and parts to the Martian Zeon remnants (Oldsmobile), blending them in with the RF Series illicitly supplied by Anaheim Electronics (AE). Through this, the CV gradually wore down the Earth Federation Forces while conducting field tests, and through covert operations by its elite units, it also gathered valuable combat data and technical intelligence on next-generation miniaturized Mobile Suits such as SNRI's F70 and F90.
@@ -510,6 +520,7 @@ Then, in March U.C. 0123, the CV seized military control of the lightly guarded 
 Under the philosophy that "rather than the corrupt democracy of the Earth Federation, a chosen, noble elite (aristocracy) should responsibly lead the masses," Meitzer aimed to spread Cosmo Aristocracy across all space colonies (the entire Earth Sphere), using Frontier Side as a foothold. However, the commander of his combat forces—his son-in-law Carozzo Ronah, known as "Iron Mask"—gradually descended into madness due to hatred stemming from domestic turmoil and the effects of Cyber-Newtype enhancements, going rogue with a plan to "exterminate 90% of humanity." He went so far as to deploy indiscriminate killer drones known as "Bugs" and the giant Mobile Armor "Rafflesia." Enraged by the massacre, Supreme Leader Meitzer attempted to stop him, only to be placed under house arrest by Iron Mask, who had seized effective control of the military. 
 
 Ultimately, Carozzo's daughter Cecily (Berah Ronah), despairing over her father's atrocities, joined forces with Seabook Arno (Gundam F91) and the Federation forces aboard the training ship Space Ark to defeat Iron Mask. With its leadership collapsed, the war came to a swift end through what amounted to internal strife.
+</details>
 
 #### The Cosmo Babylonia (the Crossbone Vanguard / the Buch Concern)
 #### Anaheim Electric 
@@ -521,5 +532,9 @@ Ultimately, Carozzo's daughter Cecily (Berah Ronah), despairing over her father'
   <summary>related works</summary>
 
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
+</details>
 
