@@ -219,7 +219,7 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 as depicted in *Mobile Suit Zeta Gundam*.
 
-#### Delaz Freet
+#### Delaz Fleet
 
 #### E.F.F.
 
