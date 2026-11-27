@@ -383,7 +383,7 @@ Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself to
 
 ##### T
 ###### T
-### The Mid-Second Century of the Universal Century 
+### Supplementary remarks : The Mid-Second Century of the Universal Century 
 (U.C. 0120s–0160s)
 
 By the mid-second century of the Universal Century (U.C. 0120s–0160s), following the transition to the miniaturized Mobile Suit era, the corrupt Earth Federation Government barely managed to suppress major uprisings such as the Cosmo Babylonia Founding War and the Zanscare War, rapidly losing its national strength and governing authority in the process. Eventually, the regime on Earth retreated into a de facto policy of national isolation (sakoku), strictly restricting immigration and transit from space, reducing the Earth Federation to a hollow shell existing in name only.
@@ -396,9 +396,6 @@ In stark contrast, *the Space Colonies*, stripped of Federation protection and l
 *In the Jovian Sphere*, a declining population and economic stagnation in the Earth Sphere—which lowered the demand for Helium-3—combined with the bitter lessons of the Jupiter Wars, prompted a deliberate restriction of technological, resource, and personnel exchanges with Earth. Thus, the region began forging its own independent society and history as the "Jupiter Republic."
 
 As existing nations and public institutions fell into complete dysfunction, the foundation of the era shifted toward voluntary organizations led by private individuals, pioneered by groups such as the Space Pirates Crossbone Vanguard and the League Militaire. In this age of turmoil and regression, it was no longer regular state armies or public infrastructure, but rather private transporters—exemplified by Muteki Transport—and networks of determined individuals that emerged as the new protagonists, sustaining the lifelines of fragmented humanity and civilization.
-
-
-
 
 
 ### The First and Second Oldsmobile Campaign 
