@@ -23,7 +23,7 @@ image_back: "https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073c
   - [The Mafty Uprising](#the-mafty-uprising)
   - [Supplementary remarks : the Mid Second Century of the Universal Century](#supplementary-remarks---the-mid-second-century-of-the-universal-century)
   - [The First and Second Oldsmobile Campaign](#the-first-and-second-oldsmobile-campaign)
-  - [the Cosmo Babylonia War](#the=cosmo-babylonia-war)
+  - [the Cosmo Babylonia War](#the-cosmo-babylonia-war)
   - [The Zanskar War](#the-zanskar-war)
 
 </details>
@@ -388,7 +388,7 @@ Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself to
 
 ##### T
 ###### T
-### Supplementary remarks : The Mid-Second Century of the Universal Century 
+### Supplementary remarks : The Mid-Second Century of the Universal Century
 (U.C. 0120s–0160s)
 
 By the mid-second century of the Universal Century (U.C. 0120s–0160s), following the transition to the miniaturized Mobile Suit era, the corrupt Earth Federation Government barely managed to suppress major uprisings such as the Cosmo Babylonia Founding War and the Zanscare War, rapidly losing its national strength and governing authority in the process. Eventually, the regime on Earth retreated into a de facto policy of national isolation (sakoku), strictly restricting immigration and transit from space, reducing the Earth Federation to a hollow shell existing in name only.
@@ -434,7 +434,7 @@ In October 0120, they attacked the Earth Federation Forces (EFF) transport ship 
 
 Following the war, the "Jupiter Phantom"—a remnant force from the Jovian region that had withdrawn its remaining troops and Earth-sphere units—sought to make a comeback. In 0122, they launched the "Second Oldsmobile Campaign," plotting to drop meteorites onto Earth using a mass driver in Epsilon city on moon they had seized on the Moon("Second Operation Tears of Water Heaven" or "Second Operation Varuna's Tears"). However, they were annihilated by forces including the Earth Federation's "Fastest Formula" unit, resulting in the total eradication of the Oldsmobile faction.
 
-### the Cosmo Babylonia War 
+### the Cosmo Babylonia War
 (U.C.0123.03.16 - 0123.03.30)
 <details markdown ="1">
   
