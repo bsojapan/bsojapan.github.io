@@ -312,10 +312,9 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 </details>
 
 The Reborn Neo Zeon by Char Aznable.
-abcdefg.....
+
 
 #### Neo Zeon / Char's Neo Zeon
-##### aaaa
 #### Londo Bell
 #### Earth Federation / E.F.F
 
@@ -386,8 +385,6 @@ Following the "Laplace Conflict," all Spacenoids held high hopes that the final 
 
 Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself torn by a complex mix of emotions: deep-seated resentment toward the discriminatory and despicable Federation, respect for his illustrious father (who served within that very system), and a profound sense of his own inadequacy. Driven by these feelings, he took command of the terrorist organization "Mafty." Beneath this, he was also haunted by the guilt of having played a direct role in the deaths of Quess Paraya—for whom he had harbored unrequited love—and Chan Agi (Amuro Ray’s partner) during the Second Neo Zeon War. The "Mafty" uprising was an act of desperation, born from the intersection of his intense, perhaps unattainable, admiration for his father and his own rebellious impulse against the established order. Ultimately, Hathaway was defeated in a mobile suit battle, captured, and subsequently executed by the military.
 
-##### T
-###### T
 ### Supplementary remarks : The Mid Second Century of the Universal Century
 (U.C. 0120s–0160s)
 
@@ -452,7 +449,7 @@ Under the philosophy that "rather than the corrupt democracy of the Earth Federa
 Ultimately, Carozzo's daughter Cecily (Berah Ronah), despairing over her father's atrocities, joined forces with Seabook Arno (Gundam F91) and the Federation forces aboard the training ship Space Ark to defeat Iron Mask. With its leadership collapsed, the war came to a swift end through what amounted to internal strife.
 
 #### The Cosmo Babylonia (the Crossbone Vanguard / the Buch Concern)
-#### bbbb
+#### Anaheim Electric 
 
 ### The Zanscare War 
 (U.C.0153.04.05 - 0153.06.23)
@@ -462,11 +459,4 @@ Ultimately, Carozzo's daughter Cecily (Berah Ronah), despairing over her father'
 
 </details>
 
-#### aaaa
-#### bbbb
-### aaaaa
-<details markdown ="1">
-  
-  <summary>related works</summaryl>
 
-</details>
