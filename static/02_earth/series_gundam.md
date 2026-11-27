@@ -138,7 +138,12 @@ It is based on the "[Stanford Torus](https://www.google.com/search?q=Stanford+To
 </details>
 
 ##### The Salamis-class Space Security Boat
-The Salamis-class Space Security Boat was an early space patrol vessel operated by the Earth Federation Forces around Universal Century 0001. Unlike its much larger cruiser descendants used during the One Year War, this original model was a compact, unarmored craft resembling modern space station modules, featuring an exposed truss frame and large solar panels. Designed primarily for orbital security and perimeter defense rather than fleet-to-fleet combat, it deployed remote-controlled dolone laser satellites to form an automated defense network around key facilities such as the Prime Minister's Official Residence, Laplace.
+<details>
+  
+  <summary>summary</summary> 
+  
+  The Salamis-class Space Security Boat was an early space patrol vessel operated by the Earth Federation Forces around Universal Century 0001. Unlike its much larger cruiser descendants used during the One Year War, this original model was a compact, unarmored craft resembling modern space station modules, featuring an exposed truss frame and large solar panels. Designed primarily for orbital security and perimeter defense rather than fleet-to-fleet combat, it deployed remote-controlled dolone laser satellites to form an automated defense network around key facilities such as the Prime Minister's Official Residence, Laplace.
+</details>
 
 ### The One Year War 
 (U.C. 0079.01.03-0080.01.01)
