@@ -14,7 +14,7 @@ image_back: "https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073c
   - [Outline](#outline)
   - [Structure of the Gundam Franchise](#structure-of-the-gundam-franchise)
 - [Vehicles](#vehicles)
-  - [The Laplace Incident (Terrorist Attack)](#the-laplace-incident--terrorist-attack-)
+  - [The Laplace Incident (Terrorist Attack)](#the-laplace-incident---terrorist-attack-)
   - [The One Year War](#the-one-year-war)
   - [The Delaz Conflict](#the-delaz-conflict)
   - [The Gryps Conflict](#the-gryps-conflict)
