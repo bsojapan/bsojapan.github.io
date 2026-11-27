@@ -20,6 +20,8 @@ image_back: "https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073c
   - [the First Neo Zeon War](#the-first-neo-zeon-war)
   - [the Second Neo Zeon War](#the-second-neo-zeon-war)
   - [the laplace Conflict ](#the-laplace-conflict)
+  - [The Mafty Uprising](the-mafty-uprising)
+  - [Supplementary remarks : the Mid Second Century of the Universal Century](supplementary-remarks-:-the-mid-second-century-of-the-universal-century)
 
 </details>
 
