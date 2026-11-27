@@ -128,7 +128,7 @@ Notably, Ricardo Marcenas himself—one of the masterminds—experienced a crisi
   </details>
 
 #### Earth Federation 
-##### The Lapland (The Prime Minister’s Official Residence)
+##### The Laplace: The Prime Minister’s Official Residence
 "Laplace" is an iconic space-station-style facility located in Low Earth Orbit (LEO)—at an altitude of approximately 200 to 400 km, where it completes one orbit every 90 minutes—making it visible from the Earth's surface.
 It is based on the "[Stanford Torus](https://www.google.com/search?q=Stanford+Torus&rlz=1C9BKJA_enJP1134JP1134&hl=ja&sourceid=chrome-mobile&ie=UTF-8)" space colony design, a concept actually developed in the 1970s by organizations such as NASA’s Ames Research Center. The ring structure housed the core functions of the Prime Minister’s Official Residence, as well as international conference halls and residential quarters. Two massive, disc-shaped mirrors (solar reflectors) were positioned above and below the torus (ring). The zero-gravity area at the central hub served as a spaceport (docking bay).
 
