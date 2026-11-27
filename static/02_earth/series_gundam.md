@@ -450,11 +450,16 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 Following the "Laplace Conflict," all Spacenoids held high hopes that the final article of the Universal Century Charter—which granted Newtypes priority in government participation—would be upheld. However, the Earth Federation rendered this provision effectively meaningless. Instead, the Federation imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. Immigration and Customs Enforcement), and carried out the forced deportation of the impoverished and those deemed "illegal residents" from Earth to space.
 
 Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself torn by a complex mix of emotions: deep-seated resentment toward the discriminatory and despicable Federation, respect for his illustrious father (who served within that very system), and a profound sense of his own inadequacy. Driven by these feelings, he took command of the terrorist organization "Mafty." Beneath this, he was also haunted by the guilt of having played a direct role in the deaths of Quess Paraya—for whom he had harbored unrequited love—and Chan Agi (Amuro Ray’s partner) during the Second Neo Zeon War. The "Mafty" uprising was an act of desperation, born from the intersection of his intense, perhaps unattainable, admiration for his father and his own rebellious impulse against the established order. Ultimately, Hathaway was defeated in a mobile suit battle, captured, and subsequently executed by the military.
+</details>
 
 ### Supplementary remarks : The Mid Second Century of the Universal Century
 (U.C. 0120s–0160s)
 
-By the mid-second century of the Universal Century (U.C. 0120s–0160s), following the transition to the miniaturized Mobile Suit era, the corrupt Earth Federation Government barely managed to suppress major uprisings such as the Cosmo Babylonia Founding War and the Zanscare War, rapidly losing its national strength and governing authority in the process. Eventually, the regime on Earth retreated into a de facto policy of national isolation (sakoku), strictly restricting immigration and transit from space, reducing the Earth Federation to a hollow shell existing in name only.
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
+  By the mid-second century of the Universal Century (U.C. 0120s–0160s), following the transition to the miniaturized Mobile Suit era, the corrupt Earth Federation Government barely managed to suppress major uprisings such as the Cosmo Babylonia Founding War and the Zanscare War, rapidly losing its national strength and governing authority in the process. Eventually, the regime on Earth retreated into a de facto policy of national isolation (sakoku), strictly restricting immigration and transit from space, reducing the Earth Federation to a hollow shell existing in name only.
 
 Meanwhile, on *the frontier of the Mars Sphere*, the devastating defeats in the two Oldsmobile Campaigns led to a complete cessation of intervention and support from the Earth Federation. This abandonment resulted in population decline and a stagnation in technological succession, plunging Mars into a state of virtual isolation.
 
