@@ -334,11 +334,11 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
   - Mobile Suit Gundam: Char's Counterattack - Beyond the Time
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
 </details>
-</details>
 <details markdown="1">
   
   <summary>Overview of historical events</summary>
-  </details>
+  
+</details>
 #### Neo Zeon
 #### Anti-Earth Union Group (A.E.U.G )
 #### Earth Federation / E.F.F.
@@ -365,11 +365,19 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
   - Mobile Suit Gundam: Hathaway's Flash (Mobile Suit Gundam Hathaway)
 
 </details>
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
+</details>
 
-The Reborn Neo Zeon by Char Aznable.
 
-
-#### Neo Zeon / Char's Neo Zeon
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
+</details>
+#### Neo Zeon / Char's Neo Zeon / The Reborn Neo Zeon by Char Aznable.
 #### Londo Bell
 #### Earth Federation / E.F.F
 
