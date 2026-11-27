@@ -34,11 +34,14 @@ image_back: "https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073c
 <img src="https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj" width="400"></a>
 
 
-<details markdown="1">
+
   
-<summary>show contents</summary>
+
 
 ### The Historical Context of the Work’s Creation
+<details markdown="1">
+  
+  <summary>show contents</summary>
 
 The era in which *Mobile Suit Gundam* was created was a time when the limitations of Japanese *tokusatsu* (special effects) were becoming apparent, especially in the face of the technological innovations seen in major, Hollywood-backed science fiction films.
 At the 1970 Japan Osaka World Exposition (Expo '70), public interest in science surged—fueled by exhibits like the Apollo moon rocks and the Soviet Soyuz spacecraft—yet, in reality, Japanese society was grappling with severe pollution, a byproduct of scientific and industrial development that would be unthinkable today.
@@ -51,9 +54,12 @@ Following the massive success of *Space Battleship Yamato* (1974), *Mobile Suit 
 
 
 As for the human drama, Japanese works are often perceived by Western audiences as being somewhat "long-winded" or overly drawn-out. This stems from distinct characteristics of Japanese society, where decisions are frequently driven by emotion, and individuals often prioritize social norms—or even self-sacrifice—over personal desires, with outcomes evaluated based on one’s social standing or role. *Mobile Suit Gundam* offered a fresh perspective; the story unfolds from a neutral, non-binary viewpoint—transcending simple notions of good versus evil—while exploring various questions concerning science, culture, and the human condition.
-
+</details>
 
 ### Outline 
+<details markdown="1">
+  
+  <summary>show contents</summary>
 
 > It is the year 0079 of the Universal Century. A half-century has passed since Earth began moving its burgeoning population into gigantic orbiting space colonies. A new home for mankind, where people are born and raised
 > 
@@ -65,10 +71,13 @@ As for the human drama, Japanese works are often perceived by Western audiences 
 >
 
 The first installment—often referred to as the "First Gundam"—begins with the lengthy narration mentioned above. The setting involves the Earth Federation, which holds dominion, and the Principality of Zeon—located in "Side 3," one of the colonized space sectors—as they engage in an independence conflict known as the "One Year War." The story focuses on the events that take place during the final three and a half months of this war.
-
+</details>
 
 
 ### Structure of the Gundam Franchise
+<details markdown="1">
+  
+  <summary>show contents</summary>
 
 #### Background
 In 2020, Bandai Namco successfully consolidated the intellectual property (IP) of the *Mobile Suit Gundam* series, integrating its various multimedia components. Furthermore, in 2022, the company articulated a strategy to deepen the franchise’s complex, immersive world-building and elevate it into a significant "social property"—a cultural icon. Through manga, anime, television series, feature films, video games, *Gunpla* (plastic model kits), and attractions, the *Gundam* universe continues to expand, with an ever-growing array of stories and characters.
