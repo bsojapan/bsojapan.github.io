@@ -14,17 +14,17 @@ image_back: "https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073c
   - [Outline](#outline)
   - [Structure of the Gundam Franchise](#structure-of-the-gundam-franchise)
 - [Vehicles](#vehicles)
-  - [the One Year War](#the-one-year-war)
-  - [the Delaz Conflict](#the-delaz-conflict)
-  - [the Gryps Conflict](#the-gryps-conflict)
-  - [the First Neo Zeon War](#the-first-neo-zeon-war)
-  - [the Second Neo Zeon War](#the-second-neo-zeon-war)
-  - [the laplace Conflict ](#the-laplace-conflict)
+  - [The One Year War](#the-one-year-war)
+  - [The Delaz Conflict](#the-delaz-conflict)
+  - [The Gryps Conflict](#the-gryps-conflict)
+  - [The First Neo Zeon War](#the-first-neo-zeon-war)
+  - [The Second Neo Zeon War](#the-second-neo-zeon-war)
+  - [The Laplace Conflict ](#the-laplace-conflict)
   - [The Mafty Uprising](#the-mafty-uprising)
   - [Supplementary remarks : the Mid Second Century of the Universal Century](#supplementary-remarks--the-mid-second-century-of-the-universal-century)
   - [The First and Second Oldsmobile Campaign](#the-first-and-second-oldsmobile-campaign)
-  - [the Cosmo Babylonia War](#the-cosmo-babylonia-war)
-  - [The Zanskar War](#the-zanskar-war)
+  - [The Cosmo Babylonia War](#the-cosmo-babylonia-war)
+  - [The Zanscare War](#the-zanscare-war)
 
 </details>
 
@@ -258,7 +258,7 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 #### Anti-Earth Union Group（A.E.U.G.）
 ##### Argama-class Assault Cruiser (Flagship: Argama)
 ##### Irish class 
-##### Saramis refit class
+##### Salamis-class (Refit)
 #### E.F.F. Titans
 #### E.F.F.
 #### Axis 
@@ -307,7 +307,7 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
   - Mobile Suit Gundam U.C.0096: Last Sun
   - Mobile Suit Moon Gundam
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
-  - Mobile Suit Gundam: Hathaway's Flash (Mobile Suit Gundam Hathaway  
+  - Mobile Suit Gundam: Hathaway's Flash (Mobile Suit Gundam Hathaway)
 
 </details>
 
@@ -382,7 +382,7 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 
 </details>
 
-Following the "Laplace Confrict," all Spacenoids held high hopes that the final article of the Universal Century Charter—which granted Newtypes priority in government participation—would be upheld. However, the Earth Federation rendered this provision effectively meaningless. Instead, the Federation imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. Immigration and Customs Enforcement), and carried out the forced deportation of the impoverished and those deemed "illegal residents" from Earth to space.
+Following the "Laplace Conflict," all Spacenoids held high hopes that the final article of the Universal Century Charter—which granted Newtypes priority in government participation—would be upheld. However, the Earth Federation rendered this provision effectively meaningless. Instead, the Federation imposed heavy taxes, enforced discriminatory policies through a security force known as "Manhunters" (an organization akin to U.S. Immigration and Customs Enforcement), and carried out the forced deportation of the impoverished and those deemed "illegal residents" from Earth to space.
 
 Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself torn by a complex mix of emotions: deep-seated resentment toward the discriminatory and despicable Federation, respect for his illustrious father (who served within that very system), and a profound sense of his own inadequacy. Driven by these feelings, he took command of the terrorist organization "Mafty." Beneath this, he was also haunted by the guilt of having played a direct role in the deaths of Quess Paraya—for whom he had harbored unrequited love—and Chan Agi (Amuro Ray’s partner) during the Second Neo Zeon War. The "Mafty" uprising was an act of desperation, born from the intersection of his intense, perhaps unattainable, admiration for his father and his own rebellious impulse against the established order. Ultimately, Hathaway was defeated in a mobile suit battle, captured, and subsequently executed by the military.
 
