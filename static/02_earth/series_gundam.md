@@ -388,7 +388,7 @@ Hathaway Noa—son of the Earth Federation Forces' Bright Noa—found himself to
 
 ##### T
 ###### T
-### Supplementary remarks : The Mid-Second Century of the Universal Century
+### Supplementary remarks : The Mid Second Century of the Universal Century
 (U.C. 0120s–0160s)
 
 By the mid-second century of the Universal Century (U.C. 0120s–0160s), following the transition to the miniaturized Mobile Suit era, the corrupt Earth Federation Government barely managed to suppress major uprisings such as the Cosmo Babylonia Founding War and the Zanscare War, rapidly losing its national strength and governing authority in the process. Eventually, the regime on Earth retreated into a de facto policy of national isolation (sakoku), strictly restricting immigration and transit from space, reducing the Earth Federation to a hollow shell existing in name only.
