@@ -454,7 +454,7 @@ Ultimately, Carozzo's daughter Cecily (Berah Ronah), despairing over her father'
 #### The Cosmo Babylonia (the Crossbone Vanguard / the Buch Concern)
 #### bbbb
 
-### The Zanskar War 
+### The Zanscare War 
 (U.C.0153.04.05 - 0153.06.23)
 <details markdown ="1">
   
