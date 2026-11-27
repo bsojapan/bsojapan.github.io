@@ -2,7 +2,7 @@
 layout: contents
 title: "Mobile Suit GUNDAM series"
 permalink: /static/02_earth/series_gundam.html
-image_back: "https://64.media.tumblr.com/586348c8834a97d5473ac8ef272ee385/3b073cfcedebde0c-7c/s2048x3072/8b90f1174e26685214bbccb4b453665b06d106d5.jpg"
+image_back:"https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073cfcedebde0c-5b/s2048x3072/4a8c8c90596207b7c8dd7f0c342c821bde4858c9.jpg"
 ---
 
 <details markdown="1">
