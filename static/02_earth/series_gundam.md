@@ -366,7 +366,7 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 #### Earth Federation / E.F.F
 
 
-### The Mafty Uprisingm
+### The Mafty Uprising
 (U.C.0105.04.19 - 0105.04.26)
 <details markdown ="1">
   
@@ -425,7 +425,7 @@ As existing nations and public institutions fell into complete dysfunction, the 
 
 </details>
 
-Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Giren, as well as former members of the Titans, led to a period of internal conflict, including the "Legion Founding War." The Martian Independent Zeon Army—which eventually secured control—spent 30 years constructing a secret base deep under Olympus Mons, concealed behind the development of a commercial mass driver; it was here that they developed a strategic weapon known as the "Olympus Cannon."
+Following the One Year War, remnants of Kycilia’s forces fled to Mars and established "Zeon Mars," utilizing locations such as Side A Arcadia as their bases. Subsequently, the arrival of remnants loyal to Gihren, as well as former members of the Titans, led to a period of internal conflict, including the "Legion Founding War." The Martian Independent Zeon Army—which eventually secured control—spent 30 years constructing a secret base deep under Olympus Mons, concealed behind the development of a commercial mass driver; it was here that they developed a strategic weapon known as the "Olympus Cannon."
 
 With technical support from the Anaheim Electronics —they mass-produced the "Refine Series (RF)" ; Oldsmobile". These units were modernized with the latest technology, though they retained the external appearance of mobile suits from the One Year War era.
 
