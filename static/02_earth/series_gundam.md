@@ -396,7 +396,7 @@ In stark contrast, *the Space Colonies*, stripped of Federation protection and l
 
 Having lost the capacity for new production, space entered a period of technological regression, relying on "scrap-and-build" (mixing-build) techniques to salvage and cobble together remnants from past wars just to keep machinery and infrastructure operational.
 
-*In the Jovian Sphere*, a declining population and economic stagnation in the Earth Sphere—which lowered the demand for Helium-3—combined with the bitter lessons of the Jupiter Wars, prompted a deliberate restriction of technological, resource, and personnel exchanges with Earth. Thus, the region began forging its own independent society and history as the "Jupiter Republic", after the "Cosmo Babylonia" and the "Empire Jupiter."
+*In the Jovian Sphere*, a declining population and economic stagnation in the Earth Sphere—which lowered the demand for Helium-3—combined with the bitter lessons of the Jupiter Wars, prompted a deliberate restriction of technological, resource, and personnel exchanges with Earth. Thus, the region began forging its own independent society and history as the "Jupiter Republic", after the "Empire Jupiter."
 
 As existing nations and public institutions fell into complete dysfunction, the foundation of the era shifted toward voluntary organizations led by private individuals, pioneered by groups such as the Space Pirates Crossbone Vanguard and the League Militaire. In this age of turmoil and regression, it was no longer regular state armies or public infrastructure, but rather private transporters—exemplified by Muteki Transport—and networks of determined individuals that emerged as the new protagonists, sustaining the lifelines of fragmented humanity and civilization.
 
