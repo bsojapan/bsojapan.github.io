@@ -129,7 +129,7 @@ Notably, Ricardo Marcenas himself—one of the masterminds—experienced a crisi
 
 #### Earth Federation 
 ##### The Laplace: The Prime Minister’s Official Residence
-<details>
+<details markdown ="1">
   
   <summary>summary</summary> 
   
@@ -138,7 +138,7 @@ It is based on the "[Stanford Torus](https://www.google.com/search?q=Stanford+To
 </details>
 
 ##### The Salamis-class Space Security Boat
-<details>
+<details markdown ="1">
   
   <summary>summary</summary> 
   
@@ -166,7 +166,9 @@ It is based on the "[Stanford Torus](https://www.google.com/search?q=Stanford+To
   - Mobile Suit Gundam: Requiem for Vengeance
 
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
 
 In the past, the Earth Federation did not possess a full-scale space fleet, relying instead on vessels such as patrol craft primarily intended for maintaining public order. However, following Zeon Zum Deikun’s declaration of the founding of the Republic of Zeon at Side 3 in Universal Century 0058, both sides began the design and construction of genuine warships.
 
@@ -180,7 +182,8 @@ In the wake of this, Gihren Zabi, the leader of Zeon, sought to conclude a cease
 Subsequently, seeking the resources necessary for a protracted conflict, the Zeon forces descended to Earth, bringing vast regions—including parts of North America, Eurasia, and Africa—under their control. However, as the conflict reached a stalemate, the emergence of the Earth Federation’s "White Base" unit and the deployment of the mass-produced "GM" mobile suit turned the tide; unable to hold their front lines, the Zeon forces were gradually pushed back.
 
 The theater of war shifted once again to space. Following intense battles for the space fortresses of Solomon and A Baoa Qu, the Zabi family was completely wiped out. Thus, the One Year War came to an end.
-
+</details>
+  
 #### Earth Federation Forces（E.F.F.）
 #### Principality of Zeon
 Early Warships (Pre-Mobile Suit Development, U.C. 0069–0070)
@@ -243,7 +246,10 @@ Operation Stardust
 - 【Movie】
   - Mobile Suit Gundam 0083: The Last Blitz of Zeon
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
 Following the One Year War, Aiguille Delaz rallied the remnants of Zeon to form the "Delaz Fleet." Among them was the former Zeon Space Marine Corps—led by Cima Garahau—whose members harbored a deep desire for revenge due to the harsh treatment they had endured under Zeon. Cima herself had established secret ties with hardline Earth Federation figures Jamitov Hyman and Bask Om (who would later go on to form the Titans). Delaz orchestrated the theft of the Gundam Prototype Unit 2 (GP02A)—equipped with a prohibited nuclear warhead—from the Federation’s Torrington Base, and subsequently launched a nuclear strike against a Federation naval review.
 Following this, he initiated "Operation Stardust," a plan to drop a space colony onto the Federation headquarters at Jaburo. Although Delaz was killed by Cima during the operation, his loyal subordinate, Anavel Gato, succeeded in crashing the colony into the breadbasket region of the North American continent—thereby triggering a global food crisis—before charging into the Federation fleet and perishing. Cima’s fleet, having outlived its usefulness, was also annihilated, partly due to attacks from the Gundam GP03 Dendrobium. With these events, the Delaz Conflict came to an end; while the resulting food crisis underscored the critical importance of the space colonies, it failed to lead to any improvement in the status of their inhabitants. Meanwhile, Jamitov and his associates succeeded in stoking fears of a military crisis, which paved the way for the establishment of the Titans, just as they had intended.
 
@@ -258,7 +264,8 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 
 This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 as depicted in *Mobile Suit Zeta Gundam*.
-
+</details>
+  
 #### Delaz Fleet
 
 #### E.F.F.
@@ -288,12 +295,16 @@ This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 
   - Advance of Zeta: The Traitor to Destiny - Blue Wings of the AEUG
 
 </details>
-
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  
 The Gryps Conflict began when the new Gundam Mk-II mobile suit was seized at "Green Noah 1"—a facility in Side 7 where the original Gundam had undergone final assembly during the One Year War (and which the Titans referred to by the codename "Gryps 1"). Kamille Bidan, the son of the unit's designers, stole the Mk-II (Unit 3) and joined the Anti-Earth Union Group (AEUG); the other two units were also captured by the AEUG.
 
 After delivering Units 1 and 2 to their sponsor, Anaheim Electronics, in the lunar city of Amman, the AEUG rendezvoused with the reinforcements ship *Radish* in space. A fleet centered on the flagship *Argama* then descended to Earth to attack the Earth Federation headquarters at Jaburo, though they barely managed to escape a nuclear self-destruct trap set by the Titans.
 
 Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere with designs on seizing control of the Earth sphere—intervened, with Haman Karn positioning Mineva, the last surviving heir of the Zabi family, as a figurehead. A three-way struggle ensued between the AEUG (now fielding the new Zeta Gundam), the Titans, and Axis, centered around the "Gryps 2" colony laser. Finding themselves at a disadvantage, the AEUG fired the colony laser at the Titans' fleet. The resulting strike destroyed the Titans, wiping out both their leadership and their fleet. However, the AEUG also suffered heavy losses, including the *Radish* and many of their ace pilots. The conflict ultimately concluded with Axis—which had effectively preserved its military strength—emerging as the new dominant power.
+</details>
   
 #### Anti-Earth Union Group（A.E.U.G.）
 ##### Argama-class Assault Cruiser (Flagship: Argama)
@@ -323,7 +334,11 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
   - Mobile Suit Gundam: Char's Counterattack - Beyond the Time
   - Mobile Suit Gundam Pulitzer: Amuro Ray Beyond the Aurora
 </details>
-
+</details>
+<details markdown="1">
+  
+  <summary>Overview of historical events</summary>
+  </details>
 #### Neo Zeon
 #### Anti-Earth Union Group (A.E.U.G )
 #### Earth Federation / E.F.F.
