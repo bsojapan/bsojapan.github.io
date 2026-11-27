@@ -115,7 +115,7 @@ We hope this overview proves helpful to you.
 </details>
 <details>
   
-  <samarry>Overview of historical events</samarry>
+  <summary>Overview of historical events</summary>
   
 The true masterminds behind the incident were high-ranking officials within the Earth Federation government, including the first Prime Minister, Ricardo Marcenas. They sought to erase a specific clause inscribed in the Universal Century Charter—the very essence of "Laplace’s Box"—which stipulated that, should a new breed of humanity adapted to life in space ("Newtypes") emerge in the future, they would be granted priority in participating in the administration of the government. Fearing that space colonists ("Spacenoids") might seize political rights or control, the officials orchestrated the destruction of the Prime Minister’s official residence, "Laplace"—which housed the original stone monument bearing the Charter—and subsequently presented a "falsified version" of the Charter, with the clause removed, as the official document. 
 
