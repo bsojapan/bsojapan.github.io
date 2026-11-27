@@ -108,7 +108,7 @@ Melts through thick doors using a laser beam. It was used to rescue staff member
 Capable of vertical takeoff/landing and hovering by directing the thrust of its four jet engines downward. Featured in Episode 8.
 [another view 1] [another view 2] [another view 3]
 
-## Thunderbird (Moie, 2015)
+## Thunderbird (Movie, 2015)
 ### Vehicles
 #### Thunderbird 1
 #### Thunderbird 2
