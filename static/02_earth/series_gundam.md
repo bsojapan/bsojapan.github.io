@@ -565,8 +565,10 @@ Cardeas Vist, the head of the Vist Foundation—a shadowy organization that had 
 
 The "Laplace Conflict" began when the Earth Federation Forces launched a full-scale assault on "Industrial 7," the site of the Vist Foundation’s headquarters and the planned location for the handover. Lieutenant Colonel Dagza Mackle of the special forces unit "ECOAS"—tasked with top-secret mission preventing the transfer of the Box—and Otto Mitas, captain of the Londo Bell ship *Nahel Argama* (which was overseeing the transport), ended up causing the destruction of the colony. Mortally wounded in the attack, Cardeas Vist entrusted his son, Banagher Links, with the RX-0 Unicorn Gundam—a mobile suit equipped with a "psycho-frame" and the "Laplace Program." As a result, a three-way conflict unfolds: the Earth Federation—determined to maintain the status quo—is pitted against the "Sleeves," who seek to supplant the Vist Foundation, while the *Nahel Argama*—having joined forces with Banagher—also enters the fray.
 
-Ultimately, Banagher reaches the original stone monument containing the Universal Century Charter and reveals its full, authentic text to the entire world. The Federation Forces, attempting to destroy the monument, fire the "Gryps 2" colony laser; however, the blast is once again thwarted by the "rainbow light" of a psycho-field phenomenon.
+Ultimately, Banagher reaches the original stone monument containing the Universal Century Charter and Minerva reveals its full,  authentic text to the entire world. The Federation Forces, attempting to destroy the monument, fire the "Gryps 2" colony laser; however, the blast is once again thwarted by the "rainbow light" of a psycho-field phenomenon with Banagher Links(Unicorn Gundam) and Riddhe Marcenas(Banshee (Banshee Norn).)
 </details>
+
+ 
 
 #### Londo Bell
 #### The Sleeves / Neo Zeon Remnants
