@@ -337,15 +337,74 @@ Following the Delaz Conflict, the Titans—having expanded their authority—car
 
 This sequence of events directly set the stage for the "Gryps Conflict" in U.C. 0087 as depicted in *Mobile Suit Zeta Gundam*.
 </details>
-  
-#### Delaz Fleet
-##### Delaz
+
+#### Earth Federation Forces / E.F.F.
+New type ship/similar type ship
+##### Pegasus-class Assault Carrier Albion
 <details markdown ="1">
   
   <summary>summary</summary> 
 
 </details>
-#### E.F.F.
+##### Birmingham-class Space Battleship Birmingham
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Magellan Kai-class (refit) Space Battleship Phoebe etc.
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Salamis Kai-class Space Cruiser (Nashville, Delphi)
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Columbus Kai-class Space Transport Supply Ship)
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+
+#### Delaz Fleet
+##### Gwazine-class Heavy Battleship Gwaden
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Musai-class (Late Production Type) Light Cruiser. Peer Gynt, Euclid
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Chibe-class Heavy Cruiser. Valient
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Papua-class Supply Ship.
+
+#### Delaz Fleet - Cima Fleet
+##### Zanzibar II-class Mobile Cruiser Lili Marleen
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
+##### Musai-class Light Cruiser
+<details markdown ="1">
+  
+  <summary>summary</summary> 
+
+</details>
 
 
 ### The Gryps Conflict
