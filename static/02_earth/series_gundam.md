@@ -383,7 +383,7 @@ After delivering Units 1 and 2 to their sponsor, Anaheim Electronics, in the lun
 Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere with designs on seizing control of the Earth sphere—intervened, with Haman Karn positioning Mineva, the last surviving heir of the Zabi family, as a figurehead. A three-way struggle ensued between the AEUG (now fielding the new Zeta Gundam), the Titans, and Axis, centered around the "Gryps 2" colony laser. Finding themselves at a disadvantage, the AEUG fired the colony laser at the Titans' fleet. The resulting strike destroyed the Titans, wiping out both their leadership and their fleet. However, the AEUG also suffered heavy losses, including the *Radish* and many of their ace pilots. The conflict ultimately concluded with Axis—which had effectively preserved its military strength—emerging as the new dominant power.
 </details>
   
-#### Anti-Earth Union Group（A.E.U.G.）
+#### Anti-Earth Union Group (A.E.U.G.)
 ##### Argama-class Assault Cruiser (Flagship: Argama)
 ##### Irish class 
 ##### Salamis-class (Refit)
@@ -424,8 +424,8 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 
 </details>
 
-#### Anti-Earth Union Group (A.E.U.G )
-#### Earth Federation / E.F.F.
+#### Anti-Earth Union Group (A.E.U.G.)
+#### Earth Federation Forces/ E.F.F.
 ##### ship
 <details markdown ="1">
   
@@ -464,7 +464,7 @@ Meanwhile, the asteroid base "Axis"—which had returned from the Jupiter sphere
 
 #### Neo Zeon / Char's Neo Zeon / The Reborn Neo Zeon by Char Aznable.
 #### Londo Bell
-#### Earth Federation / E.F.F
+#### Earth Federation Forces / E.F.F.
 
 ### The Laplace Conflict
 (U.C.0096.04.07-0096.05.04)
@@ -514,7 +514,7 @@ Ultimately, Banagher reaches the original stone monument containing the Universa
 #### Londo Bell
 #### The Sleeves / Neo Zeon Remnants
 #### Anaheim Electronics
-#### Earth Federation / E.F.F
+#### Earth Federation Forces / E.F.F.
 
 
 ### The Mafty Uprising
