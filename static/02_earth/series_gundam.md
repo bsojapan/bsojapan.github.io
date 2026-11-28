@@ -190,21 +190,23 @@ The theater of war shifted once again to space. Following intense battles for th
   
   <summary>summary</summary> 
   
-Following the disastrous defeat at the Battle of Loum, the Earth Federation Forces constructed this class of vessel—the only one designed specifically for full-scale mobile suit (MS) operations. Powered by thermonuclear engines, the ships are capable of atmospheric flight via a "Minovsky Craft" system. Due to their appearance, the Zeon forces dubbed them "Trojan Horses" (or simply "Wooden Horses"). The design features an MS operation deck extending along the entire length of the ship, a command bridge rising from the center, massive wing-like structures, and thermonuclear engine modules mounted on both sides of the stern. Armament includes two retractable twin mega-particle cannons (one on each side) and a retractable 580mm twin-barreled main gun (firing conventional kinetic projectiles) located forward of the bridge. Additionally, the ships are equipped with eight triple-barrel missile launchers and approximately twenty twin-barreled anti-aircraft autocannons.
-While nearly ten ships of this class appear to have been built, some hull numbers are unaccounted for, and specific details remain unclear. Furthermore, there are significant variations in specifications and external appearance among the individual vessels; those built later are often classified as a "sub-class" or "variant class."
+This was the only class of full-scale mobile suit (MS) carrier developed by the Earth Federation Forces following their disastrous defeat at the Battle of Loum. Powered by thermonuclear rocket engines, these vessels are capable of atmospheric flight via a **Minovsky Craft System**. Due to their appearance, Zeon forces dubbed them **"Trojan Horse."** The design features MS hangars and catapult decks extending forward from both sides of the hull, a central citadel rising from the middle, massive wing-like structures, and thermonuclear engine modules mounted on both sides of the stern. Armament includes two retractable twin mega-particle cannons on the flanks, a retractable twin 580mm main gun (firing physical projectiles) forward of the bridge, eight 3-tube missile launchers, and approximately twenty twin-barrel anti-aircraft machine guns.
 
-• Initial Type (Early-production vessels)
-• Ship 01: Pegasus
-• Ship 02: White Base
-• Ship 03: White Base II
-• Ship 05: Blanc Rival
-• Sub-class/Variant Type (Later-production, improved models)
-• Thoroughbred
-• Troy Horse
-• Gray Phantom
-• Stallion
+While nearly ten ships of this class appear to have been constructed, some hull numbers are unaccounted for, and specific details remain unclear. Furthermore, there are significant variations in specifications and external appearance among the individual vessels; those built later are often categorized as a sub-class.
 
-The second ship of the class entered service first. While on a top-secret mission to Side 7 to retrieve prototype mobile suits, it was tracked and assaulted by Char Aznable’s Zeon unit, resulting in the deaths of nearly the entire original crew. Civilian volunteers stepped in to operate the ship and engage in combat; despite facing mistreatment—partly due to the prevailing prejudice against "spacenoids"—the crew managed to reach the Federation’s headquarters at Jaburo. The core personnel were subsequently conscripted into military service. During the final battle at A Baoa Qu, the ship lost its engines and was ultimately grounded and abandoned.
+- **Initial Type (Early-production vessels)**
+  - **1st Ship:** *Pegasus*
+  - **2nd Ship:** *White Base*
+  - **3rd Ship:** *White Base II* *(Note: Often considered a post-war or semi-official designation)*
+  - **5th Ship:** *Blanc Rival*
+- **Sub-class (Later-production / improved models)**
+  - *Thoroughbred*
+  - *Troy Horse*
+  - *Gray Phantom*
+  - *Stallion*
+
+The second ship, *White Base*, entered service first. While on a top-secret mission to Side 7 to retrieve prototype mobile suits, it was tracked and assaulted by a Zeon unit led by Char Aznable, resulting in the deaths or severe injuries of nearly all original crew members (including Captain Paolo Cassius). The ship was subsequently operated and defended by young civilian refugees. Despite facing cold treatment—partly due to the prevailing prejudice against Spacenoids—the crew managed to reach the Federation’s headquarters at Jaburo. The core members were later formally inducted into the military; during the final battle at A Baoa Qu, the ship lost its engines and crash-landed inside the fortress, where it was ultimately destroyed.
+
 
 </details>
 ##### sa
