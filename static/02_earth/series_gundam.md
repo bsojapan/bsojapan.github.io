@@ -369,7 +369,7 @@ New type ship/similar type ship
 
 </details>
 
-#### Delaz Fleet
+#### Delaz Fleet - Main body
 ##### Gwazine-class Heavy Battleship Gwaden
 <details markdown ="1">
   
