@@ -32,7 +32,7 @@ image_back: "https://64.media.tumblr.com/e1e1899606ab0c54675cf39c70ada64f/3b073c
 ## Overview
 
 <a href="https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj">
-<img src="https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj" width="400"></a>
+<img src="https://64.media.tumblr.com/aa28ea626026d769fbbc8b962d03a2c0/3b073cfcedebde0c-26/s2048x3072/d680870d0b8de24057eeb91b1a277bc3d804d5c4.pnj" width="80"></a>
 
 
 
